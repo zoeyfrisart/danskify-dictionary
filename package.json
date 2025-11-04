@@ -10,7 +10,8 @@
   ],
   "scripts": {
     "build": "tsc",
-    "prepublishOnly": "yarn build"
+    "prepublishOnly": "yarn build",
+    "generate": "ts-node parser.ts"
   },
   "keywords": [
     "danish",

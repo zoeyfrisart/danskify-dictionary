@@ -7,4 +7,5 @@ export interface IDictionaryEntry {
   form?: "noun" | "verb" | "adjective" | "phrase" | "pronoun" | undefined;
   extraUsageContext?: string;
   wordCount?: number | undefined;
+  notes?: string[] | undefined;
 }
