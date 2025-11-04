@@ -5,6 +5,7 @@ import type { IDictionaryEntry } from "./src/types";
 
 const TXT_FILE = "./en-da-enwiktionary.txt";
 const OUTPUT_FILE = "./src/data.json";
+const SHUFFLED_OUTPUT_FILE = "./src/data-shuffled.json"
 const SHUFFLE_SEED = "danskify-v1";
 
 function parseExtraUsageContext(context: string | undefined):
@@ -174,12 +175,13 @@ async function parseAll(): Promise<void> {
 
   console.log(`\n📘 Total entries parsed: ${allEntries.length}`);
 
+  await fs.writeFile(OUTPUT_FILE, JSON.stringify(allEntries, null, 2))
+  console.log(`💾 Saved output → ${OUTPUT_FILE}`);
+
   console.log("Deterministically shuffling entries...");
   const shuffled = seededShuffle(allEntries, SHUFFLE_SEED);
-
-  await fs.writeFile(OUTPUT_FILE, JSON.stringify(shuffled, null, 2), "utf-8");
-
-  console.log(`💾 Saved output → ${OUTPUT_FILE}`);
+  await fs.writeFile(SHUFFLED_OUTPUT_FILE, JSON.stringify(shuffled, null, 2), "utf-8");
+  console.log(`💾 Saved output → ${SHUFFLED_OUTPUT_FILE}`);
 }
 
 // Run

@@ -14,11 +14,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.dictionary = void 0;
+exports.shuffledDictionary = exports.dictionary = void 0;
 // # English :: Danish dictionary extracted from http://en.wiktionary.org/
 // # License :: Creative Commons Attribution-ShareAlike 3.0 Unported License; GNU Free Documentation License
 // # Version :: 20200401
 // # Size :: 32332 English glosses; 34346 Danish translations
 // # URL :: http://en.wiktionary.org/wiki/User:Matthias_Buchmeier
 const data_json_1 = __importDefault(require("./data.json"));
+const data_shuffled_json_1 = __importDefault(require("./data-shuffled.json"));
 exports.dictionary = data_json_1.default;
+exports.shuffledDictionary = data_shuffled_json_1.default;

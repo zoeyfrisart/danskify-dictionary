@@ -11,4 +11,5 @@
  */
 import type { IDictionaryEntry } from './types';
 export declare const dictionary: IDictionaryEntry[];
+export declare const shuffledDictionary: IDictionaryEntry[];
 export type { IDictionaryEntry };
