@@ -9,7 +9,7 @@ It converts and repackages the Wiktionary dataset originally compiled by
 
 ## Data processing and enhancements
 
-This dataset is **not a raw copy** of the original Wiktionary export.The source English–Danish dictionary compiled by [Matthias Buchmeier](https://en.wiktionary.org/wiki/User:Matthias_Buchmeier) and other Wiktionary contributors was used as a starting point and then **significantly refined** by the Danskify project.
+This dataset is **not a raw copy** of the original Wiktionary export. The source English–Danish dictionary compiled by [Matthias Buchmeier](https://en.wiktionary.org/wiki/User:Matthias_Buchmeier) and other Wiktionary contributors was used as a starting point and then **significantly refined** by the Danskify project.
 
 Processing steps include:
 
