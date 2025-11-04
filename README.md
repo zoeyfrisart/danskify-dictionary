@@ -9,7 +9,7 @@ It converts and repackages the Wiktionary dataset originally compiled by
 
 ## Data processing and enhancements
 
-This dataset is **not a raw copy** of the original Wiktionary export.The source English–Danish dictionary compiled by [Matthias Buchmeier](https://en.wiktionary.org/wiki/User:Matthias_Buchmeier) and other Wiktionary contributors was used as a starting point and then **significantly refined** by the Danskify project.
+This dataset is **not a raw copy** of the original Wiktionary export. The source English–Danish dictionary compiled by [Matthias Buchmeier](https://en.wiktionary.org/wiki/User:Matthias_Buchmeier) and other Wiktionary contributors was used as a starting point and then **significantly refined** by the Danskify project.
 
 Processing steps include:
 
@@ -32,8 +32,7 @@ Licensed under the [Creative Commons Attribution–ShareAlike 3.0 Unported Licen
 © 2002–2020 Wiktionary contributors  
 © 2025 Danskify contributors (data cleaning, filtering, and JSON conversion)
 
-This dataset was **heavily curated and transformed** from the original Wiktionary export.
-Processing steps included data normalization, removal of malformed and duplicate entries, semantic similarity filtering (using `Xenova/distiluse-base-multilingual-cased-v2`), and exclusion of certain word classes such as _article_, _interjection_, _abbreviation_, and _prefix_. These modifications aim to improve translation quality and consistency while preserving the open-data spirit of the original work.
+This dataset was **heavily curated and transformed** from the original Wiktionary export. See the **Data processing and enhancements** section above for details on data processing and curation. These modifications aim to improve translation quality and consistency while preserving the open-data spirit of the original work.
 
 This derivative dataset is distributed under the same CC BY-SA 3.0 license.
 

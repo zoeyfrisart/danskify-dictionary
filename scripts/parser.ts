@@ -180,7 +180,7 @@ function parseExtraUsageContext(
   if (['art', 'article'].includes(c)) {
     return 'article'
   }
-  if (['contraction'].includes('contraction')) {
+  if (['contraction'].includes(c)) {
     return 'contraction'
   }
 
