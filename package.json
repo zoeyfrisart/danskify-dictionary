@@ -1,0 +1,25 @@
+{
+  "name": "danskify-dictionary",
+  "version": "1.0.0",
+  "description": "A Danish dictionary data package with 20k entries",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "yarn build"
+  },
+  "keywords": [
+    "danish",
+    "dictionary",
+    "danskify"
+  ],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "yarn@4.10.3",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
