@@ -1,0 +1,37 @@
+These dictionaries are published under the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License (the same dual license under which the original files were made available).
+
+This package includes data derived from the English–Danish Wiktionary dataset 
+compiled by Wiktionary user Matthias Buchmeier and contributors.
+
+Original source:
+https://en.wiktionary.org/wiki/User:Matthias_Buchmeier
+Version: 20200401
+Size: 32,332 English glosses; 34,346 Danish translations
+Extracted from: http://en.wiktionary.org/
+
+Licensed under the Creative Commons Attribution–ShareAlike 3.0 Unported License (CC BY-SA 3.0)
+https://creativecommons.org/licenses/by-sa/3.0/
+
+© 2002–2020 The Wiktionary community and individual contributors.
+Significant contributors include Matthias Buchmeier and the English Wiktionary editors
+listed in the original dataset’s info file.
+
+Modifications and JSON conversions © 2025 Danskify contributors.
+This derivative packaging is licensed under the same terms (CC BY-SA 3.0).
+
+No affiliation with or endorsement by Wiktionary, the Wikimedia Foundation,
+or the original authors is implied.
+
+Attribution requirements:
+When redistributing or displaying data from this package, please include the following:
+“Data derived from English–Danish Wiktionary (User:Matthias Buchmeier), 
+licensed under CC BY-SA 3.0.”
+
+License selection notice:
+The original Wiktionary dataset was made available under a dual license:
+either the Creative Commons Attribution–ShareAlike 3.0 Unported License (CC BY-SA 3.0)
+or, alternatively, the GNU Free Documentation License (GFDL).
+
+This derivative work elects to use the CC BY-SA 3.0 Unported License only,
+as permitted by the original “or alternatively” clause.
+

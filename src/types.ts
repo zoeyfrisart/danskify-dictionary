@@ -1,19 +1,10 @@
 /**
  * Interface representing a dictionary entry
  */
-export interface IDictionaryData {
-  /**
-   * The Danish word
-   */
-  word: string;
-  
-  /**
-   * English translation
-   */
-  translation: string;
-  
-  /**
-   * Part of speech (noun, verb, adjective, etc.)
-   */
-  partOfSpeech?: string;
+export interface IDictionaryEntry {
+  engelsk: string;
+  dansk: string;
+  form?: "noun" | "verb" | "adjective" | "phrase" | "pronoun" | undefined;
+  extraUsageContext?: string;
+  wordCount?: number | undefined;
 }

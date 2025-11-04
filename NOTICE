@@ -1,0 +1,2332 @@
+English–Danish bilingual dictionary
+
+Data derived from:
+English–Danish Wiktionary dataset compiled by User:Matthias_Buchmeier and contributors
+https://en.wiktionary.org/wiki/User:Matthias_Buchmeier
+Version: 20200401
+
+License: Creative Commons Attribution–ShareAlike 3.0 Unported (CC BY-SA 3.0)
+https://creativecommons.org/licenses/by-sa/3.0/
+
+© 2002–2020 The Wiktionary community and individual contributors
+© 2025 Danskify contributors (data conversion and JSON formatting)
+
+This derivative work is distributed under the same license (CC BY-SA 3.0).
+
+Attribution: 
+“Data derived from English–Danish Wiktionary (User:Matthias Buchmeier), 
+licensed under CC BY-SA 3.0.”
+
+No affiliation or endorsement by Wiktionary, Wikimedia Foundation, or original authors is implied.
+
+License selection:
+This project elects to use the Creative Commons Attribution–ShareAlike 3.0 Unported (CC BY-SA 3.0)
+as permitted by the original “or alternatively” clause in the Wiktionary dataset license.
+
+
+--- Original dictionary notice ---
+These dictionaries have been extracted from the database 
+of the English Wiktionary:  http://en.wiktionary.org
+For details and updates see:
+http://http://en.wiktionary.org/wiki/User:Matthias_Buchmeier
+
+The dictionaries can be used under the terms of the 
+"CC-BY-SA License": http://creativecommons.org/licenses/by-sa/3.0/
+or alternatively the 
+"GNU Free Documentation License"
+
+The Following authors have made significant contributions
+to the English Wiktionary:
+
+MewBot
+WingerBot
+Rukhabot
+TheDaveBot
+MglovesfunBot
+NadandoBot
+SemperBlottoBot
+Interwicket
+KassadBot
+Equinox
+OrphicBot
+Luckas-bot
+AutoFormat
+SemperBlotto
+McBot
+RobotGMwikt
+Embryomystic
+LA2-bot
+Kennybot
+Wyangbot
+DCDuring
+Rua
+Conrad.Bot
+BuchmeierBot
+Atitarev
+DerbethBot
+Daneel Olivaw
+Tbot
+Tooironic
+Lo Ximiendo
+Jyril
+Mglovesfun
+Donnanz
+Mahagaja
+Stephen G. Brown
+Hergilei
+Daniel Carrero
+Saltmarsh
+-sche
+TheDaveRoss
+Hekaheka
+Pereru
+RobokoBot
+YS-Bot
+Ultimateria
+Panda10
+Suzukaze-c
+Vahagn Petrosyan
+Dan Polansky
+UllmannBot
+Word dewd544
+Chuck Entz
+Alasdair~enwiktionary
+BD2412
+Ungoliant MMDCCLXIV
+Wyang
+Flubot
+Surjection
+EncycloPetey
+MalafayaBot
+OctraBot
+Ivan Štambuk
+Hippietrail
+Metaknowledge
+Justinrleung
+Dawnraybot
+Connel MacKenzie
+UT-interwiki-Bot
+Mar vin kaiser
+VolkovBot
+Haplology
+AugPi
+Qehath
+DTLHS
+JAnDbot
+SurjectionBot
+Benwing2
+Leasnam
+MediaWiki message delivery
+Erutuon
+Rajasekhar1961
+Lingo Bingo Dingo
+JohnC5
+Buttermilch
+Wanjuscha
+Bequw
+Ruakh
+Sgconlaw
+OpiBot
+Matthias Buchmeier
+WarddrBOT
+Jberkel
+Keenebot2
+Widsith
+Julia
+Msh210
+Fumiko Take
+A-cai
+Whymbot
+QuasiBot
+Razorflame
+Connel MacKenzieBot
+Adam78
+Wikitiki89
+Bumm13
+Victar
+Mutante
+AryamanA
+Barmar
+TheCheatBot
+Octahedron80
+Kiwima
+Williamsayers79
+PUC
+Mulder1982
+Paul G
+Hazarasp
+Dijan
+Nadando
+Krun
+Mnemosientje
+LA2
+IvanScrooge98
+GianWiki
+Sae1962
+Yair rand
+Rodasmith
+Jamesjiao
+Dixtosa
+Carl Francis
+BiT
+Visviva
+Makaokalani
+Type56op9
+BigDom
+Mjbmrbot
+ArathVerbFormBot
+Amir Hamzah 2008
+Romanophile
+Martin123xyz
+Gilgamesh~enwiktionary
+Robbie SWE
+Geographyinitiative
+Kc kennylau
+Frous
+MaEr
+Robin Lionheart
+Eirikr
+FitBot
+Atelaes
+Leolaursen
+Samubert96
+Fay Freak
+DrJos
+Vildricianus
+Robert Ullmann
+The Ice Mage
+Goldenrowley
+Simplificationalizer
+I&#039;m so meta even this acronym
+Kephir
+Rudi Laschenkohl
+Maro
+LlywelynII
+Liliana-60
+Zeitlupe
+Renard Migrant
+Benwing
+KoreanQuoter
+Pofficerbot
+DAVilla
+DerekWinters
+Word dewd543
+NanshuBot
+AdamBMorgan
+AtalinaDove
+Vorziblix
+Darkicebot
+Angelucci
+Mike
+RcAlex36
+Nibiko
+DPMaid
+Dine2016
+Sarri.greek
+Conrad.Irwin
+Hans-Friedrich Tamke
+Drago
+ZxxZxxZ
+Nbarth
+Mx. Granger
+Borovi4ok
+Doremítzwr
+Thrissel
+RJFJR
+ChuispastonBot
+Froaringus
+-sche-bot
+Adamsa123
+Gamren
+Mzajac
+Back on the list
+Cloudcuckoolander
+Commander Keane
+Vivaelcelta
+Keene
+Vedac13
+PseudoSkull
+Rising Sun
+JackBot
+Einstein2
+Dvortygirl
+TagaSanPedroAko
+Thryduulf
+Mofvanes
+GanimalBot
+Caladon
+Gauss
+Barytonesis
+Dokurrat
+Heyzeuss
+Eipnvn
+Kaixinguo~enwiktionary
+Yurivict
+Rossyxan
+350bot
+Eclecticology
+Internoob
+Kolmiel
+Baron de Saint-Rémy
+ScsRhymeBot
+Djkcel
+Koszmonaut
+Burgundaz
+PhanAnh123
+Sinek
+Bogorm
+Allahverdi Verdizade
+Kwékwlos
+334a
+Latisc
+Beobach972
+Tweenk
+Alumnum
+Carl Daniels
+Neskaya
+Neitrāls vārds
+Silent Sam
+Koavf
+Msasag
+AmazingJus
+Stardsen
+Tyranitar Man
+Jackofclubs
+KevinUp
+Pingku
+Arath
+Jaaari
+Lvovmauro
+ReidAA
+Shumkichi
+WikiPedant
+Llusiduonbach
+Jan.Kamenicek
+Liuscomaes
+Duncan MacCall
+TAKASUGI Shinji
+Crom daba
+Polyglot
+Friendly2Face
+Bjankuloski06en~enwiktionary
+Circeus
+Cinemantique
+Knyȝt
+Carolina wren
+Canonicalization
+Fenakhay
+Iudexvivorum
+Aearthrise
+BAICAN XXX
+Njardarlogar
+16@r
+Andrew Sheedy
+Curious
+Julien Daux
+Jonathan Webley
+Vtgnoq7238rmqco
+Arne List
+Algrif
+GinGlaep
+Redboywild
+Kwamikagami
+Shāntián Tàiláng
+Kappa~enwiktionary
+Codeofdusk
+Aabull2016
+Mxn
+Enoshd
+Useigor
+WurdSnatcher
+Dominic
+CopperKettle
+JorisvS
+Rajkiandris
+ArbDardh
+Tohru
+Reordcraeft
+Jonteemil
+Luciferwildcat
+Quesotiotyo
+Barend
+Ptcamn~enwiktionary
+Gliorszio
+Csörföly D
+Anglish4699
+Dbfirs
+Tropylium
+ToilBot
+Şêr
+GuitarDudeness
+Morkai5
+Ready Steady Yeti
+Etimo
+OG
+Lambiam
+Flyax
+Rod-MigrateCatsBot
+Longtrend
+Tedius Zanarukando
+Cnilep
+Bequwbot
+Wonderfool
+Greenismean2016
+Algentem
+Ncik
+Jbvlajbvkjfbv
+Ddpy
+Lbdñk
+Kutchkutch
+YukaSylvie
+Doug Hockin
+TweenkBot
+TheSilverWolf98
+Irman
+So9q
+Esszet
+Morgengave
+Volants
+Qorilla
+Mike Dillon
+Cynewulf
+Dmol
+Pumpie
+Verbo
+Actarus176
+Strabismus
+Speednat
+Poketalker
+Habst
+Vealhurl
+A230rjfowe
+XY3999
+Xbypass
+KYPark
+EivindJ
+פֿינצטערניש
+Coreydragon
+Ofkosinn
+Zo3rWer
+Mzajacbot
+J3133
+DPUH
+Uncle G
+Ilawa-Kataka
+123abc
+Korn
+KarikaSlayer
+Gilgamesh~enwiki
+Meco
+Sumiaz
+Jerome Charles Potts
+Tempodivalse
+Torvalu4
+ShakespeareFan00
+Mellohi!
+Fletcherjp
+Hamaryns
+Xhienne
+Purplebackpack89
+Jon Harald Søby
+馬太阿房
+Hintha
+Pious Eterino
+Rasmusklump
+Tom 144
+SanctMinimalicen
+Samarra11
+Rockpilot
+Sonofcawdrey
+Bhagadatta
+Mysid
+Sarefo
+Andrew massyn
+Mihia
+John Cross
+Nemzag
+DerRudymeister
+Sewnmouthsecret
+Miwako Sato
+Facts707
+InternetArchiveBot
+Hongthay
+North Atlanticist Usonian
+Alifshinobi
+Dmh
+JainismWikipedian
+Derrib9
+Lmaltier
+Numberguy6
+Backinstadiums
+Flying Saucer
+Engirst
+Harmonicaplayer
+Isomorphyc
+ÀrdRuadh21
+エリック・キィ
+Tsukuyone
+SimonP45
+Stbadger
+Smurrayinchester
+Gente como tú
+Medellia
+RichardW57
+Dangherous
+Vriullop
+Holodwig21
+Richardb
+Biblbroks
+Palaestrator verborum
+Diligent
+DblRedirBot
+Tanisds
+WikiWinters
+Muke
+Ankitdimania
+Mallerd
+Espoo
+One half 3544
+Sorjam
+Turnedlessef
+Pharamp
+JackPotte
+沈澄心
+SPQRobin
+Ishwar
+24
+LibCae
+WernescU
+Dimithrandir
+Hundwine
+AcpoKrane
+HeliosX
+Strombones
+Yesyesandmaybe
+DelvecchioSimone12 5 96
+Huhu9001
+Pengo
+Davilla
+LICA98
+BrentDT
+Amgine
+Zcreator
+ObsequiousNewt
+Britannic124
+Lucyin
+11achitturi
+Cacaotica
+Jagwar
+TeleComNasSprVen
+Malurian123
+Kamilz
+Ekirahardian
+Birdofadozentides
+Gbeebani
+Čumbavamba
+2WR1
+Bcent1234
+Versageek
+HansRompel
+Vladisdead
+Language Lover
+Droigheann
+Prosfilaes
+Aulis Eskola
+Abraham
+Cien pies 6
+ElisaVan
+Florian Blaschke
+Sobreira
+Teodor605
+Psoup
+Spl908455
+Svenji
+Apisite
+Emperorbma
+Karelklic
+Monsegu 2
+Dbachmann
+Pablussky
+Dezzie
+Adjutor101
+Echtio
+Dreysman
+LissanX
+MetaBot
+AK and PK
+Shen233
+Andyluciano
+Ndołkah
+StubCreationBot
+Adelpine
+YURi
+Shiro1998
+Emascandam
+Bezimenen
+--Stranger
+Gotitbro
+Ketiga123
+Fringilla
+Jakeybean
+Eric Utgerd
+Hyarmendacil
+MDCorebear
+Theudariks
+Andresalvarez
+Tharthan
+Robin van der Vliet
+Poccil
+Nick1nildram
+Zcreator alt
+Paris91
+Dvortybot~enwiktionary
+Stevey7788
+Linguoboy
+Calak
+P5Nd2
+Rsvk
+Desaccointier
+Leornendeealdenglisc
+Scs
+Otra cuenta105
+CyberSkull
+TNMPChannel
+Newnoise
+Aquarianus
+Wytukaze
+AndyPandy
+Laurent Bouvier
+RexPrincipum
+VulpesVulpes42
+CommonsDelinker
+I learned some phrases
+Milliehandshrimp
+Diuturno
+ARBN19
+Arax
+Corsicanwarrah
+Diego Grez-Cañete
+V-ball
+AxelSjögren
+ILVI
+Renebeto
+Anylai
+Wikt Twitterer
+Genecioso
+Wrzodek
+Cirt
+Hyark
+Logomaniac
+Hikui87
+Bendono
+B2V22BHARAT
+Gmcfoley
+Jawitkien
+Catsidhe
+Mirek2
+Malafaya
+ReloadtheMatrix
+NjardarBot
+Jeffqyzt
+Schneelocke
+عربي-٣١
+Guldrelokk
+Recónditos
+Flet
+Mike Halterman
+Ewweisser
+Imetsia
+Don Alessandro
+JillianE
+Urhixidur
+Zigzig20s
+Bitterschoko
+Stubborn Pen
+Vanished user Xorisdtbdfgonugyfs
+GabeMoore
+Andreyyshore
+Illegitimate Barrister
+Ariamihr
+Jonashtand
+Balloonguy
+Venere
+Steapenhyll
+Lexicografía
+Eli355
+Quadcont
+NicoScribe
+Jcwf
+Giorgi Eufshi
+Mayon V
+WritersCramp
+Ian Burnet
+Eyesnore
+Diupwijk
+Dubaduba~enwiktionary
+Chapultepec
+Nielsheur
+ArielGlenn
+Born2bgratis
+Natox
+Saimdusan
+Spinningspark
+PierreAbbat
+Izumi5
+Calavera
+CeNobiteElf
+Forudgah
+Cova
+Celui qui crée ébauches de football anglais
+Simplus2
+Jusjih
+Alex~enwiktionary
+Felonia
+Öljylautta
+Mikko Paananen
+Tim Q. Wells
+YumaDuplícito
+Q9ui5ckflash
+Shoof
+D1gggg
+Jeff Weskamp
+Werdna Yrneh Yarg
+Madina
+Lundgren8
+Princeipeazul
+PulauKakatua19
+Afc0703
+Kevin Rector
+Santi2222
+Luxipa
+InfoManiac297
+Zabadu
+Xbony2
+Taokailam
+ZBroz
+Pathoschild
+AKA MBG
+SSL69
+OrenBochman
+Wirjadisastra
+Edelstam
+BenjaminBarrett12
+KaiKemmann
+Petruk
+Thisis0
+Mathonius
+Bigbossfarin
+Quercus solaris
+Sally Ku
+Red Prince
+Calq
+Discanto
+Barbie0117
+Gorgehater
+Kipmaster
+Sa&#039;y
+Rappo
+Liso~enwiktionary
+Ferike333
+Rhanyeia
+Prisencolin
+Graeme Bartlett
+TempBot
+This, that and the other
+Dcljr
+Dart evader
+Mithridates
+E. abu Filumena
+Sigehelmus
+24h-beachcomber
+Dhum Dhum
+J19idf
+Rigognos Molinarios
+Maria Sieglinda von Nudeldorf
+WOSlinker
+Gnosandes
+Smashhoof
+Profes.I.
+SoSivr
+Dangus
+Snakesteuben
+Dingo1234555
+Mountebank1
+GutenBot
+Oyunqi
+Yoursmile
+Ortonmc
+John1deer
+Rory096
+Stelio
+Voltaigne
+Kasmil
+SonPraises
+Amjaabc
+Treisijs
+Renamed user nkjnbkjbvgvtyxaqewr
+Ghost of WikiPedant
+Heydari
+Mlgc1998
+Moverton
+Jimp
+Ferhengvan
+Beru7
+TheProject~enwiktionary
+Pkbwcgs
+Thedarkknightli
+Mr KEBAB
+Peter K. Livingston
+Lincoln1001
+Trident90
+Sardarmann
+史凡
+Master of Contributions
+Hk5183
+Dux Oppositionis
+NMaia
+Teh Rote
+Mede
+Marcas.oduinn
+Gilward Kukel
+EdwardH
+Enginear
+GerardM
+Leftmostcat
+Marlin Setia1
+Thadh
+Avestan Pashtun
+Marrovi
+Inner Focus
+Gibraltar Rocks
+Svjatysberega
+Olybrius
+HannesP
+Gloria sah
+Caudex Rax
+Profesjonalizm
+Smiddle
+Mélange a trois
+Walled gardener
+Kevin Ryde~enwiktionary
+Eal
+WF on Holiday
+CrescentStorm
+Science Bird
+Kw0~enwiktionary
+PlatuerGashaj
+Nero86
+HenkvD
+Ikatz
+G1257
+Fastifex
+Myndfrea
+The dog2
+KJBracey
+Tango24
+Dingar
+Nloveladyallen
+Allamakee Democrat
+Aefensteorra
+Svlioras
+Montoya2002
+MirekDve
+Keene2
+Wihwang
+Hammad
+Cpt.Guapo
+Caretaker Gorgon
+Vitoscots
+Tetromino
+Mammal
+Maas555
+A12n
+Sabretooth
+Nisetpdajsankha
+Lisztrachmaninovfan
+Jaspet
+Lunaibis
+Old Man Consequences
+FallingGravity
+Coffee2theorems
+Williamclayton
+Urszag
+SeeAlsoBot
+יבריב
+Keith the Koala
+Eveningmist
+Arctic.gnome
+MiguelX413
+Penegal
+Liedes
+Liggliluff
+Meihouwang
+AnWulf
+Jun-Dai
+Thecurran
+Hakeem.gadi
+Hdemunck
+Derbeth
+Che829
+Deilbh
+Flibjib8
+Gilthuanas
+Natsubee
+UtherPendrogn
+Orkhonien
+KSiimson
+RonnieSingh
+Alexdubr
+Sruva123
+Wayne Roberson, Austin, Texas
+Fabgil
+Michael Ly
+Lirafafrod
+ContraVentum
+Wittiami
+Trunkie
+Omnipaedista
+The Evil IP address
+Hahahaha哈
+Peter Isotalo
+NHJG
+Moglex
+Doddebot
+Mormegil
+Fejstkajkafski
+Ceyockey
+Celestianpower
+MGSpiller
+Johnny Shiz
+DavidL2
+MuDavid
+Dylanvt
+Rainmonger
+LGagnon
+Arapaima
+G23r0f0i
+Epantaleo
+Ce mot-ci
+3knolls
+HappyMidnight
+Itsacatfish
+Alsowalks
+Xoolanguage
+Chaduvari
+Badagnani~enwiktionary
+Amit6
+Fturco
+Учхљёная
+Optional
+Mzekiu
+Kåre-Olav
+Rakkalrast
+Downunder
+Borganised
+Ivnadur
+Santi Gomà
+Coyau
+Kevlar67
+Itkilledthecat
+Cdhaptomos
+TohruBot
+Nanshu
+Frankjh
+Jacklee
+Opabik
+Vitalik
+Robert Važan
+Jjamesryan
+Zulfadli51
+EI at10s
+Stephen MUFC
+Nardog
+Munmula
+Top Cat 14
+Tasnu Arakun
+Primetime~enwiktionary
+Dakhart
+Mrakia
+Ensjo
+Jtle515
+Inqvisitor
+Charidri
+Annabel
+Zuiarra
+Theo.phonchana
+Emi-Ireland
+Patrik Stridvall
+DianaKhanjila
+Erminwin
+Marovaso
+Lysdexia
+Bruno413
+Furius
+Cl
+Whym
+Sentree
+Romanb
+Millerutt
+Yann
+Edgefield
+Dogsareultracool
+Stf
+Spreaderofwords
+Webkid
+Wakuran
+Maria.Sion
+ElectricGypsy13
+Cirxe
+Obretenov
+Uncle G&#039;s &#039;bot~enwiktionary
+Kraŭs
+Mac
+幻光尘
+Eric Kvaalen
+Długosz
+Nicoletapedia
+Amirh123
+WF110
+Raxshaan
+Leonardo José Raimundo
+Ortografix
+SuperWonderbot
+Alexis Jazz
+Neskbot
+Rex Aurorum
+Kampy~enwiktionary
+Eean
+Maddog03
+Sinonquoi
+Nicole Sharp
+ElvisFan1967
+Chimerical05
+IMIPER
+JAn Dudík
+Hölderlin2019
+Puisque
+Anomalocaris
+8mike
+Manufrutos
+WorldwideBallcaps
+Joonas07
+New WT User Girl
+Tyranny Sue
+Soued031
+Joashiro
+Mat200
+LaPietre
+Bragz
+Acdcrocks
+Sextiliana
+Btouburg
+Ser be etre shi
+Gene Nygaard
+Xan2
+达伟
+Sir Beluga
+Oleg Katsitadze
+Mahmudmasri
+Malhonen
+Icqgirl
+Lukenji
+Ikiaika
+And we drown
+TBC
+Jnestorius
+Kassios
+JamesVin2orregosa
+Icebob99
+FunnySquirrel12
+Black-Velvet
+Woodendog
+S03f0i3
+Event
+Wisapi
+Peleg
+Brutal Russian
+Sayonzei
+Gtroy
+Mppfisovv
+Yorktown1776
+BoBoMisiu
+Keffy
+JesseW
+Depressing November
+LexiphanicLogophile
+Thv
+GaylordFancypants
+Ballot man jr
+Wwiiipage
+Mahjoob
+Ooswesthoesbes
+Josve05a
+Automatik
+Scsbot
+Steel Blade
+BigBadBen
+Jan D. Berends
+Geracruzcolusa
+Arkhaeaeon
+Pepsi Lite
+Physchim62
+Logan
+Rfc1394
+HersfoldBot
+片割れ靴下
+Minorax
+SixTwo
+Rhemmiel
+Stricnina
+Kmack
+Gougnafier
+Kibi78704
+Kusurija
+Bennmorland
+L-native
+Universal Life
+Sylvanmoon
+Espreon
+ConanBot
+AlphaOmega
+Waldyrious
+Propatriamori
+Dcmacnut
+Dator Vitae
+Jaroslavleff
+Yyy
+Monni95
+LeonardoRob0t
+ArdiPras95
+StudiousStanza
+Lennart.larsen
+Sano
+Trade
+O&#039;Dea
+Somnipathy
+InfoSlave
+Leoadec~enwiktionary
+Blade Hirato
+Makearney
+Pinnerup
+Paul Willocx
+Orcaguy
+Hlmswn
+TatCoolBoy
+Martinus Poeta Juvenis
+Babel AutoCreate
+Werdnabot
+陳弈豪
+Peter238
+Qizilqurt
+Mölli-Möllerö
+Tofeiku
+4pq1injbok
+Alexander Mikhalenko
+شہاب
+Curtisweyant
+Sheldonium
+Supevan
+Soap
+Dennis Valeev
+Khu&#039;hamgaba Kitap
+La Nuova Idea (mia)
+PaulBustion88
+AnthroMimus
+Spiros71
+Grendelkhan
+Akletos
+Love Young
+Linguist97
+HiFlyer
+Ain92
+Nhjoavi
+Awewewe
+Znex
+IsomorphycSandbox
+Kinamand
+Rich Farmbrough
+Gfarnab
+Beland
+Choor monster
+V111P
+Mikemoral
+Mistrz
+SmokyMonster
+Trivialist
+CommonsTicker
+Asank neo
+Roisterer
+Fudoreaper
+Veeven
+Eccenihil
+Blastu
+Penarc
+Enrico Pangan
+JonRichfield
+Eroica
+Bluepossum
+Sack36
+Patzak
+Zoologo~enwiktionary
+Zeggazo
+CORNELIUSSEON
+Princeps linguae
+JB82
+Cam
+M. I. Wright
+Mulgadweller
+Silesianus
+Barbara Shack~enwiktionary
+ThomasWasHere
+Istafe
+Frank C. Müller
+VildBot
+Starts
+Icek~enwiktionary
+Dragonman9001
+Robert.Baruch
+JoJan
+AuroraeLux
+Filip
+Tang891228
+PaparazziPulse
+Castillerian
+WilliamKF
+Onomamashinee
+Sannab
+Dilyâresi
+Caphthor
+Tn4196
+Yellowhen
+Fonzy~enwiktionary
+Marmase
+GiuseppeMassimo
+BlueCaper
+Rgt2002
+Lagoset
+Hooiwind
+Houses39
+Grunnen
+Rural Legend
+Tulros
+AZard
+Menchi
+Rklawton
+Josephbrophy
+Halliburton Shill
+Akanemoto~enwiktionary
+Parttimer
+Hbrug
+Fletcher55
+Zff19930930
+4nn1l2
+Szajci
+4RM0
+Judexvivorum
+Timwi
+TheSensinator
+3liot
+Brholden
+Ixfd64
+An Useok
+T.sujatha
+Howiemandil
+RubixLang
+Pinkfud
+Ash wki
+AnnaKucsma~enwiktionary
+Shoehorn
+ThirdPersBot
+Adding quotes
+Tfajjel
+MaksTurchyn
+Fête
+Wonderfool early February 2019
+Celloplayer115
+Placebo
+Korodzik
+ARR8
+Nwspel
+Muriloricci
+Zezen
+Twpsyn Pentref
+Siuenti
+Hinthar
+Pr.Os.Kurin
+Hirabutor
+Ibt
+Belirsizkahve
+Deepthought
+Abburns
+Orgyn
+ScratchMarshall
+Uranographer
+ルークシュポール
+Globins
+H2ppyme
+Gwinver
+Brandnewuser
+Zeke
+Leeheonjin
+That Guy, From That Show!
+AndreasWittenstein
+Ricardo Carneiro Pires
+Ineuw
+Kwunlam
+Tchirruá
+Håkon
+Kongolex
+Caligari
+The Editor&#039;s Apprentice
+Kilibarda
+Info-farmer
+Iamnotanorange
+Elperretebueno
+Proto-Germanic Fan
+PastBot
+Gregcaletta
+Anceurs
+Ketie
+Khemehekis
+Ivocamp96
+ПростаРечь
+MrSmart
+Josu Lavin~enwiktionary
+Elkaar
+WordyAndNerdy
+Sarang
+Deus omnipotens
+Jurohi
+Ismenelik
+Danny~enwiktionary
+TheWikipedian1250
+Marauder016
+Schoenfeld
+Magurale
+Pas un coiffeur
+Wolfkeeper
+Haipqhn
+IQ125
+Baymiwuk
+Allixpeeke
+Sarvaturi~enwiktionary
+Arthur botelho
+Sebastian Goll
+Dimboukas
+Foreverknowledge
+Edcolins
+Pietaster
+Jesielt
+Ericri
+Zontas
+Kaldari
+Ivadon
+Cadfaell
+Shegashega
+Piolinfax
+Pamputt
+VPliousnine
+Erbala
+Pyprilescu
+BirdHopper
+123snake45
+Aleator
+Virgis
+Jamie7687
+ArkinAardvark
+Proxima Centauri
+Pfftallofthemaretaken
+Youssefsan
+Afka hooyo
+Hiàn
+Happymom78
+Epichaericacianus
+CMunk
+Bearingbreaker92~enwiktionary
+WonderfoolatEaster
+Aghniyya
+Viskonsas
+FanNihongo
+Ailurophile
+JustSomeGuy
+Vive la Rosière
+Fauban
+飯江誰出茂
+TMLN123
+PixelVulpix
+Amjakob
+Amin
+Slavić
+Mar1Qh
+Shayan1376
+Pickyevent
+Gazamp
+Dejongstebroer
+Brya
+Sasha Red
+Psi-Lord
+Conan
+Tawker
+Nathanael Bar-Aur L.~enwiktionary
+Jedi Friend
+DaGizza
+LUUSAP~enwiktionary
+Mr gronk
+B9 hummingbird hovering
+De-01
+Taxman
+Dropoff point
+Zigguzoo
+Siulobo
+Matricularius
+SnoopY
+Lexicografer
+Hiztegilari
+Geofferybard
+Willy obretenov
+Johanna-Hypatia
+Spanier
+Malcolm77
+Rossami
+Goldenbrook
+Terriffic Dunker Guy
+Brett
+Aogaeru4
+Leif Runenritzer
+Alphathon
+Allkokf009
+Sije
+Wjcd~enwiktionary
+Pofficer
+Mteechan
+Les Meloures
+唐吉訶德的侍從
+EXplodit
+AggyLlama
+Wakablogger
+SK luuut
+Marcot
+Fugyoo
+CMEHalverson
+Jenniepet
+HannesPBot
+ELF
+Aupiff
+Diamondland
+Anareth
+シリョガ
+Viséan
+EgoAmbulo
+Brainulator9
+MihailJP
+Dkc
+Stevvers
+Alexander Widefield
+Tezamen
+Person12
+Aufels
+Sarilho1
+Ceaeven
+TywysogMelyn
+Rkishchenko
+Ppcosta
+Impregnable
+Dorivaldo de C. M. dos Santos
+RingMaster517
+Ndep66
+Bead-v
+Pronkiewicz
+MGorrone
+Mewasul
+2004-12-29T22:45Z~enwiktionary
+Xyzzyva
+Tsujigiri~enwiktionary
+Sunset Angel
+Chaimish
+Aursani
+Wonderfool Dec 2018
+Phonchana
+P Aculeius
+Dirk gently
+Skahmed23
+LombardBeige
+EhSayer
+CMBJ
+Mirzali
+Mnidjm
+BlaueBlüte
+TheTechnician27
+Sokac121
+Jobnikon
+Youandme
+DolphinL
+Rasms
+Stan Shebs
+PerfectlyOutOfSync
+Dghmonwiskos
+SoundChoice31
+Wikispu
+Spiderjerky
+Soli123
+BrunoMed
+Andreas Rejbrand
+Actarus Prince d&#039;Euphor
+Diddims~enwiktionary
+FarEast
+DannyS712
+Nederlandse Leeuw
+Fullupfrompizza
+NINTENPUG
+IOHANNVSVERVS
+Jimregan
+Peeperman
+Nastoshka
+ВМНС
+Renegade5005
+ReclaimerNZ
+Luisftd
+PlanetStar
+タチコマ robot
+Rumpel77
+Soumya-8974
+LucasEasedUp
+AmaryllisGardener
+A333
+Voldesade
+Globish
+Bluelion~enwiktionary
+The Man in Question
+Pariah24
+Andres65
+StrongestStrike
+Qhwans
+Michae2109
+Fr.ta
+MichaelLau
+Xautique
+Mark4011
+Michael Ehart
+Lwh
+Help1for1roof
+Rose Waswa
+Japicx
+Az~enwiktionary
+KlaudiuMihaila
+Frigoris
+Pinyinize
+NativeCat
+Pesner22
+LalalalaSta
+Biolongvistul
+Andreas S.
+LinguisticsGirl.Librarian
+Jronner
+Darkdadaah
+AncientEgypt23
+Bukkia
+Mindraker~enwiktionary
+Fredmaranhao
+João Neto
+懒得起
+-xfi-
+VNNS
+Katya0133
+Mikalaari
+CokeHanx
+Naggy Nagumo
+Jona
+Yakky snacks
+Thmazing
+Dilated pupils
+Wikihistorian
+Tragopogon
+Jackwolfroven
+Daviddwd
+Pointon
+520Rob82
+Воображение
+Sarrus
+Jeraphine Gryphon
+Lingvaristo
+Uziel302
+Ftomi
+AvenidaK
+Binarystep
+Mariagat1959
+Wipe
+CJLippert
+Philaweb
+Pampotte
+Infovarius
+~riley
+Jeffery Allen Weskamp
+B-Fahrer
+Nikola Smolenski
+Juxho
+Oneguardianangel
+J Milburn
+Arcarius~enwiktionary
+Raging Bull
+FIGHTERSOVIET wpedia
+Naa cher
+Jarble
+Al Silonov
+Werdna
+Nichérix
+Mjanja
+YaganZ
+MiiCii
+Victor LP
+Sabri76
+ReyHahn
+Pierpao
+Serpicozaure
+Gerrychavez25
+Kathovo
+Binya2021
+BLurpty
+Zfr
+Tirkfl
+Ljubomir
+Una Smith
+Prinsgezinde
+Mild Bill Hiccup
+Solomonfromfinland
+Pr0y
+P3459rgo0
+Eric119
+Cek
+Three littlish birds
+Electric goat
+OlEnglish
+JaS
+Baisemain
+Pajz
+Wierdw123
+Azertus
+MahiraYT
+JanSuchy
+JackLumber~enwiktionary
+Wietsezuyderwijk
+CanUBe
+Stratoprutser
+Smoken Flames
+Secondhand Work
+Wordman123456789
+Dillerisev
+몽골어 물리
+Mkazarian
+Chzz
+Nemo bis
+Tsumiki
+BrettR
+Nickelmax
+Seven Train
+Lorenax
+Guaka
+Blithebear
+Sedataltundal
+Maias
+Nikai
+Laeto Orituri
+Leucius
+Cehihin
+Benlisquare
+Andrejj
+Lou2shi1
+Guiri Falso
+PetrGruko
+NHHP
+Levenius
+Royal Jelly
+Łukasz Sofo
+Waltter Manoel da Silva wten
+Nurg
+Mattrogers
+Lucas·G
+Algide-Amygdale
+Phomer
+Liturgy
+Chuffable
+PullUpYourSocks
+Jacr88
+Beren
+Angie Y.
+Robotukas11
+Girmitya
+TrivialTrevor
+Spacebirdy
+NotThatAnonymous
+Adabow
+Thnidu
+ManFromSuceava
+Kzollman
+Enix150
+Yoxem
+Mudbringer
+Alhen
+Zhnka
+Tentre
+Balamax
+荒巻モロゾフ
+N2e
+CoryCohen
+KoveytBud
+Epolk
+SKA-KSI
+Mrvonungan
+Attys
+Asoibel
+Anonymous editors
+Halfdan~enwiktionary
+Shad Veyosiv
+Jan sewi
+신묘마루쨩
+Mikkalai
+Fafnir
+Dekoshu
+Abdull
+Kprwiki
+B jonas
+Raghun
+Luccas~enwiktionary
+Andris.attack
+Jakoli4
+Citizen Premier~enwiktionary
+AlexandrDmitri
+Mustliza
+Mr. Guye
+Gherkinmad
+Bottletoground
+Barbaking
+Taxman1913
+Kumioko
+Anthony Appleyard
+AmericanLeMans
+Zhividya
+Triwikanto
+DixtosaBOT
+Kadel
+Dbult
+Xuongrongnohoa
+Sentinella
+Ieay4a
+Esin0420
+Arlosnev
+Tornike
+SMcCandlish
+Moilleadóir
+Kop
+Brettz9
+In ictu oculi
+Etym
+Cammoore~enwiktionary
+Per~enwiktionary
+White whirlwind
+ThomasanSK
+Qef
+Pjr
+LvdT88
+Bleifrei
+Perhaps another fan
+Mindmatrix
+Livermorium5
+Robykiwi~enwiktionary
+Mairene
+뭉게구름
+Germyb
+Dcoetzee
+Andres
+Evrik
+TopAce~enwiktionary
+Dajagr
+Bilagáana
+AstroVulpes
+Stambouliote
+Gaioa
+Agamemenon
+Plowman
+Bu193
+Gobbler~enwiktionary
+Dodde
+Scientific29
+Kenyon
+GünniX
+NoToleranceForIntolerance
+Nnt
+Iyouwetheyhesheit
+שמחה
+Sandman~enwiktionary
+Mgrand
+Colombiacuriosa~enwiktionary
+C0rn3j
+Osbri
+Nino Barbieri
+WereCarrot
+Ozelot911
+GabrielSjoberg
+Explosivo
+Eliashedberg
+Zielony8080
+Turaids
+TeragR
+Rmo13~enwiktionary
+Andy85719
+Sean Clark
+NHSKR
+CasperBraske
+Oerjan
+Mdd
+Maitchy
+Jaydreams
+Hiezi
+Corgame3
+Mikael Häggström
+Benjitheijneb
+Henryk911
+Ed Poor
+Miwasatoshi
+Diego Grez Bot
+Urso Major
+Eric900
+1998alexkane
+Kahewo
+Verandi
+Jln Dlphk
+Gaston~enwiktionary
+Ganymede
+Elephantus
+SageGreenRider
+Bjankuloski06
+TomeHale
+Ph3gal
+L.T.G
+SinonquoiBot
+Dubomanab
+B Lemeux
+FlashTest3-15
+ECUgrad96
+Dj 2012
+Carlos MS
+Tuvalkin
+TFighterPilot
+Chokladkaka
+Caesura
+AivoK
+Xpicto
+Ubuntuuser13
+Sajasaze
+Lucarubis
+Cuatro Remos
+Caeruleancentaur
+ÞunoresWrǣþþe
+Imivorn
+Encolpe
+CanCan2623
+Ajellid-n-arif
+YngNghymru
+CedarForest14
+Vin
+Mohalha
+Hofoen
+ReconditeRodent
+JVRKPRASAD
+RandomTeri
+IAmAmillion
+Billinghurst
+Twurl
+Paraguay222
+Alexius Isclanus
+Stepanps
+Positivesigner
+Chloejr
+Rredwell
+Proteins
+PJTraill
+Jurischroeer
+JamesOfMars
+Iamthe7DeadlySins
+Sollupulo
+Kzman
+Holtseti
+Guitardemon666
+Brainy J
+Taurvaethor
+Jmolina116
+Alia H
+User123o987name
+Snowman304
+Eruner
+Dbrat1
+Ces
+Bastro3000
+Ὁ οἶστρος
+Limotecariu
+K6ka
+Davidzdh
+Sit comfy
+Romandalusí
+GreenGenie
+Vacio
+Sucio green
+Randy6767
+LokiClock
+Георг Ангкар
+MacTire02
+Silvioricardoc
+Sabiusaugustus
+Isaacmayer9
+CloudNine
+Amatlexico
+Ahls23
+Slord
+Rmashhadi
+Preferits
+Foxjwill~enwiktionary
+Blurpeace
+Sanya3
+Fojr
+Asenoner
+Ackatsis
+TJPenitencia
+Tiemianwusi
+Leucostictes
+IJzeren Jan
+Greg-si
+Fonzo
+N-true
+Croquant
+Nicoleta
+Denispir
+Az1568
+Andrew Howroyd
+Msayag
+Urbandegenerate
+Llull~enwiktionary
+Di gama
+Athang1504
+Thelastspasm
+PSICOMSoldier13
+Mortense
+Maikxlx
+Dick Kimball
+Dcabrilo
+Clicero
+Scottish friend
+Kpjas
+Hyperhero
+Ēloquiō
+Jonon5555
+FreeMediaKid!
+ZacharySoforenko
+Providus
+Hyacinth
+Capsot
+Steinbach
+On Ka Wo Mu
+Sinofreeman
+Kameist
+Julius177
+106 for now
+Павло Сарт
+Vytautniks
+T. Mazzei~enwiktionary
+Samwilson
+Saga City
+Mate Juhasz
+Korhoj
+HastaLaVi2
+O ec
+Llonydd
+Btw~enwiktionary
+Bob Burkhardt
+Teb728
+Amateur55
+Talking Point
+Taavivuoren
+Skomba
+Shai
+QIU Ao
+OldakQuill
+Anemos
+Makecat-bot
+Taliandr
+Mare-Silverus
+User332572385
+Prosody
+Mendelivia
+Le Fondu
+Enterloppd
+ჯეო
+Willy2000
+Marac
+Kchishol1970~enwiktionary
+Hydrox
+Geekdiva
+Der Jud
+Underlying lk
+Onionbar
+Divinenephron
+Baadal9
+Oreo Priest
+OjdvQ9fNJWl
+Kbb2
+Hybrid-2k
+Pirttinen
+Namnagar
+Pasquale
+Doric Loon
+AxaiosRex
+Anthurium
+Dunhamrc
+Avjewe
+Tanet
+Pppery
+MCent
+Lumbercutter~enwiktionary
+Jeffq
+Aeromix
+StradivariusTV~enwiktionary
+Slashme
+Skizzik
+Ashucky
+Winged eel
+Piet-c
+Deterenkelt
+Ben Herzog
+Ajmint
+Jiří Bezděka
+Almit39~enwiktionary
+AEuSoes1
+Wonderfool later January 2019
+SurrealSoul
+Quentinv57
+Jeluang Terluang
+Deyyaz
+Yaron
+Sten
+Repasando
+Popolon
+JimKillock
+Pedro Aguiar
+Filelakeshoe
+Soardra
+Mitkostatev
+Missmarple~enwiktionary
+ErkeTurk
+Eco mate
+Dtrebbien
+Dictabeard
+Canarian
+Bleakgh
+Salvadors
+Salah Almhamdi
+Tormod
+Valis
+Ihaasa
+Ehonobe~enwiktionary
+CecilWard
+Sunshine23
+Raymartlipat
+Naudefj
+Writend
+Wolfdog
+WF back from hols
+Skryfel
+Caferatte89
+Милан Јелисавчић
+Urotnik
+Porelmundo
+Marshallsumter
+IraSzatan
+Four-fifths
+Websterbot
+Rotlink
+Oxymoron83
+Nizolan
+Spade6179
+Erik Warmelink
+Doccolinni
+ZFT
+Talonpedia
+TempWFbotaccount
+Heizez
+DingoRoo01
+Bob the Wikipedian
+Anatol Rath
+Zalmoksis
+Nuevo Paso
+MrGulli
+Mo-Al
+Goldenshimmer
+Asm sultan
+Rhyminreason
+Lucabon
+Littenberg
+Limes
+Hämbörger
+朝彦
+TheSimpleFool
+TestPilot
+Splibubay
+Lawrence J. Howell
+BoldLuis
+Piterkeo
+Myersdtm
+Larsb
+Auximines
+AnonMoos
+ŠtambukBot
+S.Örvarr.S
+Henri Pidoux~enwiktionary
+Easttimor247
+Dvellakat
+Úlfur-R
+TJxSJ
+Luan
+Habemus
+Adbar
+PersuasionPh
+Pce3@ij.net~enwiktionary
+Nestum82
+Miasma
+Marontyan
+Cittadinanome
+Think Fast
+Lowena
+Kasjanek21
+Grammatical error~enwiktionary
+Duhapò IS20
+Pol098
+La la means I love you
+Juzeris
+Jiròni
+Finnotka
+CAmbrose
+Biyolojiyabikurdi
+Wonderfool late January 2019
+Velociraptor888
+Rasptr
+Freiberg
+Brpellis
+BONGU SEAN~enwiktionary
+Udo T.
+Gronky
+Eishiya
+Bgagaga
+לערי ריינהארט
+Sasha Gray Wolf
+PolyBOT
+Panda34
+Livajo~enwiktionary
+Кшищов
+3210
+ThaesOfereode
+ShedCorner
+Hoh Irmen
+Geminni
+Capmo
+Boketto55
+Λεξικόφιλος
+Uwaki
+Hopiakuta
+HJJHolm
+Hégésippe Cormier
+Davidmadelena
+Bluemask
+MacBobart
+JustinCB
+Cedny
+Jklamo
+Aphaia
+Abgar eabe ghu
+WF April 2017
+Torgo~enwiktionary
+Saphabodi
+Alton
+Mintz l
+Garam
+Fp0340
+Crbratu
+Corbariano
+Xcvii
+Wshun~enwiktionary
+Mtodo
+Lentom
+Joseon814
+Jeuvke
+Hesperian
+Esteban.barahona
+Driving55
+Dingyday
+Mitchell B Powell
+Lcmortensen
+JSBrowand13
+Wmahan~enwiktionary
+Rob~enwiktionary
+Nederbörd
+Smjg
+Lenka64
+Jérôme
+DutchTreat
+Blysk
+Porokello
+Nizil Shah
+Joachim Mos
+Edward Steintain
+DontMessWithMeBro
+Psy guy
+Pedrianaplant
+K kisses
+Jezikoslovac
+Cashie
+Alcenter
+MKar
+Kpc21
+Stroed
+OwenBlacker
+Xjunajpù
+Polarpanda
+Phol
+Nichetas
+Jcrwiki
+Dictionarybuilder
+Chatumao
+Brian0918
+Artur
+Appple
+Meddlin&#039; Pedant
+JonLS
+Brim~enwiktionary
+Anumengelamun
+Ulmanor
+Siri We
+RandomPalo
+Jerzy
+Azmi1995
+Andrzej 22
+Wargaz
+BassHelal
+モハメッド一二三
+Xic667
+King of Hearts
+Παρατηρητής
+Vhorvat
+ShamarJ
+Seb az86556
+Ptalatas
+PiRSquared17
+Panglossa
+Nemzo
+FuLAmGNut
+Fertejol
+Tyrannus Mundi
+Nama.Asal
+Joepnl
+Tony6ty4ur
+T42
+Sstinnett
+RMizo
+Latrissium
+Hunadam
+Dictionaric~enwiktionary
+AlexanderKaras
+Ligata
+Fark
+Draco argenteus
+Ashvemn
+Τέσσερα
+KubeQ112
+Chicken sand
+Soleil levant
+Pilot
+LMM
+Hugovk
+DrKumpelek
+Calthinus
+Aston
+Xtv
+TheDodosaurus
+Starbeam2
+Scooteristi
+LatinGuy87
+CarlKenner
+Brantmeierz
+A-heun~enwiktionary
+ZeinepBopoeva
+Vlad5250
+Sir Jaspar
+Okkn
+Imaginatorium
+Dratini147
+Deletedarticle
+Cass-bot
+BiggestSataniaFangirl89
+Andalcant
+Shustov
+RaveDog
+Madreterra
+Chagneling
+Abdul Hamid OpL
+獲加多支鹵大王
+Zeinanyc
+Metsavend
+Cruinne
+Ajraddatz
+Wikimpan
+Wahrmund
+Sumonrahman
+PuzzletChung
+Phatom87
+Narkokhelus
+Maden
+IndulisMX
+Chuck SMITH
+Tom20082
+Freckles.10.6.2005
+Arms &amp; Hearts
+8
+Vulnerant
+Teh Ph34r
+Skookum1
+Hotspur23
+Frizabela
+Cem BSEE
+Proton donor
+Dustsucker~enwiktionary
+Casicastiel
+Tbqf
+Mutichou
+Jóhann Heiðar Árnason
+Jfmantis
+GPodkolzin
+FredrikMH
+ExRat
+Aamri2
+ᏳᎴᏂ
+We9fud
+Varlagas~enwiktionary
+Dfeuer
+ᾨδή
+ZazakiTT
+SebastianHellmann
+Rhachani
+Mdd4696
+KuboF Hromoslav
+Karen Johnson~enwiktionary
+Javier the Star
+Curtaintoad
+Coldcakes22
+Riadys
+Mov0021
+Koxinga
+Boldlyman
+Atrocipède
+Yeojunyoung
+X Parasite
+Sergey kudryavtsev
+Ryota7906
+Fyrius
+Dyolf87
+Akshay Deokar
+

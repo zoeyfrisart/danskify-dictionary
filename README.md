@@ -1,59 +1,31 @@
-# danskify-dictionary
+# @danskify/dictionary
 
-A TypeScript package containing Danish dictionary data with approximately 20,000 entries.
+An open bilingual English → Danish dictionary based on the [Wiktionary](https://en.wiktionary.org/wiki/User:Matthias_Buchmeier) dataset by Matthias Buchmeier and contributors.
 
-## Installation
+This package provides a cleaned and normalized JSON representation of that data for use in JavaScript and TypeScript projects.
 
-```bash
-npm install danskify-dictionary
-# or
-yarn add danskify-dictionary
-```
+## 📜 License
 
-## Usage
+Data derived from:  
+**English–Danish Wiktionary dataset**  
+Compiled by [User:Matthias Buchmeier](https://en.wiktionary.org/wiki/User:Matthias_Buchmeier) and contributors  
+Version 20200401
 
-```typescript
-import { DICTIONARY_DATA, IDictionaryData } from 'danskify-dictionary';
+Licensed under the [Creative Commons Attribution–ShareAlike 3.0 Unported License (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
 
-// Access the dictionary data
-console.log(DICTIONARY_DATA.length); // ~20000
+© 2002 – 2020 Wiktionary contributors  
+© 2025 Danskify contributors (JSON conversion and packaging)
 
-// Example entry structure
-const entry: IDictionaryData = DICTIONARY_DATA[0];
-console.log(entry);
-// {
-//   word: "hej",
-//   translation: "hello",
-//   partOfSpeech: "interjection"
-// }
-```
+This derivative dataset is distributed under the same license.
 
-## Exports
 
-### `DICTIONARY_DATA`
-An array containing approximately 20,000 Danish dictionary entries.
+## License selection
+The original Wiktionary dataset was dual-licensed under CC BY-SA 3.0 or the GNU Free Documentation License.  
+This derivative package intentionally adopts **CC BY-SA 3.0 Unported only**, as allowed by the “or alternatively” clause.
 
-### `IDictionaryData`
-TypeScript interface for dictionary entries:
+---
 
-```typescript
-interface IDictionaryData {
-  word: string;           // The Danish word
-  translation: string;    // English translation
-  partOfSpeech?: string;  // Part of speech (optional)
-}
-```
+## 🪶 Attribution (for UIs)
 
-## Development
+> Translation data © Wiktionary contributors (Matthias Buchmeier et al.), CC BY-SA 3.0 — [en.wiktionary.org](https://en.wiktionary.org/wiki/User:Matthias_Buchmeier)
 
-This package is built using TypeScript and managed with Yarn v4.
-
-### Building
-
-```bash
-yarn build
-```
-
-## License
-
-MIT

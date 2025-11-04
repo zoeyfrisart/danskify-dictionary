@@ -4,6 +4,7 @@
   "description": "A Danish dictionary data package with 20k entries",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "homepage": "https://en.wiktionary.org/wiki/User:Matthias_Buchmeier",
   "files": [
     "dist"
   ],
@@ -17,9 +18,18 @@
     "danskify"
   ],
   "author": "",
-  "license": "MIT",
+  "license": "CC-BY-SA-3.0",
+  "contributors": [
+    {
+      "name": "Wiktionary contributors (Matthias Buchmeier et al.)",
+      "url": "https://en.wiktionary.org/wiki/User:Matthias_Buchmeier"
+    }
+  ],
   "packageManager": "yarn@4.10.3",
   "devDependencies": {
-    "typescript": "^5.6.3"
+    "@types/node": "^24.10.0",
+    "cheerio": "^1.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
