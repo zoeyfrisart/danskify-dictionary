@@ -1,6 +1,6 @@
 {
   "name": "@danskify/dictionary",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "A Danish dictionary data package with 20k entries",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,7 +9,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc",
+    "build": "rm -rf dist && tsc -p tsconfig.build.json",
     "prepublishOnly": "yarn build",
     "generate": "ts-node ./scripts/parser.ts && yarn analyze:see-rejections",
     "generate:production": "VALIDATE_SEMANTICS=true yarn generate",
