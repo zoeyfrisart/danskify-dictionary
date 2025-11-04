@@ -32,8 +32,8 @@ export const DICTIONARY_DATA: IDictionaryData[] = [
 const baseWords = [
   "bog", "hus", "bil", "mad", "vand", "vin", "øl", "kaffe", "te", "mælk",
   "brød", "smør", "ost", "kød", "fisk", "frugt", "grønt", "kartoffel", "ris", "pasta",
-  "and", "kat", "hund", "fugl", "fisk", "ko", "gris", "får", "ged", "høne",
-  "træ", "blomst", "græs", "blad", "rod", "gren", "bark", "frugt", "frø", "blomst",
+  "and", "kat", "hund", "fugl", "ko", "gris", "får", "ged", "høne", "mus",
+  "træ", "blomst", "græs", "blad", "rod", "gren", "bark", "frø", "sten", "jord",
   "by", "land", "hav", "sø", "flod", "bjerg", "dal", "skov", "mark", "strand"
 ];
 
