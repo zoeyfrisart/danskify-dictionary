@@ -11,7 +11,11 @@
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "yarn build",
-    "generate": "ts-node parser.ts"
+    "generate": "ts-node ./scripts/parser.ts && yarn analyze:see-rejections",
+    "generate:production": "VALIDATE_SEMANTICS=true && ts-node ./scripts/parser.ts && yarn analyze:see-rejections",
+    "generate:validation": "ts-node ./scripts/generate-validation-sample.ts",
+    "analyze:see-rejections": "ts-node ./scripts/analyze-see.ts",
+    "validate:sample": "ts-node ./scripts/validate-sample.ts"
   },
   "keywords": [
     "danish",
@@ -39,5 +43,8 @@
   },
   "bugs": {
     "url": "https://github.com/zoeyfrisart/danskify-dictionary/issues"
+  },
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2"
   }
 }
