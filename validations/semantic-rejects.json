@@ -395,20 +395,6 @@
     "sim": 0.23747989309243844
   },
   {
-    "engelsk": "a stitch in time saves nine",
-    "dansk": "udsæt ikke til i morgen",
-    "extraUsageContext": "a timely effort can prevent larger problems",
-    "wordCount": 6,
-    "sim": 0.1250709055654074
-  },
-  {
-    "engelsk": "a stitch in time saves nine",
-    "dansk": "det du kan gøre i dag",
-    "extraUsageContext": "a timely effort can prevent larger problems",
-    "wordCount": 6,
-    "sim": 0.08497088519608256
-  },
-  {
     "engelsk": "Atlantic puffin",
     "dansk": "lunde",
     "form": "noun",
@@ -1311,13 +1297,6 @@
     "sim": 0.33804311930357617
   },
   {
-    "engelsk": "carpe diem",
-    "dansk": "fang dagen",
-    "extraUsageContext": "seize the day",
-    "wordCount": 2,
-    "sim": 0.33113851392419935
-  },
-  {
     "engelsk": "carpet",
     "dansk": "tæppe",
     "form": "noun",
@@ -1627,13 +1606,6 @@
     "extraUsageContext": "that's almost correct, but not quite",
     "wordCount": 4,
     "sim": 0.2044304951582186
-  },
-  {
-    "engelsk": "clothes don't make the man",
-    "dansk": "man skal ikke skue hunden på hårene",
-    "extraUsageContext": "clothes don't make the man",
-    "wordCount": 5,
-    "sim": 0.3283444912199725
   },
   {
     "engelsk": "cluster",
@@ -2692,28 +2664,6 @@
     "sim": 0.3074582641689152
   },
   {
-    "engelsk": "early to bed, early to rise, makes a man healthy, wealthy and wise",
-    "dansk": "morgenstund har guld i mund",
-    "extraUsageContext": "Benjamin Franklin quote",
-    "notes": [
-      "morning has gold in its mouth",
-      "early up and early to bed, that is healthy for a little boy"
-    ],
-    "wordCount": 13,
-    "sim": 0.30482152045527744
-  },
-  {
-    "engelsk": "early to bed, early to rise, makes a man healthy, wealthy and wise",
-    "dansk": "det er sundt for en lille dreng",
-    "extraUsageContext": "Benjamin Franklin quote",
-    "notes": [
-      "morning has gold in its mouth",
-      "early up and early to bed, that is healthy for a little boy"
-    ],
-    "wordCount": 13,
-    "sim": 0.16399450649214098
-  },
-  {
     "engelsk": "easy",
     "dansk": "nem",
     "form": "adjective",
@@ -3217,13 +3167,6 @@
     "sim": 0.2770422657655887
   },
   {
-    "engelsk": "fine feathers make fine birds",
-    "dansk": "klæder skaber folk",
-    "extraUsageContext": "fine feathers make fine birds",
-    "wordCount": 5,
-    "sim": 0.17358826506909736
-  },
-  {
     "engelsk": "fine print",
     "dansk": "det med småt",
     "form": "noun",
@@ -3254,13 +3197,6 @@
     "extraUsageContext": "wood intended to be burned, typically for heat",
     "wordCount": 1,
     "sim": 0.2338769360463329
-  },
-  {
-    "engelsk": "first come, first served",
-    "dansk": "den",
-    "extraUsageContext": "people will be dealt with in the order they arrive",
-    "wordCount": 4,
-    "sim": 0.15552192794371272
   },
   {
     "engelsk": "first past the post",
@@ -3760,13 +3696,6 @@
     "sim": 0.31260733113188655
   },
   {
-    "engelsk": "give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime",
-    "dansk": "og han har mad for livet",
-    "extraUsageContext": "more worthwhile to teach someone than do it for them",
-    "wordCount": 24,
-    "sim": 0.3405942714499374
-  },
-  {
     "engelsk": "give a shit",
     "dansk": "pisseligeglad",
     "form": "verb",
@@ -3781,18 +3710,6 @@
     "extraUsageContext": "to (not",
     "wordCount": 3,
     "sim": 0.2650521675718132
-  },
-  {
-    "engelsk": "give them an inch and they'll take a mile",
-    "dansk": "ræk nogen en lillefinger",
-    "wordCount": 9,
-    "sim": 0.32482530942810134
-  },
-  {
-    "engelsk": "give them an inch and they'll take a mile",
-    "dansk": "og han tager hele armen (give someone a little finger and they take the whole arm)",
-    "wordCount": 9,
-    "sim": 0.33622187603378373
   },
   {
     "engelsk": "give up",
@@ -4305,13 +4222,6 @@
     "sim": 0.2916407722032752
   },
   {
-    "engelsk": "he who digs a pit for others falls in himself",
-    "dansk": "den",
-    "extraUsageContext": "he who digs a pit for others, falls in himself",
-    "wordCount": 10,
-    "sim": 0.0927505389100263
-  },
-  {
     "engelsk": "heyday",
     "dansk": "blomstringstid",
     "form": "noun",
@@ -4326,13 +4236,6 @@
     "extraUsageContext": "of or belonging to that part in the rear",
     "wordCount": 1,
     "sim": 0.3446575756621999
-  },
-  {
-    "engelsk": "hindsight is 20/20",
-    "dansk": "i bagklogskabens klare lys (prepositional phrase)",
-    "extraUsageContext": "in hindsight things are obvious that were not obvious from the outset",
-    "wordCount": 3,
-    "sim": 0.14797169200125662
   },
   {
     "engelsk": "hold one's horses",
@@ -4509,13 +4412,6 @@
     "extraUsageContext": "I am very hungry",
     "wordCount": 5,
     "sim": 0.22731967202486725
-  },
-  {
-    "engelsk": "idle hands are the devil's workshop",
-    "dansk": "lediggang er roden til alt ondt",
-    "extraUsageContext": "One who is idle will likely come to do evil",
-    "wordCount": 6,
-    "sim": 0.27888430595781893
   },
   {
     "engelsk": "if",
@@ -4700,13 +4596,6 @@
     "sim": 0.32844949692497133
   },
   {
-    "engelsk": "it never rains but it pours",
-    "dansk": "en ulykke kommer sjældent alene (a misfortune seldom comes alone)",
-    "extraUsageContext": "unfortunate events occur in quantity",
-    "wordCount": 6,
-    "sim": 0.3028757982980921
-  },
-  {
     "engelsk": "it's all Greek to me",
     "dansk": "rent volapyk (pure Volapük)",
     "form": "phrase",
@@ -4729,26 +4618,6 @@
     "extraUsageContext": "it's an emergency",
     "wordCount": 3,
     "sim": 0.31310888511189827
-  },
-  {
-    "engelsk": "it takes one to know one",
-    "dansk": "tyv tror",
-    "extraUsageContext": "an insult which is true about both the sender and the receiver",
-    "notes": [
-      "\"A thief believes everybody steals\""
-    ],
-    "wordCount": 6,
-    "sim": 0.21938793304408008
-  },
-  {
-    "engelsk": "it takes one to know one",
-    "dansk": "at hver mand stjæler",
-    "extraUsageContext": "an insult which is true about both the sender and the receiver",
-    "notes": [
-      "\"A thief believes everybody steals\""
-    ],
-    "wordCount": 6,
-    "sim": 0.11765778001607693
   },
   {
     "engelsk": "ivory gull",
@@ -5385,33 +5254,12 @@
     "sim": 0.1523938239655434
   },
   {
-    "engelsk": "live by the sword, die by the sword",
-    "dansk": "vold føder vold",
-    "extraUsageContext": "one who uses violence can expect a violent response",
-    "wordCount": 8,
-    "sim": 0.22057909367315442
-  },
-  {
     "engelsk": "Livonian",
     "dansk": "liver",
     "form": "noun",
     "extraUsageContext": "person",
     "wordCount": 1,
     "sim": 0.3476960036626075
-  },
-  {
-    "engelsk": "long absent, soon forgotten",
-    "dansk": "ude af øje",
-    "extraUsageContext": "love fades away when people are distant",
-    "wordCount": 4,
-    "sim": 0.2021374280747625
-  },
-  {
-    "engelsk": "long absent, soon forgotten",
-    "dansk": "ude af sind",
-    "extraUsageContext": "love fades away when people are distant",
-    "wordCount": 4,
-    "sim": 0.2905041449632874
   },
   {
     "engelsk": "long-tailed duck",
@@ -5588,13 +5436,6 @@
     "extraUsageContext": "stomatopod",
     "wordCount": 2,
     "sim": 0.2346014876534115
-  },
-  {
-    "engelsk": "many hands make light work",
-    "dansk": "sammen er vi stærke",
-    "extraUsageContext": "a large number of people cooperating can perform tasks easily",
-    "wordCount": 5,
-    "sim": 0.12675585324269115
   },
   {
     "engelsk": "marigold",
@@ -5916,13 +5757,6 @@
     "sim": 0.25876381175552465
   },
   {
-    "engelsk": "more haste, less speed",
-    "dansk": "hastværk er lastværk",
-    "extraUsageContext": "when one is in a hurry, one often ends up completing a task more slowly",
-    "wordCount": 4,
-    "sim": 0.19808875463234246
-  },
-  {
     "engelsk": "mortgage",
     "dansk": "pant",
     "form": "noun",
@@ -6067,16 +5901,6 @@
     "sim": 0.32132895010187656
   },
   {
-    "engelsk": "necessity is the mother of invention",
-    "dansk": "nød lærer nøgen kvinde at spinde",
-    "extraUsageContext": "a person in need will find a way",
-    "notes": [
-      "need teaches (a) naked woman how to spin"
-    ],
-    "wordCount": 6,
-    "sim": 0.11425262905499307
-  },
-  {
     "engelsk": "neighbour",
     "dansk": "næste",
     "form": "noun",
@@ -6137,13 +5961,6 @@
     "sim": 0.2976955510467735
   },
   {
-    "engelsk": "no man is an island",
-    "dansk": "alle mennesker er forbundne og afhængige af andre mennesker",
-    "extraUsageContext": "all people are dependent on other people",
-    "wordCount": 5,
-    "sim": 0.2333736568013163
-  },
-  {
     "engelsk": "none of someone's business",
     "dansk": "det skal du ikke stikke næsen i (don't put your nose into that)",
     "form": "noun",
@@ -6158,17 +5975,6 @@
     "extraUsageContext": "matter that someone is not entitled to be involved in",
     "wordCount": 4,
     "sim": 0.13800867992264568
-  },
-  {
-    "engelsk": "no pain, no gain",
-    "dansk": "man skal yde før man kan nyde",
-    "extraUsageContext": "discomfort is necessary to achieve goals",
-    "notes": [
-      "he who dares nothing wins nothing",
-      "you have to make before you can enjoy"
-    ],
-    "wordCount": 4,
-    "sim": 0.21317911654247043
   },
   {
     "engelsk": "Northern Cyprus",
@@ -6257,13 +6063,6 @@
     "extraUsageContext": "card game",
     "wordCount": 2,
     "sim": 0.33468874752173206
-  },
-  {
-    "engelsk": "once bitten, twice shy",
-    "dansk": "brændt barn skyr ilden",
-    "extraUsageContext": "one is cautious in the future if hurt in the past",
-    "wordCount": 4,
-    "sim": 0.08847437991940789
   },
   {
     "engelsk": "one",
@@ -8061,20 +7860,6 @@
     "sim": 0.252675531066146
   },
   {
-    "engelsk": "spare the rod and spoil the child",
-    "dansk": "den man elsker",
-    "extraUsageContext": "if one does not discipline a child he or she will never learn respect or humility",
-    "wordCount": 7,
-    "sim": 0.11074100718253992
-  },
-  {
-    "engelsk": "spare the rod and spoil the child",
-    "dansk": "tugter man",
-    "extraUsageContext": "if one does not discipline a child he or she will never learn respect or humility",
-    "wordCount": 7,
-    "sim": 0.23565478208729987
-  },
-  {
     "engelsk": "speak of the devil",
     "dansk": "når man taler om solen (when you speak of the sun)",
     "form": "phrase",
@@ -8133,13 +7918,6 @@
     "extraUsageContext": "To run etc at top speed for a short period",
     "wordCount": 1,
     "sim": 0.3475692598392883
-  },
-  {
-    "engelsk": "squeaky wheel gets the grease",
-    "dansk": "som man spørger får man svar",
-    "extraUsageContext": "the person who complains most receives the attention",
-    "wordCount": 5,
-    "sim": 0.08864034423169505
   },
   {
     "engelsk": "St",
@@ -8534,20 +8312,6 @@
     "sim": 0.21973140990512513
   },
   {
-    "engelsk": "there's no place like home",
-    "dansk": "ude godt",
-    "extraUsageContext": "one feels most comfortable at home",
-    "wordCount": 5,
-    "sim": 0.11910868039751799
-  },
-  {
-    "engelsk": "there's no place like home",
-    "dansk": "øst vest",
-    "extraUsageContext": "one feels most comfortable at home",
-    "wordCount": 5,
-    "sim": 0.11285865503777968
-  },
-  {
     "engelsk": "thick as a brick",
     "dansk": "dum som et bræt (\"dumb as a plank\")",
     "form": "adjective",
@@ -8639,13 +8403,6 @@
     "extraUsageContext": "amphibian similar to a frog",
     "wordCount": 1,
     "sim": 0.2558027195410858
-  },
-  {
-    "engelsk": "to each his own",
-    "dansk": "smag og behag er forskellig",
-    "extraUsageContext": "every person is entitled to his or her personal preferences",
-    "wordCount": 4,
-    "sim": 0.10456087857657785
   },
   {
     "engelsk": "tollgate",
@@ -8874,13 +8631,6 @@
     "extraUsageContext": "worthless amount",
     "wordCount": 2,
     "sim": 0.25214504452231984
-  },
-  {
-    "engelsk": "uber-",
-    "dansk": "super- (sarcastically or rarely used)",
-    "extraUsageContext": "slang: super, really, mega-",
-    "wordCount": 1,
-    "sim": 0.166670267988165
   },
   {
     "engelsk": "ulterior motive",
@@ -9285,34 +9035,6 @@
     "sim": 0.2847853244222878
   },
   {
-    "engelsk": "what goes around comes around",
-    "dansk": "man ligger som man har redt",
-    "extraUsageContext": "the status returns to its original value",
-    "wordCount": 5,
-    "sim": 0.3187300922747706
-  },
-  {
-    "engelsk": "what goes around comes around",
-    "dansk": "hvad et menneske sår skal han høste",
-    "extraUsageContext": "actions have consequences",
-    "wordCount": 5,
-    "sim": 0.25499769891317353
-  },
-  {
-    "engelsk": "what goes around comes around",
-    "dansk": "som man råber i skoven får man svar",
-    "extraUsageContext": "actions have consequences",
-    "wordCount": 5,
-    "sim": 0.16109200608705093
-  },
-  {
-    "engelsk": "what goes around comes around",
-    "dansk": "man ligger som man reder",
-    "extraUsageContext": "actions have consequences",
-    "wordCount": 5,
-    "sim": 0.3412595421345633
-  },
-  {
     "engelsk": "wheelhouse",
     "dansk": "bro",
     "form": "noun",
@@ -9327,20 +9049,6 @@
     "extraUsageContext": "at a time in the past",
     "wordCount": 1,
     "sim": 0.3452354781322502
-  },
-  {
-    "engelsk": "when in Rome, do as the Romans do",
-    "dansk": "skik følge eller land fly",
-    "extraUsageContext": "behave as those around do",
-    "wordCount": 8,
-    "sim": 0.1510929528306597
-  },
-  {
-    "engelsk": "when in Rome, do as the Romans do",
-    "dansk": "man må hyle med de ulve man er iblandt",
-    "extraUsageContext": "behave as those around do",
-    "wordCount": 8,
-    "sim": 0.08414183019118161
   },
   {
     "engelsk": "white-eyed gull",
@@ -9609,13 +9317,6 @@
     "sim": 0.19803075694205083
   },
   {
-    "engelsk": "you can't judge a book by its cover",
-    "dansk": "sku ikke hunden på hårene",
-    "extraUsageContext": "it is not possible to judge things by external appearances alone",
-    "wordCount": 8,
-    "sim": 0.1911592537706278
-  },
-  {
     "engelsk": "you're welcome",
     "dansk": "det var så lidt",
     "form": "phrase",
@@ -9670,20 +9371,6 @@
     "extraUsageContext": "an inexpensive supervised lodging place, primarily for young people",
     "wordCount": 2,
     "sim": 0.2515026718484946
-  },
-  {
-    "engelsk": "you've got to crack a few eggs to make an omelette",
-    "dansk": "hvor der handles",
-    "extraUsageContext": "phrase",
-    "wordCount": 11,
-    "sim": -0.04713904021455842
-  },
-  {
-    "engelsk": "you've got to crack a few eggs to make an omelette",
-    "dansk": "der spildes",
-    "extraUsageContext": "phrase",
-    "wordCount": 11,
-    "sim": 0.027972157170403304
   },
   {
     "engelsk": "Yup'ik",
@@ -10328,13 +10015,6 @@
     "sim": 0.3349277549507293
   },
   {
-    "engelsk": "each to his own",
-    "dansk": "smag og behag er forskellig",
-    "extraUsageContext": "to each his own",
-    "wordCount": 4,
-    "sim": 0.11948540780400581
-  },
-  {
     "engelsk": "elect",
     "dansk": "finde for godt",
     "form": "verb",
@@ -10782,13 +10462,6 @@
     "sim": 0.2824262042484412
   },
   {
-    "engelsk": "great haste makes great waste",
-    "dansk": "hastværk er lastværk",
-    "extraUsageContext": "haste makes waste",
-    "wordCount": 5,
-    "sim": 0.31757068827160284
-  },
-  {
     "engelsk": "hairdressing salon",
     "dansk": "frisørsalon",
     "form": "noun",
@@ -10822,13 +10495,6 @@
     "extraUsageContext": "Alliaria petiolata",
     "wordCount": 2,
     "sim": 0.31558267533148443
-  },
-  {
-    "engelsk": "he who laughs last laughs hardest",
-    "dansk": "ler bedst",
-    "extraUsageContext": "he who laughs last laughs best",
-    "wordCount": 6,
-    "sim": 0.3411297079595046
   },
   {
     "engelsk": "high-priced",
@@ -11219,33 +10885,12 @@
     "sim": 0.28299833120198215
   },
   {
-    "engelsk": "necessity is the mother of innovation",
-    "dansk": "nød lærer nøgen kvinde at spinde",
-    "extraUsageContext": "necessity is the mother of invention",
-    "notes": [
-      "need teaches (a) naked woman how to spin"
-    ],
-    "wordCount": 6,
-    "sim": 0.09081481887329214
-  },
-  {
     "engelsk": "Norwegian Bokmål",
     "dansk": "bokmål",
     "form": "noun",
     "extraUsageContext": "Bokmål",
     "wordCount": 2,
     "sim": 0.33071699376822605
-  },
-  {
-    "engelsk": "nothing ventured, nothing gained",
-    "dansk": "man skal yde før man kan nyde",
-    "extraUsageContext": "if one takes no risks, one will not gain any benefits",
-    "notes": [
-      "he who dares nothing wins nothing",
-      "you have to make before you can enjoy"
-    ],
-    "wordCount": 4,
-    "sim": 0.15244221589887708
   },
   {
     "engelsk": "oak tree",
@@ -12081,20 +11726,6 @@
     "sim": 0.32243400275734396
   },
   {
-    "engelsk": "when in Rome",
-    "dansk": "skik følge eller land fly",
-    "extraUsageContext": "adjust to local customs",
-    "wordCount": 3,
-    "sim": 0.19265908611434854
-  },
-  {
-    "engelsk": "when in Rome",
-    "dansk": "man må hyle med de ulve man er iblandt",
-    "extraUsageContext": "adjust to local customs",
-    "wordCount": 3,
-    "sim": 0.026918133853318177
-  },
-  {
     "engelsk": "white sauce",
     "dansk": "majonæse",
     "form": "noun",
@@ -12189,20 +11820,6 @@
     "extraUsageContext": "you're welcome",
     "wordCount": 3,
     "sim": 0.24439658363835087
-  },
-  {
-    "engelsk": "you can't make an omelette without breaking eggs",
-    "dansk": "hvor der handles",
-    "extraUsageContext": "you've got to crack a few eggs to make an omelette",
-    "wordCount": 8,
-    "sim": -0.036563275872857834
-  },
-  {
-    "engelsk": "you can't make an omelette without breaking eggs",
-    "dansk": "der spildes",
-    "extraUsageContext": "you've got to crack a few eggs to make an omelette",
-    "wordCount": 8,
-    "sim": 0.024312735567987496
   },
   {
     "engelsk": "zucchini",

@@ -1,6 +1,6 @@
 {
   "name": "@danskify/dictionary",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Danish dictionary data package with 20k entries",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,10 +12,12 @@
     "build": "tsc",
     "prepublishOnly": "yarn build",
     "generate": "ts-node ./scripts/parser.ts && yarn analyze:see-rejections",
-    "generate:production": "VALIDATE_SEMANTICS=true && ts-node ./scripts/parser.ts && yarn analyze:see-rejections",
+    "generate:production": "VALIDATE_SEMANTICS=true yarn generate",
     "generate:validation": "ts-node ./scripts/generate-validation-sample.ts",
     "analyze:see-rejections": "ts-node ./scripts/analyze-see.ts",
-    "validate:sample": "ts-node ./scripts/validate-sample.ts"
+    "validate:sample": "ts-node ./scripts/validate-sample.ts",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "keywords": [
     "danish",
@@ -32,10 +34,28 @@
   ],
   "packageManager": "yarn@4.10.3",
   "devDependencies": {
+    "@eslint/compat": "1.2.3",
+    "@eslint/js": "9.16.0",
+    "@types/eslint__js": "8.42.3",
     "@types/node": "^24.10.0",
+    "@typescript-eslint/eslint-plugin": "8.17.0",
+    "@typescript-eslint/parser": "8.17.0",
     "cheerio": "^1.1.2",
+    "eslint": "9.16.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-import-x": "4.5.0",
+    "eslint-plugin-jsx-a11y": "6.10.2",
+    "eslint-plugin-perfectionist": "3.9.1",
+    "eslint-plugin-react": "7.37.2",
+    "eslint-plugin-react-hooks": "5.0.0",
+    "eslint-plugin-react-refresh": "0.4.16",
+    "eslint-plugin-unicorn": "56.0.1",
+    "globals": "15.13.0",
+    "prettier": "3.4.2",
+    "prettier-eslint": "16.3.0",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "typescript-eslint": "8.17.0"
   },
   "repository": {
     "type": "git",

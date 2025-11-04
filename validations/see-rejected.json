@@ -195,11 +195,6 @@
     "sim": 0.40489342973053877
   },
   {
-    "from": "almost doesn't count",
-    "to": "close, but no cigar",
-    "sim": 0.38216665421471735
-  },
-  {
     "from": "al-Quds",
     "to": "Jerusalem",
     "sim": 0.2992537017175841
@@ -233,11 +228,6 @@
     "from": "amiss",
     "to": "wrong",
     "sim": 0.25724664849794215
-  },
-  {
-    "from": "a miss is as good as a mile",
-    "to": "close, but no cigar",
-    "sim": 0.25020903061026506
   },
   {
     "from": "a mite",
@@ -853,11 +843,6 @@
     "from": "benchlet",
     "to": "stool",
     "sim": 0.1940546048614833
-  },
-  {
-    "from": "better an egg today than a hen tomorrow",
-    "to": "a bird in the hand is worth two in the bush",
-    "sim": 0.21732040919841675
   },
   {
     "from": "beyond",
@@ -2603,11 +2588,6 @@
     "from": "dickhead",
     "to": "glans penis",
     "sim": 0.2571499896502785
-  },
-  {
-    "from": "different strokes for different folks",
-    "to": "there's no accounting for taste",
-    "sim": 0.14939716898235986
   },
   {
     "from": "digger",
@@ -4725,11 +4705,6 @@
     "sim": 0.256302203776359
   },
   {
-    "from": "judge not, that ye be not judged",
-    "to": "people who live in glass houses shouldn't throw stones",
-    "sim": 0.1593246187009823
-  },
-  {
     "from": "juice joint",
     "to": "nightclub",
     "sim": 0.265638233265335
@@ -5483,11 +5458,6 @@
     "from": "misbegotten",
     "to": "illegitimate",
     "sim": 0.3018263063492572
-  },
-  {
-    "from": "misfortunes never come singly",
-    "to": "it never rains but it pours",
-    "sim": 0.3006033947683243
   },
   {
     "from": "missus",
@@ -7345,16 +7315,6 @@
     "sim": 0.3957885609572457
   },
   {
-    "from": "-san",
-    "to": "Mrs",
-    "sim": 0.26054926124370764
-  },
-  {
-    "from": "-san",
-    "to": "Miss",
-    "sim": 0.29491075303691355
-  },
-  {
     "from": "sangoma",
     "to": "witch doctor",
     "sim": 0.20935815578664388
@@ -7418,11 +7378,6 @@
     "from": "scatterbrained",
     "to": "absent-minded",
     "sim": 0.18013164467620368
-  },
-  {
-    "from": "scientia potentia est",
-    "to": "knowledge is power",
-    "sim": 0.17410431613793814
   },
   {
     "from": "scope",
@@ -8578,11 +8533,6 @@
     "from": "temperance",
     "to": "temperature",
     "sim": 0.16685908348579095
-  },
-  {
-    "from": "tempus fugit",
-    "to": "time flies",
-    "sim": 0.25005664621972995
   },
   {
     "from": "term of art",

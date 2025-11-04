@@ -1,52 +1,60 @@
-import fs from "fs/promises";
-import path from "path";
-import crypto from "crypto";
+/* eslint-disable unicorn/no-process-exit */
+import crypto from 'node:crypto'
+import fs from 'node:fs/promises'
+import path from 'node:path'
 
-const INPUT_FILE = "./validations/data-originals.json";
-const OUTPUT_FILE = "./validations/validation-sample.json";
-const SAMPLE_SIZE = 500;
+import type { IDictionaryEntryWithOriginal } from './parser'
+
+const INPUT_FILE = './validations/data-originals.json'
+const OUTPUT_FILE = './validations/validation-sample.json'
+const SAMPLE_SIZE = 500
 
 // Optional seed via CLI flag (e.g. `node validate-sample.js --seed 123`)
-const argSeed = process.argv.find((a) => a.startsWith("--seed"));
-const SEED = argSeed ? argSeed.split("=")[1] : crypto.randomUUID();
+const argumentSeed = process.argv.find((a) => a.startsWith('--seed'))
+const SEED = argumentSeed ? argumentSeed.split('=')[1] : crypto.randomUUID()
 
 // PRNG seeded if provided, otherwise random each run
 function seededRandom(seed: string) {
-  let h = crypto.createHash("sha256").update(seed).digest();
-  let idx = 0;
+  let h = crypto.createHash('sha256').update(seed).digest()
+  let index = 0
   return () => {
-    if (idx >= h.length - 8) {
-      h = crypto.createHash("sha256").update(h).digest();
-      idx = 0;
+    if (index >= h.length - 8) {
+      h = crypto.createHash('sha256').update(h).digest()
+      index = 0
     }
-    const num = h.readUInt32LE(idx);
-    idx += 4;
-    return num / 0xffffffff;
-  };
+    const number_ = h.readUInt32LE(index)
+    index += 4
+    return number_ / 0xff_ff_ff_ff
+  }
 }
 
 async function createValidationSample() {
-  const absPath = path.resolve(INPUT_FILE);
-  const data = JSON.parse(await fs.readFile(absPath, "utf-8"));
+  const absPath = path.resolve(INPUT_FILE)
+  // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
+  const data: IDictionaryEntryWithOriginal[] | undefined = JSON.parse(
+    await fs.readFile(absPath, 'utf8')
+  )
 
-  if (!Array.isArray(data)) throw new Error("Input JSON is not an array");
-
-  const rand = seededRandom(SEED);
-  const shuffled = [...data];
-
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(rand() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  if (!Array.isArray(data)) {
+    throw new TypeError('Input JSON is not an array')
   }
 
-  const sample = shuffled.slice(0, SAMPLE_SIZE);
+  const rand = seededRandom(SEED)
+  const shuffled = [...data]
 
-  await fs.writeFile(OUTPUT_FILE, JSON.stringify(sample, null, 2), "utf-8");
-  console.log(`✅ Wrote ${SAMPLE_SIZE} entries to ${OUTPUT_FILE}`);
-  console.log(`Seed used: ${SEED}`);
+  for (let index = shuffled.length - 1; index > 0; index--) {
+    const index_ = Math.floor(rand() * (index + 1))
+    ;[shuffled[index], shuffled[index_]] = [shuffled[index_], shuffled[index]]
+  }
+
+  const sample = shuffled.slice(0, SAMPLE_SIZE)
+
+  await fs.writeFile(OUTPUT_FILE, JSON.stringify(sample, null, 2), 'utf8')
+  console.log(`✅ Wrote ${SAMPLE_SIZE.toString()} entries to ${OUTPUT_FILE}`)
+  console.log(`Seed used: ${SEED}`)
 }
 
-createValidationSample().catch((err) => {
-  console.error("❌ Failed to create validation sample:", err);
-  process.exit(1);
-});
+createValidationSample().catch((error: unknown) => {
+  console.error('❌ Failed to create validation sample:', error)
+  process.exit(1)
+})
