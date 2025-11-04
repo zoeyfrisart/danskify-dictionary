@@ -1,5 +1,5 @@
 {
-  "name": "danskify-dictionary",
+  "name": "@danskify/dictionary",
   "version": "1.0.0",
   "description": "A Danish dictionary data package with 20k entries",
   "main": "dist/index.js",
@@ -17,7 +17,7 @@
     "dictionary",
     "danskify"
   ],
-  "author": "",
+  "author": "zoeyfrisart",
   "license": "CC-BY-SA-3.0",
   "contributors": [
     {
@@ -31,5 +31,12 @@
     "cheerio": "^1.1.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoeyfrisart/danskify-dictionary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zoeyfrisart/danskify-dictionary/issues"
   }
 }

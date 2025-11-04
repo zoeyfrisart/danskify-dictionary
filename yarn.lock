@@ -14,6 +14,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@danskify/dictionary@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@danskify/dictionary@workspace:."
+  dependencies:
+    "@types/node": "npm:^24.10.0"
+    cheerio: "npm:^1.1.2"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.9.3"
+  languageName: unknown
+  linkType: soft
+
 "@jridgewell/resolve-uri@npm:^3.0.3":
   version: 3.1.2
   resolution: "@jridgewell/resolve-uri@npm:3.1.2"
@@ -166,17 +177,6 @@ __metadata:
   checksum: 10c0/91e24c26fb977b4ccef30d7007d2668c1c10ac0154cc3f42f7304410e9594fb772aea4f30c832d2993b132ca8d99338050866476210316345ec2e7d47b248a56
   languageName: node
   linkType: hard
-
-"danskify-dictionary@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "danskify-dictionary@workspace:."
-  dependencies:
-    "@types/node": "npm:^24.10.0"
-    cheerio: "npm:^1.1.2"
-    ts-node: "npm:^10.9.2"
-    typescript: "npm:^5.9.3"
-  languageName: unknown
-  linkType: soft
 
 "diff@npm:^4.0.1":
   version: 4.0.2
