@@ -1,0 +1,2999 @@
+[
+  {
+    "engelsk": "description",
+    "dansk": "beskrivelse",
+    "form": "noun",
+    "sim": 0.6993412607499035
+  },
+  {
+    "engelsk": "violet",
+    "dansk": "viol",
+    "form": "noun",
+    "sim": 0.5901676876568913
+  },
+  {
+    "engelsk": "observer",
+    "dansk": "iagttager",
+    "form": "noun",
+    "sim": 0.8301538292675337
+  },
+  {
+    "engelsk": "shopping mall",
+    "dansk": "butikscenter",
+    "form": "noun",
+    "sim": 0.7575782910761694
+  },
+  {
+    "engelsk": "Alberta",
+    "dansk": "Alberta",
+    "form": "properNoun",
+    "sim": 1
+  },
+  {
+    "engelsk": "white-haired",
+    "dansk": "hvidhåret",
+    "form": "adjective",
+    "sim": 0.8000446534175248
+  },
+  {
+    "engelsk": "Euphrates",
+    "dansk": "Eufrat",
+    "form": "properNoun",
+    "sim": 0.9175974033008039
+  },
+  {
+    "engelsk": "Prussia",
+    "dansk": "Prøjsen",
+    "form": "properNoun",
+    "sim": 0.7634995858738678
+  },
+  {
+    "engelsk": "butcher",
+    "dansk": "slagter",
+    "form": "noun",
+    "sim": 0.8797800262760657
+  },
+  {
+    "engelsk": "amateurish",
+    "dansk": "amatørmæssig",
+    "form": "adjective",
+    "sim": 0.8109210791813032
+  },
+  {
+    "engelsk": "pillar",
+    "dansk": "søjle",
+    "form": "noun",
+    "sim": 0.683173618227989
+  },
+  {
+    "engelsk": "learn",
+    "dansk": "lære",
+    "form": "verb",
+    "sim": 0.8931974152589865
+  },
+  {
+    "engelsk": "Arab Spring",
+    "dansk": "Arabiske Forår",
+    "form": "properNoun",
+    "sim": 0.944007724702032
+  },
+  {
+    "engelsk": "anoxic",
+    "dansk": "iltfattig",
+    "form": "adjective",
+    "sim": 0.5044872277693436
+  },
+  {
+    "engelsk": "Gothic",
+    "dansk": "gotisk",
+    "form": "adjective",
+    "sim": 0.7871232075700418
+  },
+  {
+    "engelsk": "deadpan",
+    "dansk": "udtryksløs",
+    "form": "adverb",
+    "sim": 0.5868961580238381
+  },
+  {
+    "engelsk": "wherenot",
+    "dansk": "hvor",
+    "form": "conjunction",
+    "sim": 0.7607493869301406
+  },
+  {
+    "engelsk": "waitlist",
+    "dansk": "venteliste",
+    "form": "noun",
+    "sim": 0.7912720106440193
+  },
+  {
+    "engelsk": "foretell",
+    "dansk": "forudsige",
+    "form": "verb",
+    "sim": 0.5992737484190354
+  },
+  {
+    "engelsk": "rattle",
+    "dansk": "rasle",
+    "form": "noun",
+    "sim": 0.6535053820965825
+  },
+  {
+    "engelsk": "importance",
+    "dansk": "betydning",
+    "form": "noun",
+    "sim": 0.7984428042735059
+  },
+  {
+    "engelsk": "wind up",
+    "dansk": "opløse",
+    "form": "verb",
+    "sim": 0.5217685388728136
+  },
+  {
+    "engelsk": "taxi",
+    "dansk": "vogn",
+    "form": "noun",
+    "sim": 0.39280907749345617
+  },
+  {
+    "engelsk": "neighborhood",
+    "dansk": "omegn",
+    "form": "noun",
+    "sim": 0.4809334422706421
+  },
+  {
+    "engelsk": "midget",
+    "dansk": "gnom",
+    "form": "noun",
+    "sim": 0.5973765021041874
+  },
+  {
+    "engelsk": "prayer mat",
+    "dansk": "bedetæppe",
+    "form": "noun",
+    "sim": 0.32306812430770954
+  },
+  {
+    "engelsk": "shock wave",
+    "dansk": "chokbølge",
+    "form": "noun",
+    "sim": 0.6475808360073119
+  },
+  {
+    "engelsk": "pestilence",
+    "dansk": "pest",
+    "form": "noun",
+    "sim": 0.809330049987222
+  },
+  {
+    "engelsk": "Lawrence",
+    "dansk": "Lars",
+    "form": "properNoun",
+    "sim": 0.6682009231532204
+  },
+  {
+    "engelsk": "ferment",
+    "dansk": "fermentere",
+    "form": "verb",
+    "sim": 0.9643526254659082
+  },
+  {
+    "engelsk": "cocoa",
+    "dansk": "kakao",
+    "form": "noun",
+    "sim": 0.877780018832129
+  },
+  {
+    "engelsk": "step in",
+    "dansk": "virke",
+    "form": "verb",
+    "sim": 0.4598147783586042
+  },
+  {
+    "engelsk": "blow-dry",
+    "dansk": "føntørre",
+    "form": "verb",
+    "sim": 0.5930825033054283
+  },
+  {
+    "engelsk": "red onion",
+    "dansk": "rødløg",
+    "form": "noun",
+    "sim": 0.49952554175167635
+  },
+  {
+    "engelsk": "dedicated",
+    "dansk": "idealistisk",
+    "form": "adjective",
+    "sim": 0.4957394270667736
+  },
+  {
+    "engelsk": "keep",
+    "dansk": "beholde",
+    "form": "verb",
+    "sim": 0.8990701547633617
+  },
+  {
+    "engelsk": "landslide",
+    "dansk": "bjergskred",
+    "form": "noun",
+    "sim": 0.5221058894278287
+  },
+  {
+    "engelsk": "appear",
+    "dansk": "se ud",
+    "form": "verb",
+    "sim": 0.4781959967731634
+  },
+  {
+    "engelsk": "Hebraic",
+    "dansk": "hebraisk",
+    "form": "adjective",
+    "sim": 0.8561519600841521
+  },
+  {
+    "engelsk": "caliper",
+    "dansk": "caliper",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "factorize",
+    "dansk": "faktorisere",
+    "form": "verb",
+    "sim": 0.8819985895702073
+  },
+  {
+    "engelsk": "catapult",
+    "dansk": "katapultere",
+    "form": "verb",
+    "sim": 0.7904654937959134
+  },
+  {
+    "engelsk": "disguise",
+    "dansk": "maskering",
+    "form": "noun",
+    "sim": 0.6823656866225594
+  },
+  {
+    "engelsk": "way",
+    "dansk": "langt borte",
+    "form": "adjective",
+    "sim": 0.5389798489904849
+  },
+  {
+    "engelsk": "phrasebook",
+    "dansk": "parlør",
+    "form": "noun",
+    "sim": 0.3625593718833318
+  },
+  {
+    "engelsk": "Aleutian Islands",
+    "dansk": "Aleuterne",
+    "form": "properNoun",
+    "sim": 0.565803615423725
+  },
+  {
+    "engelsk": "regret",
+    "dansk": "fortryde",
+    "form": "verb",
+    "sim": 0.6701557278790149
+  },
+  {
+    "engelsk": "blank",
+    "dansk": "rubrik",
+    "form": "noun",
+    "sim": 0.39742870504139605
+  },
+  {
+    "engelsk": "His Majesty",
+    "dansk": "Hans Majestæt",
+    "form": "pronoun",
+    "sim": 0.8871986349298598
+  },
+  {
+    "engelsk": "lindworm",
+    "dansk": "lindorm",
+    "form": "noun",
+    "sim": 0.4378323271010892
+  },
+  {
+    "engelsk": "perpetrate",
+    "dansk": "begå",
+    "form": "verb",
+    "sim": 0.7542147468861886
+  },
+  {
+    "engelsk": "Szczecin",
+    "dansk": "Stettin",
+    "form": "properNoun",
+    "sim": 0.7833109525083423
+  },
+  {
+    "engelsk": "deer meat",
+    "dansk": "hjortekød",
+    "form": "noun",
+    "sim": 0.7939798594502905
+  },
+  {
+    "engelsk": "farrier",
+    "dansk": "beslagsmed",
+    "form": "noun",
+    "sim": 0.6606638462663887
+  },
+  {
+    "engelsk": "vice",
+    "dansk": "skruetvinge",
+    "form": "noun",
+    "sim": 0.6447764426623381
+  },
+  {
+    "engelsk": "Papal States",
+    "dansk": "Pavestaten",
+    "form": "properNoun",
+    "sim": 0.5605756076746097
+  },
+  {
+    "engelsk": "accomplish",
+    "dansk": "fuldende",
+    "form": "verb",
+    "sim": 0.6170780799789447
+  },
+  {
+    "engelsk": "nimble",
+    "dansk": "rask",
+    "form": "adjective",
+    "sim": 0.48886748804311453
+  },
+  {
+    "engelsk": "Balzacian",
+    "dansk": "balzaciansk",
+    "form": "adjective",
+    "sim": 0.6815188386898448
+  },
+  {
+    "engelsk": "black",
+    "dansk": "neger",
+    "form": "noun",
+    "sim": 0.5838301263453782
+  },
+  {
+    "engelsk": "democratic",
+    "dansk": "demokratisk",
+    "form": "adjective",
+    "sim": 0.9527608375608326
+  },
+  {
+    "engelsk": "multiple personality disorder",
+    "dansk": "dissociativ identitetsforstyrrelse",
+    "form": "noun",
+    "sim": 0.5680751825545245
+  },
+  {
+    "engelsk": "box",
+    "dansk": "jagthytte",
+    "form": "noun",
+    "sim": 0.41937937086347277
+  },
+  {
+    "engelsk": "fifth wheel",
+    "dansk": "sættevognskobling",
+    "form": "noun",
+    "sim": 0.406038135001516
+  },
+  {
+    "engelsk": "astounded",
+    "dansk": "forbløffet",
+    "form": "adjective",
+    "sim": 0.71322731109402
+  },
+  {
+    "engelsk": "participial",
+    "dansk": "participium",
+    "form": "noun",
+    "sim": 0.8633956823362976
+  },
+  {
+    "engelsk": "porno",
+    "dansk": "pornofilm",
+    "form": "noun",
+    "sim": 0.9192014358668293
+  },
+  {
+    "engelsk": "Northern Cyprus",
+    "dansk": "Nordcypern",
+    "form": "properNoun",
+    "sim": 0.8393671088772411
+  },
+  {
+    "engelsk": "abduction",
+    "dansk": "bortføring",
+    "form": "noun",
+    "sim": 0.7634482553179132
+  },
+  {
+    "engelsk": "Tuvaluan",
+    "dansk": "tuvaler",
+    "form": "noun",
+    "sim": 0.7948743511161007
+  },
+  {
+    "engelsk": "spokesman",
+    "dansk": "talsperson",
+    "form": "noun",
+    "sim": 0.7051872261537794
+  },
+  {
+    "engelsk": "thralldom",
+    "dansk": "trældom",
+    "form": "noun",
+    "sim": 0.7816843838442362
+  },
+  {
+    "engelsk": "slaver",
+    "dansk": "savle",
+    "form": "verb",
+    "sim": 0.4741304618210789
+  },
+  {
+    "engelsk": "need",
+    "dansk": "nød",
+    "form": "noun",
+    "sim": 0.5716212107318775
+  },
+  {
+    "engelsk": "mind",
+    "dansk": "sjæl",
+    "form": "noun",
+    "sim": 0.5872698812269619
+  },
+  {
+    "engelsk": "chick",
+    "dansk": "sild",
+    "form": "noun",
+    "sim": 0.5261244834137974
+  },
+  {
+    "engelsk": "death",
+    "dansk": "Døden",
+    "form": "noun",
+    "sim": 0.8845192372259254
+  },
+  {
+    "engelsk": "back to front",
+    "dansk": "bagvendt",
+    "form": "adjective",
+    "sim": 0.4878864133611774
+  },
+  {
+    "engelsk": "advertise",
+    "dansk": "annoncere",
+    "form": "verb",
+    "sim": 0.6709449075551734
+  },
+  {
+    "engelsk": "someone",
+    "dansk": "en eller anden",
+    "form": "pronoun",
+    "sim": 0.8481311045241665
+  },
+  {
+    "engelsk": "cocaine",
+    "dansk": "kokain",
+    "form": "noun",
+    "sim": 0.8688670400425537
+  },
+  {
+    "engelsk": "drug",
+    "dansk": "narko",
+    "form": "noun",
+    "sim": 0.7341971973158786
+  },
+  {
+    "engelsk": "body image",
+    "dansk": "kropsbillede",
+    "form": "noun",
+    "sim": 0.5740594602269427
+  },
+  {
+    "engelsk": "liar",
+    "dansk": "løgner",
+    "form": "noun",
+    "sim": 0.8718244907696929
+  },
+  {
+    "engelsk": "fresco",
+    "dansk": "freske",
+    "form": "noun",
+    "sim": 0.8834285119286653
+  },
+  {
+    "engelsk": "winter",
+    "dansk": "overvintre",
+    "form": "verb",
+    "sim": 0.6440293239599697
+  },
+  {
+    "engelsk": "molar",
+    "dansk": "kindtand",
+    "form": "noun",
+    "sim": 0.6762943249465627
+  },
+  {
+    "engelsk": "interrogation",
+    "dansk": "udspørge",
+    "form": "noun",
+    "sim": 0.884178552348761
+  },
+  {
+    "engelsk": "beekeeper",
+    "dansk": "biavler",
+    "form": "noun",
+    "sim": 0.8271570439658879
+  },
+  {
+    "engelsk": "beggar",
+    "dansk": "tiggerske",
+    "form": "noun",
+    "sim": 0.6238448585106247
+  },
+  {
+    "engelsk": "poop",
+    "dansk": "bæ",
+    "form": "noun",
+    "sim": 0.6020111946405188
+  },
+  {
+    "engelsk": "get married",
+    "dansk": "giftes",
+    "form": "verb",
+    "sim": 0.6399700053056752
+  },
+  {
+    "engelsk": "endorse",
+    "dansk": "skrive bag på",
+    "form": "verb",
+    "sim": 0.3667761208383922
+  },
+  {
+    "engelsk": "tramp",
+    "dansk": "vagabund",
+    "form": "noun",
+    "sim": 0.7518171599491911
+  },
+  {
+    "engelsk": "automatic",
+    "dansk": "automatisk",
+    "form": "adjective",
+    "sim": 0.9234600680166059
+  },
+  {
+    "engelsk": "eldercare",
+    "dansk": "ældrepleje",
+    "form": "noun",
+    "sim": 0.7058406774007628
+  },
+  {
+    "engelsk": "light",
+    "dansk": "belyst",
+    "form": "adjective",
+    "sim": 0.43356875643940557
+  },
+  {
+    "engelsk": "income statement",
+    "dansk": "resultatopgørelse",
+    "form": "noun",
+    "sim": 0.6631472621143351
+  },
+  {
+    "engelsk": "bracket",
+    "dansk": "hyldeknægt",
+    "form": "noun",
+    "sim": 0.6536466793499223
+  },
+  {
+    "engelsk": "musical notation",
+    "dansk": "nodeskrift",
+    "form": "noun",
+    "sim": 0.4541200565324878
+  },
+  {
+    "engelsk": "pudding",
+    "dansk": "budding",
+    "form": "noun",
+    "sim": 0.6303651869329941
+  },
+  {
+    "engelsk": "at the top of one's lungs",
+    "dansk": "af sine lungers fulde kraft",
+    "form": "preposition",
+    "sim": 0.4362976190154454
+  },
+  {
+    "engelsk": "take one's own life",
+    "dansk": "tage sig af dage",
+    "form": "verb",
+    "sim": 0.24674564804561083
+  },
+  {
+    "engelsk": "Edam cheese",
+    "dansk": "edam",
+    "form": "noun",
+    "sim": 0.29939511209252107
+  },
+  {
+    "engelsk": "work",
+    "dansk": "forarbejde",
+    "form": "verb",
+    "sim": 0.5569310526227554
+  },
+  {
+    "engelsk": "intervention",
+    "dansk": "indgreb",
+    "form": "noun",
+    "sim": 0.5395469931870922
+  },
+  {
+    "engelsk": "snow plow",
+    "dansk": "sneplov",
+    "form": "noun",
+    "sim": 0.7066536906520894
+  },
+  {
+    "engelsk": "questionnaire",
+    "dansk": "spørgeskema",
+    "form": "noun",
+    "sim": 0.8060547486501314
+  },
+  {
+    "engelsk": "sail",
+    "dansk": "sejltur",
+    "form": "noun",
+    "sim": 0.5768533941056825
+  },
+  {
+    "engelsk": "gift certificate",
+    "dansk": "gavekort",
+    "form": "noun",
+    "sim": 0.6039996254600677
+  },
+  {
+    "engelsk": "punctuation",
+    "dansk": "tegnsætning",
+    "form": "noun",
+    "sim": 0.6186776199496666
+  },
+  {
+    "engelsk": "talk",
+    "dansk": "foredrag",
+    "form": "noun",
+    "sim": 0.775792366563971
+  },
+  {
+    "engelsk": "sceptre",
+    "dansk": "scepter",
+    "form": "noun",
+    "sim": 0.9538976728192359
+  },
+  {
+    "engelsk": "aromatic",
+    "dansk": "aromatisk",
+    "form": "adjective",
+    "sim": 0.974754319805576
+  },
+  {
+    "engelsk": "well-kept",
+    "dansk": "velholdt",
+    "form": "adjective",
+    "sim": 0.5347371709010076
+  },
+  {
+    "engelsk": "hereditary",
+    "dansk": "arvelig",
+    "form": "adjective",
+    "sim": 0.5318598960115632
+  },
+  {
+    "engelsk": "basket",
+    "dansk": "ring",
+    "form": "noun",
+    "sim": 0.43596186520522123
+  },
+  {
+    "engelsk": "endorsement",
+    "dansk": "tilslutning",
+    "form": "noun",
+    "sim": 0.8102249881284787
+  },
+  {
+    "engelsk": "Catalan",
+    "dansk": "catalansk",
+    "form": "adjective",
+    "sim": 0.9107289401624159
+  },
+  {
+    "engelsk": "insurer",
+    "dansk": "assurandør",
+    "form": "noun",
+    "sim": 0.8885247903754556
+  },
+  {
+    "engelsk": "sperm",
+    "dansk": "sæd",
+    "form": "noun",
+    "sim": 0.4791360533375813
+  },
+  {
+    "engelsk": "work",
+    "dansk": "drive",
+    "form": "verb",
+    "sim": 0.4485291808586431
+  },
+  {
+    "engelsk": "market",
+    "dansk": "sælge",
+    "form": "verb",
+    "sim": 0.711355955294363
+  },
+  {
+    "engelsk": "dolor",
+    "dansk": "smerte",
+    "form": "noun",
+    "sim": 0.9468116502158757
+  },
+  {
+    "engelsk": "milk powder",
+    "dansk": "mælkepulver",
+    "form": "noun",
+    "sim": 0.6779372016487777
+  },
+  {
+    "engelsk": "Zhytomyr",
+    "dansk": "Zjitomir",
+    "form": "properNoun",
+    "sim": 0.6791820506379064
+  },
+  {
+    "engelsk": "enclosure",
+    "dansk": "indlæg",
+    "form": "noun",
+    "sim": 0.5651879478190002
+  },
+  {
+    "engelsk": "correspond",
+    "dansk": "korrespondere",
+    "form": "verb",
+    "sim": 0.6371465299536208
+  },
+  {
+    "engelsk": "imperial",
+    "dansk": "kejserlig",
+    "form": "adjective",
+    "sim": 0.7869465773995898
+  },
+  {
+    "engelsk": "search",
+    "dansk": "synes",
+    "form": "verb",
+    "sim": 0.43518285578734117
+  },
+  {
+    "engelsk": "even number",
+    "dansk": "lige tal",
+    "form": "noun",
+    "sim": 0.33048709888961675
+  },
+  {
+    "engelsk": "endoscopy",
+    "dansk": "endoskopi",
+    "form": "noun",
+    "sim": 0.7569947932801633
+  },
+  {
+    "engelsk": "downpipe",
+    "dansk": "nedløbsrør",
+    "form": "noun",
+    "sim": 0.5611587406499539
+  },
+  {
+    "engelsk": "robot",
+    "dansk": "robot",
+    "form": "noun",
+    "sim": 1.0000000000000002
+  },
+  {
+    "engelsk": "dark energy",
+    "dansk": "mørk energi",
+    "form": "noun",
+    "sim": 0.9430687737202924
+  },
+  {
+    "engelsk": "divisor",
+    "dansk": "divisor",
+    "form": "noun",
+    "sim": 1.0000000000000002
+  },
+  {
+    "engelsk": "-esque",
+    "dansk": "-isk",
+    "sim": 0.8183978087667669
+  },
+  {
+    "engelsk": "alliance",
+    "dansk": "forbund",
+    "form": "noun",
+    "sim": 0.5445508957835521
+  },
+  {
+    "engelsk": "bow and arrow",
+    "dansk": "pil og bue",
+    "form": "noun",
+    "sim": 0.3223436511810383
+  },
+  {
+    "engelsk": "crowd",
+    "dansk": "folkemængde",
+    "form": "noun",
+    "sim": 0.7884016304139064
+  },
+  {
+    "engelsk": "school",
+    "dansk": "skole",
+    "form": "noun",
+    "sim": 0.9623234097083884
+  },
+  {
+    "engelsk": "go to work",
+    "dansk": "gå",
+    "form": "verb",
+    "sim": 0.4684771796685718
+  },
+  {
+    "engelsk": "orc",
+    "dansk": "spækhugger",
+    "form": "noun",
+    "sim": 0.5324220582692483
+  },
+  {
+    "engelsk": "dis",
+    "dansk": "disse",
+    "form": "verb",
+    "sim": 0.7591025628317343
+  },
+  {
+    "engelsk": "reactive",
+    "dansk": "reaktionsdygtig",
+    "form": "adjective",
+    "sim": 0.8141940044825863
+  },
+  {
+    "engelsk": "merchant ship",
+    "dansk": "lastskib",
+    "form": "noun",
+    "sim": 0.642091996436772
+  },
+  {
+    "engelsk": "science",
+    "dansk": "viden",
+    "form": "noun",
+    "sim": 0.6064951147986425
+  },
+  {
+    "engelsk": "deprive",
+    "dansk": "fratage",
+    "form": "verb",
+    "sim": 0.6920414301609701
+  },
+  {
+    "engelsk": "environmentally friendly",
+    "dansk": "miljøvenlig",
+    "form": "adjective",
+    "sim": 0.8374549725561603
+  },
+  {
+    "engelsk": "dice",
+    "dansk": "krepere",
+    "form": "verb",
+    "sim": 0.4236200593147706
+  },
+  {
+    "engelsk": "triple jump",
+    "dansk": "trespring",
+    "form": "noun",
+    "sim": 0.5000277957054173
+  },
+  {
+    "engelsk": "saving",
+    "dansk": "sparepenge",
+    "form": "noun",
+    "sim": 0.637858473091732
+  },
+  {
+    "engelsk": "democracy",
+    "dansk": "demokrati",
+    "form": "noun",
+    "sim": 0.9257428636153948
+  },
+  {
+    "engelsk": "she",
+    "dansk": "hun",
+    "form": "pronoun",
+    "sim": 0.7697127031615646
+  },
+  {
+    "engelsk": "dock",
+    "dansk": "sammenkoble",
+    "form": "verb",
+    "sim": 0.5525862569659786
+  },
+  {
+    "engelsk": "domesticate",
+    "dansk": "tæmme",
+    "form": "verb",
+    "sim": 0.4963914772367597
+  },
+  {
+    "engelsk": "malware",
+    "dansk": "skadelig software",
+    "form": "noun",
+    "sim": 0.7135689257370555
+  },
+  {
+    "engelsk": "forward",
+    "dansk": "fremad",
+    "form": "adverb",
+    "sim": 0.8162452861820306
+  },
+  {
+    "engelsk": "cymose",
+    "dansk": "kvastagtig",
+    "form": "adjective",
+    "sim": 0.5725374216613699
+  },
+  {
+    "engelsk": "force",
+    "dansk": "magt",
+    "form": "noun",
+    "sim": 0.803275491768039
+  },
+  {
+    "engelsk": "turtle",
+    "dansk": "skildpadde",
+    "form": "noun",
+    "sim": 0.8315494983284603
+  },
+  {
+    "engelsk": "clobber",
+    "dansk": "hamre ned",
+    "form": "verb",
+    "sim": 0.3038216885647934
+  },
+  {
+    "engelsk": "song",
+    "dansk": "sang",
+    "form": "noun",
+    "sim": 0.6161634171320389
+  },
+  {
+    "engelsk": "white-billed diver",
+    "dansk": "hvidnæbbet lom",
+    "form": "noun",
+    "sim": 0.7238356365145291
+  },
+  {
+    "engelsk": "emergency",
+    "dansk": "nødsituation",
+    "form": "noun",
+    "sim": 0.8082028689933347
+  },
+  {
+    "engelsk": "business",
+    "dansk": "forretning",
+    "form": "noun",
+    "sim": 0.8683520421846982
+  },
+  {
+    "engelsk": "walk",
+    "dansk": "gå",
+    "form": "verb",
+    "sim": 0.5267574299190961
+  },
+  {
+    "engelsk": "electronic mail",
+    "dansk": "maile",
+    "form": "verb",
+    "sim": 0.8315120837575337
+  },
+  {
+    "engelsk": "normativization",
+    "dansk": "normativisering",
+    "form": "noun",
+    "sim": 0.9837518160337417
+  },
+  {
+    "engelsk": "blue mussel",
+    "dansk": "blåmusling",
+    "form": "noun",
+    "sim": 0.6885530654176862
+  },
+  {
+    "engelsk": "bedding",
+    "dansk": "sengetøj",
+    "form": "noun",
+    "sim": 0.8857839386586716
+  },
+  {
+    "engelsk": "origin",
+    "dansk": "origo",
+    "form": "noun",
+    "sim": 0.3477547350715323
+  },
+  {
+    "engelsk": "sloop",
+    "dansk": "slup",
+    "form": "noun",
+    "sim": 0.7982409767675789
+  },
+  {
+    "engelsk": "corner",
+    "dansk": "hjørne",
+    "form": "noun",
+    "sim": 0.8227429545103313
+  },
+  {
+    "engelsk": "blood, sweat and tears",
+    "dansk": "blod",
+    "form": "noun",
+    "sim": 0.690428880895227
+  },
+  {
+    "engelsk": "discuss",
+    "dansk": "drøfte",
+    "form": "verb",
+    "sim": 0.8505308256337849
+  },
+  {
+    "engelsk": "dragon",
+    "dansk": "lindorm",
+    "form": "noun",
+    "sim": 0.39788088505304076
+  },
+  {
+    "engelsk": "Novosibirsk",
+    "dansk": "Novosibirsk",
+    "form": "properNoun",
+    "sim": 1.0000000000000002
+  },
+  {
+    "engelsk": "Macedonia",
+    "dansk": "Makedonien",
+    "form": "properNoun",
+    "sim": 0.9649198268829321
+  },
+  {
+    "engelsk": "Italian",
+    "dansk": "italiensk",
+    "form": "adjective",
+    "sim": 0.9420032040165749
+  },
+  {
+    "engelsk": "bank machine",
+    "dansk": "pengeautomat",
+    "form": "noun",
+    "sim": 0.7586477259560426
+  },
+  {
+    "engelsk": "giant",
+    "dansk": "kæmpe",
+    "form": "noun",
+    "sim": 0.5038692070263744
+  },
+  {
+    "engelsk": "Baltic",
+    "dansk": "Østersø-",
+    "form": "adjective",
+    "sim": 0.5283022229677499
+  },
+  {
+    "engelsk": "compression",
+    "dansk": "komprimering",
+    "form": "noun",
+    "sim": 0.8192814191612967
+  },
+  {
+    "engelsk": "erbium",
+    "dansk": "erbium",
+    "form": "noun",
+    "sim": 0.9999999999999998
+  },
+  {
+    "engelsk": "chlorophyll",
+    "dansk": "bladgrønt",
+    "form": "noun",
+    "sim": 0.6333456860204199
+  },
+  {
+    "engelsk": "screenplay",
+    "dansk": "manuskript",
+    "form": "noun",
+    "sim": 0.7112759078197248
+  },
+  {
+    "engelsk": "prostitute",
+    "dansk": "glædespige",
+    "form": "noun",
+    "sim": 0.2835121202547789
+  },
+  {
+    "engelsk": "Space Race",
+    "dansk": "rumkapløbet",
+    "form": "properNoun",
+    "sim": 0.6192887939263095
+  },
+  {
+    "engelsk": "data point",
+    "dansk": "datapunkt",
+    "form": "noun",
+    "sim": 0.9245982688449944
+  },
+  {
+    "engelsk": "sixth sense",
+    "dansk": "sjette sans",
+    "form": "noun",
+    "sim": 0.5946298121600203
+  },
+  {
+    "engelsk": "hematology",
+    "dansk": "hæmatologi",
+    "form": "noun",
+    "sim": 0.8757320892991775
+  },
+  {
+    "engelsk": "Kosovar",
+    "dansk": "kosovar",
+    "form": "noun",
+    "sim": 0.9309743068846166
+  },
+  {
+    "engelsk": "industrial",
+    "dansk": "industriel",
+    "form": "adjective",
+    "sim": 0.9617884857551912
+  },
+  {
+    "engelsk": "hake",
+    "dansk": "kulmule",
+    "form": "noun",
+    "sim": 0.736673201288783
+  },
+  {
+    "engelsk": "accessibility",
+    "dansk": "tilgængelighed",
+    "form": "noun",
+    "sim": 0.8378950877792091
+  },
+  {
+    "engelsk": "rank",
+    "dansk": "rang",
+    "form": "noun",
+    "sim": 0.8797955269221569
+  },
+  {
+    "engelsk": "respond",
+    "dansk": "vende tilbage",
+    "form": "verb",
+    "sim": 0.47004401503868215
+  },
+  {
+    "engelsk": "Erebus",
+    "dansk": "Erebos",
+    "form": "properNoun",
+    "sim": 0.9619996682243095
+  },
+  {
+    "engelsk": "dive",
+    "dansk": "dykke",
+    "form": "verb",
+    "sim": 0.8149583621035571
+  },
+  {
+    "engelsk": "setback",
+    "dansk": "tilbageslag",
+    "form": "noun",
+    "sim": 0.9021185841796711
+  },
+  {
+    "engelsk": "karaoke bar",
+    "dansk": "karaokebar",
+    "form": "noun",
+    "sim": 0.9260394488219741
+  },
+  {
+    "engelsk": "sound barrier",
+    "dansk": "lydmur",
+    "form": "noun",
+    "sim": 0.5040436581538631
+  },
+  {
+    "engelsk": "literal",
+    "dansk": "bogstavelig",
+    "form": "adjective",
+    "sim": 0.6997500047236294
+  },
+  {
+    "engelsk": "Ethiopia",
+    "dansk": "Etiopien",
+    "form": "properNoun",
+    "sim": 0.9456136155808009
+  },
+  {
+    "engelsk": "orienteering",
+    "dansk": "orienteringsløb",
+    "form": "noun",
+    "sim": 0.932427357800864
+  },
+  {
+    "engelsk": "turn",
+    "dansk": "blive",
+    "form": "verb",
+    "sim": 0.5117527596861566
+  },
+  {
+    "engelsk": "fructose",
+    "dansk": "fruktose",
+    "form": "noun",
+    "sim": 0.9006961595880819
+  },
+  {
+    "engelsk": "rivalry",
+    "dansk": "rivalisering",
+    "form": "noun",
+    "sim": 0.8913814273070958
+  },
+  {
+    "engelsk": "roar",
+    "dansk": "brøl",
+    "form": "noun",
+    "sim": 0.7569630513276286
+  },
+  {
+    "engelsk": "first cousin",
+    "dansk": "fætter",
+    "form": "noun",
+    "sim": 0.5709794775480587
+  },
+  {
+    "engelsk": "tide",
+    "dansk": "ebbe",
+    "form": "noun",
+    "sim": 0.3566998402718912
+  },
+  {
+    "engelsk": "Qur'an",
+    "dansk": "koran",
+    "form": "noun",
+    "sim": 0.5197761099023289
+  },
+  {
+    "engelsk": "comic",
+    "dansk": "komisk",
+    "form": "adjective",
+    "sim": 0.663725557545267
+  },
+  {
+    "engelsk": "Latin",
+    "dansk": "romer",
+    "form": "noun",
+    "sim": 0.6122667986516744
+  },
+  {
+    "engelsk": "Zechariah",
+    "dansk": "Zakarias",
+    "form": "properNoun",
+    "sim": 0.813816384255223
+  },
+  {
+    "engelsk": "voivodeship",
+    "dansk": "voivodskab",
+    "form": "noun",
+    "sim": 0.8178872196181248
+  },
+  {
+    "engelsk": "fragile",
+    "dansk": "skrøbelig",
+    "form": "adjective",
+    "sim": 0.6957310444405718
+  },
+  {
+    "engelsk": "forgiveness",
+    "dansk": "eftergivelse",
+    "form": "noun",
+    "sim": 0.5768989301567273
+  },
+  {
+    "engelsk": "play",
+    "dansk": "leg",
+    "form": "noun",
+    "sim": 0.35700151860385226
+  },
+  {
+    "engelsk": "original",
+    "dansk": "oprindelig",
+    "form": "adjective",
+    "sim": 0.7494818229161422
+  },
+  {
+    "engelsk": "magma",
+    "dansk": "magma",
+    "form": "noun",
+    "sim": 1.0000000000000002
+  },
+  {
+    "engelsk": "Icelandish",
+    "dansk": "islandsk",
+    "form": "noun",
+    "sim": 0.8026370351943094
+  },
+  {
+    "engelsk": "twelve",
+    "dansk": "tolv",
+    "form": "numeral",
+    "sim": 0.9196343240292164
+  },
+  {
+    "engelsk": "solution",
+    "dansk": "løsning",
+    "form": "noun",
+    "sim": 0.9232842372486737
+  },
+  {
+    "engelsk": "hug",
+    "dansk": "omfavne",
+    "form": "verb",
+    "sim": 0.5025283849495171
+  },
+  {
+    "engelsk": "catamaran",
+    "dansk": "katamaran",
+    "form": "noun",
+    "sim": 0.7897091657889524
+  },
+  {
+    "engelsk": "sapiosexual",
+    "dansk": "sapioseksuel",
+    "form": "adjective",
+    "sim": 0.8101495734398427
+  },
+  {
+    "engelsk": "craft",
+    "dansk": "konstruere",
+    "form": "verb",
+    "sim": 0.6380172680306152
+  },
+  {
+    "engelsk": "rhetorical",
+    "dansk": "retorisk",
+    "form": "adjective",
+    "sim": 0.9108100080827098
+  },
+  {
+    "engelsk": "newspaper",
+    "dansk": "avispapir",
+    "form": "noun",
+    "sim": 0.690219604489501
+  },
+  {
+    "engelsk": "orgasm",
+    "dansk": "orgasme",
+    "form": "noun",
+    "sim": 0.9876100024582881
+  },
+  {
+    "engelsk": "sometime",
+    "dansk": "indimellem",
+    "form": "adverb",
+    "sim": 0.4549423128549074
+  },
+  {
+    "engelsk": "elitist",
+    "dansk": "elitist",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "cruise missile",
+    "dansk": "krydsermissil",
+    "form": "noun",
+    "sim": 0.4997965945073675
+  },
+  {
+    "engelsk": "namesake",
+    "dansk": "navnesøster",
+    "form": "noun",
+    "sim": 0.6300546233976607
+  },
+  {
+    "engelsk": "generalization",
+    "dansk": "generalisering",
+    "form": "noun",
+    "sim": 0.97204435601335
+  },
+  {
+    "engelsk": "hermaphroditism",
+    "dansk": "tvekønnethed",
+    "form": "noun",
+    "sim": 0.48393672524963666
+  },
+  {
+    "engelsk": "learn",
+    "dansk": "studere",
+    "form": "verb",
+    "sim": 0.7036164856032336
+  },
+  {
+    "engelsk": "pandoro",
+    "dansk": "pandoro",
+    "form": "noun",
+    "sim": 1.0000000000000002
+  },
+  {
+    "engelsk": "floor",
+    "dansk": "gulv",
+    "form": "noun",
+    "sim": 0.7438400710398247
+  },
+  {
+    "engelsk": "big toe",
+    "dansk": "storetå",
+    "form": "noun",
+    "sim": 0.5030387781307771
+  },
+  {
+    "engelsk": "ephemeral",
+    "dansk": "midlertidig",
+    "form": "adjective",
+    "sim": 0.529629156915039
+  },
+  {
+    "engelsk": "tax authority",
+    "dansk": "skattemyndighed",
+    "form": "noun",
+    "sim": 0.8271804583938285
+  },
+  {
+    "engelsk": "LGBT",
+    "dansk": "LGBT",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "have",
+    "dansk": "få",
+    "form": "verb",
+    "sim": 0.7110915228176677
+  },
+  {
+    "engelsk": "thru",
+    "dansk": "gennem",
+    "form": "preposition",
+    "sim": 0.7044909373013131
+  },
+  {
+    "engelsk": "bow",
+    "dansk": "bukke",
+    "form": "verb",
+    "sim": 0.44653180519713453
+  },
+  {
+    "engelsk": "realize",
+    "dansk": "gennemføre",
+    "form": "verb",
+    "sim": 0.49141750589761884
+  },
+  {
+    "engelsk": "double-sided",
+    "dansk": "dobbeltsidet",
+    "form": "adjective",
+    "sim": 0.8899890117437685
+  },
+  {
+    "engelsk": "hydrocarbon",
+    "dansk": "karbonhydrid",
+    "form": "noun",
+    "sim": 0.9264100540396418
+  },
+  {
+    "engelsk": "bank machine",
+    "dansk": "hæveautomat",
+    "form": "noun",
+    "sim": 0.5834532992921947
+  },
+  {
+    "engelsk": "annihilate",
+    "dansk": "tilintetgøre",
+    "form": "verb",
+    "sim": 0.8137700198014393
+  },
+  {
+    "engelsk": "jingle bell",
+    "dansk": "bjælde",
+    "form": "noun",
+    "sim": 0.5248954283663473
+  },
+  {
+    "engelsk": "parenthesis",
+    "dansk": "parentes",
+    "form": "noun",
+    "sim": 0.8033548881611828
+  },
+  {
+    "engelsk": "heinous",
+    "dansk": "grufuld",
+    "form": "adjective",
+    "sim": 0.591550566974436
+  },
+  {
+    "engelsk": "biome",
+    "dansk": "biom",
+    "form": "noun",
+    "sim": 0.934707936656064
+  },
+  {
+    "engelsk": "spirit level",
+    "dansk": "vaterpas",
+    "form": "noun",
+    "sim": 0.37625566892776674
+  },
+  {
+    "engelsk": "freedom of contract",
+    "dansk": "aftalfrihed",
+    "form": "noun",
+    "sim": 0.7445377506849574
+  },
+  {
+    "engelsk": "bar",
+    "dansk": "-plade",
+    "form": "noun",
+    "sim": 0.3695893457985313
+  },
+  {
+    "engelsk": "court of last resort",
+    "dansk": "højesteret",
+    "form": "noun",
+    "sim": 0.6047883553596619
+  },
+  {
+    "engelsk": "watering can",
+    "dansk": "vandkande",
+    "form": "noun",
+    "sim": 0.7541531331012497
+  },
+  {
+    "engelsk": "malicious",
+    "dansk": "maliciøs",
+    "form": "adjective",
+    "sim": 0.7142237918997854
+  },
+  {
+    "engelsk": "stone",
+    "dansk": "stenagtig",
+    "form": "adjective",
+    "sim": 0.7109956117470072
+  },
+  {
+    "engelsk": "at the same time",
+    "dansk": "samtidigt",
+    "form": "preposition",
+    "sim": 0.8160042234332601
+  },
+  {
+    "engelsk": "swarm",
+    "dansk": "sværm",
+    "form": "noun",
+    "sim": 0.7386621085885707
+  },
+  {
+    "engelsk": "yes",
+    "dansk": "jo",
+    "sim": 0.9038190210751103
+  },
+  {
+    "engelsk": "exclusionary",
+    "dansk": "eksklusiv",
+    "form": "adjective",
+    "sim": 0.7808399041504777
+  },
+  {
+    "engelsk": "Seville",
+    "dansk": "Sevilla",
+    "form": "properNoun",
+    "sim": 0.9131869506510911
+  },
+  {
+    "engelsk": "Yugoslav",
+    "dansk": "jugoslaver",
+    "form": "noun",
+    "sim": 0.9172161112164823
+  },
+  {
+    "engelsk": "dreadfully",
+    "dansk": "skrækkelig",
+    "form": "adverb",
+    "sim": 0.7674960320565101
+  },
+  {
+    "engelsk": "gull-billed tern",
+    "dansk": "Sandterne",
+    "form": "noun",
+    "sim": 0.430206666990476
+  },
+  {
+    "engelsk": "feminine",
+    "dansk": "feminin",
+    "form": "adjective",
+    "sim": 0.990171498994695
+  },
+  {
+    "engelsk": "air",
+    "dansk": "nul og nix",
+    "form": "noun",
+    "sim": 0.2514021300180914
+  },
+  {
+    "engelsk": "thank",
+    "dansk": "takke",
+    "form": "verb",
+    "sim": 0.9042990549252596
+  },
+  {
+    "engelsk": "aphorist",
+    "dansk": "aforistiker",
+    "form": "noun",
+    "sim": 0.8310071699072642
+  },
+  {
+    "engelsk": "pollution",
+    "dansk": "forurening",
+    "form": "noun",
+    "sim": 0.9125319132865852
+  },
+  {
+    "engelsk": "Andean",
+    "dansk": "andinsk",
+    "form": "adjective",
+    "sim": 0.6924741841520907
+  },
+  {
+    "engelsk": "Nahuatl",
+    "dansk": "nahuatl",
+    "form": "properNoun",
+    "sim": 0.758365428533451
+  },
+  {
+    "engelsk": "autodidactic",
+    "dansk": "autodidaktisk",
+    "form": "adjective",
+    "sim": 0.8613220653153167
+  },
+  {
+    "engelsk": "disparage",
+    "dansk": "nedgøre",
+    "form": "verb",
+    "sim": 0.7158767223282959
+  },
+  {
+    "engelsk": "miss",
+    "dansk": "frøken",
+    "form": "noun",
+    "sim": 0.5927216579687132
+  },
+  {
+    "engelsk": "bandy-legged",
+    "dansk": "hjulbenet",
+    "form": "adjective",
+    "sim": 0.47022558528312547
+  },
+  {
+    "engelsk": "antioxygenic",
+    "dansk": "antioxidant",
+    "form": "noun",
+    "sim": 0.9045468825005966
+  },
+  {
+    "engelsk": "foreign minister",
+    "dansk": "udenrigsminister",
+    "form": "noun",
+    "sim": 0.9318933239339029
+  },
+  {
+    "engelsk": "cycle",
+    "dansk": "slukke for/slå fra (turn off)",
+    "form": "verb",
+    "sim": 0.23700409780676873
+  },
+  {
+    "engelsk": "haunt",
+    "dansk": "spøgelse",
+    "form": "noun",
+    "sim": 0.8264817859364486
+  },
+  {
+    "engelsk": "baby talk",
+    "dansk": "babysnak",
+    "form": "noun",
+    "sim": 0.6205408303770485
+  },
+  {
+    "engelsk": "privy",
+    "dansk": "wc",
+    "form": "noun",
+    "sim": 0.5826185521233019
+  },
+  {
+    "engelsk": "exhibition game",
+    "dansk": "venskabskamp",
+    "form": "noun",
+    "sim": 0.24541642650680817
+  },
+  {
+    "engelsk": "X-ray radiation",
+    "dansk": "røntgen",
+    "form": "noun",
+    "sim": 0.7065337971151064
+  },
+  {
+    "engelsk": "feeding bottle",
+    "dansk": "sutteflaske",
+    "form": "noun",
+    "sim": 0.5903254048289982
+  },
+  {
+    "engelsk": "theory",
+    "dansk": "teori",
+    "form": "noun",
+    "sim": 0.9782032635927043
+  },
+  {
+    "engelsk": "ambition",
+    "dansk": "ambition",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "bill",
+    "dansk": "hellebard",
+    "form": "noun",
+    "sim": 0.4527546355418418
+  },
+  {
+    "engelsk": "self-rule",
+    "dansk": "selvstyre",
+    "form": "noun",
+    "sim": 0.6869180532799968
+  },
+  {
+    "engelsk": "I need ...",
+    "dansk": "jeg behøver ...",
+    "form": "phrase",
+    "sim": 0.9564717476365283
+  },
+  {
+    "engelsk": "tailor",
+    "dansk": "skrædder",
+    "form": "noun",
+    "sim": 0.6444699912562198
+  },
+  {
+    "engelsk": "neglect",
+    "dansk": "forsømthed",
+    "form": "noun",
+    "sim": 0.5888068028765451
+  },
+  {
+    "engelsk": "crossword",
+    "dansk": "krydsordsopgave",
+    "form": "noun",
+    "sim": 0.47936726873115854
+  },
+  {
+    "engelsk": "Old English",
+    "dansk": "oldengelsk",
+    "form": "properNoun",
+    "sim": 0.6412259797984401
+  },
+  {
+    "engelsk": "box",
+    "dansk": "slag",
+    "form": "noun",
+    "sim": 0.4805418161120229
+  },
+  {
+    "engelsk": "bough",
+    "dansk": "gren",
+    "form": "noun",
+    "sim": 0.6764558607848367
+  },
+  {
+    "engelsk": "Prussian blue",
+    "dansk": "berlinerblåt",
+    "form": "noun",
+    "sim": 0.41547278688947514
+  },
+  {
+    "engelsk": "glazier",
+    "dansk": "glarmester",
+    "form": "noun",
+    "sim": 0.4584180748251465
+  },
+  {
+    "engelsk": "diet",
+    "dansk": "ernæring",
+    "form": "noun",
+    "sim": 0.8319289218548453
+  },
+  {
+    "engelsk": "massacre",
+    "dansk": "massakrere",
+    "form": "verb",
+    "sim": 0.8466234168451202
+  },
+  {
+    "engelsk": "harbor",
+    "dansk": "havn",
+    "form": "noun",
+    "sim": 0.8222583170556331
+  },
+  {
+    "engelsk": "magazine",
+    "dansk": "magasin",
+    "form": "noun",
+    "sim": 0.5231876248343854
+  },
+  {
+    "engelsk": "sense",
+    "dansk": "fornemmelse",
+    "form": "noun",
+    "sim": 0.7078476123571183
+  },
+  {
+    "engelsk": "tiller",
+    "dansk": "landmand",
+    "form": "noun",
+    "sim": 0.5501477549572121
+  },
+  {
+    "engelsk": "koine",
+    "dansk": "koine",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "Han character",
+    "dansk": "kinesisk tegn",
+    "form": "noun",
+    "sim": 0.3747581395212847
+  },
+  {
+    "engelsk": "treasurer",
+    "dansk": "finansminister",
+    "form": "noun",
+    "sim": 0.40007026561046855
+  },
+  {
+    "engelsk": "bridge",
+    "dansk": "stol",
+    "form": "noun",
+    "sim": 0.37032639450521165
+  },
+  {
+    "engelsk": "airline",
+    "dansk": "flyselskab",
+    "form": "noun",
+    "sim": 0.8821582215666954
+  },
+  {
+    "engelsk": "Malachi",
+    "dansk": "Malachis",
+    "form": "properNoun",
+    "sim": 0.9562822195330377
+  },
+  {
+    "engelsk": "dirty look",
+    "dansk": "ondt blik",
+    "form": "noun",
+    "sim": 0.4573049312847559
+  },
+  {
+    "engelsk": "between",
+    "dansk": "mellem",
+    "form": "preposition",
+    "sim": 0.908542776885073
+  },
+  {
+    "engelsk": "veil",
+    "dansk": "skjule",
+    "form": "verb",
+    "sim": 0.46055261017151633
+  },
+  {
+    "engelsk": "copulation",
+    "dansk": "samleje",
+    "form": "noun",
+    "sim": 0.49162727694244357
+  },
+  {
+    "engelsk": "urban",
+    "dansk": "bymæssig",
+    "form": "adjective",
+    "sim": 0.37015418307371317
+  },
+  {
+    "engelsk": "combinatorics",
+    "dansk": "kombinatorik",
+    "form": "noun",
+    "sim": 0.9742699638227356
+  },
+  {
+    "engelsk": "remaining",
+    "dansk": "resterende",
+    "form": "adjective",
+    "sim": 0.8329066370441968
+  },
+  {
+    "engelsk": "track",
+    "dansk": "fodsål",
+    "form": "noun",
+    "sim": 0.43220547184549035
+  },
+  {
+    "engelsk": "shortcut",
+    "dansk": "genvej",
+    "form": "noun",
+    "sim": 0.4830195001740428
+  },
+  {
+    "engelsk": "bankrupt",
+    "dansk": "bankerot",
+    "form": "adjective",
+    "sim": 0.7399317480504817
+  },
+  {
+    "engelsk": "look",
+    "dansk": "lede",
+    "form": "verb",
+    "sim": 0.6270235510723355
+  },
+  {
+    "engelsk": "derivation",
+    "dansk": "afledning",
+    "form": "noun",
+    "sim": 0.7863121735647981
+  },
+  {
+    "engelsk": "Strait of Gibraltar",
+    "dansk": "Gibraltarstrædet",
+    "form": "properNoun",
+    "sim": 0.9114339279789485
+  },
+  {
+    "engelsk": "entropy",
+    "dansk": "entropi",
+    "form": "noun",
+    "sim": 0.9912953375323105
+  },
+  {
+    "engelsk": "perambulator",
+    "dansk": "barnevogn",
+    "form": "noun",
+    "sim": 0.5940950948925912
+  },
+  {
+    "engelsk": "receipt",
+    "dansk": "kvittering",
+    "form": "noun",
+    "sim": 0.643384482403415
+  },
+  {
+    "engelsk": "snot",
+    "dansk": "snot",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "natural scientist",
+    "dansk": "naturvidenskabsmand",
+    "form": "noun",
+    "sim": 0.8699258684042939
+  },
+  {
+    "engelsk": "immunology",
+    "dansk": "immunologi",
+    "form": "noun",
+    "sim": 0.9879354342738794
+  },
+  {
+    "engelsk": "foal",
+    "dansk": "føl",
+    "form": "noun",
+    "sim": 0.5276697452527137
+  },
+  {
+    "engelsk": "feceate",
+    "dansk": "kaste fækalier (bookish)",
+    "form": "verb",
+    "sim": 0.4229897496208564
+  },
+  {
+    "engelsk": "squeeze",
+    "dansk": "klemme",
+    "form": "verb",
+    "sim": 0.5036125466635729
+  },
+  {
+    "engelsk": "guarantee",
+    "dansk": "garantere",
+    "form": "verb",
+    "sim": 0.8381040921373287
+  },
+  {
+    "engelsk": "working time",
+    "dansk": "arbejdstid",
+    "form": "noun",
+    "sim": 0.8667421775661207
+  },
+  {
+    "engelsk": "hermaphroditic",
+    "dansk": "hermafroditisk",
+    "form": "adjective",
+    "sim": 0.9117336792142915
+  },
+  {
+    "engelsk": "cocktail",
+    "dansk": "cocktail",
+    "form": "noun",
+    "sim": 0.9999999999999999
+  },
+  {
+    "engelsk": "nephrolith",
+    "dansk": "nyresten",
+    "form": "noun",
+    "sim": 0.6721477648648191
+  },
+  {
+    "engelsk": "camera flash",
+    "dansk": "lyse",
+    "form": "verb",
+    "sim": 0.5382183998547149
+  },
+  {
+    "engelsk": "face-to-face",
+    "dansk": "ansigt til ansigt",
+    "form": "adverb",
+    "sim": 0.8435189735343745
+  },
+  {
+    "engelsk": "discontinuous",
+    "dansk": "usammenhængende",
+    "form": "adjective",
+    "sim": 0.6646439919925816
+  },
+  {
+    "engelsk": "pyre",
+    "dansk": "ild",
+    "form": "noun",
+    "sim": 0.6977168855672234
+  },
+  {
+    "engelsk": "how no",
+    "dansk": "hvorfor ikke",
+    "form": "adverb",
+    "sim": 0.6634970448664781
+  },
+  {
+    "engelsk": "jaundice",
+    "dansk": "gulsot",
+    "form": "noun",
+    "sim": 0.6903840497423271
+  },
+  {
+    "engelsk": "rubber band",
+    "dansk": "elastik",
+    "form": "noun",
+    "sim": 0.5931040035236504
+  },
+  {
+    "engelsk": "iridium",
+    "dansk": "iridium",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "exogamy",
+    "dansk": "exogami",
+    "form": "noun",
+    "sim": 0.9306585409962668
+  },
+  {
+    "engelsk": "man and wife",
+    "dansk": "mand og kone",
+    "form": "noun",
+    "sim": 0.9587862643039445
+  },
+  {
+    "engelsk": "snobby",
+    "dansk": "snobbet",
+    "form": "adjective",
+    "sim": 0.8818197146060767
+  },
+  {
+    "engelsk": "watercress",
+    "dansk": "tykskulpet Brøndkarse",
+    "form": "noun",
+    "sim": 0.34790568934236527
+  },
+  {
+    "engelsk": "bacteriology",
+    "dansk": "bakteriologi",
+    "form": "noun",
+    "sim": 0.9427717684643105
+  },
+  {
+    "engelsk": "desert",
+    "dansk": "fortjeneste",
+    "form": "noun",
+    "sim": 0.32417973814991125
+  },
+  {
+    "engelsk": "Burmese",
+    "dansk": "burmesisk",
+    "form": "adjective",
+    "sim": 0.8958705620372849
+  },
+  {
+    "engelsk": "obstacle",
+    "dansk": "forhindring",
+    "form": "noun",
+    "sim": 0.8567828117037193
+  },
+  {
+    "engelsk": "horn",
+    "dansk": "horn",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "burden",
+    "dansk": "læs",
+    "form": "noun",
+    "sim": 0.412898258278959
+  },
+  {
+    "engelsk": "-phone",
+    "dansk": "-fon",
+    "sim": 0.713348977676805
+  },
+  {
+    "engelsk": "figurehead",
+    "dansk": "kransekagefigur",
+    "form": "noun",
+    "sim": 0.5374680948873746
+  },
+  {
+    "engelsk": "pavement",
+    "dansk": "brolægning",
+    "form": "noun",
+    "sim": 0.5580126201441432
+  },
+  {
+    "engelsk": "Satanism",
+    "dansk": "satanisme",
+    "form": "noun",
+    "sim": 0.9255627125591754
+  },
+  {
+    "engelsk": "Basque",
+    "dansk": "baskisk",
+    "form": "adjective",
+    "sim": 0.7582002293175503
+  },
+  {
+    "engelsk": "brethren",
+    "dansk": "broder",
+    "form": "noun",
+    "sim": 0.9059377547370496
+  },
+  {
+    "engelsk": "intrinsic",
+    "dansk": "egentlig",
+    "form": "adjective",
+    "sim": 0.3773014791784396
+  },
+  {
+    "engelsk": "n/a",
+    "dansk": "ikke tilgængeligt",
+    "form": "adjective",
+    "sim": 0.37094358569802094
+  },
+  {
+    "engelsk": "occult",
+    "dansk": "okkultisme",
+    "form": "noun",
+    "sim": 0.8027800340601402
+  },
+  {
+    "engelsk": "right",
+    "dansk": "korrigere",
+    "form": "verb",
+    "sim": 0.7690217393630977
+  },
+  {
+    "engelsk": "suit",
+    "dansk": "klæde",
+    "form": "verb",
+    "sim": 0.6984317920605148
+  },
+  {
+    "engelsk": "disregard",
+    "dansk": "se bort fra",
+    "form": "verb",
+    "sim": 0.6039718770122262
+  },
+  {
+    "engelsk": "Roma",
+    "dansk": "roma",
+    "form": "properNoun",
+    "sim": 0.8586260134682403
+  },
+  {
+    "engelsk": "trunk",
+    "dansk": "kiste",
+    "form": "noun",
+    "sim": 0.6438157170111656
+  },
+  {
+    "engelsk": "magic word",
+    "dansk": "trylleord",
+    "form": "noun",
+    "sim": 0.3401634188351435
+  },
+  {
+    "engelsk": "draft",
+    "dansk": "slurk",
+    "form": "noun",
+    "sim": 0.5722219652270192
+  },
+  {
+    "engelsk": "temporarily",
+    "dansk": "midlertidigt",
+    "form": "adverb",
+    "sim": 0.8494040952464497
+  },
+  {
+    "engelsk": "Mayotte",
+    "dansk": "Mayotte",
+    "form": "properNoun",
+    "sim": 0.9999999999999998
+  },
+  {
+    "engelsk": "edge",
+    "dansk": "rand",
+    "form": "noun",
+    "sim": 0.7186719074319521
+  },
+  {
+    "engelsk": "animal testing",
+    "dansk": "dyreforsøg",
+    "form": "noun",
+    "sim": 0.7093441794660995
+  },
+  {
+    "engelsk": "coaster",
+    "dansk": "ølbrik",
+    "form": "noun",
+    "sim": 0.46355962906165615
+  },
+  {
+    "engelsk": "air strike",
+    "dansk": "luftangreb",
+    "form": "noun",
+    "sim": 0.7530625294994003
+  },
+  {
+    "engelsk": "examination",
+    "dansk": "afhøring",
+    "form": "noun",
+    "sim": 0.6352289031627913
+  },
+  {
+    "engelsk": "ephemeral",
+    "dansk": "døgnflue",
+    "form": "adjective",
+    "sim": 0.6987730065259558
+  },
+  {
+    "engelsk": "flicker",
+    "dansk": "blinke",
+    "form": "verb",
+    "sim": 0.7550786591811991
+  },
+  {
+    "engelsk": "keyboard shortcut",
+    "dansk": "tastaturgenvej",
+    "form": "noun",
+    "sim": 0.7504903711599062
+  },
+  {
+    "engelsk": "stain",
+    "dansk": "plet",
+    "form": "noun",
+    "sim": 0.5821942901618788
+  },
+  {
+    "engelsk": "Sun",
+    "dansk": "Solen",
+    "form": "properNoun",
+    "sim": 0.9476934301400117
+  },
+  {
+    "engelsk": "wing",
+    "dansk": "blafre",
+    "form": "verb",
+    "sim": 0.4910099330758568
+  },
+  {
+    "engelsk": "I am English",
+    "dansk": "jeg er englænder",
+    "form": "phrase",
+    "sim": 0.9323090010468346
+  },
+  {
+    "engelsk": "express train",
+    "dansk": "hurtigtog",
+    "form": "noun",
+    "sim": 0.4396866492542454
+  },
+  {
+    "engelsk": "gall",
+    "dansk": "galde",
+    "form": "noun",
+    "sim": 0.668645679283335
+  },
+  {
+    "engelsk": "Bryansk",
+    "dansk": "Brjansk",
+    "form": "properNoun",
+    "sim": 0.7707498525921305
+  },
+  {
+    "engelsk": "phonograph record",
+    "dansk": "dokument",
+    "form": "noun",
+    "sim": 0.46488836197615296
+  },
+  {
+    "engelsk": "bare-breasted",
+    "dansk": "barbrystet",
+    "form": "adjective",
+    "sim": 0.4941687483813714
+  },
+  {
+    "engelsk": "uterus",
+    "dansk": "livmoder",
+    "form": "noun",
+    "sim": 0.8595600607668542
+  },
+  {
+    "engelsk": "sycophant",
+    "dansk": "sykofant",
+    "form": "noun",
+    "sim": 0.7980363339567667
+  },
+  {
+    "engelsk": "function",
+    "dansk": "fungere",
+    "form": "verb",
+    "sim": 0.7184916239375448
+  },
+  {
+    "engelsk": "impoverished",
+    "dansk": "stakkels",
+    "form": "adjective",
+    "sim": 0.8338611051253519
+  },
+  {
+    "engelsk": "stubbornness",
+    "dansk": "stædighed",
+    "form": "noun",
+    "sim": 0.7030498697999102
+  },
+  {
+    "engelsk": "playground",
+    "dansk": "sandkasse",
+    "form": "noun",
+    "sim": 0.42092076723510435
+  },
+  {
+    "engelsk": "Chernivtsi",
+    "dansk": "Tjernivtsi",
+    "form": "properNoun",
+    "sim": 0.6860913329931579
+  },
+  {
+    "engelsk": "copper",
+    "dansk": "kobber",
+    "form": "noun",
+    "sim": 0.5171913174476778
+  },
+  {
+    "engelsk": "white sauce",
+    "dansk": "majonæse",
+    "form": "noun",
+    "sim": 0.2526410958693404
+  },
+  {
+    "engelsk": "take revenge",
+    "dansk": "hævne",
+    "form": "verb",
+    "sim": 0.3182461086746481
+  },
+  {
+    "engelsk": "thou",
+    "dansk": "du",
+    "form": "pronoun",
+    "sim": 0.8756163710037094
+  },
+  {
+    "engelsk": "orchard",
+    "dansk": "frugtplantage",
+    "form": "noun",
+    "sim": 0.7478505232500877
+  },
+  {
+    "engelsk": "cite",
+    "dansk": "citering",
+    "form": "noun",
+    "sim": 0.8970306059996402
+  },
+  {
+    "engelsk": "penis",
+    "dansk": "pik",
+    "form": "noun",
+    "sim": 0.4916782718008421
+  },
+  {
+    "engelsk": "epithet",
+    "dansk": "epitet",
+    "form": "noun",
+    "sim": 0.8628804207856913
+  },
+  {
+    "engelsk": "e-mail",
+    "dansk": "e-post",
+    "form": "noun",
+    "sim": 0.8090085427823618
+  },
+  {
+    "engelsk": "bivouac",
+    "dansk": "bivuak",
+    "form": "noun",
+    "sim": 0.8636123398668291
+  },
+  {
+    "engelsk": "People's Liberation Army",
+    "dansk": "Folkets Befrielseshær",
+    "form": "properNoun",
+    "sim": 0.7029944552710392
+  },
+  {
+    "engelsk": "know which end is up",
+    "dansk": "vide hvilken vej der vender op",
+    "form": "verb",
+    "sim": 0.5597275808336536
+  },
+  {
+    "engelsk": "thulium",
+    "dansk": "thulium",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "neodymium",
+    "dansk": "neodym",
+    "form": "noun",
+    "sim": 0.44218630052243746
+  },
+  {
+    "engelsk": "male",
+    "dansk": "mandlig",
+    "form": "adjective",
+    "sim": 0.551167022553035
+  },
+  {
+    "engelsk": "semi-automatic",
+    "dansk": "halvautomatisk",
+    "form": "adjective",
+    "sim": 0.8343658574138646
+  },
+  {
+    "engelsk": "function",
+    "dansk": "funktion",
+    "form": "noun",
+    "sim": 0.8592199244498431
+  },
+  {
+    "engelsk": "water",
+    "dansk": "spæde ud",
+    "form": "verb",
+    "sim": 0.35146551626981287
+  },
+  {
+    "engelsk": "formaldehyde",
+    "dansk": "formaldehyd",
+    "form": "noun",
+    "sim": 0.9761476106415318
+  },
+  {
+    "engelsk": "emperor penguin",
+    "dansk": "kejserpingvin",
+    "form": "noun",
+    "sim": 0.603652170799537
+  },
+  {
+    "engelsk": "Tel Aviv",
+    "dansk": "Tel Aviv",
+    "form": "properNoun",
+    "sim": 1.0000000000000002
+  },
+  {
+    "engelsk": "albumen",
+    "dansk": "æggehvide",
+    "form": "noun",
+    "sim": 0.5246524859896452
+  },
+  {
+    "engelsk": "dull",
+    "dansk": "dum",
+    "form": "adjective",
+    "sim": 0.770301134005597
+  },
+  {
+    "engelsk": "publish",
+    "dansk": "publicere",
+    "form": "verb",
+    "sim": 0.8359728129292706
+  },
+  {
+    "engelsk": "due",
+    "dansk": "skyldig",
+    "form": "adjective",
+    "sim": 0.2699291181087562
+  },
+  {
+    "engelsk": "threaten",
+    "dansk": "true",
+    "form": "verb",
+    "sim": 0.31139082602557705
+  },
+  {
+    "engelsk": "eagle",
+    "dansk": "eagle",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "call a spade a spade",
+    "dansk": "kalde en spade for en spade",
+    "form": "verb",
+    "sim": 0.8164990796378933
+  },
+  {
+    "engelsk": "venereal disease",
+    "dansk": "kønssygdom",
+    "form": "noun",
+    "sim": 0.7226960968905178
+  },
+  {
+    "engelsk": "wafer",
+    "dansk": "vafferør",
+    "form": "noun",
+    "sim": 0.6718386024150466
+  },
+  {
+    "engelsk": "sweet",
+    "dansk": "frisk",
+    "form": "adjective",
+    "sim": 0.561571659669444
+  },
+  {
+    "engelsk": "pee-pee",
+    "dansk": "tissekone",
+    "form": "noun",
+    "sim": 0.606030573330469
+  },
+  {
+    "engelsk": "Winnie the Pooh",
+    "dansk": "Peter Plys",
+    "form": "properNoun",
+    "sim": 0.5488065713043153
+  },
+  {
+    "engelsk": "fasten",
+    "dansk": "hæfte",
+    "form": "verb",
+    "sim": 0.8372300004129443
+  },
+  {
+    "engelsk": "gloss",
+    "dansk": "glosar",
+    "form": "noun",
+    "sim": 0.7295671217053659
+  },
+  {
+    "engelsk": "spruce",
+    "dansk": "gran",
+    "form": "noun",
+    "sim": 0.49395620998591727
+  },
+  {
+    "engelsk": "Leader of the Opposition",
+    "dansk": "oppositionsleder",
+    "form": "noun",
+    "sim": 0.875746189060306
+  },
+  {
+    "engelsk": "melee",
+    "dansk": "håndgemæng",
+    "form": "noun",
+    "sim": 0.48335966790362545
+  },
+  {
+    "engelsk": "jump",
+    "dansk": "springe",
+    "form": "verb",
+    "sim": 0.7723327102572145
+  },
+  {
+    "engelsk": "crush",
+    "dansk": "sammentrykke",
+    "form": "verb",
+    "sim": 0.521586435637445
+  },
+  {
+    "engelsk": "reproduction",
+    "dansk": "reproduktion",
+    "form": "noun",
+    "sim": 0.9113855945898603
+  },
+  {
+    "engelsk": "railway",
+    "dansk": "jernbane",
+    "form": "noun",
+    "sim": 0.888014101432761
+  },
+  {
+    "engelsk": "docent",
+    "dansk": "omviser",
+    "form": "noun",
+    "sim": 0.7691845736464722
+  },
+  {
+    "engelsk": "aoristic",
+    "dansk": "aorist",
+    "form": "noun",
+    "sim": 0.9173989626188531
+  },
+  {
+    "engelsk": "by",
+    "dansk": "med",
+    "form": "preposition",
+    "sim": 0.620094871777844
+  },
+  {
+    "engelsk": "ankh",
+    "dansk": "ankh",
+    "form": "noun",
+    "sim": 1
+  },
+  {
+    "engelsk": "close",
+    "dansk": "lukke",
+    "form": "verb",
+    "sim": 0.6936930468682292
+  },
+  {
+    "engelsk": "fanny",
+    "dansk": "tissekone",
+    "form": "noun",
+    "sim": 0.679776324483281
+  },
+  {
+    "engelsk": "phenomenon",
+    "dansk": "foreteelse",
+    "form": "noun",
+    "sim": 0.6542909483637381
+  },
+  {
+    "engelsk": "North Sea",
+    "dansk": "Vesterhavet",
+    "form": "properNoun",
+    "sim": 0.6430970529127037
+  },
+  {
+    "engelsk": "make",
+    "dansk": "fabrikat",
+    "form": "noun",
+    "sim": 0.5530709908536929
+  },
+  {
+    "engelsk": "kidnapping",
+    "dansk": "bortførelse",
+    "form": "noun",
+    "sim": 0.7716715039628835
+  },
+  {
+    "engelsk": "hydrologist",
+    "dansk": "hydrolog",
+    "form": "noun",
+    "sim": 0.8672301494704794
+  },
+  {
+    "engelsk": "artificial intelligence",
+    "dansk": "kunstig intelligens",
+    "form": "noun",
+    "sim": 0.920695751453357
+  },
+  {
+    "engelsk": "rhetoric",
+    "dansk": "retorik",
+    "form": "noun",
+    "sim": 0.9388489802456157
+  },
+  {
+    "engelsk": "diagnosis",
+    "dansk": "diagnosticering",
+    "form": "noun",
+    "sim": 0.9213717489325938
+  },
+  {
+    "engelsk": "spying",
+    "dansk": "spionage",
+    "form": "noun",
+    "sim": 0.9450408650662145
+  },
+  {
+    "engelsk": "prostitute",
+    "dansk": "ludder",
+    "form": "noun",
+    "sim": 0.3810567097008973
+  },
+  {
+    "engelsk": "German sparrow",
+    "dansk": "skovspurv",
+    "form": "noun",
+    "sim": 0.4327970335052655
+  },
+  {
+    "engelsk": "extemporaneous",
+    "dansk": "improviseret",
+    "form": "adjective",
+    "sim": 0.6003604252104131
+  },
+  {
+    "engelsk": "mathematize",
+    "dansk": "matematisere",
+    "form": "verb",
+    "sim": 0.9582725340014357
+  },
+  {
+    "engelsk": "silvern",
+    "dansk": "sølvfarvet",
+    "form": "adjective",
+    "sim": 0.8023315691629098
+  },
+  {
+    "engelsk": "New Objectivity",
+    "dansk": "den ny saglighed",
+    "form": "properNoun",
+    "sim": 0.677417534259144
+  },
+  {
+    "engelsk": "fanciful",
+    "dansk": "fantastisk",
+    "form": "adjective",
+    "sim": 0.7034713612546161
+  },
+  {
+    "engelsk": "fat",
+    "dansk": "fed",
+    "form": "adjective",
+    "sim": 0.39649702831588624
+  },
+  {
+    "engelsk": "anniversary",
+    "dansk": "årsdag",
+    "form": "noun",
+    "sim": 0.8233317961926757
+  },
+  {
+    "engelsk": "yak",
+    "dansk": "yakokse",
+    "form": "noun",
+    "sim": 0.6682489333588063
+  },
+  {
+    "engelsk": "Geneva",
+    "dansk": "Geneve",
+    "form": "properNoun",
+    "sim": 0.8783121968134923
+  },
+  {
+    "engelsk": "backwards",
+    "dansk": "baglæns",
+    "form": "adverb",
+    "sim": 0.4263030732831468
+  },
+  {
+    "engelsk": "fabric",
+    "dansk": "struktur",
+    "form": "noun",
+    "sim": 0.5104069280922366
+  },
+  {
+    "engelsk": "penis",
+    "dansk": "penis",
+    "form": "noun",
+    "sim": 0.9999999999999998
+  },
+  {
+    "engelsk": "astrological sign",
+    "dansk": "stjernetegn",
+    "form": "noun",
+    "sim": 0.4199163232925768
+  },
+  {
+    "engelsk": "pharmaceutics",
+    "dansk": "apotek",
+    "form": "noun",
+    "sim": 0.8121605982823169
+  },
+  {
+    "engelsk": "exhibition match",
+    "dansk": "venskabskamp",
+    "form": "noun",
+    "sim": 0.31255567693601705
+  },
+  {
+    "engelsk": "arteriole",
+    "dansk": "arteriol",
+    "form": "noun",
+    "sim": 0.9939853360732378
+  },
+  {
+    "engelsk": "court of law",
+    "dansk": "domstol",
+    "form": "noun",
+    "sim": 0.8474619425667299
+  },
+  {
+    "engelsk": "discontent",
+    "dansk": "utilfredshed",
+    "form": "noun",
+    "sim": 0.8842541919909739
+  },
+  {
+    "engelsk": "retail",
+    "dansk": "detailhandel",
+    "form": "noun",
+    "sim": 0.8310135913399622
+  },
+  {
+    "engelsk": "next",
+    "dansk": "ved siden af",
+    "form": "preposition",
+    "sim": 0.5094488169008973
+  },
+  {
+    "engelsk": "coconut",
+    "dansk": "kokosnød",
+    "form": "noun",
+    "sim": 0.8791882320039892
+  },
+  {
+    "engelsk": "traffic light",
+    "dansk": "lyssignal",
+    "form": "noun",
+    "sim": 0.6342273336252106
+  },
+  {
+    "engelsk": "older sister",
+    "dansk": "storesøster",
+    "form": "noun",
+    "sim": 0.770876440648344
+  },
+  {
+    "engelsk": "couch",
+    "dansk": "lægge sig",
+    "form": "verb",
+    "sim": 0.30726858990236033
+  },
+  {
+    "engelsk": "seafarer",
+    "dansk": "sømand",
+    "form": "noun",
+    "sim": 0.8183765089607931
+  },
+  {
+    "engelsk": "vacuum tube",
+    "dansk": "elektronrør",
+    "form": "noun",
+    "sim": 0.4264797558114202
+  },
+  {
+    "engelsk": "fermented",
+    "dansk": "gæret",
+    "form": "adjective",
+    "sim": 0.46966649161170115
+  },
+  {
+    "engelsk": "pair",
+    "dansk": "færdig",
+    "form": "adjective",
+    "sim": 0.4208790450978307
+  },
+  {
+    "engelsk": "orca",
+    "dansk": "spækhugger",
+    "form": "noun",
+    "sim": 0.5498097343570889
+  },
+  {
+    "engelsk": "spread",
+    "dansk": "udbrede",
+    "form": "verb",
+    "sim": 0.698756037365879
+  },
+  {
+    "engelsk": "after",
+    "dansk": "efter",
+    "form": "preposition",
+    "sim": 0.8794060589195591
+  },
+  {
+    "engelsk": "deposit",
+    "dansk": "pant",
+    "form": "noun",
+    "sim": 0.46608390425915475
+  },
+  {
+    "engelsk": "childhood",
+    "dansk": "barndom",
+    "form": "noun",
+    "sim": 0.8725096462845946
+  },
+  {
+    "engelsk": "during",
+    "dansk": "i",
+    "form": "preposition",
+    "sim": 0.4774812082048921
+  },
+  {
+    "engelsk": "enthral",
+    "dansk": "være vild med",
+    "form": "verb",
+    "sim": 0.5005301572764191
+  },
+  {
+    "engelsk": "one",
+    "dansk": "ener",
+    "form": "adjective",
+    "sim": 0.6475387001019633
+  },
+  {
+    "engelsk": "ionosphere",
+    "dansk": "ionosfære",
+    "form": "noun",
+    "sim": 0.9027528521805263
+  }
+]

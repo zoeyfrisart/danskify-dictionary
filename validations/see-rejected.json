@@ -1,0 +1,9707 @@
+[
+  {
+    "from": "abaca",
+    "to": "Manila hemp",
+    "sim": 0.25595846810210826
+  },
+  {
+    "from": "aback",
+    "to": "abacus",
+    "sim": 0.22415675168188787
+  },
+  {
+    "from": "abaka",
+    "to": "Manila hemp",
+    "sim": 0.25203771763945654
+  },
+  {
+    "from": "ABC book",
+    "to": "primer",
+    "sim": 0.22901099162406433
+  },
+  {
+    "from": "abearance",
+    "to": "behavior",
+    "sim": 0.30319638899716517
+  },
+  {
+    "from": "abecedarium",
+    "to": "primer",
+    "sim": 0.2509999983097359
+  },
+  {
+    "from": "able",
+    "to": "healthy",
+    "sim": 0.2767975226585786
+  },
+  {
+    "from": "able",
+    "to": "enable",
+    "sim": 0.39802274101603596
+  },
+  {
+    "from": "absinthium",
+    "to": "wormwood",
+    "sim": 0.27987204171776764
+  },
+  {
+    "from": "abstract away",
+    "to": "ignore",
+    "sim": 0.31077930593252656
+  },
+  {
+    "from": "abuse",
+    "to": "delusion",
+    "sim": 0.3060606969168274
+  },
+  {
+    "from": "abysm",
+    "to": "abyss",
+    "sim": 0.33790641067595906
+  },
+  {
+    "from": "acajou",
+    "to": "mahogany",
+    "sim": 0.2699965495621948
+  },
+  {
+    "from": "acajou",
+    "to": "cashew nut",
+    "sim": 0.1871713457800135
+  },
+  {
+    "from": "acaudate",
+    "to": "tailless",
+    "sim": 0.07145173147704072
+  },
+  {
+    "from": "accoil",
+    "to": "coil",
+    "sim": 0.11752444994147011
+  },
+  {
+    "from": "accourage",
+    "to": "encourage",
+    "sim": 0.3083085060643778
+  },
+  {
+    "from": "acedia",
+    "to": "boredom",
+    "sim": 0.20011822347386723
+  },
+  {
+    "from": "actor",
+    "to": "plaintiff",
+    "sim": 0.37425956944074507
+  },
+  {
+    "from": "adamant",
+    "to": "magnet",
+    "sim": 0.24747644942891783
+  },
+  {
+    "from": "Adam's apple",
+    "to": "citron",
+    "sim": 0.2781803982236778
+  },
+  {
+    "from": "add up",
+    "to": "make sense",
+    "sim": 0.22295562027771026
+  },
+  {
+    "from": "adminicle",
+    "to": "aid",
+    "sim": 0.16309668737003888
+  },
+  {
+    "from": "advancement",
+    "to": "advance payment",
+    "sim": 0.24678501685903156
+  },
+  {
+    "from": "advertently",
+    "to": "on purpose",
+    "sim": 0.3180120397383556
+  },
+  {
+    "from": "advisatory",
+    "to": "advisory",
+    "sim": 0.34047789816309065
+  },
+  {
+    "from": "affiliate",
+    "to": "adopt",
+    "sim": 0.299151205327606
+  },
+  {
+    "from": "affine",
+    "to": "in-law",
+    "sim": 0.1655038354566969
+  },
+  {
+    "from": "affix",
+    "to": "suffix",
+    "sim": 0.26453163846248534
+  },
+  {
+    "from": "affluent",
+    "to": "tributary",
+    "sim": 0.16730421203391604
+  },
+  {
+    "from": "afterword",
+    "to": "appendix",
+    "sim": 0.22595877532492956
+  },
+  {
+    "from": "age",
+    "to": "century",
+    "sim": 0.37492756110549647
+  },
+  {
+    "from": "ageful",
+    "to": "eternity",
+    "sim": 0.2971712182190627
+  },
+  {
+    "from": "aglet",
+    "to": "catkin",
+    "sim": 0.2309353355192183
+  },
+  {
+    "from": "ague",
+    "to": "malaria",
+    "sim": 0.14589587990050243
+  },
+  {
+    "from": "airship",
+    "to": "dirigible",
+    "sim": 0.3500300373027043
+  },
+  {
+    "from": "alkekengi",
+    "to": "bladder cherry",
+    "sim": 0.14328744078654806
+  },
+  {
+    "from": "allowance",
+    "to": "pocket money",
+    "sim": 0.41528511232682125
+  },
+  {
+    "from": "Almaty",
+    "to": "Astana",
+    "sim": 0.40489342973053877
+  },
+  {
+    "from": "al-Quds",
+    "to": "Jerusalem",
+    "sim": 0.2992537017175841
+  },
+  {
+    "from": "also known as",
+    "to": "AKA",
+    "sim": 0.36326688563998577
+  },
+  {
+    "from": "alternation",
+    "to": "ablaut",
+    "sim": 0.34049896879519354
+  },
+  {
+    "from": "amerce",
+    "to": "punish",
+    "sim": 0.18751597402078424
+  },
+  {
+    "from": "amerce",
+    "to": "fine",
+    "sim": 0.17882257787806727
+  },
+  {
+    "from": "amigo",
+    "to": "friend",
+    "sim": 0.2998214334671942
+  },
+  {
+    "from": "amiss",
+    "to": "wrong",
+    "sim": 0.25724664849794215
+  },
+  {
+    "from": "a mite",
+    "to": "a little",
+    "sim": 0.27208246961789934
+  },
+  {
+    "from": "among other things",
+    "to": "inter alia",
+    "sim": 0.23305744121023292
+  },
+  {
+    "from": "ampersat",
+    "to": "at sign",
+    "sim": 0.21458588860789213
+  },
+  {
+    "from": "amylum",
+    "to": "starch",
+    "sim": 0.33556322861495363
+  },
+  {
+    "from": "ananas",
+    "to": "pineapple",
+    "sim": 0.31868758782662104
+  },
+  {
+    "from": "androgynous",
+    "to": "hermaphroditic",
+    "sim": 0.3923332730846996
+  },
+  {
+    "from": "Anglian",
+    "to": "Angle",
+    "sim": 0.24137242941519918
+  },
+  {
+    "from": "ang moh",
+    "to": "white",
+    "sim": 0.2537288369672244
+  },
+  {
+    "from": "anise",
+    "to": "fennel",
+    "sim": 0.31290961697525765
+  },
+  {
+    "from": "anoda",
+    "to": "another",
+    "sim": 0.3689740254186039
+  },
+  {
+    "from": "antebrachium",
+    "to": "forearm",
+    "sim": 0.22043731785644
+  },
+  {
+    "from": "antelope",
+    "to": "pronghorn",
+    "sim": 0.2298311595796676
+  },
+  {
+    "from": "antibrachium",
+    "to": "forearm",
+    "sim": 0.14820923295289967
+  },
+  {
+    "from": "antinatural",
+    "to": "unnatural",
+    "sim": 0.358456780739759
+  },
+  {
+    "from": "antirrhinum",
+    "to": "snapdragon",
+    "sim": 0.3168616125817881
+  },
+  {
+    "from": "anxietude",
+    "to": "anxiety",
+    "sim": 0.3640821336606219
+  },
+  {
+    "from": "Aomen",
+    "to": "Macau",
+    "sim": 0.23047417198205059
+  },
+  {
+    "from": "aphtha",
+    "to": "foot-and-mouth disease",
+    "sim": 0.09770249309126569
+  },
+  {
+    "from": "aphyllous",
+    "to": "leafless",
+    "sim": 0.27126348495552366
+  },
+  {
+    "from": "apiarist",
+    "to": "beekeeper",
+    "sim": 0.33845887380410233
+  },
+  {
+    "from": "apiculturalist",
+    "to": "beekeeper",
+    "sim": 0.22430652983105034
+  },
+  {
+    "from": "apiculturist",
+    "to": "beekeeper",
+    "sim": 0.24497037160596485
+  },
+  {
+    "from": "apophony",
+    "to": "ablaut",
+    "sim": 0.36970850669297667
+  },
+  {
+    "from": "apothecary",
+    "to": "pharmacy",
+    "sim": 0.3321937095215044
+  },
+  {
+    "from": "apothecary",
+    "to": "pharmacist",
+    "sim": 0.30277235676214176
+  },
+  {
+    "from": "apparatus",
+    "to": "fire engine",
+    "sim": 0.2876928261889652
+  },
+  {
+    "from": "appeal",
+    "to": "accuse",
+    "sim": 0.37916808443175276
+  },
+  {
+    "from": "appeal",
+    "to": "invoke",
+    "sim": 0.2580089618896654
+  },
+  {
+    "from": "appellative",
+    "to": "common noun",
+    "sim": 0.2546417248657681
+  },
+  {
+    "from": "appliable",
+    "to": "applicable",
+    "sim": 0.4182427255197778
+  },
+  {
+    "from": "apply",
+    "to": "use",
+    "sim": 0.3594949634622681
+  },
+  {
+    "from": "apprentice",
+    "to": "newbie",
+    "sim": 0.13771560685589962
+  },
+  {
+    "from": "appropinquation",
+    "to": "approach",
+    "sim": 0.2080648983583346
+  },
+  {
+    "from": "apse",
+    "to": "aspen",
+    "sim": 0.18871971098245702
+  },
+  {
+    "from": "apterous",
+    "to": "wingless",
+    "sim": 0.24494331318262963
+  },
+  {
+    "from": "apurpose",
+    "to": "on purpose",
+    "sim": 0.11795068898315386
+  },
+  {
+    "from": "aqua fortis",
+    "to": "nitric acid",
+    "sim": 0.17835573421469306
+  },
+  {
+    "from": "Arabian camel",
+    "to": "dromedary",
+    "sim": 0.16168203969238024
+  },
+  {
+    "from": "Aramaean",
+    "to": "Aramaic",
+    "sim": 0.29704149121816176
+  },
+  {
+    "from": "arborway",
+    "to": "avenue",
+    "sim": 0.38958607147264956
+  },
+  {
+    "from": "arbutus",
+    "to": "strawberry tree",
+    "sim": 0.1746497055190195
+  },
+  {
+    "from": "archaicism",
+    "to": "archaism",
+    "sim": 0.40120764764096195
+  },
+  {
+    "from": "Archangel",
+    "to": "Arkhangelsk",
+    "sim": 0.30310696045832514
+  },
+  {
+    "from": "archebiosis",
+    "to": "abiogenesis",
+    "sim": 0.29404823253616524
+  },
+  {
+    "from": "archfiend",
+    "to": "Satan",
+    "sim": 0.19831913636669113
+  },
+  {
+    "from": "archiepiscopality",
+    "to": "archbishopric",
+    "sim": 0.268926658356211
+  },
+  {
+    "from": "archiepiscopate",
+    "to": "archbishopric",
+    "sim": 0.3482607212449401
+  },
+  {
+    "from": "archiver",
+    "to": "archivist",
+    "sim": 0.3795378075810162
+  },
+  {
+    "from": "arcminute",
+    "to": "minute of angle",
+    "sim": 0.3122856566538419
+  },
+  {
+    "from": "Arctic loon",
+    "to": "black-throated diver",
+    "sim": 0.23757339639112765
+  },
+  {
+    "from": "arenarious",
+    "to": "sandy",
+    "sim": 0.29873545004029717
+  },
+  {
+    "from": "arenose",
+    "to": "sandy",
+    "sim": 0.29889019772162895
+  },
+  {
+    "from": "armour",
+    "to": "tank",
+    "sim": 0.4058293182535191
+  },
+  {
+    "from": "arolla",
+    "to": "stone pine",
+    "sim": 0.24360810837680644
+  },
+  {
+    "from": "article",
+    "to": "object",
+    "sim": 0.2587107396010184
+  },
+  {
+    "from": "artillerist",
+    "to": "artilleryman",
+    "sim": 0.3059964369275
+  },
+  {
+    "from": "as",
+    "to": "that",
+    "sim": 0.38460579666815325
+  },
+  {
+    "from": "as",
+    "to": "though",
+    "sim": 0.3667801678278502
+  },
+  {
+    "from": "as",
+    "to": "for example",
+    "sim": 0.278325020062662
+  },
+  {
+    "from": "asp",
+    "to": "aspen",
+    "sim": 0.17389918611744362
+  },
+  {
+    "from": "assistant",
+    "to": "wizard",
+    "sim": 0.3460633803349602
+  },
+  {
+    "from": "AstroTurf",
+    "to": "artificial turf",
+    "sim": 0.3127468044059447
+  },
+  {
+    "from": "at the outside",
+    "to": "at most",
+    "sim": 0.275427393616204
+  },
+  {
+    "from": "aubergine",
+    "to": "eggplant",
+    "sim": 0.40368950929268677
+  },
+  {
+    "from": "August",
+    "to": "Augustus",
+    "sim": 0.39462926223970174
+  },
+  {
+    "from": "August",
+    "to": "Augusta",
+    "sim": 0.35962096159842594
+  },
+  {
+    "from": "auricle",
+    "to": "atrium",
+    "sim": 0.2196767255915252
+  },
+  {
+    "from": "aurochs",
+    "to": "European bison",
+    "sim": 0.373648284130461
+  },
+  {
+    "from": "aurora australis",
+    "to": "southern lights",
+    "sim": 0.41786459269386034
+  },
+  {
+    "from": "autarchy",
+    "to": "autocracy",
+    "sim": 0.29954445477078895
+  },
+  {
+    "from": "Avernus",
+    "to": "underworld",
+    "sim": 0.377278237098797
+  },
+  {
+    "from": "Ayers Rock",
+    "to": "Uluru",
+    "sim": 0.3138941042681637
+  },
+  {
+    "from": "baby buggy",
+    "to": "stroller",
+    "sim": 0.41775908434392006
+  },
+  {
+    "from": "baby carriage",
+    "to": "pram",
+    "sim": 0.13499453772400163
+  },
+  {
+    "from": "badass",
+    "to": "belligerent",
+    "sim": 0.24437047831764397
+  },
+  {
+    "from": "badger",
+    "to": "fart",
+    "sim": 0.20947325221718033
+  },
+  {
+    "from": "Bajan",
+    "to": "Barbadian",
+    "sim": 0.36372353501417914
+  },
+  {
+    "from": "Bajan",
+    "to": "Barbadian",
+    "sim": 0.36372353501417914
+  },
+  {
+    "from": "baker's dozen",
+    "to": "cousin",
+    "sim": 0.2176292151394655
+  },
+  {
+    "from": "balance",
+    "to": "estimate",
+    "sim": 0.21447628950962053
+  },
+  {
+    "from": "balance",
+    "to": "Libra",
+    "sim": 0.2804843062425927
+  },
+  {
+    "from": "bale",
+    "to": "bail",
+    "sim": 0.3992560376681926
+  },
+  {
+    "from": "balloon",
+    "to": "boob",
+    "sim": 0.26796403425671406
+  },
+  {
+    "from": "balloon",
+    "to": "speech bubble",
+    "sim": 0.33376091324220947
+  },
+  {
+    "from": "bandog",
+    "to": "guard dog",
+    "sim": 0.2928701466429545
+  },
+  {
+    "from": "bane",
+    "to": "poison",
+    "sim": 0.35162030604937244
+  },
+  {
+    "from": "bane",
+    "to": "killer",
+    "sim": 0.32351710641875175
+  },
+  {
+    "from": "banger",
+    "to": "cylinder",
+    "sim": 0.25395118707954306
+  },
+  {
+    "from": "bankable",
+    "to": "reliable",
+    "sim": 0.3437944582068454
+  },
+  {
+    "from": "bar",
+    "to": "pipe",
+    "sim": 0.31337554684661534
+  },
+  {
+    "from": "bar",
+    "to": "measure",
+    "sim": 0.21168303536416094
+  },
+  {
+    "from": "bar",
+    "to": "except",
+    "sim": 0.19044551748286326
+  },
+  {
+    "from": "barb",
+    "to": "beard",
+    "sim": 0.28839207188446975
+  },
+  {
+    "from": "barf",
+    "to": "vomit",
+    "sim": 0.3101164937547577
+  },
+  {
+    "from": "barf",
+    "to": "vomit",
+    "sim": 0.3101164937547577
+  },
+  {
+    "from": "bark",
+    "to": "girdle",
+    "sim": 0.2701652147413673
+  },
+  {
+    "from": "barn",
+    "to": "child",
+    "sim": 0.25742618541671536
+  },
+  {
+    "from": "barracks",
+    "to": "barrack",
+    "sim": 0.23219230471994778
+  },
+  {
+    "from": "barracuda",
+    "to": "shark",
+    "sim": 0.29855598966810976
+  },
+  {
+    "from": "base",
+    "to": "apron",
+    "sim": 0.14383975870448296
+  },
+  {
+    "from": "bash",
+    "to": "collide",
+    "sim": 0.25408481951145223
+  },
+  {
+    "from": "basilean",
+    "to": "royalist",
+    "sim": 0.2578418769502525
+  },
+  {
+    "from": "bastille",
+    "to": "prison",
+    "sim": 0.23485221332575332
+  },
+  {
+    "from": "bastille",
+    "to": "fortress",
+    "sim": 0.21258048514825406
+  },
+  {
+    "from": "bate",
+    "to": "masturbate",
+    "sim": 0.31805852733837053
+  },
+  {
+    "from": "bathe",
+    "to": "sunbathe",
+    "sim": 0.3692892987248321
+  },
+  {
+    "from": "bathos",
+    "to": "depth",
+    "sim": 0.2571556140794416
+  },
+  {
+    "from": "bathos",
+    "to": "anticlimax",
+    "sim": 0.22241343380285664
+  },
+  {
+    "from": "battle axe",
+    "to": "electric guitar",
+    "sim": 0.3615613059004346
+  },
+  {
+    "from": "bear",
+    "to": "give birth",
+    "sim": 0.20658349871653736
+  },
+  {
+    "from": "bearcat",
+    "to": "red panda",
+    "sim": 0.32552658860222655
+  },
+  {
+    "from": "bearcat",
+    "to": "giant panda",
+    "sim": 0.27878322100650016
+  },
+  {
+    "from": "bearded vulture",
+    "to": "lammergeier",
+    "sim": 0.2835185133264912
+  },
+  {
+    "from": "bear garlic",
+    "to": "ramsons",
+    "sim": 0.17219917587411662
+  },
+  {
+    "from": "beat",
+    "to": "scoop",
+    "sim": 0.33540001272523434
+  },
+  {
+    "from": "beau",
+    "to": "boyfriend",
+    "sim": 0.36279799468187873
+  },
+  {
+    "from": "beauty spot",
+    "to": "mole",
+    "sim": 0.2044896021795094
+  },
+  {
+    "from": "bed",
+    "to": "pallet",
+    "sim": 0.18247830184670197
+  },
+  {
+    "from": "beestings",
+    "to": "colostrum",
+    "sim": 0.22010761154517677
+  },
+  {
+    "from": "behest",
+    "to": "promise",
+    "sim": 0.36373088976502116
+  },
+  {
+    "from": "belladonna",
+    "to": "deadly nightshade",
+    "sim": 0.34027700826057194
+  },
+  {
+    "from": "bellicist",
+    "to": "warmonger",
+    "sim": 0.2302385202895378
+  },
+  {
+    "from": "benchlet",
+    "to": "stool",
+    "sim": 0.1940546048614833
+  },
+  {
+    "from": "beyond",
+    "to": "unknown",
+    "sim": 0.35801200044056086
+  },
+  {
+    "from": "beyond",
+    "to": "afterlife",
+    "sim": 0.34231392178176046
+  },
+  {
+    "from": "biarchy",
+    "to": "diarchy",
+    "sim": 0.32355262231860515
+  },
+  {
+    "from": "bibliophage",
+    "to": "bookworm",
+    "sim": 0.3851534394584062
+  },
+  {
+    "from": "bidimensional",
+    "to": "two-dimensional",
+    "sim": 0.3804254324454775
+  },
+  {
+    "from": "bill",
+    "to": "banknote",
+    "sim": 0.40091484386990306
+  },
+  {
+    "from": "billfold",
+    "to": "wallet",
+    "sim": 0.3822916784816818
+  },
+  {
+    "from": "Billy Wix",
+    "to": "western barn owl",
+    "sim": 0.2951452688693982
+  },
+  {
+    "from": "binky",
+    "to": "pacifier",
+    "sim": 0.2669051144217571
+  },
+  {
+    "from": "birdhouse",
+    "to": "aviary",
+    "sim": 0.4182678726361972
+  },
+  {
+    "from": "birdie",
+    "to": "shuttlecock",
+    "sim": 0.4158717403801602
+  },
+  {
+    "from": "birdlime",
+    "to": "time",
+    "sim": 0.2193334663489352
+  },
+  {
+    "from": "bird of passage",
+    "to": "migrant",
+    "sim": 0.3151849846633515
+  },
+  {
+    "from": "biro",
+    "to": "ballpoint pen",
+    "sim": 0.1954770820519873
+  },
+  {
+    "from": "bisexual",
+    "to": "hermaphrodite",
+    "sim": 0.37805323753778847
+  },
+  {
+    "from": "bissextile",
+    "to": "leap year",
+    "sim": 0.13591482503566113
+  },
+  {
+    "from": "bit",
+    "to": "coin",
+    "sim": 0.36332423844469075
+  },
+  {
+    "from": "bitch",
+    "to": "complaint",
+    "sim": 0.3207652229731498
+  },
+  {
+    "from": "blab",
+    "to": "gossip",
+    "sim": 0.23640918685050494
+  },
+  {
+    "from": "black lead",
+    "to": "graphite",
+    "sim": 0.27887118671419847
+  },
+  {
+    "from": "blackleg",
+    "to": "strikebreaker",
+    "sim": 0.2556736378623168
+  },
+  {
+    "from": "blackshirt",
+    "to": "fascist",
+    "sim": 0.24727172629546193
+  },
+  {
+    "from": "blend",
+    "to": "portmanteau word",
+    "sim": 0.287059892796685
+  },
+  {
+    "from": "blind alley",
+    "to": "dead end",
+    "sim": 0.27832494586670253
+  },
+  {
+    "from": "blind gut",
+    "to": "caecum",
+    "sim": 0.19332582378394356
+  },
+  {
+    "from": "blind tiger",
+    "to": "speakeasy",
+    "sim": 0.24103147269053066
+  },
+  {
+    "from": "blood feud",
+    "to": "vendetta",
+    "sim": 0.28618914959854563
+  },
+  {
+    "from": "blood money",
+    "to": "wergeld",
+    "sim": 0.26190504913933715
+  },
+  {
+    "from": "bloodsucker",
+    "to": "parasite",
+    "sim": 0.3283461361782038
+  },
+  {
+    "from": "blotto",
+    "to": "drunk",
+    "sim": 0.18910562401116537
+  },
+  {
+    "from": "blow",
+    "to": "snow",
+    "sim": 0.2568974003346437
+  },
+  {
+    "from": "blower",
+    "to": "telephone",
+    "sim": 0.2885030407672469
+  },
+  {
+    "from": "blue",
+    "to": "argument",
+    "sim": 0.2932105384952341
+  },
+  {
+    "from": "blue",
+    "to": "sky",
+    "sim": 0.4082899368366222
+  },
+  {
+    "from": "bluebottle",
+    "to": "cornflower",
+    "sim": 0.16224779394587166
+  },
+  {
+    "from": "bluestone",
+    "to": "limestone",
+    "sim": 0.35270326863962725
+  },
+  {
+    "from": "bluestone",
+    "to": "basalt",
+    "sim": 0.20973661198492066
+  },
+  {
+    "from": "bob",
+    "to": "curtsey",
+    "sim": 0.24993372006006662
+  },
+  {
+    "from": "Boche",
+    "to": "German",
+    "sim": 0.3337974302627543
+  },
+  {
+    "from": "bodkin",
+    "to": "dagger",
+    "sim": 0.2583083464485014
+  },
+  {
+    "from": "bog",
+    "to": "shitter",
+    "sim": 0.2665345084839932
+  },
+  {
+    "from": "bogie",
+    "to": "cigarette",
+    "sim": 0.3013377573014283
+  },
+  {
+    "from": "boiled",
+    "to": "angry",
+    "sim": 0.29328020183423414
+  },
+  {
+    "from": "boiled",
+    "to": "drunk",
+    "sim": 0.35503144015449206
+  },
+  {
+    "from": "boiled sweet",
+    "to": "hard candy",
+    "sim": 0.37939238436245576
+  },
+  {
+    "from": "bomb",
+    "to": "success",
+    "sim": 0.37424950961699677
+  },
+  {
+    "from": "bonnet",
+    "to": "reticulum",
+    "sim": 0.1754617263952365
+  },
+  {
+    "from": "boot",
+    "to": "trunk",
+    "sim": 0.3408276631318745
+  },
+  {
+    "from": "bootblack",
+    "to": "shoeshiner",
+    "sim": 0.35201478106048834
+  },
+  {
+    "from": "boro",
+    "to": "borrow",
+    "sim": 0.28719371957852136
+  },
+  {
+    "from": "bosk",
+    "to": "thicket",
+    "sim": 0.3130116515263868
+  },
+  {
+    "from": "bosomy",
+    "to": "big-breasted",
+    "sim": 0.36427459134590984
+  },
+  {
+    "from": "bounty",
+    "to": "generosity",
+    "sim": 0.41626751726441696
+  },
+  {
+    "from": "bourdon",
+    "to": "bumblebee",
+    "sim": 0.25266503557951053
+  },
+  {
+    "from": "bourse",
+    "to": "stock exchange",
+    "sim": 0.357233884011664
+  },
+  {
+    "from": "bowman",
+    "to": "archer",
+    "sim": 0.35112998592957406
+  },
+  {
+    "from": "boxthorn",
+    "to": "wolfberry",
+    "sim": 0.3622026078911366
+  },
+  {
+    "from": "braces",
+    "to": "handcuffs",
+    "sim": 0.3813212325397765
+  },
+  {
+    "from": "brachium",
+    "to": "upper arm",
+    "sim": 0.2848746951156472
+  },
+  {
+    "from": "bramble",
+    "to": "blackberry",
+    "sim": 0.3239114519492475
+  },
+  {
+    "from": "brassiere",
+    "to": "bra",
+    "sim": 0.26643724150265985
+  },
+  {
+    "from": "Braunschweig",
+    "to": "Brunswick",
+    "sim": 0.291548069595095
+  },
+  {
+    "from": "breadbasket",
+    "to": "stomach",
+    "sim": 0.41448033779993726
+  },
+  {
+    "from": "breadth",
+    "to": "width",
+    "sim": 0.3382756999695026
+  },
+  {
+    "from": "breastpin",
+    "to": "brooch",
+    "sim": 0.3875363750742758
+  },
+  {
+    "from": "breeding",
+    "to": "sexual intercourse",
+    "sim": 0.3510207121216318
+  },
+  {
+    "from": "Breslau",
+    "to": "Wroclaw",
+    "sim": 0.3057643644491664
+  },
+  {
+    "from": "brew",
+    "to": "hill",
+    "sim": 0.25104013357924315
+  },
+  {
+    "from": "brimstone",
+    "to": "sulfur",
+    "sim": 0.31945612352628194
+  },
+  {
+    "from": "bring owls to Athens",
+    "to": "carry coals to Newcastle",
+    "sim": 0.03865607175920854
+  },
+  {
+    "from": "brinjal",
+    "to": "eggplant",
+    "sim": 0.20380198104531336
+  },
+  {
+    "from": "briny",
+    "to": "sea",
+    "sim": 0.2810447424177535
+  },
+  {
+    "from": "britches",
+    "to": "pants",
+    "sim": 0.2961449411106151
+  },
+  {
+    "from": "broach",
+    "to": "spit",
+    "sim": 0.35368686985990105
+  },
+  {
+    "from": "broach",
+    "to": "spire",
+    "sim": 0.2042024147996239
+  },
+  {
+    "from": "broad",
+    "to": "whore",
+    "sim": 0.20189523016444663
+  },
+  {
+    "from": "Bronx cheer",
+    "to": "raspberry",
+    "sim": 0.19301898949906135
+  },
+  {
+    "from": "brownnose",
+    "to": "fawn",
+    "sim": 0.2403739028229861
+  },
+  {
+    "from": "brunion",
+    "to": "nectarine",
+    "sim": 0.1903775554354237
+  },
+  {
+    "from": "bubble",
+    "to": "Greek",
+    "sim": 0.16685010911433706
+  },
+  {
+    "from": "bubble",
+    "to": "weep",
+    "sim": 0.3853895975249017
+  },
+  {
+    "from": "bubble",
+    "to": "cheat",
+    "sim": 0.29837212329880963
+  },
+  {
+    "from": "buck",
+    "to": "ram",
+    "sim": 0.2601027211650392
+  },
+  {
+    "from": "bugger",
+    "to": "heretic",
+    "sim": 0.24497004859723304
+  },
+  {
+    "from": "buggery",
+    "to": "anal sex",
+    "sim": 0.1618157023033341
+  },
+  {
+    "from": "bullace",
+    "to": "damson",
+    "sim": 0.3025094975666772
+  },
+  {
+    "from": "bullcrap",
+    "to": "bullshit",
+    "sim": 0.1731239306246436
+  },
+  {
+    "from": "bull fiddle",
+    "to": "double bass",
+    "sim": 0.31826833145518374
+  },
+  {
+    "from": "bully",
+    "to": "pimp",
+    "sim": 0.28020180200048334
+  },
+  {
+    "from": "bumfodder",
+    "to": "toilet paper",
+    "sim": 0.28937636982877135
+  },
+  {
+    "from": "bun",
+    "to": "newbie",
+    "sim": 0.19984442835720911
+  },
+  {
+    "from": "bung",
+    "to": "bribe",
+    "sim": 0.19224895962191305
+  },
+  {
+    "from": "burn",
+    "to": "brand",
+    "sim": 0.21596335130658426
+  },
+  {
+    "from": "burning bush",
+    "to": "spindle",
+    "sim": 0.1625334114960237
+  },
+  {
+    "from": "burning bush",
+    "to": "gas plant",
+    "sim": 0.3193133668558729
+  },
+  {
+    "from": "busk",
+    "to": "tack",
+    "sim": 0.22511472998945137
+  },
+  {
+    "from": "butchery",
+    "to": "abattoir",
+    "sim": 0.3799012038858696
+  },
+  {
+    "from": "butthole",
+    "to": "anus",
+    "sim": 0.3357684565599355
+  },
+  {
+    "from": "buzzard",
+    "to": "vulture",
+    "sim": 0.3628175750514323
+  },
+  {
+    "from": "by and by",
+    "to": "soon",
+    "sim": 0.19595230089134483
+  },
+  {
+    "from": "by dint of",
+    "to": "because of",
+    "sim": 0.3133946323409645
+  },
+  {
+    "from": "cabbage moth",
+    "to": "small white",
+    "sim": 0.2569149651117129
+  },
+  {
+    "from": "cabbage worm",
+    "to": "small white",
+    "sim": 0.28090972932179925
+  },
+  {
+    "from": "cachalot",
+    "to": "sperm whale",
+    "sim": 0.21256102421280265
+  },
+  {
+    "from": "calamari",
+    "to": "squid",
+    "sim": 0.30679584499089013
+  },
+  {
+    "from": "calamus",
+    "to": "fistula",
+    "sim": 0.34796444698339324
+  },
+  {
+    "from": "calamus",
+    "to": "quill",
+    "sim": 0.21835569071672611
+  },
+  {
+    "from": "caliginous",
+    "to": "dark",
+    "sim": 0.25332447109047457
+  },
+  {
+    "from": "calloo",
+    "to": "long-tailed duck",
+    "sim": 0.20626031423697652
+  },
+  {
+    "from": "callow",
+    "to": "bald",
+    "sim": 0.2747652977417222
+  },
+  {
+    "from": "calvous",
+    "to": "bald",
+    "sim": 0.1959016308486923
+  },
+  {
+    "from": "Cambrian symbol",
+    "to": "leek",
+    "sim": 0.13228003573363176
+  },
+  {
+    "from": "camelopard",
+    "to": "giraffe",
+    "sim": 0.3854046725527521
+  },
+  {
+    "from": "candidly",
+    "to": "frankly",
+    "sim": 0.3701643618495777
+  },
+  {
+    "from": "canna",
+    "to": "cannot",
+    "sim": 0.21553084892434649
+  },
+  {
+    "from": "canny",
+    "to": "pleasant",
+    "sim": 0.2946790745597998
+  },
+  {
+    "from": "canny",
+    "to": "frugal",
+    "sim": 0.1973711529547845
+  },
+  {
+    "from": "canonical form",
+    "to": "lemma",
+    "sim": 0.1730551656973448
+  },
+  {
+    "from": "Canticle of Canticles",
+    "to": "Song of Songs",
+    "sim": 0.08043261189691865
+  },
+  {
+    "from": "Canticles",
+    "to": "Song of Songs",
+    "sim": 0.17150053236897753
+  },
+  {
+    "from": "canvass",
+    "to": "campaign",
+    "sim": 0.2637746557222496
+  },
+  {
+    "from": "caper",
+    "to": "crime",
+    "sim": 0.2291823702183907
+  },
+  {
+    "from": "capias",
+    "to": "arrest warrant",
+    "sim": 0.17156839854604977
+  },
+  {
+    "from": "capitation",
+    "to": "poll tax",
+    "sim": 0.21294604149868027
+  },
+  {
+    "from": "capsule",
+    "to": "weasel",
+    "sim": 0.13983540839916028
+  },
+  {
+    "from": "captee",
+    "to": "captive",
+    "sim": 0.37389988817912173
+  },
+  {
+    "from": "car",
+    "to": "carriage",
+    "sim": 0.39610173586783554
+  },
+  {
+    "from": "carabid",
+    "to": "ground beetle",
+    "sim": 0.21972993375208957
+  },
+  {
+    "from": "carambola",
+    "to": "star fruit",
+    "sim": 0.37531128708916073
+  },
+  {
+    "from": "carbonado",
+    "to": "cut",
+    "sim": 0.30579350404585404
+  },
+  {
+    "from": "carboy",
+    "to": "demijohn",
+    "sim": 0.2257632683223012
+  },
+  {
+    "from": "carcass",
+    "to": "corpse",
+    "sim": 0.41745977967584014
+  },
+  {
+    "from": "cardinal",
+    "to": "mulled wine",
+    "sim": 0.1704449070352218
+  },
+  {
+    "from": "careless",
+    "to": "carefree",
+    "sim": 0.3436939662297054
+  },
+  {
+    "from": "carious",
+    "to": "rotten",
+    "sim": 0.3190391628888818
+  },
+  {
+    "from": "Carl",
+    "to": "Charles",
+    "sim": 0.3767472562836649
+  },
+  {
+    "from": "carousel",
+    "to": "merry-go-round",
+    "sim": 0.4068302336560913
+  },
+  {
+    "from": "carpet shark",
+    "to": "ferret",
+    "sim": 0.2786151944654379
+  },
+  {
+    "from": "carry",
+    "to": "bear",
+    "sim": 0.30342018079952715
+  },
+  {
+    "from": "carte de visite",
+    "to": "business card",
+    "sim": 0.1291927003948395
+  },
+  {
+    "from": "cash in",
+    "to": "die",
+    "sim": 0.2980928224798233
+  },
+  {
+    "from": "cashpoint",
+    "to": "automated teller machine",
+    "sim": 0.3919321166185911
+  },
+  {
+    "from": "castle",
+    "to": "rook",
+    "sim": 0.4039150440846281
+  },
+  {
+    "from": "cataplasm",
+    "to": "poultice",
+    "sim": 0.28827082908723756
+  },
+  {
+    "from": "causate",
+    "to": "cause",
+    "sim": 0.377353405028978
+  },
+  {
+    "from": "cavy",
+    "to": "guinea pig",
+    "sim": 0.3146942070948058
+  },
+  {
+    "from": "ceil",
+    "to": "ceiling",
+    "sim": 0.28531489364443746
+  },
+  {
+    "from": "cembalo",
+    "to": "harpsichord",
+    "sim": 0.2579748942488437
+  },
+  {
+    "from": "cep",
+    "to": "porcini",
+    "sim": 0.20083896719941488
+  },
+  {
+    "from": "cepe",
+    "to": "porcini",
+    "sim": 0.16810424228555274
+  },
+  {
+    "from": "cerumen",
+    "to": "earwax",
+    "sim": 0.21605797928255627
+  },
+  {
+    "from": "cervix",
+    "to": "neck",
+    "sim": 0.33538020575868555
+  },
+  {
+    "from": "cervix",
+    "to": "neck",
+    "sim": 0.33538020575868555
+  },
+  {
+    "from": "c'est la vie",
+    "to": "such is life",
+    "sim": 0.20203347062472388
+  },
+  {
+    "from": "Chaldean",
+    "to": "Babylonian",
+    "sim": 0.37756054312137605
+  },
+  {
+    "from": "champian",
+    "to": "field",
+    "sim": 0.2964871295981469
+  },
+  {
+    "from": "champian",
+    "to": "plain",
+    "sim": 0.2600680934976566
+  },
+  {
+    "from": "champian",
+    "to": "plain",
+    "sim": 0.2600680934976566
+  },
+  {
+    "from": "champian",
+    "to": "plain",
+    "sim": 0.2600680934976566
+  },
+  {
+    "from": "champian",
+    "to": "battlefield",
+    "sim": 0.3567762235985529
+  },
+  {
+    "from": "champian",
+    "to": "common land",
+    "sim": 0.20618062019794978
+  },
+  {
+    "from": "charivari",
+    "to": "cacophony",
+    "sim": 0.2013543677102375
+  },
+  {
+    "from": "Charles' Wain",
+    "to": "Big Dipper",
+    "sim": 0.2128554346174407
+  },
+  {
+    "from": "chart",
+    "to": "table",
+    "sim": 0.40798220998429147
+  },
+  {
+    "from": "chary",
+    "to": "frugal",
+    "sim": 0.22414826917223946
+  },
+  {
+    "from": "chasma",
+    "to": "aurora",
+    "sim": 0.24521506684178257
+  },
+  {
+    "from": "chaste",
+    "to": "modest",
+    "sim": 0.25265301513946414
+  },
+  {
+    "from": "chasten",
+    "to": "discipline",
+    "sim": 0.3058839349908155
+  },
+  {
+    "from": "chavender",
+    "to": "chub",
+    "sim": 0.263875107216479
+  },
+  {
+    "from": "check",
+    "to": "cheque",
+    "sim": 0.3858186093950585
+  },
+  {
+    "from": "checkers",
+    "to": "draughts",
+    "sim": 0.3221005759027483
+  },
+  {
+    "from": "chest",
+    "to": "coffin",
+    "sim": 0.37901092644266166
+  },
+  {
+    "from": "chevin",
+    "to": "chub",
+    "sim": 0.24298277469525506
+  },
+  {
+    "from": "chevy",
+    "to": "chase",
+    "sim": 0.35658853188501366
+  },
+  {
+    "from": "child",
+    "to": "give birth",
+    "sim": 0.40354734771184264
+  },
+  {
+    "from": "chinaberry",
+    "to": "bead tree",
+    "sim": 0.28134562129647095
+  },
+  {
+    "from": "Chinese grapefruit",
+    "to": "pomelo",
+    "sim": 0.3436172017507277
+  },
+  {
+    "from": "Chinese lantern",
+    "to": "bladder cherry",
+    "sim": 0.1950359006294809
+  },
+  {
+    "from": "Chinese river dolphin",
+    "to": "baiji",
+    "sim": 0.3933457104298195
+  },
+  {
+    "from": "Chinese white dolphin",
+    "to": "baiji",
+    "sim": 0.411491596600911
+  },
+  {
+    "from": "chisel",
+    "to": "cheat",
+    "sim": 0.1627220177902141
+  },
+  {
+    "from": "cholecyst",
+    "to": "gall bladder",
+    "sim": 0.4161938311228671
+  },
+  {
+    "from": "chronologic",
+    "to": "chronological",
+    "sim": 0.3673312525195142
+  },
+  {
+    "from": "chronophagous",
+    "to": "time-consuming",
+    "sim": 0.16296688992397484
+  },
+  {
+    "from": "chubby",
+    "to": "boner",
+    "sim": 0.28935367441175586
+  },
+  {
+    "from": "Chunnel",
+    "to": "Channel Tunnel",
+    "sim": 0.3865663197147204
+  },
+  {
+    "from": "cicatrice",
+    "to": "scar",
+    "sim": 0.31712183131885496
+  },
+  {
+    "from": "cicatrix",
+    "to": "scar",
+    "sim": 0.32149303480939284
+  },
+  {
+    "from": "cider",
+    "to": "soft drink",
+    "sim": 0.3548822262446551
+  },
+  {
+    "from": "cinder",
+    "to": "ember",
+    "sim": 0.25061060268011837
+  },
+  {
+    "from": "cipher",
+    "to": "zero",
+    "sim": 0.2798028280456633
+  },
+  {
+    "from": "circumambient",
+    "to": "surrounding",
+    "sim": 0.22638000824436919
+  },
+  {
+    "from": "circumscription",
+    "to": "electoral district",
+    "sim": 0.2045226647545888
+  },
+  {
+    "from": "cirque",
+    "to": "circle",
+    "sim": 0.24734164049749235
+  },
+  {
+    "from": "Clare",
+    "to": "Clara",
+    "sim": 0.41845434265363896
+  },
+  {
+    "from": "clavis",
+    "to": "glossary",
+    "sim": 0.20598686417363407
+  },
+  {
+    "from": "clear",
+    "to": "distinct",
+    "sim": 0.36120364644277164
+  },
+  {
+    "from": "cleft lip",
+    "to": "harelip",
+    "sim": 0.2980229430050922
+  },
+  {
+    "from": "clew",
+    "to": "clue",
+    "sim": 0.2466175345174464
+  },
+  {
+    "from": "climbing frame",
+    "to": "jungle gym",
+    "sim": 0.3017649728558249
+  },
+  {
+    "from": "cloakroom",
+    "to": "toilet",
+    "sim": 0.26422968103777894
+  },
+  {
+    "from": "closet",
+    "to": "toilet",
+    "sim": 0.4189755630000419
+  },
+  {
+    "from": "clove pink",
+    "to": "carnation",
+    "sim": 0.23487497547502154
+  },
+  {
+    "from": "c'mere",
+    "to": "here",
+    "sim": 0.18014816963575006
+  },
+  {
+    "from": "c'mere",
+    "to": "come",
+    "sim": 0.25669095972436723
+  },
+  {
+    "from": "coadjutor",
+    "to": "assistant",
+    "sim": 0.29077729900235744
+  },
+  {
+    "from": "cob",
+    "to": "gull",
+    "sim": 0.30316359492992656
+  },
+  {
+    "from": "cob",
+    "to": "bread roll",
+    "sim": 0.22474358046116202
+  },
+  {
+    "from": "cockeyed",
+    "to": "absurd",
+    "sim": 0.22112319129709074
+  },
+  {
+    "from": "cockeyed",
+    "to": "drunk",
+    "sim": 0.3007341315601283
+  },
+  {
+    "from": "cockle",
+    "to": "wrinkle",
+    "sim": 0.2215739065613248
+  },
+  {
+    "from": "coetaneous",
+    "to": "contemporary",
+    "sim": 0.29469324414070563
+  },
+  {
+    "from": "cohort",
+    "to": "associate",
+    "sim": 0.3295001944217196
+  },
+  {
+    "from": "cohort",
+    "to": "colleague",
+    "sim": 0.25967785950175587
+  },
+  {
+    "from": "coiffure",
+    "to": "hairstyle",
+    "sim": 0.4069674275172745
+  },
+  {
+    "from": "coil",
+    "to": "intrauterine device",
+    "sim": 0.24007295762308017
+  },
+  {
+    "from": "coinage",
+    "to": "neologism",
+    "sim": 0.26409746592168815
+  },
+  {
+    "from": "cola",
+    "to": "kola",
+    "sim": 0.3056898323106327
+  },
+  {
+    "from": "cold-blooded",
+    "to": "ectothermic",
+    "sim": 0.3709660704524168
+  },
+  {
+    "from": "cole",
+    "to": "cabbage",
+    "sim": 0.3887069820358621
+  },
+  {
+    "from": "collar",
+    "to": "arrest",
+    "sim": 0.20205660967698624
+  },
+  {
+    "from": "college",
+    "to": "electoral college",
+    "sim": 0.41781641897717403
+  },
+  {
+    "from": "colophony",
+    "to": "rosin",
+    "sim": 0.31231531798863127
+  },
+  {
+    "from": "come down",
+    "to": "graduate",
+    "sim": 0.20422962590575033
+  },
+  {
+    "from": "comedown",
+    "to": "crash",
+    "sim": 0.3700432985744059
+  },
+  {
+    "from": "comedy duo",
+    "to": "double act",
+    "sim": 0.3275750182114499
+  },
+  {
+    "from": "comfort",
+    "to": "console",
+    "sim": 0.2913184203393647
+  },
+  {
+    "from": "comforter",
+    "to": "pacifier",
+    "sim": 0.29567848471652686
+  },
+  {
+    "from": "comment",
+    "to": "observe",
+    "sim": 0.3400704149839832
+  },
+  {
+    "from": "commo",
+    "to": "communist",
+    "sim": 0.3171734846652526
+  },
+  {
+    "from": "commo",
+    "to": "communication",
+    "sim": 0.24280812930409004
+  },
+  {
+    "from": "common loon",
+    "to": "great northern diver",
+    "sim": 0.16785428628832047
+  },
+  {
+    "from": "community language",
+    "to": "lingua franca",
+    "sim": 0.40422393500711035
+  },
+  {
+    "from": "compere",
+    "to": "master of ceremonies",
+    "sim": 0.23395599176518117
+  },
+  {
+    "from": "compress",
+    "to": "abridge",
+    "sim": 0.21184137644914708
+  },
+  {
+    "from": "compute",
+    "to": "make sense",
+    "sim": 0.13915327680195724
+  },
+  {
+    "from": "concord",
+    "to": "agreement",
+    "sim": 0.27082744804743514
+  },
+  {
+    "from": "concordance",
+    "to": "agreement",
+    "sim": 0.30099565796725664
+  },
+  {
+    "from": "condenser",
+    "to": "capacitor",
+    "sim": 0.3143983297058141
+  },
+  {
+    "from": "conditional",
+    "to": "limitation",
+    "sim": 0.2219225813135217
+  },
+  {
+    "from": "conditioner",
+    "to": "fabric softener",
+    "sim": 0.2996284747158307
+  },
+  {
+    "from": "confine",
+    "to": "incarcerate",
+    "sim": 0.2253508066181053
+  },
+  {
+    "from": "confine",
+    "to": "arrest",
+    "sim": 0.15732978062913702
+  },
+  {
+    "from": "confine",
+    "to": "imprison",
+    "sim": 0.29956338541861055
+  },
+  {
+    "from": "confine",
+    "to": "detain",
+    "sim": 0.18674797882449415
+  },
+  {
+    "from": "congress",
+    "to": "sexual intercourse",
+    "sim": 0.33310753912557395
+  },
+  {
+    "from": "conium",
+    "to": "hemlock",
+    "sim": 0.31247409687569366
+  },
+  {
+    "from": "connexion",
+    "to": "connection",
+    "sim": 0.3472054377286455
+  },
+  {
+    "from": "consecution",
+    "to": "sequence",
+    "sim": 0.2604230599473769
+  },
+  {
+    "from": "consecution",
+    "to": "succession",
+    "sim": 0.2745180820961848
+  },
+  {
+    "from": "conservative",
+    "to": "cautious",
+    "sim": 0.32341155236644614
+  },
+  {
+    "from": "construe",
+    "to": "translate",
+    "sim": 0.2691578578356341
+  },
+  {
+    "from": "contain",
+    "to": "hold",
+    "sim": 0.26493574397554576
+  },
+  {
+    "from": "contest",
+    "to": "combat",
+    "sim": 0.4194775783326968
+  },
+  {
+    "from": "contrabass",
+    "to": "double bass",
+    "sim": 0.28321806824149737
+  },
+  {
+    "from": "contract killer",
+    "to": "hitman",
+    "sim": 0.3310839719450321
+  },
+  {
+    "from": "contrariwise",
+    "to": "on the other hand",
+    "sim": 0.276937500460956
+  },
+  {
+    "from": "cootie",
+    "to": "louse",
+    "sim": 0.28176756478100995
+  },
+  {
+    "from": "cooze",
+    "to": "vagina",
+    "sim": 0.25343269992664236
+  },
+  {
+    "from": "copulate",
+    "to": "bed",
+    "sim": 0.24986812686577387
+  },
+  {
+    "from": "copulate",
+    "to": "cover",
+    "sim": 0.3170936533397085
+  },
+  {
+    "from": "copulate",
+    "to": "make love",
+    "sim": 0.19596670565872448
+  },
+  {
+    "from": "copulate",
+    "to": "have sex",
+    "sim": 0.24826556334044092
+  },
+  {
+    "from": "copy",
+    "to": "bastard",
+    "sim": 0.25118586270183507
+  },
+  {
+    "from": "copybook",
+    "to": "exercise book",
+    "sim": 0.3916451694051017
+  },
+  {
+    "from": "corpus",
+    "to": "body",
+    "sim": 0.24815167272502703
+  },
+  {
+    "from": "cos",
+    "to": "because",
+    "sim": 0.21561359631002544
+  },
+  {
+    "from": "cosmopolitan",
+    "to": "cosmopolite",
+    "sim": 0.366102763400843
+  },
+  {
+    "from": "costa",
+    "to": "rib",
+    "sim": 0.2983205545568903
+  },
+  {
+    "from": "counterpane",
+    "to": "bedspread",
+    "sim": 0.15994166497911105
+  },
+  {
+    "from": "coupling",
+    "to": "sexual intercourse",
+    "sim": 0.26673222638168687
+  },
+  {
+    "from": "Courish",
+    "to": "Curonian",
+    "sim": 0.2551024779518475
+  },
+  {
+    "from": "Courlandish",
+    "to": "Curonian",
+    "sim": 0.33040223601233676
+  },
+  {
+    "from": "course",
+    "to": "racecourse",
+    "sim": 0.25958326057987496
+  },
+  {
+    "from": "course",
+    "to": "golf course",
+    "sim": 0.30331599045727603
+  },
+  {
+    "from": "course",
+    "to": "watercourse",
+    "sim": 0.3594138909646587
+  },
+  {
+    "from": "couturier",
+    "to": "fashion house",
+    "sim": 0.18359207963614202
+  },
+  {
+    "from": "cowper",
+    "to": "cooper",
+    "sim": 0.22492901855442946
+  },
+  {
+    "from": "Cowper's fluid",
+    "to": "pre-ejaculate",
+    "sim": 0.20954098975492885
+  },
+  {
+    "from": "crack",
+    "to": "try",
+    "sim": 0.2392714421622118
+  },
+  {
+    "from": "cracker",
+    "to": "northern pintail",
+    "sim": 0.1620996084855063
+  },
+  {
+    "from": "craft",
+    "to": "device",
+    "sim": 0.34879609109563653
+  },
+  {
+    "from": "crawldad",
+    "to": "crayfish",
+    "sim": 0.248413093325719
+  },
+  {
+    "from": "crawler",
+    "to": "sycophant",
+    "sim": 0.22009456080880907
+  },
+  {
+    "from": "crimson",
+    "to": "blush",
+    "sim": 0.40214648243965334
+  },
+  {
+    "from": "crimson tide",
+    "to": "menstruation",
+    "sim": 0.07760304394246269
+  },
+  {
+    "from": "Croat",
+    "to": "Croatian",
+    "sim": 0.3460024395413508
+  },
+  {
+    "from": "croft",
+    "to": "cave",
+    "sim": 0.3501125708324793
+  },
+  {
+    "from": "crutch",
+    "to": "crotch",
+    "sim": 0.2941826189548907
+  },
+  {
+    "from": "crux",
+    "to": "cross",
+    "sim": 0.29025119332913263
+  },
+  {
+    "from": "cubbyhole",
+    "to": "glove compartment",
+    "sim": 0.19825202781121617
+  },
+  {
+    "from": "cubby house",
+    "to": "Wendy house",
+    "sim": 0.3782878923603884
+  },
+  {
+    "from": "cucullated",
+    "to": "hooded",
+    "sim": 0.31663290488402174
+  },
+  {
+    "from": "cuff",
+    "to": "handcuff",
+    "sim": 0.28332090536937954
+  },
+  {
+    "from": "cul-de-sac",
+    "to": "dead end",
+    "sim": 0.2855713825849529
+  },
+  {
+    "from": "culver",
+    "to": "wood pigeon",
+    "sim": 0.2682491765241053
+  },
+  {
+    "from": "curb",
+    "to": "kerb",
+    "sim": 0.2802147961972898
+  },
+  {
+    "from": "curse like a pagan",
+    "to": "swear like a trooper",
+    "sim": 0.40808476795867255
+  },
+  {
+    "from": "curvy",
+    "to": "buxom",
+    "sim": 0.19713754353756033
+  },
+  {
+    "from": "cuspidor",
+    "to": "spittoon",
+    "sim": 0.32738997009953086
+  },
+  {
+    "from": "customs",
+    "to": "custom house",
+    "sim": 0.19036290539861028
+  },
+  {
+    "from": "cut",
+    "to": "skein",
+    "sim": 0.2831785952760834
+  },
+  {
+    "from": "dab",
+    "to": "fingerprint",
+    "sim": 0.17449064617928906
+  },
+  {
+    "from": "daddy longlegs",
+    "to": "cranefly",
+    "sim": 0.2525250467438438
+  },
+  {
+    "from": "dagga",
+    "to": "cement",
+    "sim": 0.20104208795110234
+  },
+  {
+    "from": "dago",
+    "to": "wop",
+    "sim": 0.3585115857946782
+  },
+  {
+    "from": "daltonic",
+    "to": "color blind",
+    "sim": 0.28538506233092836
+  },
+  {
+    "from": "darn",
+    "to": "damn",
+    "sim": 0.4012528607522908
+  },
+  {
+    "from": "darn",
+    "to": "damn",
+    "sim": 0.4012528607522908
+  },
+  {
+    "from": "darning needle",
+    "to": "damselfly",
+    "sim": 0.21173020155744468
+  },
+  {
+    "from": "Davis",
+    "to": "Davidson",
+    "sim": 0.38251894399691805
+  },
+  {
+    "from": "daw",
+    "to": "dawn",
+    "sim": 0.3094075954916218
+  },
+  {
+    "from": "daybook",
+    "to": "diary",
+    "sim": 0.3932183401192108
+  },
+  {
+    "from": "day lark",
+    "to": "early bird",
+    "sim": 0.37828327438043374
+  },
+  {
+    "from": "dear",
+    "to": "expensive",
+    "sim": 0.2527244706445182
+  },
+  {
+    "from": "dear",
+    "to": "sore",
+    "sim": 0.31923694086485266
+  },
+  {
+    "from": "debauch",
+    "to": "orgy",
+    "sim": 0.19003935697165247
+  },
+  {
+    "from": "Decalogue",
+    "to": "Ten Commandments",
+    "sim": 0.16472871226238703
+  },
+  {
+    "from": "decapitate",
+    "to": "behead",
+    "sim": 0.4123927669326249
+  },
+  {
+    "from": "decimate",
+    "to": "tithe",
+    "sim": 0.23035015987520455
+  },
+  {
+    "from": "decollate",
+    "to": "behead",
+    "sim": 0.1628188904216891
+  },
+  {
+    "from": "decubitus",
+    "to": "bedsore",
+    "sim": 0.34775152678455434
+  },
+  {
+    "from": "Ded Moroz",
+    "to": "Father Frost",
+    "sim": 0.1294256679035058
+  },
+  {
+    "from": "deem",
+    "to": "opinion",
+    "sim": 0.30034562895231054
+  },
+  {
+    "from": "deen",
+    "to": "religion",
+    "sim": 0.18973975258051162
+  },
+  {
+    "from": "deen",
+    "to": "Islam",
+    "sim": 0.20581399064429082
+  },
+  {
+    "from": "deep blue",
+    "to": "navy",
+    "sim": 0.36143623747001496
+  },
+  {
+    "from": "deficit",
+    "to": "deficiency",
+    "sim": 0.27783441869631137
+  },
+  {
+    "from": "defy",
+    "to": "challenge",
+    "sim": 0.27693629816067317
+  },
+  {
+    "from": "dehort",
+    "to": "dissuade",
+    "sim": 0.3671977104485874
+  },
+  {
+    "from": "Dei gratia",
+    "to": "by the Grace of God",
+    "sim": 0.20659492218336598
+  },
+  {
+    "from": "dell",
+    "to": "valley",
+    "sim": 0.2789267708712172
+  },
+  {
+    "from": "delphinium",
+    "to": "larkspur",
+    "sim": 0.3733545077043787
+  },
+  {
+    "from": "deltoid",
+    "to": "triangular",
+    "sim": 0.31750939957252977
+  },
+  {
+    "from": "demonstrator",
+    "to": "forefinger",
+    "sim": 0.20970718967621865
+  },
+  {
+    "from": "de novo",
+    "to": "anew",
+    "sim": 0.20606300724093798
+  },
+  {
+    "from": "depilation",
+    "to": "epilation",
+    "sim": 0.22475910930974127
+  },
+  {
+    "from": "deplete",
+    "to": "exhaust",
+    "sim": 0.26620095765393237
+  },
+  {
+    "from": "dernier",
+    "to": "final",
+    "sim": 0.3077797302158872
+  },
+  {
+    "from": "descry",
+    "to": "see",
+    "sim": 0.20036115040782185
+  },
+  {
+    "from": "detain",
+    "to": "hold",
+    "sim": 0.28874284468441797
+  },
+  {
+    "from": "detect",
+    "to": "notice",
+    "sim": 0.33769745710913257
+  },
+  {
+    "from": "determinative",
+    "to": "determiner",
+    "sim": 0.245804854105596
+  },
+  {
+    "from": "dette",
+    "to": "debt",
+    "sim": 0.24025180591920164
+  },
+  {
+    "from": "dextromanual",
+    "to": "right-handed",
+    "sim": 0.2189124810344908
+  },
+  {
+    "from": "diagonal",
+    "to": "slash",
+    "sim": 0.37008554753410694
+  },
+  {
+    "from": "dial",
+    "to": "clock face",
+    "sim": 0.19639732191835904
+  },
+  {
+    "from": "diamond",
+    "to": "rhombus",
+    "sim": 0.23103073800701437
+  },
+  {
+    "from": "dickhead",
+    "to": "glans penis",
+    "sim": 0.2571499896502785
+  },
+  {
+    "from": "digger",
+    "to": "spade",
+    "sim": 0.33294269085639383
+  },
+  {
+    "from": "dill",
+    "to": "fool",
+    "sim": 0.4047840657471502
+  },
+  {
+    "from": "dim-bulb",
+    "to": "stupid",
+    "sim": 0.12931286395504576
+  },
+  {
+    "from": "ding-a-ling",
+    "to": "dick",
+    "sim": 0.23117088986038173
+  },
+  {
+    "from": "dinner jacket",
+    "to": "tuxedo",
+    "sim": 0.34154258099528756
+  },
+  {
+    "from": "dispatch",
+    "to": "dismissal",
+    "sim": 0.32784102513891084
+  },
+  {
+    "from": "disregard",
+    "to": "neglect",
+    "sim": 0.36678834908167157
+  },
+  {
+    "from": "disseminate",
+    "to": "disperse",
+    "sim": 0.3935074131458093
+  },
+  {
+    "from": "dissipate",
+    "to": "disperse",
+    "sim": 0.39153173769307725
+  },
+  {
+    "from": "dittany",
+    "to": "gas plant",
+    "sim": 0.14631089994877744
+  },
+  {
+    "from": "diver",
+    "to": "loon",
+    "sim": 0.23701789943858745
+  },
+  {
+    "from": "divest",
+    "to": "undress",
+    "sim": 0.3551633729041394
+  },
+  {
+    "from": "divvy up",
+    "to": "divide",
+    "sim": 0.25973305100120714
+  },
+  {
+    "from": "DIY",
+    "to": "do-it-yourself",
+    "sim": 0.2810820248898413
+  },
+  {
+    "from": "do business",
+    "to": "urinate",
+    "sim": 0.1112593799652874
+  },
+  {
+    "from": "dog shit",
+    "to": "bullshit",
+    "sim": 0.35827455260079866
+  },
+  {
+    "from": "Dog Star",
+    "to": "Sirius",
+    "sim": 0.41773778148886603
+  },
+  {
+    "from": "do ill",
+    "to": "harm",
+    "sim": 0.29238097645931976
+  },
+  {
+    "from": "doldrum",
+    "to": "boring",
+    "sim": 0.20352556934068042
+  },
+  {
+    "from": "don",
+    "to": "professor",
+    "sim": 0.2725068944960504
+  },
+  {
+    "from": "donjon",
+    "to": "keep",
+    "sim": 0.2291104524024508
+  },
+  {
+    "from": "doofer",
+    "to": "remote control",
+    "sim": 0.13983015387758413
+  },
+  {
+    "from": "dope fiend",
+    "to": "drug addict",
+    "sim": 0.2143287892796537
+  },
+  {
+    "from": "Dorothea",
+    "to": "Dorothy",
+    "sim": 0.3509458299858922
+  },
+  {
+    "from": "dove's-foot",
+    "to": "columbine",
+    "sim": 0.39134149821161707
+  },
+  {
+    "from": "downhill",
+    "to": "easy",
+    "sim": 0.3013291519019573
+  },
+  {
+    "from": "downing",
+    "to": "defeat",
+    "sim": 0.3317841171985427
+  },
+  {
+    "from": "dowser",
+    "to": "divining rod",
+    "sim": 0.16768779652487356
+  },
+  {
+    "from": "DPRK",
+    "to": "Democratic People's Republic of Korea",
+    "sim": 0.3128081299746254
+  },
+  {
+    "from": "drag",
+    "to": "street",
+    "sim": 0.2180354389694052
+  },
+  {
+    "from": "dragon's wort",
+    "to": "tarragon",
+    "sim": 0.25750428516541723
+  },
+  {
+    "from": "draw",
+    "to": "cause",
+    "sim": 0.2248728031393325
+  },
+  {
+    "from": "dreamer",
+    "to": "ladybird",
+    "sim": 0.2923703756476722
+  },
+  {
+    "from": "dredge",
+    "to": "dragnet",
+    "sim": 0.24304113829149182
+  },
+  {
+    "from": "dreggy",
+    "to": "muddy",
+    "sim": 0.2770183082553095
+  },
+  {
+    "from": "dressing",
+    "to": "forcemeat",
+    "sim": 0.1691069703408241
+  },
+  {
+    "from": "dressing-down",
+    "to": "reprimand",
+    "sim": 0.29306425651607587
+  },
+  {
+    "from": "drift",
+    "to": "ford",
+    "sim": 0.26203856408306475
+  },
+  {
+    "from": "drogue",
+    "to": "windsock",
+    "sim": 0.24670656445964653
+  },
+  {
+    "from": "dude",
+    "to": "dandy",
+    "sim": 0.36136882497013667
+  },
+  {
+    "from": "dulcour",
+    "to": "sweetness",
+    "sim": 0.12976315395003815
+  },
+  {
+    "from": "dumb",
+    "to": "mute",
+    "sim": 0.30135393715613296
+  },
+  {
+    "from": "dumbledore",
+    "to": "beetle",
+    "sim": 0.3651936688380508
+  },
+  {
+    "from": "dumbledore",
+    "to": "bumblebee",
+    "sim": 0.2958850684449931
+  },
+  {
+    "from": "dumbledore",
+    "to": "dandelion",
+    "sim": 0.28172061186181047
+  },
+  {
+    "from": "dummy",
+    "to": "pacifier",
+    "sim": 0.31554301921213346
+  },
+  {
+    "from": "Durex",
+    "to": "condom",
+    "sim": 0.36180479552921047
+  },
+  {
+    "from": "Durex",
+    "to": "adhesive tape",
+    "sim": 0.1878279442026831
+  },
+  {
+    "from": "dustbin",
+    "to": "garbage can",
+    "sim": 0.2640313785034697
+  },
+  {
+    "from": "dustcart",
+    "to": "garbage truck",
+    "sim": 0.40660136540708053
+  },
+  {
+    "from": "dye",
+    "to": "die",
+    "sim": 0.25177499431567074
+  },
+  {
+    "from": "dyke",
+    "to": "ditch",
+    "sim": 0.297617032366925
+  },
+  {
+    "from": "ear",
+    "to": "plough",
+    "sim": 0.27374340606553993
+  },
+  {
+    "from": "earth pig",
+    "to": "aardvark",
+    "sim": 0.28905364231858216
+  },
+  {
+    "from": "easy",
+    "to": "comfortable",
+    "sim": 0.308885037391446
+  },
+  {
+    "from": "ecru",
+    "to": "beige",
+    "sim": 0.16813984307154445
+  },
+  {
+    "from": "ecumenic",
+    "to": "ecumenical",
+    "sim": 0.40484775695525627
+  },
+  {
+    "from": "edentate",
+    "to": "toothless",
+    "sim": 0.34128660531708893
+  },
+  {
+    "from": "e-dress",
+    "to": "e-mail address",
+    "sim": 0.3733099209075866
+  },
+  {
+    "from": "egg white",
+    "to": "albumen",
+    "sim": 0.2121210795911515
+  },
+  {
+    "from": "egress",
+    "to": "exit",
+    "sim": 0.2696365448472495
+  },
+  {
+    "from": "electrum",
+    "to": "amber",
+    "sim": 0.3593416560224895
+  },
+  {
+    "from": "elemental",
+    "to": "elementary",
+    "sim": 0.34209950654183124
+  },
+  {
+    "from": "Elizabeth",
+    "to": "Elisheba",
+    "sim": 0.3120604952671275
+  },
+  {
+    "from": "embetterment",
+    "to": "improvement",
+    "sim": 0.3504543683609676
+  },
+  {
+    "from": "embiggen",
+    "to": "enlarge",
+    "sim": 0.2978235824698309
+  },
+  {
+    "from": "embrace",
+    "to": "undergo",
+    "sim": 0.2926855365743566
+  },
+  {
+    "from": "emergency stairs",
+    "to": "fire escape",
+    "sim": 0.32056932985214154
+  },
+  {
+    "from": "Emile",
+    "to": "Emil",
+    "sim": 0.3941471759147747
+  },
+  {
+    "from": "Emmanuel",
+    "to": "Immanuel",
+    "sim": 0.4196063381929219
+  },
+  {
+    "from": "Emmanuel",
+    "to": "Immanuel",
+    "sim": 0.4196063381929219
+  },
+  {
+    "from": "empiric",
+    "to": "charlatan",
+    "sim": 0.29775384469153426
+  },
+  {
+    "from": "employ",
+    "to": "use",
+    "sim": 0.2992128890919878
+  },
+  {
+    "from": "encyclopaedia",
+    "to": "encyclopedia",
+    "sim": 0.4041272198551702
+  },
+  {
+    "from": "endure",
+    "to": "take",
+    "sim": 0.32149228585508105
+  },
+  {
+    "from": "engaged",
+    "to": "busy",
+    "sim": 0.29280669585537117
+  },
+  {
+    "from": "English horn",
+    "to": "cor anglais",
+    "sim": 0.3330445444019463
+  },
+  {
+    "from": "enjail",
+    "to": "imprison",
+    "sim": 0.22651081777316012
+  },
+  {
+    "from": "enjoy your meal",
+    "to": "bon appétit",
+    "sim": 0.31825552039585925
+  },
+  {
+    "from": "ennead",
+    "to": "nine",
+    "sim": 0.21128526326032662
+  },
+  {
+    "from": "enter into",
+    "to": "penetrate",
+    "sim": 0.3735299039085331
+  },
+  {
+    "from": "entire",
+    "to": "internal",
+    "sim": 0.3591471947306588
+  },
+  {
+    "from": "entire",
+    "to": "stallion",
+    "sim": 0.23760291869853753
+  },
+  {
+    "from": "entrée",
+    "to": "main course",
+    "sim": 0.2047357486806509
+  },
+  {
+    "from": "epicaricacy",
+    "to": "schadenfreude",
+    "sim": 0.3012018644350169
+  },
+  {
+    "from": "epicene",
+    "to": "transvestite",
+    "sim": 0.28203320983565516
+  },
+  {
+    "from": "epicene",
+    "to": "transsexual",
+    "sim": 0.23363062767517326
+  },
+  {
+    "from": "epicene",
+    "to": "effeminate",
+    "sim": 0.2426132443457805
+  },
+  {
+    "from": "epicene",
+    "to": "asexual",
+    "sim": 0.2177972545655712
+  },
+  {
+    "from": "epicene",
+    "to": "androgyne",
+    "sim": 0.35918457826648315
+  },
+  {
+    "from": "epilate",
+    "to": "depilate",
+    "sim": 0.29931542581887743
+  },
+  {
+    "from": "erne",
+    "to": "white-tailed eagle",
+    "sim": 0.08770401540148372
+  },
+  {
+    "from": "err",
+    "to": "sin",
+    "sim": 0.18499532625706488
+  },
+  {
+    "from": "erstwhile",
+    "to": "formerly",
+    "sim": 0.3264889155751177
+  },
+  {
+    "from": "Escaut",
+    "to": "Scheldt",
+    "sim": 0.3267405839655771
+  },
+  {
+    "from": "esurient",
+    "to": "voracious",
+    "sim": 0.32114728983575624
+  },
+  {
+    "from": "et cetera",
+    "to": "etc.",
+    "sim": 0.2043228488889343
+  },
+  {
+    "from": "euonymus",
+    "to": "spindle",
+    "sim": 0.17121285818012758
+  },
+  {
+    "from": "Eurotunnel",
+    "to": "Channel Tunnel",
+    "sim": 0.23305381538014242
+  },
+  {
+    "from": "evanescent",
+    "to": "ephemeral",
+    "sim": 0.29376804846701976
+  },
+  {
+    "from": "exclusive",
+    "to": "exclusionary",
+    "sim": 0.3345724374535264
+  },
+  {
+    "from": "exemplar",
+    "to": "role model",
+    "sim": 0.06898216896735454
+  },
+  {
+    "from": "exhalation",
+    "to": "meteor",
+    "sim": 0.19615028687919026
+  },
+  {
+    "from": "expectorate",
+    "to": "spit",
+    "sim": 0.23084053873714636
+  },
+  {
+    "from": "expire",
+    "to": "exhale",
+    "sim": 0.38312704817682064
+  },
+  {
+    "from": "expire",
+    "to": "die",
+    "sim": 0.38406108230339814
+  },
+  {
+    "from": "expiry",
+    "to": "death",
+    "sim": 0.3453203262173436
+  },
+  {
+    "from": "expletive",
+    "to": "swear word",
+    "sim": 0.3814088411545272
+  },
+  {
+    "from": "explication",
+    "to": "explanation",
+    "sim": 0.38468267453420624
+  },
+  {
+    "from": "extension block",
+    "to": "power strip",
+    "sim": 0.33010507004407597
+  },
+  {
+    "from": "exterior",
+    "to": "foreign",
+    "sim": 0.31811878257284676
+  },
+  {
+    "from": "extra-natural",
+    "to": "supernatural",
+    "sim": 0.33568674548939526
+  },
+  {
+    "from": "Eyetie",
+    "to": "wop",
+    "sim": 0.3267119066262622
+  },
+  {
+    "from": "fabaceous",
+    "to": "beanlike",
+    "sim": 0.32688832344294055
+  },
+  {
+    "from": "face",
+    "to": "interface",
+    "sim": 0.27909917666437495
+  },
+  {
+    "from": "fag-end",
+    "to": "butt",
+    "sim": 0.40887021018891556
+  },
+  {
+    "from": "fairheaded",
+    "to": "blond",
+    "sim": 0.18281104751274008
+  },
+  {
+    "from": "falter",
+    "to": "stammer",
+    "sim": 0.2052770921481139
+  },
+  {
+    "from": "fanny",
+    "to": "ass",
+    "sim": 0.36758779384435597
+  },
+  {
+    "from": "fantastical",
+    "to": "fanciful",
+    "sim": 0.32979262911733226
+  },
+  {
+    "from": "Fantizi",
+    "to": "Traditional Chinese",
+    "sim": 0.23476202860132594
+  },
+  {
+    "from": "far",
+    "to": "spelt",
+    "sim": 0.252191820719512
+  },
+  {
+    "from": "fardingbag",
+    "to": "rumen",
+    "sim": 0.28102817152964576
+  },
+  {
+    "from": "fascia",
+    "to": "dashboard",
+    "sim": 0.1926562265076862
+  },
+  {
+    "from": "fast",
+    "to": "express",
+    "sim": 0.1880538159236144
+  },
+  {
+    "from": "faux ami",
+    "to": "false friend",
+    "sim": 0.25638877335586135
+  },
+  {
+    "from": "federative",
+    "to": "federal",
+    "sim": 0.29106866408880816
+  },
+  {
+    "from": "felicitate",
+    "to": "congratulate",
+    "sim": 0.18851014123621007
+  },
+  {
+    "from": "felicitous",
+    "to": "auspicious",
+    "sim": 0.23544983513240508
+  },
+  {
+    "from": "felicity",
+    "to": "happiness",
+    "sim": 0.21903331705327994
+  },
+  {
+    "from": "ferial",
+    "to": "festive",
+    "sim": 0.31646946217257965
+  },
+  {
+    "from": "ferryman",
+    "to": "Charon",
+    "sim": 0.3779972637363534
+  },
+  {
+    "from": "fess up",
+    "to": "confess",
+    "sim": 0.24080381860827957
+  },
+  {
+    "from": "fiat lux",
+    "to": "let there be light",
+    "sim": 0.18830336614843907
+  },
+  {
+    "from": "figure",
+    "to": "assume",
+    "sim": 0.3274075667186493
+  },
+  {
+    "from": "figure out",
+    "to": "calculate",
+    "sim": 0.3350970425615794
+  },
+  {
+    "from": "filbert",
+    "to": "hazel",
+    "sim": 0.38284762163005825
+  },
+  {
+    "from": "fillip",
+    "to": "strike",
+    "sim": 0.21413244386906666
+  },
+  {
+    "from": "fillip",
+    "to": "trifle",
+    "sim": 0.2877834469443999
+  },
+  {
+    "from": "firefox",
+    "to": "red panda",
+    "sim": 0.2022785992788022
+  },
+  {
+    "from": "first light",
+    "to": "dawn",
+    "sim": 0.3159385943782834
+  },
+  {
+    "from": "fit",
+    "to": "prepare",
+    "sim": 0.27900554750191475
+  },
+  {
+    "from": "fivescore",
+    "to": "hundred",
+    "sim": 0.24800480379245907
+  },
+  {
+    "from": "flagellum",
+    "to": "whip",
+    "sim": 0.2930871538085289
+  },
+  {
+    "from": "flange",
+    "to": "vulva",
+    "sim": 0.2103761228414825
+  },
+  {
+    "from": "flapjack",
+    "to": "pancake",
+    "sim": 0.3497256690888496
+  },
+  {
+    "from": "flat",
+    "to": "palm",
+    "sim": 0.1814209018512875
+  },
+  {
+    "from": "flat",
+    "to": "apartment",
+    "sim": 0.23315191131309915
+  },
+  {
+    "from": "fleck",
+    "to": "lock",
+    "sim": 0.1947667476324875
+  },
+  {
+    "from": "flipper",
+    "to": "spatula",
+    "sim": 0.2291308201928647
+  },
+  {
+    "from": "flittermouse",
+    "to": "bat",
+    "sim": 0.20025514624408292
+  },
+  {
+    "from": "flog",
+    "to": "sell",
+    "sim": 0.17410639849761697
+  },
+  {
+    "from": "flog",
+    "to": "defeat",
+    "sim": 0.2983631450314338
+  },
+  {
+    "from": "flog",
+    "to": "steal",
+    "sim": 0.15656844995949842
+  },
+  {
+    "from": "flow",
+    "to": "run",
+    "sim": 0.28011959132338804
+  },
+  {
+    "from": "flukey",
+    "to": "lucky",
+    "sim": 0.17447088969458746
+  },
+  {
+    "from": "fluted",
+    "to": "drunk",
+    "sim": 0.37019123645379404
+  },
+  {
+    "from": "fog",
+    "to": "moss",
+    "sim": 0.3158878779796765
+  },
+  {
+    "from": "fond",
+    "to": "like",
+    "sim": 0.26817661759647465
+  },
+  {
+    "from": "force",
+    "to": "waterfall",
+    "sim": 0.2349704996247385
+  },
+  {
+    "from": "forenoon",
+    "to": "morning",
+    "sim": 0.2204963057046449
+  },
+  {
+    "from": "forgery",
+    "to": "invention",
+    "sim": 0.2646348048826949
+  },
+  {
+    "from": "fork",
+    "to": "crotch",
+    "sim": 0.2427832960400359
+  },
+  {
+    "from": "fork",
+    "to": "gallows",
+    "sim": 0.26449977133868724
+  },
+  {
+    "from": "form",
+    "to": "grade",
+    "sim": 0.3380273944965717
+  },
+  {
+    "from": "Formosa",
+    "to": "Taiwan",
+    "sim": 0.3091790959951076
+  },
+  {
+    "from": "fountain",
+    "to": "spring",
+    "sim": 0.3096277338353516
+  },
+  {
+    "from": "four by two",
+    "to": "Jew",
+    "sim": 0.1732055343154811
+  },
+  {
+    "from": "fourth",
+    "to": "quarter",
+    "sim": 0.4168037696615558
+  },
+  {
+    "from": "frankenword",
+    "to": "portmanteau word",
+    "sim": 0.40419299552955146
+  },
+  {
+    "from": "frankfurter",
+    "to": "Vienna sausage",
+    "sim": 0.4085545146113929
+  },
+  {
+    "from": "fraxinella",
+    "to": "gas plant",
+    "sim": 0.22009843873714124
+  },
+  {
+    "from": "French letter",
+    "to": "condom",
+    "sim": 0.16945430683535323
+  },
+  {
+    "from": "fret",
+    "to": "bind",
+    "sim": 0.239620828699092
+  },
+  {
+    "from": "friendly",
+    "to": "exhibition game",
+    "sim": 0.2805403349046372
+  },
+  {
+    "from": "frittata",
+    "to": "omelette",
+    "sim": 0.35974134196954066
+  },
+  {
+    "from": "front crawl",
+    "to": "freestyle",
+    "sim": 0.2570174020751082
+  },
+  {
+    "from": "front desk",
+    "to": "reception",
+    "sim": 0.2635246169760683
+  },
+  {
+    "from": "frosh",
+    "to": "frog",
+    "sim": 0.21906050901995833
+  },
+  {
+    "from": "frounce",
+    "to": "frown",
+    "sim": 0.2886581098354782
+  },
+  {
+    "from": "frounce",
+    "to": "curl",
+    "sim": 0.31476028011599133
+  },
+  {
+    "from": "fugu",
+    "to": "blowfish",
+    "sim": 0.27606307310798966
+  },
+  {
+    "from": "fundament",
+    "to": "anus",
+    "sim": 0.1820453341270856
+  },
+  {
+    "from": "fundament",
+    "to": "foundation",
+    "sim": 0.35744183424125414
+  },
+  {
+    "from": "funeral director",
+    "to": "undertaker",
+    "sim": 0.3965071642590313
+  },
+  {
+    "from": "funerial",
+    "to": "solemn",
+    "sim": 0.26920626784151963
+  },
+  {
+    "from": "funk",
+    "to": "spark",
+    "sim": 0.2796717445791421
+  },
+  {
+    "from": "funnel",
+    "to": "chimney",
+    "sim": 0.3213728052681857
+  },
+  {
+    "from": "funny farm",
+    "to": "madhouse",
+    "sim": 0.3030069854979398
+  },
+  {
+    "from": "furrow",
+    "to": "wrinkle",
+    "sim": 0.364925508211392
+  },
+  {
+    "from": "fuzz",
+    "to": "cop",
+    "sim": 0.25104812970884455
+  },
+  {
+    "from": "fuzz",
+    "to": "police",
+    "sim": 0.14958845571324605
+  },
+  {
+    "from": "fylfot",
+    "to": "swastika",
+    "sim": 0.18614129090788087
+  },
+  {
+    "from": "gadfly",
+    "to": "botfly",
+    "sim": 0.21360909857795002
+  },
+  {
+    "from": "gadfly",
+    "to": "horsefly",
+    "sim": 0.2412621645685408
+  },
+  {
+    "from": "Gaelic",
+    "to": "Goidelic",
+    "sim": 0.19340185245384395
+  },
+  {
+    "from": "gaffer",
+    "to": "baby",
+    "sim": 0.2710252129180113
+  },
+  {
+    "from": "galah",
+    "to": "fool",
+    "sim": 0.23285677934985138
+  },
+  {
+    "from": "Gallegan",
+    "to": "Galician",
+    "sim": 0.3012130457576367
+  },
+  {
+    "from": "galliard",
+    "to": "bourgeois",
+    "sim": 0.2822163774433329
+  },
+  {
+    "from": "gameness",
+    "to": "courage",
+    "sim": 0.3444787239591757
+  },
+  {
+    "from": "gang bang",
+    "to": "orgy",
+    "sim": 0.3050070904474937
+  },
+  {
+    "from": "gantlope",
+    "to": "gauntlet",
+    "sim": 0.22966672288304066
+  },
+  {
+    "from": "gaol",
+    "to": "jail",
+    "sim": 0.39049003029079166
+  },
+  {
+    "from": "garage",
+    "to": "gas station",
+    "sim": 0.40280215530670016
+  },
+  {
+    "from": "gash",
+    "to": "vulva",
+    "sim": 0.23481610093683392
+  },
+  {
+    "from": "gas pedal",
+    "to": "accelerator",
+    "sim": 0.273688290409203
+  },
+  {
+    "from": "gastralgia",
+    "to": "stomachache",
+    "sim": 0.37410205723031537
+  },
+  {
+    "from": "gay",
+    "to": "promiscuous",
+    "sim": 0.2618980474220772
+  },
+  {
+    "from": "gedankenexperiment",
+    "to": "thought experiment",
+    "sim": 0.20078996157929815
+  },
+  {
+    "from": "geek",
+    "to": "look",
+    "sim": 0.24987468746720248
+  },
+  {
+    "from": "geezer",
+    "to": "geyser",
+    "sim": 0.37363568867462826
+  },
+  {
+    "from": "geld",
+    "to": "money",
+    "sim": 0.26862021649544815
+  },
+  {
+    "from": "geld",
+    "to": "castrate",
+    "sim": 0.2833509625774276
+  },
+  {
+    "from": "gelding",
+    "to": "eunuch",
+    "sim": 0.30141299574448777
+  },
+  {
+    "from": "gender",
+    "to": "voice",
+    "sim": 0.29206013124055913
+  },
+  {
+    "from": "genticide",
+    "to": "genocide",
+    "sim": 0.2264700166353935
+  },
+  {
+    "from": "genu varum",
+    "to": "bowleg",
+    "sim": 0.22279206119994385
+  },
+  {
+    "from": "ger",
+    "to": "yurt",
+    "sim": 0.2966032400724459
+  },
+  {
+    "from": "German measles",
+    "to": "rubella",
+    "sim": 0.3388478035336896
+  },
+  {
+    "from": "get",
+    "to": "beget",
+    "sim": 0.3879179336606374
+  },
+  {
+    "from": "get at",
+    "to": "access",
+    "sim": 0.3671951967946956
+  },
+  {
+    "from": "get at",
+    "to": "attack",
+    "sim": 0.4068066821949307
+  },
+  {
+    "from": "get at",
+    "to": "contact",
+    "sim": 0.346007238639915
+  },
+  {
+    "from": "gettable",
+    "to": "obtainable",
+    "sim": 0.33253800858340915
+  },
+  {
+    "from": "gibbous",
+    "to": "humpbacked",
+    "sim": 0.32758704348467726
+  },
+  {
+    "from": "giddiness",
+    "to": "dizziness",
+    "sim": 0.24577048142893212
+  },
+  {
+    "from": "Gim",
+    "to": "Kim",
+    "sim": 0.2809420108597518
+  },
+  {
+    "from": "gingival",
+    "to": "alveolar",
+    "sim": 0.2952250485656569
+  },
+  {
+    "from": "gippo",
+    "to": "Egyptian",
+    "sim": 0.23457632806539255
+  },
+  {
+    "from": "gippo",
+    "to": "Gypsy",
+    "sim": 0.210096397502479
+  },
+  {
+    "from": "girdle",
+    "to": "zodiac",
+    "sim": 0.15058657952319301
+  },
+  {
+    "from": "give a fig",
+    "to": "give a shit",
+    "sim": 0.39943426018016664
+  },
+  {
+    "from": "give a hoot",
+    "to": "give a shit",
+    "sim": 0.3971603142135361
+  },
+  {
+    "from": "give a light",
+    "to": "give a shit",
+    "sim": 0.4050136884438072
+  },
+  {
+    "from": "give a monkey's",
+    "to": "give a shit",
+    "sim": 0.3719823153928804
+  },
+  {
+    "from": "give a tinker's cuss",
+    "to": "give a shit",
+    "sim": 0.3498175341061917
+  },
+  {
+    "from": "give a tinker's damn",
+    "to": "give a shit",
+    "sim": 0.36869770227848864
+  },
+  {
+    "from": "give or take",
+    "to": "approximately",
+    "sim": 0.08966018408218755
+  },
+  {
+    "from": "give someone a break",
+    "to": "rest",
+    "sim": 0.33150305073254194
+  },
+  {
+    "from": "give two hoots",
+    "to": "give a shit",
+    "sim": 0.28689800474049243
+  },
+  {
+    "from": "give what for",
+    "to": "scold",
+    "sim": 0.29393632341778575
+  },
+  {
+    "from": "glandular fever",
+    "to": "mononucleosis",
+    "sim": 0.3580276600043978
+  },
+  {
+    "from": "glans",
+    "to": "pessary",
+    "sim": 0.175837693670205
+  },
+  {
+    "from": "Glasgow kiss",
+    "to": "headbutt",
+    "sim": 0.2525841553034558
+  },
+  {
+    "from": "glass",
+    "to": "barometer",
+    "sim": 0.2473846606447355
+  },
+  {
+    "from": "glass cutter",
+    "to": "glazier",
+    "sim": 0.24073482279850084
+  },
+  {
+    "from": "glide",
+    "to": "semivowel",
+    "sim": 0.2278268669541176
+  },
+  {
+    "from": "glutton",
+    "to": "wolverine",
+    "sim": 0.24764223880961103
+  },
+  {
+    "from": "go",
+    "to": "attack",
+    "sim": 0.3305774355685237
+  },
+  {
+    "from": "go",
+    "to": "change",
+    "sim": 0.3643716286129303
+  },
+  {
+    "from": "go",
+    "to": "walk",
+    "sim": 0.34306518724876395
+  },
+  {
+    "from": "go",
+    "to": "urinate",
+    "sim": 0.32530540109396416
+  },
+  {
+    "from": "go",
+    "to": "survive",
+    "sim": 0.3602673097669241
+  },
+  {
+    "from": "go",
+    "to": "lead",
+    "sim": 0.31437591159481276
+  },
+  {
+    "from": "goad",
+    "to": "stimulus",
+    "sim": 0.1922070622555997
+  },
+  {
+    "from": "godhead",
+    "to": "divinity",
+    "sim": 0.40621816559329466
+  },
+  {
+    "from": "goer",
+    "to": "foot",
+    "sim": 0.30633996300820276
+  },
+  {
+    "from": "goombah",
+    "to": "wop",
+    "sim": 0.2641623660283522
+  },
+  {
+    "from": "go to work",
+    "to": "commute",
+    "sim": 0.32723556337999476
+  },
+  {
+    "from": "gouge",
+    "to": "cheat",
+    "sim": 0.1553340783677306
+  },
+  {
+    "from": "gound",
+    "to": "sleep",
+    "sim": 0.2727395361154669
+  },
+  {
+    "from": "goutweed",
+    "to": "ground elder",
+    "sim": 0.3081816099651603
+  },
+  {
+    "from": "gramarye",
+    "to": "magic",
+    "sim": 0.23733103218762325
+  },
+  {
+    "from": "gram molecule",
+    "to": "mole",
+    "sim": 0.28794609614574557
+  },
+  {
+    "from": "grampus",
+    "to": "orca",
+    "sim": 0.23274736157060488
+  },
+  {
+    "from": "grasp",
+    "to": "hold",
+    "sim": 0.413695608169332
+  },
+  {
+    "from": "gratis",
+    "to": "for free",
+    "sim": 0.21358500916146858
+  },
+  {
+    "from": "gratis",
+    "to": "free of charge",
+    "sim": 0.2084302387219149
+  },
+  {
+    "from": "greaseball",
+    "to": "wop",
+    "sim": 0.19405592674193306
+  },
+  {
+    "from": "great",
+    "to": "important",
+    "sim": 0.3715749305648375
+  },
+  {
+    "from": "greenery",
+    "to": "marijuana",
+    "sim": 0.3319668813146335
+  },
+  {
+    "from": "green gram",
+    "to": "mung bean",
+    "sim": 0.24754452096671895
+  },
+  {
+    "from": "grenade",
+    "to": "pomegranate",
+    "sim": 0.22913541943517896
+  },
+  {
+    "from": "gripe",
+    "to": "griffin",
+    "sim": 0.19610230846271942
+  },
+  {
+    "from": "grippe",
+    "to": "flu",
+    "sim": 0.23524870720509033
+  },
+  {
+    "from": "groove fricative",
+    "to": "sibilant",
+    "sim": 0.19723425986588367
+  },
+  {
+    "from": "ground",
+    "to": "run aground",
+    "sim": 0.2833579943124835
+  },
+  {
+    "from": "grove",
+    "to": "orchard",
+    "sim": 0.36462836746475613
+  },
+  {
+    "from": "guido",
+    "to": "wop",
+    "sim": 0.18611380990931675
+  },
+  {
+    "from": "guinea",
+    "to": "wop",
+    "sim": 0.20815049133574526
+  },
+  {
+    "from": "gunstick",
+    "to": "ramrod",
+    "sim": 0.3307925404136863
+  },
+  {
+    "from": "Gustave",
+    "to": "Gustav",
+    "sim": 0.4086072971975694
+  },
+  {
+    "from": "gutter",
+    "to": "channel",
+    "sim": 0.2845864555418534
+  },
+  {
+    "from": "gynandromorph",
+    "to": "hermaphrodite",
+    "sim": 0.34246187143972673
+  },
+  {
+    "from": "gypsy",
+    "to": "Rom",
+    "sim": 0.1783637388081626
+  },
+  {
+    "from": "Gypsy",
+    "to": "Rom",
+    "sim": 0.1783637388081626
+  },
+  {
+    "from": "gyrfalcon",
+    "to": "falcon",
+    "sim": 0.2964521812160233
+  },
+  {
+    "from": "hackberry",
+    "to": "bird cherry",
+    "sim": 0.27669345014789837
+  },
+  {
+    "from": "hag",
+    "to": "bird cherry",
+    "sim": 0.17199462943452465
+  },
+  {
+    "from": "hagberry",
+    "to": "bird cherry",
+    "sim": 0.3002577855816276
+  },
+  {
+    "from": "hagberry",
+    "to": "bird cherry",
+    "sim": 0.3002577855816276
+  },
+  {
+    "from": "half-line",
+    "to": "ray",
+    "sim": 0.22917731388273596
+  },
+  {
+    "from": "hallux",
+    "to": "big toe",
+    "sim": 0.3043756737587098
+  },
+  {
+    "from": "hamartia",
+    "to": "sin",
+    "sim": 0.18164387059681752
+  },
+  {
+    "from": "hammam",
+    "to": "Turkish bath",
+    "sim": 0.19102861767915824
+  },
+  {
+    "from": "Hanseong",
+    "to": "Seoul",
+    "sim": 0.2613788933504413
+  },
+  {
+    "from": "Hanyang",
+    "to": "Seoul",
+    "sim": 0.37966323678282
+  },
+  {
+    "from": "Hanzi",
+    "to": "Chinese character",
+    "sim": 0.40873475701621753
+  },
+  {
+    "from": "haply",
+    "to": "perhaps",
+    "sim": 0.25865465715230934
+  },
+  {
+    "from": "hard-on",
+    "to": "erection",
+    "sim": 0.3288024188774438
+  },
+  {
+    "from": "hatch",
+    "to": "trapdoor",
+    "sim": 0.2880262120399845
+  },
+  {
+    "from": "hatch",
+    "to": "crosshatch",
+    "sim": 0.20597461666252787
+  },
+  {
+    "from": "hatstand",
+    "to": "coat stand",
+    "sim": 0.29919378313569994
+  },
+  {
+    "from": "have eyes on",
+    "to": "observe",
+    "sim": 0.3833424709272296
+  },
+  {
+    "from": "have one's eye on",
+    "to": "watch",
+    "sim": 0.3741482831397097
+  },
+  {
+    "from": "have sex",
+    "to": "copulate",
+    "sim": 0.24826556334044092
+  },
+  {
+    "from": "Hawaiian goose",
+    "to": "nene",
+    "sim": 0.13185627198784905
+  },
+  {
+    "from": "haya",
+    "to": "beech",
+    "sim": 0.34045518053064966
+  },
+  {
+    "from": "hazard",
+    "to": "chance",
+    "sim": 0.3381210556965277
+  },
+  {
+    "from": "head",
+    "to": "antler",
+    "sim": 0.2564458594775483
+  },
+  {
+    "from": "head",
+    "to": "bow",
+    "sim": 0.2848829389064448
+  },
+  {
+    "from": "heart attack",
+    "to": "failure",
+    "sim": 0.2990827472456342
+  },
+  {
+    "from": "hebdomad",
+    "to": "week",
+    "sim": 0.2458887158056661
+  },
+  {
+    "from": "hebdomadal",
+    "to": "weekly",
+    "sim": 0.24444870737466087
+  },
+  {
+    "from": "Heijō",
+    "to": "Pyongyang",
+    "sim": 0.2179219797338013
+  },
+  {
+    "from": "Heilongjiang",
+    "to": "Amur",
+    "sim": 0.15264175428801802
+  },
+  {
+    "from": "hellspawn",
+    "to": "monster",
+    "sim": 0.40576927941663843
+  },
+  {
+    "from": "hellspawn",
+    "to": "fiend",
+    "sim": 0.29972869743776503
+  },
+  {
+    "from": "helot",
+    "to": "slave",
+    "sim": 0.2322127607956395
+  },
+  {
+    "from": "hemlock",
+    "to": "cowbane",
+    "sim": 0.28903401104240867
+  },
+  {
+    "from": "henceforward",
+    "to": "from now on",
+    "sim": 0.26378561884312535
+  },
+  {
+    "from": "hen night",
+    "to": "bachelorette party",
+    "sim": 0.27706908284174864
+  },
+  {
+    "from": "Henriette",
+    "to": "Henrietta",
+    "sim": 0.19900864986067776
+  },
+  {
+    "from": "hereafter",
+    "to": "afterlife",
+    "sim": 0.2580165277505468
+  },
+  {
+    "from": "hereafter",
+    "to": "from now on",
+    "sim": 0.21828493014809433
+  },
+  {
+    "from": "here and there",
+    "to": "from time to time",
+    "sim": 0.2448480881698911
+  },
+  {
+    "from": "hereto",
+    "to": "so far",
+    "sim": 0.23240643254789767
+  },
+  {
+    "from": "hexapod",
+    "to": "insect",
+    "sim": 0.3674133041693914
+  },
+  {
+    "from": "high",
+    "to": "anticyclone",
+    "sim": 0.2067045469777426
+  },
+  {
+    "from": "hight",
+    "to": "call",
+    "sim": 0.24399814442015852
+  },
+  {
+    "from": "hinge",
+    "to": "quartile",
+    "sim": 0.11748077880927509
+  },
+  {
+    "from": "hole",
+    "to": "destroy",
+    "sim": 0.31113388615835863
+  },
+  {
+    "from": "hollow of the knee",
+    "to": "poplit",
+    "sim": 0.21166231567414107
+  },
+  {
+    "from": "Holy Thursday",
+    "to": "Ascension Day",
+    "sim": 0.38552615414569474
+  },
+  {
+    "from": "honeycomb stomach",
+    "to": "reticulum",
+    "sim": 0.28420205468201803
+  },
+  {
+    "from": "hook",
+    "to": "steal",
+    "sim": 0.3349501983315741
+  },
+  {
+    "from": "hook",
+    "to": "fishhook",
+    "sim": 0.27563246557052123
+  },
+  {
+    "from": "hooknose",
+    "to": "aquiline nose",
+    "sim": 0.3453784983230955
+  },
+  {
+    "from": "hookup",
+    "to": "fling",
+    "sim": 0.2910388615617422
+  },
+  {
+    "from": "hoop",
+    "to": "jockey",
+    "sim": 0.2123924759706894
+  },
+  {
+    "from": "hooter",
+    "to": "dick",
+    "sim": 0.3151380242228534
+  },
+  {
+    "from": "hooter",
+    "to": "owl",
+    "sim": 0.18725527014222276
+  },
+  {
+    "from": "hopeless",
+    "to": "desperate",
+    "sim": 0.40567886148581733
+  },
+  {
+    "from": "hordeolum",
+    "to": "stye",
+    "sim": 0.2941121640953245
+  },
+  {
+    "from": "horn",
+    "to": "antler",
+    "sim": 0.27224645466688635
+  },
+  {
+    "from": "horn of plenty",
+    "to": "cornucopia",
+    "sim": 0.12641475839522967
+  },
+  {
+    "from": "hortensia",
+    "to": "hydrangea",
+    "sim": 0.4086579699433027
+  },
+  {
+    "from": "hothouse",
+    "to": "brothel",
+    "sim": 0.4094527798622557
+  },
+  {
+    "from": "hottie",
+    "to": "hot water bottle",
+    "sim": 0.3448306370825102
+  },
+  {
+    "from": "house",
+    "to": "bingo",
+    "sim": 0.3029772195648186
+  },
+  {
+    "from": "household deity",
+    "to": "patron saint",
+    "sim": 0.31157116026997955
+  },
+  {
+    "from": "house of ill fame",
+    "to": "brothel",
+    "sim": 0.2292408934632601
+  },
+  {
+    "from": "Hrodna",
+    "to": "Grodno",
+    "sim": 0.37300909681211847
+  },
+  {
+    "from": "Hugo",
+    "to": "Hugh",
+    "sim": 0.28547047231251405
+  },
+  {
+    "from": "Hun",
+    "to": "German",
+    "sim": 0.28227356349432237
+  },
+  {
+    "from": "hurdy-gurdy",
+    "to": "barrel organ",
+    "sim": 0.20935007829844382
+  },
+  {
+    "from": "hustler",
+    "to": "prostitute",
+    "sim": 0.3458055277264519
+  },
+  {
+    "from": "hutong",
+    "to": "alley",
+    "sim": 0.296146491372022
+  },
+  {
+    "from": "hypermetropia",
+    "to": "farsightedness",
+    "sim": 0.3219960024022894
+  },
+  {
+    "from": "hypocorism",
+    "to": "baby talk",
+    "sim": 0.236708825671236
+  },
+  {
+    "from": "ice",
+    "to": "diamond",
+    "sim": 0.3187831863322403
+  },
+  {
+    "from": "icebox",
+    "to": "refrigerator",
+    "sim": 0.3450432080540676
+  },
+  {
+    "from": "ill",
+    "to": "bad",
+    "sim": 0.31938850301685584
+  },
+  {
+    "from": "imagery",
+    "to": "imitation",
+    "sim": 0.3188002311755402
+  },
+  {
+    "from": "imburse",
+    "to": "save",
+    "sim": 0.23124798153922643
+  },
+  {
+    "from": "imburse",
+    "to": "fund",
+    "sim": 0.17521582364444838
+  },
+  {
+    "from": "imburse",
+    "to": "refund",
+    "sim": 0.12045207532212668
+  },
+  {
+    "from": "Immanuel",
+    "to": "Emmanuel",
+    "sim": 0.4196063381929219
+  },
+  {
+    "from": "immovable property",
+    "to": "real estate",
+    "sim": 0.27459353850595086
+  },
+  {
+    "from": "impasse",
+    "to": "dead end",
+    "sim": 0.27446894398525
+  },
+  {
+    "from": "imperium",
+    "to": "sovereignty",
+    "sim": 0.418926295673172
+  },
+  {
+    "from": "imperium",
+    "to": "dominion",
+    "sim": 0.2931052057332515
+  },
+  {
+    "from": "incumbrance",
+    "to": "encumbrance",
+    "sim": 0.27229639357986446
+  },
+  {
+    "from": "incumbrance",
+    "to": "encumbrance",
+    "sim": 0.27229639357986446
+  },
+  {
+    "from": "incus",
+    "to": "anvil",
+    "sim": 0.26488865924817573
+  },
+  {
+    "from": "index",
+    "to": "forefinger",
+    "sim": 0.17201085008617947
+  },
+  {
+    "from": "indign",
+    "to": "unworthy",
+    "sim": 0.357036167395046
+  },
+  {
+    "from": "indign",
+    "to": "disgraceful",
+    "sim": 0.3565964862627681
+  },
+  {
+    "from": "indoctrinate",
+    "to": "teach",
+    "sim": 0.3475070364385926
+  },
+  {
+    "from": "indweller",
+    "to": "inhabitant",
+    "sim": 0.2816365455699377
+  },
+  {
+    "from": "influence",
+    "to": "influx",
+    "sim": 0.36617635558362766
+  },
+  {
+    "from": "inseminate",
+    "to": "sow",
+    "sim": 0.17082070595401969
+  },
+  {
+    "from": "insidious",
+    "to": "treacherous",
+    "sim": 0.3829020204466437
+  },
+  {
+    "from": "insolation",
+    "to": "sunstroke",
+    "sim": 0.16428173992857664
+  },
+  {
+    "from": "institutional",
+    "to": "rudimentary",
+    "sim": 0.23925710714833096
+  },
+  {
+    "from": "intended",
+    "to": "fiancé",
+    "sim": 0.25115457165596344
+  },
+  {
+    "from": "intended",
+    "to": "fiancée",
+    "sim": 0.24083342888594206
+  },
+  {
+    "from": "interdiction",
+    "to": "prohibition",
+    "sim": 0.2532410653501442
+  },
+  {
+    "from": "interlanguage",
+    "to": "pidgin",
+    "sim": 0.19949147697623884
+  },
+  {
+    "from": "interrogation point",
+    "to": "question mark",
+    "sim": 0.4097986057421715
+  },
+  {
+    "from": "in the event",
+    "to": "if",
+    "sim": 0.22040326225983442
+  },
+  {
+    "from": "in the future",
+    "to": "from now on",
+    "sim": 0.34629826131807967
+  },
+  {
+    "from": "in the least",
+    "to": "at all",
+    "sim": 0.39566010813319574
+  },
+  {
+    "from": "inthronization",
+    "to": "enthronement",
+    "sim": 0.41452937298012704
+  },
+  {
+    "from": "invented",
+    "to": "imaginary",
+    "sim": 0.32972554087721817
+  },
+  {
+    "from": "invert",
+    "to": "homosexual",
+    "sim": 0.28655105596060154
+  },
+  {
+    "from": "invite",
+    "to": "encourage",
+    "sim": 0.18121953312598635
+  },
+  {
+    "from": "iron",
+    "to": "shackles",
+    "sim": 0.2752441879264571
+  },
+  {
+    "from": "Iroquois",
+    "to": "Mohawk",
+    "sim": 0.3716828796392059
+  },
+  {
+    "from": "IT",
+    "to": "information technology",
+    "sim": 0.2386162612969677
+  },
+  {
+    "from": "jack",
+    "to": "knave",
+    "sim": 0.35578838666562723
+  },
+  {
+    "from": "jack",
+    "to": "pike",
+    "sim": 0.4082020066189081
+  },
+  {
+    "from": "jade",
+    "to": "money plant",
+    "sim": 0.195595059291307
+  },
+  {
+    "from": "jaeger",
+    "to": "rifle",
+    "sim": 0.3541449978231365
+  },
+  {
+    "from": "Jah",
+    "to": "God",
+    "sim": 0.2919059618484811
+  },
+  {
+    "from": "jam jar",
+    "to": "car",
+    "sim": 0.2252801474621929
+  },
+  {
+    "from": "Japanese lantern",
+    "to": "bladder cherry",
+    "sim": 0.17974360493067937
+  },
+  {
+    "from": "jape",
+    "to": "joke",
+    "sim": 0.18444888176108062
+  },
+  {
+    "from": "Jasper",
+    "to": "Caspar",
+    "sim": 0.2852689319338277
+  },
+  {
+    "from": "jellyroll",
+    "to": "Swiss roll",
+    "sim": 0.3751007632985424
+  },
+  {
+    "from": "Jeremy",
+    "to": "Jeremiah",
+    "sim": 0.3532821947686687
+  },
+  {
+    "from": "jerkoff",
+    "to": "wanker",
+    "sim": 0.29532627263869893
+  },
+  {
+    "from": "Jerry",
+    "to": "German",
+    "sim": 0.2357298390316985
+  },
+  {
+    "from": "jetty",
+    "to": "wharf",
+    "sim": 0.28225533374703377
+  },
+  {
+    "from": "jetty",
+    "to": "pier",
+    "sim": 0.24895662848873473
+  },
+  {
+    "from": "Jewry",
+    "to": "Judea",
+    "sim": 0.3535968091503877
+  },
+  {
+    "from": "jingoism",
+    "to": "chauvinism",
+    "sim": 0.354110779700899
+  },
+  {
+    "from": "jinrikisha",
+    "to": "rickshaw",
+    "sim": 0.2811750000587017
+  },
+  {
+    "from": "jinriksha",
+    "to": "rickshaw",
+    "sim": 0.3021537174690125
+  },
+  {
+    "from": "Joanna",
+    "to": "Jane",
+    "sim": 0.4074692878505606
+  },
+  {
+    "from": "joker",
+    "to": "fool",
+    "sim": 0.38696740638384497
+  },
+  {
+    "from": "joskin",
+    "to": "country bumpkin",
+    "sim": 0.256302203776359
+  },
+  {
+    "from": "juice joint",
+    "to": "nightclub",
+    "sim": 0.265638233265335
+  },
+  {
+    "from": "jynx",
+    "to": "spell",
+    "sim": 0.21753217503541994
+  },
+  {
+    "from": "kakke",
+    "to": "beriberi",
+    "sim": 0.17966603958689875
+  },
+  {
+    "from": "Karafuto",
+    "to": "Sakhalin",
+    "sim": 0.31893104814415535
+  },
+  {
+    "from": "Kartvelian",
+    "to": "Georgian",
+    "sim": 0.347944927387669
+  },
+  {
+    "from": "Kartvelian",
+    "to": "Georgian",
+    "sim": 0.347944927387669
+  },
+  {
+    "from": "Kartvelian",
+    "to": "Georgian",
+    "sim": 0.347944927387669
+  },
+  {
+    "from": "keel over",
+    "to": "die",
+    "sim": 0.38110639658462653
+  },
+  {
+    "from": "keep company",
+    "to": "court",
+    "sim": 0.22504808207340915
+  },
+  {
+    "from": "Keijō",
+    "to": "Seoul",
+    "sim": 0.13437254661637274
+  },
+  {
+    "from": "kettle",
+    "to": "pothole",
+    "sim": 0.35947117111408333
+  },
+  {
+    "from": "kettle",
+    "to": "steam locomotive",
+    "sim": 0.4025126636681616
+  },
+  {
+    "from": "killjoy",
+    "to": "spoilsport",
+    "sim": 0.3017970071779741
+  },
+  {
+    "from": "kin",
+    "to": "relative",
+    "sim": 0.4146857169540336
+  },
+  {
+    "from": "kinesia",
+    "to": "motion sickness",
+    "sim": 0.23986165975857177
+  },
+  {
+    "from": "kinesthetics",
+    "to": "proprioception",
+    "sim": 0.30785049397168934
+  },
+  {
+    "from": "kinetosis",
+    "to": "motion sickness",
+    "sim": 0.32721972291384827
+  },
+  {
+    "from": "kingslayer",
+    "to": "regicide",
+    "sim": 0.27882663865309854
+  },
+  {
+    "from": "kipfel",
+    "to": "croissant",
+    "sim": 0.26660187234528326
+  },
+  {
+    "from": "kit",
+    "to": "clothing",
+    "sim": 0.4006683049958757
+  },
+  {
+    "from": "kite",
+    "to": "rush",
+    "sim": 0.229590691567355
+  },
+  {
+    "from": "kite",
+    "to": "brill",
+    "sim": 0.11608493896756712
+  },
+  {
+    "from": "knee pit",
+    "to": "poplit",
+    "sim": 0.20445013412223112
+  },
+  {
+    "from": "knickers",
+    "to": "panties",
+    "sim": 0.3159397163916167
+  },
+  {
+    "from": "knit cap",
+    "to": "beanie",
+    "sim": 0.16311161938131108
+  },
+  {
+    "from": "knock back",
+    "to": "reject",
+    "sim": 0.3990711806655784
+  },
+  {
+    "from": "knock down",
+    "to": "demolish",
+    "sim": 0.36728247441996964
+  },
+  {
+    "from": "Kraut",
+    "to": "German",
+    "sim": 0.39099303211648173
+  },
+  {
+    "from": "Kris Kringle",
+    "to": "Santa Claus",
+    "sim": 0.29359091382166325
+  },
+  {
+    "from": "Krung Thep",
+    "to": "Bangkok",
+    "sim": 0.2652929124666899
+  },
+  {
+    "from": "Krym",
+    "to": "Crimea",
+    "sim": 0.27372450711093504
+  },
+  {
+    "from": "ladyfinger",
+    "to": "okra",
+    "sim": 0.05274178032607456
+  },
+  {
+    "from": "lagopode",
+    "to": "ptarmigan",
+    "sim": 0.3084624956400395
+  },
+  {
+    "from": "lamella",
+    "to": "gill",
+    "sim": 0.3282345400835355
+  },
+  {
+    "from": "land",
+    "to": "deliver",
+    "sim": 0.3051977033284959
+  },
+  {
+    "from": "landlouper",
+    "to": "vagabond",
+    "sim": 0.2968656728934701
+  },
+  {
+    "from": "landrail",
+    "to": "corncrake",
+    "sim": 0.2808323999637353
+  },
+  {
+    "from": "Landsknecht",
+    "to": "lansquenet",
+    "sim": 0.3358669531430745
+  },
+  {
+    "from": "larboard",
+    "to": "port",
+    "sim": 0.20442108490067487
+  },
+  {
+    "from": "lass",
+    "to": "sweetheart",
+    "sim": 0.40606662193424037
+  },
+  {
+    "from": "lay figure",
+    "to": "dummy",
+    "sim": 0.32143461947607044
+  },
+  {
+    "from": "leech",
+    "to": "physician",
+    "sim": 0.22295669580106098
+  },
+  {
+    "from": "legist",
+    "to": "legislator",
+    "sim": 0.20338439320555166
+  },
+  {
+    "from": "lemma",
+    "to": "lexeme",
+    "sim": 0.12403743429399838
+  },
+  {
+    "from": "lentigo",
+    "to": "freckle",
+    "sim": 0.2998353574388974
+  },
+  {
+    "from": "lesbo",
+    "to": "lesbian",
+    "sim": 0.3560333285551097
+  },
+  {
+    "from": "less-than-stellar",
+    "to": "poor",
+    "sim": 0.2978069737044528
+  },
+  {
+    "from": "less-than-stellar",
+    "to": "mediocre",
+    "sim": 0.306150402347837
+  },
+  {
+    "from": "less-than-stellar",
+    "to": "unsatisfactory",
+    "sim": 0.26426933756163923
+  },
+  {
+    "from": "Lettic",
+    "to": "Latvian",
+    "sim": 0.25123119498373486
+  },
+  {
+    "from": "Lettish",
+    "to": "Latvian",
+    "sim": 0.2682677515917652
+  },
+  {
+    "from": "Lettish",
+    "to": "Latvian",
+    "sim": 0.2682677515917652
+  },
+  {
+    "from": "lever",
+    "to": "rather",
+    "sim": 0.22877111468935757
+  },
+  {
+    "from": "levigate",
+    "to": "lighten",
+    "sim": 0.2032995822409305
+  },
+  {
+    "from": "lichen",
+    "to": "cancer",
+    "sim": 0.3242544682728513
+  },
+  {
+    "from": "lift",
+    "to": "thief",
+    "sim": 0.2842342553100017
+  },
+  {
+    "from": "lifter",
+    "to": "spatula",
+    "sim": 0.18814896950193113
+  },
+  {
+    "from": "lightning bug",
+    "to": "firefly",
+    "sim": 0.29858420283907255
+  },
+  {
+    "from": "lightvessel",
+    "to": "lightship",
+    "sim": 0.40300164965486285
+  },
+  {
+    "from": "likewise",
+    "to": "too",
+    "sim": 0.3567508794375991
+  },
+  {
+    "from": "limber",
+    "to": "flexible",
+    "sim": 0.243220080462898
+  },
+  {
+    "from": "lime",
+    "to": "linden",
+    "sim": 0.2075684937046524
+  },
+  {
+    "from": "lip service",
+    "to": "cunnilingus",
+    "sim": 0.24046884503667873
+  },
+  {
+    "from": "litchi",
+    "to": "lychee",
+    "sim": 0.3251821547789336
+  },
+  {
+    "from": "liturgic",
+    "to": "liturgical",
+    "sim": 0.31671591846556646
+  },
+  {
+    "from": "livid",
+    "to": "pallid",
+    "sim": 0.22876063988398632
+  },
+  {
+    "from": "lizard",
+    "to": "coward",
+    "sim": 0.3062088883869865
+  },
+  {
+    "from": "loan translation",
+    "to": "calque",
+    "sim": 0.1514339961653936
+  },
+  {
+    "from": "loath",
+    "to": "angry",
+    "sim": 0.3280650860282159
+  },
+  {
+    "from": "lockup",
+    "to": "prison",
+    "sim": 0.4047223743542634
+  },
+  {
+    "from": "Lode Star",
+    "to": "Polaris",
+    "sim": 0.23521762218269837
+  },
+  {
+    "from": "loftiness",
+    "to": "arrogance",
+    "sim": 0.30159229492217415
+  },
+  {
+    "from": "log",
+    "to": "blockhead",
+    "sim": 0.19480689623654648
+  },
+  {
+    "from": "log",
+    "to": "Swiss roll",
+    "sim": 0.23931751641744525
+  },
+  {
+    "from": "loge",
+    "to": "booth",
+    "sim": 0.23722639124663522
+  },
+  {
+    "from": "lokun",
+    "to": "doctor",
+    "sim": 0.18383858947523204
+  },
+  {
+    "from": "lolly",
+    "to": "money",
+    "sim": 0.2154048372466938
+  },
+  {
+    "from": "lolly",
+    "to": "confection",
+    "sim": 0.21788777459328976
+  },
+  {
+    "from": "Lombard",
+    "to": "banker",
+    "sim": 0.329144048759351
+  },
+  {
+    "from": "long",
+    "to": "tall",
+    "sim": 0.40153476727581205
+  },
+  {
+    "from": "loo",
+    "to": "toilet",
+    "sim": 0.2290341573685368
+  },
+  {
+    "from": "loony",
+    "to": "silly",
+    "sim": 0.235521258661377
+  },
+  {
+    "from": "Lou Gehrig's disease",
+    "to": "amyotrophic lateral sclerosis",
+    "sim": 0.404723991302095
+  },
+  {
+    "from": "love rat",
+    "to": "adulterer",
+    "sim": 0.16283027665302297
+  },
+  {
+    "from": "low",
+    "to": "flame",
+    "sim": 0.3393197753861174
+  },
+  {
+    "from": "low",
+    "to": "moo",
+    "sim": 0.2915832302713882
+  },
+  {
+    "from": "lubber",
+    "to": "landlubber",
+    "sim": 0.23294456237494107
+  },
+  {
+    "from": "lysergic",
+    "to": "psychedelic",
+    "sim": 0.3162032303451426
+  },
+  {
+    "from": "mañana",
+    "to": "tomorrow",
+    "sim": 0.24306462020190078
+  },
+  {
+    "from": "machinist",
+    "to": "operator",
+    "sim": 0.17116494539543975
+  },
+  {
+    "from": "macrocosm",
+    "to": "universe",
+    "sim": 0.2752184013443478
+  },
+  {
+    "from": "madrone",
+    "to": "strawberry tree",
+    "sim": 0.206657274756919
+  },
+  {
+    "from": "magnality",
+    "to": "miracle",
+    "sim": 0.23630363093745427
+  },
+  {
+    "from": "maieutics",
+    "to": "Socratic method",
+    "sim": 0.06789166555639078
+  },
+  {
+    "from": "main",
+    "to": "mainland",
+    "sim": 0.26733507421141817
+  },
+  {
+    "from": "maintenance",
+    "to": "alimony",
+    "sim": 0.14003446172491577
+  },
+  {
+    "from": "maintenance",
+    "to": "child support",
+    "sim": 0.23675293673994072
+  },
+  {
+    "from": "Maldivian",
+    "to": "Dhivehi",
+    "sim": 0.3526937128567633
+  },
+  {
+    "from": "maledict",
+    "to": "curse",
+    "sim": 0.2673263121795982
+  },
+  {
+    "from": "malediction",
+    "to": "curse",
+    "sim": 0.3137057869021918
+  },
+  {
+    "from": "malkin",
+    "to": "cat",
+    "sim": 0.2939454811293707
+  },
+  {
+    "from": "manhater",
+    "to": "misanthrope",
+    "sim": 0.29905909872775704
+  },
+  {
+    "from": "manus",
+    "to": "hand",
+    "sim": 0.2745990140472866
+  },
+  {
+    "from": "martial",
+    "to": "Martian",
+    "sim": 0.17841431579938044
+  },
+  {
+    "from": "martial",
+    "to": "Martian",
+    "sim": 0.17841431579938044
+  },
+  {
+    "from": "martyr",
+    "to": "torture",
+    "sim": 0.3645854104640391
+  },
+  {
+    "from": "marvel",
+    "to": "miracle",
+    "sim": 0.20281829788132316
+  },
+  {
+    "from": "marvel",
+    "to": "wonder",
+    "sim": 0.32801528239730193
+  },
+  {
+    "from": "marvel",
+    "to": "astonishment",
+    "sim": 0.2456131222163829
+  },
+  {
+    "from": "masdar",
+    "to": "verbal noun",
+    "sim": 0.1047075828008539
+  },
+  {
+    "from": "masquerade",
+    "to": "disguise",
+    "sim": 0.38269022233636973
+  },
+  {
+    "from": "Masr",
+    "to": "Egypt",
+    "sim": 0.1508540135191233
+  },
+  {
+    "from": "masterwort",
+    "to": "ground elder",
+    "sim": 0.30723316055538946
+  },
+  {
+    "from": "mastery",
+    "to": "philosopher's stone",
+    "sim": 0.2321473309687824
+  },
+  {
+    "from": "mate",
+    "to": "copulate",
+    "sim": 0.2152890851751488
+  },
+  {
+    "from": "mate",
+    "to": "checkmate",
+    "sim": 0.3948720481983041
+  },
+  {
+    "from": "matrimony vine",
+    "to": "wolfberry",
+    "sim": 0.3080315395380013
+  },
+  {
+    "from": "matrix",
+    "to": "womb",
+    "sim": 0.19541591256665064
+  },
+  {
+    "from": "maugre",
+    "to": "in spite of",
+    "sim": 0.1287414298585318
+  },
+  {
+    "from": "May bug",
+    "to": "cockchafer",
+    "sim": 0.10608003695694616
+  },
+  {
+    "from": "meat",
+    "to": "totem",
+    "sim": 0.2925996493266567
+  },
+  {
+    "from": "meat jelly",
+    "to": "aspic",
+    "sim": 0.25914425773275646
+  },
+  {
+    "from": "meddle",
+    "to": "have sex",
+    "sim": 0.24937695256865577
+  },
+  {
+    "from": "mediaeval",
+    "to": "medieval",
+    "sim": 0.30296595451476077
+  },
+  {
+    "from": "Median",
+    "to": "Mede",
+    "sim": 0.24384822680486903
+  },
+  {
+    "from": "melancholy",
+    "to": "melancholic",
+    "sim": 0.4163905543982726
+  },
+  {
+    "from": "melongene",
+    "to": "eggplant",
+    "sim": 0.3400894813855946
+  },
+  {
+    "from": "melt",
+    "to": "idiot",
+    "sim": 0.2332444513681067
+  },
+  {
+    "from": "member",
+    "to": "clause",
+    "sim": 0.26167142055949794
+  },
+  {
+    "from": "member",
+    "to": "element",
+    "sim": 0.38626948328074373
+  },
+  {
+    "from": "mendacious",
+    "to": "false",
+    "sim": 0.1891825123536337
+  },
+  {
+    "from": "mention",
+    "to": "cover",
+    "sim": 0.40375023631978907
+  },
+  {
+    "from": "merchantman",
+    "to": "cargo ship",
+    "sim": 0.3963151740491862
+  },
+  {
+    "from": "mergirl",
+    "to": "mermaid",
+    "sim": 0.41699495146976007
+  },
+  {
+    "from": "mesencephalon",
+    "to": "midbrain",
+    "sim": 0.39004793778148933
+  },
+  {
+    "from": "mess",
+    "to": "Mass",
+    "sim": 0.23668183385607205
+  },
+  {
+    "from": "methanal",
+    "to": "formaldehyde",
+    "sim": 0.21291994467807335
+  },
+  {
+    "from": "metropolis",
+    "to": "archbishopric",
+    "sim": 0.24799766821886562
+  },
+  {
+    "from": "mettle",
+    "to": "metal",
+    "sim": 0.28441733728456114
+  },
+  {
+    "from": "micturate",
+    "to": "urinate",
+    "sim": 0.3004790075289468
+  },
+  {
+    "from": "Midgard",
+    "to": "Earth",
+    "sim": 0.2977099975213672
+  },
+  {
+    "from": "mielie",
+    "to": "maize",
+    "sim": 0.2535067008147681
+  },
+  {
+    "from": "milieu",
+    "to": "medium",
+    "sim": 0.321150355711147
+  },
+  {
+    "from": "milk",
+    "to": "semen",
+    "sim": 0.2831882769413882
+  },
+  {
+    "from": "mill",
+    "to": "treadmill",
+    "sim": 0.2989067182115114
+  },
+  {
+    "from": "milliard",
+    "to": "billion",
+    "sim": 0.4149299662712972
+  },
+  {
+    "from": "milt",
+    "to": "spleen",
+    "sim": 0.2472501260191911
+  },
+  {
+    "from": "mind",
+    "to": "remember",
+    "sim": 0.3991211277888657
+  },
+  {
+    "from": "mine",
+    "to": "pick one's nose",
+    "sim": 0.28429922353328985
+  },
+  {
+    "from": "misbegotten",
+    "to": "bastard",
+    "sim": 0.2807093789865528
+  },
+  {
+    "from": "misbegotten",
+    "to": "illegitimate",
+    "sim": 0.3018263063492572
+  },
+  {
+    "from": "missus",
+    "to": "wife",
+    "sim": 0.37913392429772313
+  },
+  {
+    "from": "mode",
+    "to": "grammatical mood",
+    "sim": 0.22707339730194934
+  },
+  {
+    "from": "Mohican",
+    "to": "Mohawk",
+    "sim": 0.28110614063477996
+  },
+  {
+    "from": "moiety",
+    "to": "half",
+    "sim": 0.2765717504632821
+  },
+  {
+    "from": "moll",
+    "to": "minor",
+    "sim": 0.27684841781925174
+  },
+  {
+    "from": "mollie",
+    "to": "Molotov cocktail",
+    "sim": 0.2620553444598009
+  },
+  {
+    "from": "money plant",
+    "to": "honesty",
+    "sim": 0.16536652940687294
+  },
+  {
+    "from": "Monika",
+    "to": "Monica",
+    "sim": 0.37106816197851694
+  },
+  {
+    "from": "moniker",
+    "to": "signature",
+    "sim": 0.31670456590426377
+  },
+  {
+    "from": "monk",
+    "to": "judge",
+    "sim": 0.3635810141219279
+  },
+  {
+    "from": "monk",
+    "to": "loner",
+    "sim": 0.3407653608914357
+  },
+  {
+    "from": "monkey bars",
+    "to": "jungle gym",
+    "sim": 0.40417604451418454
+  },
+  {
+    "from": "monkey-house",
+    "to": "brothel",
+    "sim": 0.23749828733960887
+  },
+  {
+    "from": "monozygotic",
+    "to": "identical",
+    "sim": 0.22046089836229746
+  },
+  {
+    "from": "moot",
+    "to": "debate",
+    "sim": 0.2532762056470044
+  },
+  {
+    "from": "moot",
+    "to": "discuss",
+    "sim": 0.2998422491569501
+  },
+  {
+    "from": "morgue",
+    "to": "arrogance",
+    "sim": 0.19245284850649344
+  },
+  {
+    "from": "morning after",
+    "to": "hangover",
+    "sim": 0.327963316194932
+  },
+  {
+    "from": "morning person",
+    "to": "early bird",
+    "sim": 0.36717160533494725
+  },
+  {
+    "from": "mortician",
+    "to": "undertaker",
+    "sim": 0.39845187805392684
+  },
+  {
+    "from": "mortuary",
+    "to": "morgue",
+    "sim": 0.40606232447386664
+  },
+  {
+    "from": "mother",
+    "to": "hysteria",
+    "sim": 0.30938736406341644
+  },
+  {
+    "from": "mouldwarp",
+    "to": "mole",
+    "sim": 0.282423502192776
+  },
+  {
+    "from": "mound",
+    "to": "vulva",
+    "sim": 0.19161797758070792
+  },
+  {
+    "from": "mountain ash",
+    "to": "rowan",
+    "sim": 0.3582779133306947
+  },
+  {
+    "from": "Mount McKinley",
+    "to": "Denali",
+    "sim": 0.33535794726881973
+  },
+  {
+    "from": "mouth organ",
+    "to": "harmonica",
+    "sim": 0.408443264525295
+  },
+  {
+    "from": "muff diving",
+    "to": "cunnilingus",
+    "sim": 0.16235276528378817
+  },
+  {
+    "from": "muffle",
+    "to": "block and tackle",
+    "sim": 0.22753576401337
+  },
+  {
+    "from": "muffler",
+    "to": "scarf",
+    "sim": 0.2895105787822449
+  },
+  {
+    "from": "Muggle",
+    "to": "amateur",
+    "sim": 0.1835004387499814
+  },
+  {
+    "from": "mulct",
+    "to": "fine",
+    "sim": 0.2471868670167796
+  },
+  {
+    "from": "multi-storey",
+    "to": "parking garage",
+    "sim": 0.09287138879584153
+  },
+  {
+    "from": "musalla",
+    "to": "prayer rug",
+    "sim": 0.24962192175643366
+  },
+  {
+    "from": "muscleman",
+    "to": "bodyguard",
+    "sim": 0.3842275741270706
+  },
+  {
+    "from": "muslin",
+    "to": "fabric",
+    "sim": 0.4141275423821981
+  },
+  {
+    "from": "muss",
+    "to": "mess",
+    "sim": 0.38316326402409173
+  },
+  {
+    "from": "muster",
+    "to": "show",
+    "sim": 0.22356957189906107
+  },
+  {
+    "from": "n00b",
+    "to": "newbie",
+    "sim": 0.3000882263923624
+  },
+  {
+    "from": "NaCl",
+    "to": "table salt",
+    "sim": 0.3755803824587982
+  },
+  {
+    "from": "nacre",
+    "to": "mother-of-pearl",
+    "sim": 0.22554746915575916
+  },
+  {
+    "from": "nada",
+    "to": "nothing",
+    "sim": 0.16343034896259387
+  },
+  {
+    "from": "naevus",
+    "to": "mole",
+    "sim": 0.23150621001621924
+  },
+  {
+    "from": "nancy",
+    "to": "fairy",
+    "sim": 0.27662077775562677
+  },
+  {
+    "from": "napkin",
+    "to": "diaper",
+    "sim": 0.34460264416270797
+  },
+  {
+    "from": "nappy",
+    "to": "diaper",
+    "sim": 0.40487602323174204
+  },
+  {
+    "from": "native language",
+    "to": "mother tongue",
+    "sim": 0.3636618567414675
+  },
+  {
+    "from": "nature's scythe",
+    "to": "penis",
+    "sim": 0.14930481426804318
+  },
+  {
+    "from": "navel-gazing",
+    "to": "omphaloskepsis",
+    "sim": 0.22834980441094613
+  },
+  {
+    "from": "navigation",
+    "to": "canal",
+    "sim": 0.23770388856863434
+  },
+  {
+    "from": "neat",
+    "to": "cattle",
+    "sim": 0.16721854177833165
+  },
+  {
+    "from": "neck",
+    "to": "nix",
+    "sim": 0.27299836252926085
+  },
+  {
+    "from": "nemesis",
+    "to": "archenemy",
+    "sim": 0.41802511474732706
+  },
+  {
+    "from": "nerve",
+    "to": "encourage",
+    "sim": 0.170624890770627
+  },
+  {
+    "from": "nettle-rash",
+    "to": "urticaria",
+    "sim": 0.3482683239250531
+  },
+  {
+    "from": "never mind",
+    "to": "let alone",
+    "sim": 0.28156220437856744
+  },
+  {
+    "from": "nevus",
+    "to": "mole",
+    "sim": 0.36040900554152494
+  },
+  {
+    "from": "Nicole",
+    "to": "Nicola",
+    "sim": 0.33235182804780244
+  },
+  {
+    "from": "nief",
+    "to": "fist",
+    "sim": 0.2860390924619834
+  },
+  {
+    "from": "niggard",
+    "to": "skinflint",
+    "sim": 0.1514064786623838
+  },
+  {
+    "from": "nithing",
+    "to": "coward",
+    "sim": 0.19182743927886198
+  },
+  {
+    "from": "nitty",
+    "to": "foolish",
+    "sim": 0.2710258499557004
+  },
+  {
+    "from": "nitty",
+    "to": "drug addict",
+    "sim": 0.22916930108755834
+  },
+  {
+    "from": "nom de guerre",
+    "to": "pseudonym",
+    "sim": 0.3816032968477925
+  },
+  {
+    "from": "nom de plume",
+    "to": "pseudonym",
+    "sim": 0.29559767098576417
+  },
+  {
+    "from": "nonce",
+    "to": "goof",
+    "sim": 0.2034030045537111
+  },
+  {
+    "from": "nones",
+    "to": "noon",
+    "sim": 0.23027065861330273
+  },
+  {
+    "from": "nones",
+    "to": "lunch",
+    "sim": 0.2004513147460998
+  },
+  {
+    "from": "nonsense",
+    "to": "nonsensical",
+    "sim": 0.357850968003335
+  },
+  {
+    "from": "noodle",
+    "to": "fool",
+    "sim": 0.1888784884995706
+  },
+  {
+    "from": "nosegay",
+    "to": "aroma",
+    "sim": 0.2998897061847085
+  },
+  {
+    "from": "nosh",
+    "to": "blow",
+    "sim": 0.3299756600091087
+  },
+  {
+    "from": "nosh",
+    "to": "snack",
+    "sim": 0.2539853175384752
+  },
+  {
+    "from": "nosh",
+    "to": "snack",
+    "sim": 0.2539853175384752
+  },
+  {
+    "from": "noun",
+    "to": "substantivise",
+    "sim": 0.3096295155102227
+  },
+  {
+    "from": "nowhither",
+    "to": "nowhere",
+    "sim": 0.24925011404582867
+  },
+  {
+    "from": "numberful",
+    "to": "numerous",
+    "sim": 0.3932840831345362
+  },
+  {
+    "from": "number sign",
+    "to": "hash",
+    "sim": 0.2927367128521122
+  },
+  {
+    "from": "numbersome",
+    "to": "numerous",
+    "sim": 0.28723478435701444
+  },
+  {
+    "from": "numerable",
+    "to": "numerous",
+    "sim": 0.3021521561202169
+  },
+  {
+    "from": "nuncio",
+    "to": "messenger",
+    "sim": 0.2045256259339555
+  },
+  {
+    "from": "Nur-Sultan",
+    "to": "Astana",
+    "sim": 0.3454648986753529
+  },
+  {
+    "from": "nutfarm",
+    "to": "madhouse",
+    "sim": 0.30502919968053427
+  },
+  {
+    "from": "nutria",
+    "to": "coypu",
+    "sim": 0.2937240736787003
+  },
+  {
+    "from": "œcumenic",
+    "to": "ecumenical",
+    "sim": 0.23227121061297717
+  },
+  {
+    "from": "oar",
+    "to": "row",
+    "sim": 0.29920489032044106
+  },
+  {
+    "from": "observatory",
+    "to": "lookout",
+    "sim": 0.4112545142640997
+  },
+  {
+    "from": "occlusive",
+    "to": "plosive",
+    "sim": 0.3322184460998668
+  },
+  {
+    "from": "occupy",
+    "to": "consume",
+    "sim": 0.28102541430526695
+  },
+  {
+    "from": "octothorpe",
+    "to": "hash",
+    "sim": 0.2536883929186048
+  },
+  {
+    "from": "oculist",
+    "to": "ophthalmologist",
+    "sim": 0.19452639102610075
+  },
+  {
+    "from": "Odesa",
+    "to": "Odessa",
+    "sim": 0.1761759449249239
+  },
+  {
+    "from": "oedema",
+    "to": "edema",
+    "sim": 0.3513438012880925
+  },
+  {
+    "from": "offal",
+    "to": "refuse",
+    "sim": 0.15681685478996762
+  },
+  {
+    "from": "offal",
+    "to": "carrion",
+    "sim": 0.35107020110196163
+  },
+  {
+    "from": "offend",
+    "to": "sin",
+    "sim": 0.20070031940107877
+  },
+  {
+    "from": "omega",
+    "to": "angular velocity",
+    "sim": 0.34177528328595513
+  },
+  {
+    "from": "once",
+    "to": "as soon as",
+    "sim": 0.3703876017770766
+  },
+  {
+    "from": "oneiric",
+    "to": "dreamlike",
+    "sim": 0.28058255165402857
+  },
+  {
+    "from": "onus probandi",
+    "to": "burden of proof",
+    "sim": 0.16941208715228426
+  },
+  {
+    "from": "oofless",
+    "to": "poor",
+    "sim": 0.30988319430259686
+  },
+  {
+    "from": "opinion",
+    "to": "opine",
+    "sim": 0.2744330547992315
+  },
+  {
+    "from": "orach",
+    "to": "saltbush",
+    "sim": 0.2622158264912252
+  },
+  {
+    "from": "orb",
+    "to": "year",
+    "sim": 0.24792851971424074
+  },
+  {
+    "from": "orb",
+    "to": "orbit",
+    "sim": 0.33096959306098267
+  },
+  {
+    "from": "orb",
+    "to": "globus cruciger",
+    "sim": 0.21684736309445338
+  },
+  {
+    "from": "original",
+    "to": "eccentric",
+    "sim": 0.2631319676009395
+  },
+  {
+    "from": "other side",
+    "to": "afterlife",
+    "sim": 0.20370409252410115
+  },
+  {
+    "from": "out of it",
+    "to": "drunk",
+    "sim": 0.2783236531456116
+  },
+  {
+    "from": "ovate",
+    "to": "egg-shaped",
+    "sim": 0.24628936102910584
+  },
+  {
+    "from": "overheat",
+    "to": "burn",
+    "sim": 0.3597454507188431
+  },
+  {
+    "from": "oviform",
+    "to": "egg-shaped",
+    "sim": 0.30081906300195926
+  },
+  {
+    "from": "ovoid",
+    "to": "egg-shaped",
+    "sim": 0.25007650587207064
+  },
+  {
+    "from": "own",
+    "to": "defeat",
+    "sim": 0.4047462921236585
+  },
+  {
+    "from": "oxeye",
+    "to": "titmouse",
+    "sim": 0.2565859086823546
+  },
+  {
+    "from": "pack animal",
+    "to": "beast of burden",
+    "sim": 0.3721961196190896
+  },
+  {
+    "from": "pad",
+    "to": "stuff",
+    "sim": 0.31225534514631376
+  },
+  {
+    "from": "padawan",
+    "to": "apprentice",
+    "sim": 0.36721228783683907
+  },
+  {
+    "from": "paddleboat",
+    "to": "pedalo",
+    "sim": 0.26049922633988837
+  },
+  {
+    "from": "page",
+    "to": "boy",
+    "sim": 0.34605738392663543
+  },
+  {
+    "from": "pail",
+    "to": "bucket",
+    "sim": 0.3539034979968894
+  },
+  {
+    "from": "painted wolf",
+    "to": "African hunting dog",
+    "sim": 0.39747546330962785
+  },
+  {
+    "from": "pair of specs",
+    "to": "spectacles",
+    "sim": 0.24652784659841023
+  },
+  {
+    "from": "pallium",
+    "to": "cerebral cortex",
+    "sim": 0.1120962412961171
+  },
+  {
+    "from": "pandemic",
+    "to": "general",
+    "sim": 0.26021619990952816
+  },
+  {
+    "from": "pander",
+    "to": "pimp",
+    "sim": 0.3259543612427745
+  },
+  {
+    "from": "pant",
+    "to": "pants",
+    "sim": 0.4048267014102124
+  },
+  {
+    "from": "pap",
+    "to": "porridge",
+    "sim": 0.2376609956032919
+  },
+  {
+    "from": "paraffin",
+    "to": "kerosene",
+    "sim": 0.3102960843309829
+  },
+  {
+    "from": "parlous",
+    "to": "dangerous",
+    "sim": 0.2589037017496804
+  },
+  {
+    "from": "paroemia",
+    "to": "proverb",
+    "sim": 0.12198568510594668
+  },
+  {
+    "from": "parrot",
+    "to": "puffin",
+    "sim": 0.3627013612414879
+  },
+  {
+    "from": "parse",
+    "to": "scrutinize",
+    "sim": 0.1712679252061672
+  },
+  {
+    "from": "particular",
+    "to": "partial",
+    "sim": 0.3459152219440377
+  },
+  {
+    "from": "partiture",
+    "to": "score",
+    "sim": 0.26857558324555403
+  },
+  {
+    "from": "party pooper",
+    "to": "spoilsport",
+    "sim": 0.1642865257647069
+  },
+  {
+    "from": "par value",
+    "to": "face value",
+    "sim": 0.4079092575768988
+  },
+  {
+    "from": "pass on",
+    "to": "die",
+    "sim": 0.3575681303532364
+  },
+  {
+    "from": "pastor",
+    "to": "shepherd",
+    "sim": 0.400058595901401
+  },
+  {
+    "from": "patch",
+    "to": "fit",
+    "sim": 0.33495996187918825
+  },
+  {
+    "from": "patch",
+    "to": "fool",
+    "sim": 0.3751076925167631
+  },
+  {
+    "from": "paternoster",
+    "to": "rosary",
+    "sim": 0.2770390026858827
+  },
+  {
+    "from": "patronising",
+    "to": "condescending",
+    "sim": 0.36863269998175835
+  },
+  {
+    "from": "patronizing",
+    "to": "condescending",
+    "sim": 0.3965457662410766
+  },
+  {
+    "from": "pearl",
+    "to": "tern",
+    "sim": 0.18605308409008614
+  },
+  {
+    "from": "pearl",
+    "to": "fringe",
+    "sim": 0.26318514364513124
+  },
+  {
+    "from": "pearl",
+    "to": "brill",
+    "sim": 0.29698322379747144
+  },
+  {
+    "from": "pearl diver",
+    "to": "dishwasher",
+    "sim": 0.24696777534176068
+  },
+  {
+    "from": "pechka",
+    "to": "Russian oven",
+    "sim": 0.39501769987857904
+  },
+  {
+    "from": "pecker",
+    "to": "dick",
+    "sim": 0.3763992978914423
+  },
+  {
+    "from": "pecker",
+    "to": "woodpecker",
+    "sim": 0.4106625328969051
+  },
+  {
+    "from": "pecker",
+    "to": "courage",
+    "sim": 0.21764327309867468
+  },
+  {
+    "from": "ped",
+    "to": "pedestrian",
+    "sim": 0.23435285733333
+  },
+  {
+    "from": "peddler",
+    "to": "drug dealer",
+    "sim": 0.33968573284460285
+  },
+  {
+    "from": "Pei-ching",
+    "to": "Beijing",
+    "sim": 0.3753557888288909
+  },
+  {
+    "from": "pen",
+    "to": "wing",
+    "sim": 0.2726648384617352
+  },
+  {
+    "from": "penis",
+    "to": "member",
+    "sim": 0.30657504520240375
+  },
+  {
+    "from": "penny bun",
+    "to": "porcini",
+    "sim": 0.27501648994237404
+  },
+  {
+    "from": "perforator",
+    "to": "hole punch",
+    "sim": 0.27065699745019367
+  },
+  {
+    "from": "peripatetic",
+    "to": "Aristotelian",
+    "sim": 0.3507265570152412
+  },
+  {
+    "from": "pern",
+    "to": "honey buzzard",
+    "sim": 0.21051467418800407
+  },
+  {
+    "from": "perspire",
+    "to": "sweat",
+    "sim": 0.1872425356291064
+  },
+  {
+    "from": "Pesach",
+    "to": "Passover",
+    "sim": 0.32062667005656137
+  },
+  {
+    "from": "phallus",
+    "to": "penis",
+    "sim": 0.33103401583210446
+  },
+  {
+    "from": "philander",
+    "to": "lover",
+    "sim": 0.34873236041742245
+  },
+  {
+    "from": "philia",
+    "to": "friendship",
+    "sim": 0.25996682740164195
+  },
+  {
+    "from": "physical culture",
+    "to": "bodybuilding",
+    "sim": 0.372867740521777
+  },
+  {
+    "from": "picayune",
+    "to": "trifle",
+    "sim": 0.30893651628697394
+  },
+  {
+    "from": "pick",
+    "to": "plectrum",
+    "sim": 0.283935449432612
+  },
+  {
+    "from": "picture",
+    "to": "painting",
+    "sim": 0.4071203832275939
+  },
+  {
+    "from": "piece of meat",
+    "to": "penis",
+    "sim": 0.312338617331181
+  },
+  {
+    "from": "pie-eyed",
+    "to": "drunk",
+    "sim": 0.26287373688568566
+  },
+  {
+    "from": "pike",
+    "to": "turnpike",
+    "sim": 0.393916189696607
+  },
+  {
+    "from": "pike-perch",
+    "to": "zander",
+    "sim": 0.16649798395541332
+  },
+  {
+    "from": "pile",
+    "to": "pyre",
+    "sim": 0.222144615007236
+  },
+  {
+    "from": "pileous",
+    "to": "hairy",
+    "sim": 0.40946261240577725
+  },
+  {
+    "from": "pin",
+    "to": "brooch",
+    "sim": 0.2715430790671616
+  },
+  {
+    "from": "ping pong",
+    "to": "table tennis",
+    "sim": 0.3837534573930562
+  },
+  {
+    "from": "pinkie",
+    "to": "little finger",
+    "sim": 0.3070480192459561
+  },
+  {
+    "from": "pinky",
+    "to": "little finger",
+    "sim": 0.27158229562129566
+  },
+  {
+    "from": "piñon",
+    "to": "pine nut",
+    "sim": 0.3832465142150965
+  },
+  {
+    "from": "piper",
+    "to": "bagpiper",
+    "sim": 0.38386897902324807
+  },
+  {
+    "from": "pismire",
+    "to": "ant",
+    "sim": 0.23760301101897108
+  },
+  {
+    "from": "pit",
+    "to": "mine",
+    "sim": 0.32148672234478737
+  },
+  {
+    "from": "pit",
+    "to": "armpit",
+    "sim": 0.29389187692386465
+  },
+  {
+    "from": "pith",
+    "to": "spinal cord",
+    "sim": 0.12687000757672362
+  },
+  {
+    "from": "plait",
+    "to": "braid",
+    "sim": 0.1994702168174959
+  },
+  {
+    "from": "plait",
+    "to": "braid",
+    "sim": 0.1994702168174959
+  },
+  {
+    "from": "planetree",
+    "to": "plane",
+    "sim": 0.3104836207517927
+  },
+  {
+    "from": "plat",
+    "to": "braid",
+    "sim": 0.16982264549264126
+  },
+  {
+    "from": "plat",
+    "to": "braid",
+    "sim": 0.16982264549264126
+  },
+  {
+    "from": "plat",
+    "to": "lot",
+    "sim": 0.2829625944290257
+  },
+  {
+    "from": "plate",
+    "to": "foot",
+    "sim": 0.37467945589448287
+  },
+  {
+    "from": "plate",
+    "to": "prize",
+    "sim": 0.34226051411459313
+  },
+  {
+    "from": "play",
+    "to": "backlash",
+    "sim": 0.16837250970207157
+  },
+  {
+    "from": "pleonastic",
+    "to": "redundant",
+    "sim": 0.29747482807755854
+  },
+  {
+    "from": "Plough",
+    "to": "Big Dipper",
+    "sim": 0.23072066565736943
+  },
+  {
+    "from": "plov",
+    "to": "pilaf",
+    "sim": 0.38241986763956615
+  },
+  {
+    "from": "pneumatic drill",
+    "to": "jackhammer",
+    "sim": 0.3251856713473856
+  },
+  {
+    "from": "point",
+    "to": "wall socket",
+    "sim": 0.1474954821525239
+  },
+  {
+    "from": "pointer",
+    "to": "advice",
+    "sim": 0.2012450080341545
+  },
+  {
+    "from": "poke",
+    "to": "ice cream cone",
+    "sim": 0.23979942758144013
+  },
+  {
+    "from": "polao",
+    "to": "pilaf",
+    "sim": 0.2915421583099492
+  },
+  {
+    "from": "pollution",
+    "to": "desecration",
+    "sim": 0.33079870742469175
+  },
+  {
+    "from": "polyspast",
+    "to": "block and tackle",
+    "sim": 0.15237208152538875
+  },
+  {
+    "from": "pomelo",
+    "to": "grapefruit",
+    "sim": 0.3751902400238312
+  },
+  {
+    "from": "Pomeranian",
+    "to": "Kashubian",
+    "sim": 0.2671666786001078
+  },
+  {
+    "from": "poncy",
+    "to": "effeminate",
+    "sim": 0.12548982437038342
+  },
+  {
+    "from": "poncy",
+    "to": "gay",
+    "sim": 0.22488996567388608
+  },
+  {
+    "from": "ponderous",
+    "to": "dense",
+    "sim": 0.38446872409809196
+  },
+  {
+    "from": "poop",
+    "to": "stern",
+    "sim": 0.13711191886422472
+  },
+  {
+    "from": "poorly",
+    "to": "ill",
+    "sim": 0.3271707835473597
+  },
+  {
+    "from": "pop",
+    "to": "hit",
+    "sim": 0.34732426837278124
+  },
+  {
+    "from": "pop",
+    "to": "ejaculate",
+    "sim": 0.3040478024955231
+  },
+  {
+    "from": "popinjay",
+    "to": "green woodpecker",
+    "sim": 0.27421541898306445
+  },
+  {
+    "from": "popinjay",
+    "to": "parrot",
+    "sim": 0.31877859954068616
+  },
+  {
+    "from": "pot",
+    "to": "crucible",
+    "sim": 0.3235514123891396
+  },
+  {
+    "from": "pot",
+    "to": "plaster cast",
+    "sim": 0.19423026437075708
+  },
+  {
+    "from": "potty",
+    "to": "outhouse",
+    "sim": 0.36999300636089866
+  },
+  {
+    "from": "potty",
+    "to": "insane",
+    "sim": 0.20844898212156882
+  },
+  {
+    "from": "potty",
+    "to": "latrine",
+    "sim": 0.31652424762838927
+  },
+  {
+    "from": "pound sign",
+    "to": "hash",
+    "sim": 0.39984312712192543
+  },
+  {
+    "from": "power",
+    "to": "cardinality",
+    "sim": 0.2696667885534815
+  },
+  {
+    "from": "power point",
+    "to": "wall socket",
+    "sim": 0.21081904214984704
+  },
+  {
+    "from": "pox",
+    "to": "syphilis",
+    "sim": 0.3366085780531265
+  },
+  {
+    "from": "precious",
+    "to": "very",
+    "sim": 0.37306789729619094
+  },
+  {
+    "from": "preconception",
+    "to": "prejudice",
+    "sim": 0.28822639626325885
+  },
+  {
+    "from": "prep",
+    "to": "homework",
+    "sim": 0.3412518075870977
+  },
+  {
+    "from": "prepuce",
+    "to": "foreskin",
+    "sim": 0.3083188733405285
+  },
+  {
+    "from": "prerogative",
+    "to": "right",
+    "sim": 0.2934479310763477
+  },
+  {
+    "from": "presbytery",
+    "to": "chancel",
+    "sim": 0.3529864713545259
+  },
+  {
+    "from": "press",
+    "to": "bear",
+    "sim": 0.21012252259439515
+  },
+  {
+    "from": "Pressburg",
+    "to": "Bratislava",
+    "sim": 0.31467550040197756
+  },
+  {
+    "from": "pressure ulcer",
+    "to": "bedsore",
+    "sim": 0.16933127168639275
+  },
+  {
+    "from": "principal",
+    "to": "principle",
+    "sim": 0.4177155292602435
+  },
+  {
+    "from": "principate",
+    "to": "principality",
+    "sim": 0.2918489969983088
+  },
+  {
+    "from": "print",
+    "to": "footprint",
+    "sim": 0.2790160323664909
+  },
+  {
+    "from": "prior",
+    "to": "former",
+    "sim": 0.34847955726909324
+  },
+  {
+    "from": "prise",
+    "to": "prize",
+    "sim": 0.23545128620740163
+  },
+  {
+    "from": "private parts",
+    "to": "genitalia",
+    "sim": 0.19944298778848446
+  },
+  {
+    "from": "privy",
+    "to": "outhouse",
+    "sim": 0.41470129586861537
+  },
+  {
+    "from": "privy",
+    "to": "latrine",
+    "sim": 0.283891936612351
+  },
+  {
+    "from": "procreate",
+    "to": "beget",
+    "sim": 0.2633806902708198
+  },
+  {
+    "from": "prodigal",
+    "to": "spendthrift",
+    "sim": 0.2260752511971088
+  },
+  {
+    "from": "progenitor",
+    "to": "founder",
+    "sim": 0.22100292398403112
+  },
+  {
+    "from": "programming",
+    "to": "brain-washing",
+    "sim": 0.1808301005925457
+  },
+  {
+    "from": "prolocutrix",
+    "to": "spokeswoman",
+    "sim": 0.11147017605969796
+  },
+  {
+    "from": "pronounce",
+    "to": "say",
+    "sim": 0.23732168464270215
+  },
+  {
+    "from": "propenoic",
+    "to": "acrylic",
+    "sim": 0.3230694761086774
+  },
+  {
+    "from": "proponency",
+    "to": "advocacy",
+    "sim": 0.22386159936262845
+  },
+  {
+    "from": "prospect",
+    "to": "lookout",
+    "sim": 0.27090326688228644
+  },
+  {
+    "from": "proximately",
+    "to": "approximately",
+    "sim": 0.3368493396234658
+  },
+  {
+    "from": "præstige",
+    "to": "prestige",
+    "sim": 0.14750954892548546
+  },
+  {
+    "from": "prune",
+    "to": "plum",
+    "sim": 0.3106409646154748
+  },
+  {
+    "from": "public house",
+    "to": "pub",
+    "sim": 0.3846596604496786
+  },
+  {
+    "from": "puff",
+    "to": "poof",
+    "sim": 0.31011405493408195
+  },
+  {
+    "from": "puffer",
+    "to": "blowfish",
+    "sim": 0.2854954272795941
+  },
+  {
+    "from": "pullet",
+    "to": "chicken",
+    "sim": 0.3297930373491357
+  },
+  {
+    "from": "pulpit",
+    "to": "cockpit",
+    "sim": 0.24735324811643528
+  },
+  {
+    "from": "puma",
+    "to": "cougar",
+    "sim": 0.4032558638148318
+  },
+  {
+    "from": "pump",
+    "to": "trainer",
+    "sim": 0.32261954043354585
+  },
+  {
+    "from": "pump truck",
+    "to": "pallet jack",
+    "sim": 0.2739492807663996
+  },
+  {
+    "from": "punch",
+    "to": "herd",
+    "sim": 0.17785772561150998
+  },
+  {
+    "from": "punctuate",
+    "to": "emphasize",
+    "sim": 0.34770409157318805
+  },
+  {
+    "from": "punk",
+    "to": "prostitute",
+    "sim": 0.34091045039794343
+  },
+  {
+    "from": "pushchair",
+    "to": "stroller",
+    "sim": 0.32292938853992065
+  },
+  {
+    "from": "push in",
+    "to": "jump the queue",
+    "sim": 0.3088792498312508
+  },
+  {
+    "from": "put away",
+    "to": "imprison",
+    "sim": 0.3579587571764159
+  },
+  {
+    "from": "put to death",
+    "to": "execute",
+    "sim": 0.31290693830365507
+  },
+  {
+    "from": "puzzle",
+    "to": "crossword",
+    "sim": 0.39792231215250157
+  },
+  {
+    "from": "pyrotechnics",
+    "to": "firework",
+    "sim": 0.4101996328268377
+  },
+  {
+    "from": "Q-tip",
+    "to": "cotton swab",
+    "sim": 0.21256146259735853
+  },
+  {
+    "from": "quakebuttock",
+    "to": "coward",
+    "sim": 0.22263253556307178
+  },
+  {
+    "from": "quarter bottle",
+    "to": "piccolo",
+    "sim": 0.20856478725606803
+  },
+  {
+    "from": "quarter note",
+    "to": "crotchet",
+    "sim": 0.26358484328141124
+  },
+  {
+    "from": "queer",
+    "to": "fag",
+    "sim": 0.38871115405214146
+  },
+  {
+    "from": "quell",
+    "to": "kill",
+    "sim": 0.34819158645794285
+  },
+  {
+    "from": "question",
+    "to": "talk",
+    "sim": 0.3268489179035867
+  },
+  {
+    "from": "questionary",
+    "to": "questionnaire",
+    "sim": 0.3322596112292715
+  },
+  {
+    "from": "quickness",
+    "to": "dexterity",
+    "sim": 0.33688590257419804
+  },
+  {
+    "from": "quill",
+    "to": "plectrum",
+    "sim": 0.36055729812031473
+  },
+  {
+    "from": "quincunx",
+    "to": "coin",
+    "sim": 0.2605826698147345
+  },
+  {
+    "from": "quinquangle",
+    "to": "pentagon",
+    "sim": 0.18480534632593304
+  },
+  {
+    "from": "quintuple",
+    "to": "fivefold",
+    "sim": 0.2313363921440749
+  },
+  {
+    "from": "quitch",
+    "to": "couch grass",
+    "sim": 0.200141403834393
+  },
+  {
+    "from": "rada",
+    "to": "soviet",
+    "sim": 0.25774946159276185
+  },
+  {
+    "from": "radix",
+    "to": "root",
+    "sim": 0.36493240056137705
+  },
+  {
+    "from": "Ragusa",
+    "to": "Dubrovnik",
+    "sim": 0.28816862504642277
+  },
+  {
+    "from": "ramble",
+    "to": "wander",
+    "sim": 0.3069512724174416
+  },
+  {
+    "from": "rancid",
+    "to": "offensive",
+    "sim": 0.23120404772559192
+  },
+  {
+    "from": "range",
+    "to": "rung",
+    "sim": 0.2819588418297624
+  },
+  {
+    "from": "Rangoon",
+    "to": "Yangon",
+    "sim": 0.29477160491947607
+  },
+  {
+    "from": "raptor",
+    "to": "bird of prey",
+    "sim": 0.39808324662869554
+  },
+  {
+    "from": "ratel",
+    "to": "honey badger",
+    "sim": 0.10951794730617408
+  },
+  {
+    "from": "ravish",
+    "to": "rape",
+    "sim": 0.30014062415032927
+  },
+  {
+    "from": "ready",
+    "to": "cash",
+    "sim": 0.05438808001846765
+  },
+  {
+    "from": "ready, steady, go",
+    "to": "on your mark, get set, go",
+    "sim": 0.36173510629425454
+  },
+  {
+    "from": "reap hook",
+    "to": "sickle",
+    "sim": 0.10399786762248632
+  },
+  {
+    "from": "reaping hook",
+    "to": "sickle",
+    "sim": 0.07151183122437012
+  },
+  {
+    "from": "reason",
+    "to": "debate",
+    "sim": 0.41134366584488136
+  },
+  {
+    "from": "recite",
+    "to": "say",
+    "sim": 0.24973351397630503
+  },
+  {
+    "from": "red lynx",
+    "to": "bobcat",
+    "sim": 0.4014569231452306
+  },
+  {
+    "from": "red scarf",
+    "to": "young pioneer",
+    "sim": 0.16545311211344998
+  },
+  {
+    "from": "reefer",
+    "to": "marijuana",
+    "sim": 0.29570938010700243
+  },
+  {
+    "from": "refract",
+    "to": "disperse",
+    "sim": 0.22285375313872072
+  },
+  {
+    "from": "relate",
+    "to": "narrate",
+    "sim": 0.32253861923863897
+  },
+  {
+    "from": "relational",
+    "to": "relative",
+    "sim": 0.41286838503744167
+  },
+  {
+    "from": "remit",
+    "to": "postpone",
+    "sim": 0.25661598600140967
+  },
+  {
+    "from": "ren",
+    "to": "kidney",
+    "sim": 0.3465312342733099
+  },
+  {
+    "from": "rennet stomach",
+    "to": "abomasum",
+    "sim": 0.2437497208804437
+  },
+  {
+    "from": "rep",
+    "to": "repetition",
+    "sim": 0.2667661576605077
+  },
+  {
+    "from": "require",
+    "to": "ask",
+    "sim": 0.25138454362770357
+  },
+  {
+    "from": "retort",
+    "to": "return",
+    "sim": 0.3605046273674451
+  },
+  {
+    "from": "retreat",
+    "to": "toilet",
+    "sim": 0.2721995822687995
+  },
+  {
+    "from": "retreat",
+    "to": "outhouse",
+    "sim": 0.3828484444449043
+  },
+  {
+    "from": "retreat",
+    "to": "return",
+    "sim": 0.3378486713004347
+  },
+  {
+    "from": "return",
+    "to": "answer",
+    "sim": 0.3445219507607911
+  },
+  {
+    "from": "Reuven",
+    "to": "Reuben",
+    "sim": 0.3741162734675309
+  },
+  {
+    "from": "rev counter",
+    "to": "tachometer",
+    "sim": 0.28108475325650045
+  },
+  {
+    "from": "rhinencephalon",
+    "to": "smell-brain",
+    "sim": 0.24493400290846531
+  },
+  {
+    "from": "ribbit",
+    "to": "croak",
+    "sim": 0.27978612839289646
+  },
+  {
+    "from": "ribbit",
+    "to": "croak",
+    "sim": 0.27978612839289646
+  },
+  {
+    "from": "ricefield",
+    "to": "paddy",
+    "sim": 0.3581742738516898
+  },
+  {
+    "from": "riddle",
+    "to": "sieve",
+    "sim": 0.23196593031980448
+  },
+  {
+    "from": "rift",
+    "to": "ford",
+    "sim": 0.20626623020379362
+  },
+  {
+    "from": "ring down the curtain",
+    "to": "stop",
+    "sim": 0.15358688504987042
+  },
+  {
+    "from": "ring up the curtain",
+    "to": "start",
+    "sim": 0.1523908960647005
+  },
+  {
+    "from": "rip",
+    "to": "fart",
+    "sim": 0.1291049954911715
+  },
+  {
+    "from": "rip",
+    "to": "tear",
+    "sim": 0.35377316903483436
+  },
+  {
+    "from": "ripe",
+    "to": "intoxicated",
+    "sim": 0.25369686177779427
+  },
+  {
+    "from": "river horse",
+    "to": "hippopotamus",
+    "sim": 0.3337523505046836
+  },
+  {
+    "from": "robot",
+    "to": "traffic light",
+    "sim": 0.13647376141140571
+  },
+  {
+    "from": "rocket",
+    "to": "arugula",
+    "sim": 0.20410825470471208
+  },
+  {
+    "from": "rococo",
+    "to": "old-fashioned",
+    "sim": 0.11244006261334333
+  },
+  {
+    "from": "rod",
+    "to": "pistol",
+    "sim": 0.38154334563732695
+  },
+  {
+    "from": "roller",
+    "to": "cop",
+    "sim": 0.31818401659649076
+  },
+  {
+    "from": "Rom",
+    "to": "Romani",
+    "sim": 0.22534709397632552
+  },
+  {
+    "from": "Rom",
+    "to": "Romani",
+    "sim": 0.22534709397632552
+  },
+  {
+    "from": "Romani",
+    "to": "Rom",
+    "sim": 0.22534709397632552
+  },
+  {
+    "from": "rooster",
+    "to": "violet",
+    "sim": 0.3559737473464495
+  },
+  {
+    "from": "rooster",
+    "to": "informant",
+    "sim": 0.25172982013151196
+  },
+  {
+    "from": "rosin",
+    "to": "resin",
+    "sim": 0.2029696222675039
+  },
+  {
+    "from": "rostrum",
+    "to": "beak",
+    "sim": 0.25514295938808446
+  },
+  {
+    "from": "rotary",
+    "to": "traffic circle",
+    "sim": 0.2425733161456529
+  },
+  {
+    "from": "rotula",
+    "to": "kneecap",
+    "sim": 0.2079007637452977
+  },
+  {
+    "from": "rotunda",
+    "to": "roundabout",
+    "sim": 0.26322947610826103
+  },
+  {
+    "from": "rouge",
+    "to": "blush",
+    "sim": 0.34335786032366894
+  },
+  {
+    "from": "roughage",
+    "to": "dietary fibre",
+    "sim": 0.16365385098555132
+  },
+  {
+    "from": "roundworm",
+    "to": "nematode",
+    "sim": 0.4050855652194075
+  },
+  {
+    "from": "royal poinciana",
+    "to": "flamboyant",
+    "sim": 0.18504092396564842
+  },
+  {
+    "from": "rubber",
+    "to": "eraser",
+    "sim": 0.3640893102539522
+  },
+  {
+    "from": "rubberneck",
+    "to": "tourist",
+    "sim": 0.12464969043505794
+  },
+  {
+    "from": "rubeola",
+    "to": "measles",
+    "sim": 0.21359042271897288
+  },
+  {
+    "from": "ruby",
+    "to": "agate",
+    "sim": 0.2912987953652046
+  },
+  {
+    "from": "ruff",
+    "to": "trump",
+    "sim": 0.33254129261480336
+  },
+  {
+    "from": "Ruism",
+    "to": "Confucianism",
+    "sim": 0.2902945597646628
+  },
+  {
+    "from": "rule",
+    "to": "ruler",
+    "sim": 0.37488406637207744
+  },
+  {
+    "from": "run away with",
+    "to": "overwhelm",
+    "sim": 0.26737101584233164
+  },
+  {
+    "from": "runner",
+    "to": "deserter",
+    "sim": 0.3047516536982065
+  },
+  {
+    "from": "running dog",
+    "to": "lackey",
+    "sim": 0.14518635875279579
+  },
+  {
+    "from": "run someone ragged",
+    "to": "exhaust",
+    "sim": 0.10746873846094201
+  },
+  {
+    "from": "Rzeczpospolita",
+    "to": "republic",
+    "sim": 0.19153557809989033
+  },
+  {
+    "from": "sad to say",
+    "to": "unfortunately",
+    "sim": 0.3207350290137197
+  },
+  {
+    "from": "sakura",
+    "to": "cherry",
+    "sim": 0.36495361068749593
+  },
+  {
+    "from": "salami",
+    "to": "penis",
+    "sim": 0.3130839472638286
+  },
+  {
+    "from": "sally",
+    "to": "willow",
+    "sim": 0.3113509533752445
+  },
+  {
+    "from": "salpinx",
+    "to": "Fallopian tube",
+    "sim": 0.06104838163450119
+  },
+  {
+    "from": "saltire",
+    "to": "Saint Andrew's cross",
+    "sim": 0.18865564886606542
+  },
+  {
+    "from": "saltpetre",
+    "to": "sodium nitrate",
+    "sim": 0.37476908608733417
+  },
+  {
+    "from": "saltpetre",
+    "to": "potassium nitrate",
+    "sim": 0.24039858555656884
+  },
+  {
+    "from": "salt water",
+    "to": "brine",
+    "sim": 0.3957885609572457
+  },
+  {
+    "from": "sangoma",
+    "to": "witch doctor",
+    "sim": 0.20935815578664388
+  },
+  {
+    "from": "sans",
+    "to": "without",
+    "sim": 0.25903808130751643
+  },
+  {
+    "from": "satiric",
+    "to": "satirical",
+    "sim": 0.32135429462184545
+  },
+  {
+    "from": "satisfy",
+    "to": "respond",
+    "sim": 0.3446672210940498
+  },
+  {
+    "from": "scab",
+    "to": "strikebreaker",
+    "sim": 0.21423360300211827
+  },
+  {
+    "from": "scale",
+    "to": "ladder",
+    "sim": 0.3209417129103
+  },
+  {
+    "from": "scallion",
+    "to": "spring onion",
+    "sim": 0.34683496949365994
+  },
+  {
+    "from": "scaly anteater",
+    "to": "pangolin",
+    "sim": 0.26958070291200337
+  },
+  {
+    "from": "scapula",
+    "to": "shoulder blade",
+    "sim": 0.38169960331612374
+  },
+  {
+    "from": "scar",
+    "to": "cliff",
+    "sim": 0.3946274389143407
+  },
+  {
+    "from": "scarf",
+    "to": "headscarf",
+    "sim": 0.32596107465797963
+  },
+  {
+    "from": "scatter",
+    "to": "disperse",
+    "sim": 0.3724346355480216
+  },
+  {
+    "from": "scatterbrained",
+    "to": "absent-minded",
+    "sim": 0.18013164467620368
+  },
+  {
+    "from": "scope",
+    "to": "telescopic sight",
+    "sim": 0.3226885579417969
+  },
+  {
+    "from": "score",
+    "to": "strike",
+    "sim": 0.32884093510379614
+  },
+  {
+    "from": "scores",
+    "to": "many",
+    "sim": 0.318237510136648
+  },
+  {
+    "from": "scoria",
+    "to": "slag",
+    "sim": 0.29204445812317065
+  },
+  {
+    "from": "scoria",
+    "to": "slag",
+    "sim": 0.29204445812317065
+  },
+  {
+    "from": "scrimmage",
+    "to": "exhibition game",
+    "sim": 0.40942110091527395
+  },
+  {
+    "from": "scrofulous",
+    "to": "corrupt",
+    "sim": 0.29354732506316966
+  },
+  {
+    "from": "scrub",
+    "to": "cancellation",
+    "sim": 0.200566451214717
+  },
+  {
+    "from": "scumbag",
+    "to": "condom",
+    "sim": 0.20297103870989466
+  },
+  {
+    "from": "sea horse",
+    "to": "walrus",
+    "sim": 0.3003361370904354
+  },
+  {
+    "from": "sea-parrot",
+    "to": "puffin",
+    "sim": 0.3277632682860718
+  },
+  {
+    "from": "second to none",
+    "to": "heroin",
+    "sim": 0.24119326094214516
+  },
+  {
+    "from": "see off",
+    "to": "defeat",
+    "sim": 0.34412032955654304
+  },
+  {
+    "from": "sejunct",
+    "to": "separate",
+    "sim": 0.23873345020228035
+  },
+  {
+    "from": "sellotape",
+    "to": "adhesive tape",
+    "sim": 0.2271609103691429
+  },
+  {
+    "from": "Sellotape",
+    "to": "adhesive tape",
+    "sim": 0.2271609103691429
+  },
+  {
+    "from": "semipostal",
+    "to": "semi-postal stamp",
+    "sim": 0.4194630658705755
+  },
+  {
+    "from": "sepia",
+    "to": "cuttlefish",
+    "sim": 0.35727804717387707
+  },
+  {
+    "from": "serigraphy",
+    "to": "screen printing",
+    "sim": 0.2989317302459801
+  },
+  {
+    "from": "serum",
+    "to": "antiserum",
+    "sim": 0.3721554534100591
+  },
+  {
+    "from": "Servian",
+    "to": "Serbian",
+    "sim": 0.3721692390016979
+  },
+  {
+    "from": "Servian",
+    "to": "Serbian",
+    "sim": 0.3721692390016979
+  },
+  {
+    "from": "Servian",
+    "to": "Serbian",
+    "sim": 0.3721692390016979
+  },
+  {
+    "from": "serviette",
+    "to": "napkin",
+    "sim": 0.26491605161128756
+  },
+  {
+    "from": "set",
+    "to": "sit",
+    "sim": 0.20726437917827517
+  },
+  {
+    "from": "set forth",
+    "to": "start",
+    "sim": 0.3376203889412027
+  },
+  {
+    "from": "set-theoretic difference",
+    "to": "relative complement",
+    "sim": 0.315548963981317
+  },
+  {
+    "from": "sext",
+    "to": "noon",
+    "sim": 0.20313606017485772
+  },
+  {
+    "from": "shadbush",
+    "to": "serviceberry",
+    "sim": 0.34790000656707815
+  },
+  {
+    "from": "shakedown",
+    "to": "extortion",
+    "sim": 0.1860136964403414
+  },
+  {
+    "from": "sharbat",
+    "to": "sherbet",
+    "sim": 0.38492836984237316
+  },
+  {
+    "from": "shaver",
+    "to": "boy",
+    "sim": 0.30830934033293256
+  },
+  {
+    "from": "sheath",
+    "to": "condom",
+    "sim": 0.4186188840308401
+  },
+  {
+    "from": "shebop",
+    "to": "masturbate",
+    "sim": 0.3038790643693146
+  },
+  {
+    "from": "she-tiger",
+    "to": "tigress",
+    "sim": 0.38178534856543817
+  },
+  {
+    "from": "shield",
+    "to": "toilet",
+    "sim": 0.17258137274603233
+  },
+  {
+    "from": "shield",
+    "to": "outhouse",
+    "sim": 0.19873519567009137
+  },
+  {
+    "from": "shield",
+    "to": "toilet seat",
+    "sim": 0.12974454446550515
+  },
+  {
+    "from": "Shimshon",
+    "to": "Samson",
+    "sim": 0.3463547849900495
+  },
+  {
+    "from": "shiner",
+    "to": "black eye",
+    "sim": 0.3202503604101251
+  },
+  {
+    "from": "shit happens",
+    "to": "such is life",
+    "sim": 0.3344023294687523
+  },
+  {
+    "from": "shitter",
+    "to": "anus",
+    "sim": 0.2407191731573662
+  },
+  {
+    "from": "shitty",
+    "to": "drunk",
+    "sim": 0.37187443522881863
+  },
+  {
+    "from": "shitty",
+    "to": "high",
+    "sim": 0.2735195278052929
+  },
+  {
+    "from": "Shlomo",
+    "to": "Solomon",
+    "sim": 0.3646925881879837
+  },
+  {
+    "from": "Shoah",
+    "to": "Holocaust",
+    "sim": 0.2851138141965964
+  },
+  {
+    "from": "shoal",
+    "to": "school",
+    "sim": 0.2619605916029339
+  },
+  {
+    "from": "shop",
+    "to": "photoshop",
+    "sim": 0.4118417189810902
+  },
+  {
+    "from": "short of",
+    "to": "except",
+    "sim": 0.30173802571590624
+  },
+  {
+    "from": "short-sighted",
+    "to": "myopic",
+    "sim": 0.36164419119542235
+  },
+  {
+    "from": "short-tailed weasel",
+    "to": "ermine",
+    "sim": 0.23341625126840365
+  },
+  {
+    "from": "shrithe",
+    "to": "creep",
+    "sim": 0.31102646249349497
+  },
+  {
+    "from": "shrive",
+    "to": "confess",
+    "sim": 0.17028203581208518
+  },
+  {
+    "from": "shut one's trap",
+    "to": "shut up",
+    "sim": 0.35484713493603953
+  },
+  {
+    "from": "shvitz",
+    "to": "sweat",
+    "sim": 0.14330235941951738
+  },
+  {
+    "from": "shylock",
+    "to": "loan shark",
+    "sim": 0.3198852979391182
+  },
+  {
+    "from": "sib",
+    "to": "sibling",
+    "sim": 0.2587505135166491
+  },
+  {
+    "from": "sib",
+    "to": "kinsman",
+    "sim": 0.12990560418627534
+  },
+  {
+    "from": "sick and tired",
+    "to": "fed up",
+    "sim": 0.38006708039143106
+  },
+  {
+    "from": "side",
+    "to": "channel",
+    "sim": 0.3099280675340147
+  },
+  {
+    "from": "side-straddle hop",
+    "to": "jumping jack",
+    "sim": 0.24204452702921617
+  },
+  {
+    "from": "siege",
+    "to": "toilet",
+    "sim": 0.29277492690732276
+  },
+  {
+    "from": "siege",
+    "to": "outhouse",
+    "sim": 0.3151193803324803
+  },
+  {
+    "from": "siege",
+    "to": "besiege",
+    "sim": 0.35125670817378335
+  },
+  {
+    "from": "sinew",
+    "to": "tendon",
+    "sim": 0.3678478425820582
+  },
+  {
+    "from": "sinful",
+    "to": "evil",
+    "sim": 0.4140715087007752
+  },
+  {
+    "from": "single",
+    "to": "one-way ticket",
+    "sim": 0.2994323556026821
+  },
+  {
+    "from": "single-celled",
+    "to": "unicellular",
+    "sim": 0.3976351853034172
+  },
+  {
+    "from": "sinistromanual",
+    "to": "left-handed",
+    "sim": 0.20711666493272618
+  },
+  {
+    "from": "sixtysomething",
+    "to": "sexagenarian",
+    "sim": 0.39379060205348815
+  },
+  {
+    "from": "skater",
+    "to": "water strider",
+    "sim": 0.32048488234416783
+  },
+  {
+    "from": "skeeter",
+    "to": "mosquito",
+    "sim": 0.2700522699523581
+  },
+  {
+    "from": "sketch",
+    "to": "lookout",
+    "sim": 0.27489271593341386
+  },
+  {
+    "from": "skilful",
+    "to": "skillful",
+    "sim": 0.2934443557822981
+  },
+  {
+    "from": "skimble-skamble",
+    "to": "nonsense",
+    "sim": 0.14659757912642798
+  },
+  {
+    "from": "skimble-skamble",
+    "to": "chaotic",
+    "sim": 0.36769213944246526
+  },
+  {
+    "from": "skunk",
+    "to": "marijuana",
+    "sim": 0.38466090918024987
+  },
+  {
+    "from": "skyclad",
+    "to": "nude",
+    "sim": 0.24558296794234813
+  },
+  {
+    "from": "skyrocket",
+    "to": "pocket",
+    "sim": 0.22498482060233546
+  },
+  {
+    "from": "slacken",
+    "to": "loosen",
+    "sim": 0.32956889239667875
+  },
+  {
+    "from": "slang",
+    "to": "cant",
+    "sim": 0.1716111737288869
+  },
+  {
+    "from": "slant",
+    "to": "slash",
+    "sim": 0.3892749756725564
+  },
+  {
+    "from": "slaughterhouse",
+    "to": "abattoir",
+    "sim": 0.31996267249908883
+  },
+  {
+    "from": "sleeper",
+    "to": "earmark",
+    "sim": 0.21476330026501614
+  },
+  {
+    "from": "sleeper",
+    "to": "railroad tie",
+    "sim": 0.25204917860806075
+  },
+  {
+    "from": "sleepwalk",
+    "to": "somnambulate",
+    "sim": 0.3064688757879187
+  },
+  {
+    "from": "sleepyhead",
+    "to": "ruddy duck",
+    "sim": 0.22663777050439582
+  },
+  {
+    "from": "sleigh",
+    "to": "sledge",
+    "sim": 0.4160510876392361
+  },
+  {
+    "from": "slipstick",
+    "to": "slide rule",
+    "sim": 0.33734356215806915
+  },
+  {
+    "from": "smack",
+    "to": "horse",
+    "sim": 0.17609061772231743
+  },
+  {
+    "from": "smallest room",
+    "to": "toilet",
+    "sim": 0.2718775575598055
+  },
+  {
+    "from": "smaragdine",
+    "to": "emerald",
+    "sim": 0.13809589808233777
+  },
+  {
+    "from": "smarty boots",
+    "to": "know-it-all",
+    "sim": 0.14753485995890994
+  },
+  {
+    "from": "smithy",
+    "to": "forge",
+    "sim": 0.2556960917022215
+  },
+  {
+    "from": "snood",
+    "to": "hairnet",
+    "sim": 0.3299568155665449
+  },
+  {
+    "from": "soft",
+    "to": "foolish",
+    "sim": 0.3027778037673888
+  },
+  {
+    "from": "solidus",
+    "to": "slash",
+    "sim": 0.2995391839800675
+  },
+  {
+    "from": "solitaire",
+    "to": "patience",
+    "sim": 0.2985738567309556
+  },
+  {
+    "from": "somewhat",
+    "to": "something",
+    "sim": 0.38629929077742053
+  },
+  {
+    "from": "somewhither",
+    "to": "somewhere",
+    "sim": 0.40768449438457766
+  },
+  {
+    "from": "soothsayer",
+    "to": "mantis",
+    "sim": 0.23191557787739567
+  },
+  {
+    "from": "sop",
+    "to": "gravy",
+    "sim": 0.2703175127222277
+  },
+  {
+    "from": "sorb",
+    "to": "wild service tree",
+    "sim": 0.1927320327381197
+  },
+  {
+    "from": "sound",
+    "to": "cuttlefish",
+    "sim": 0.30957876018025854
+  },
+  {
+    "from": "souped-up",
+    "to": "drunk",
+    "sim": 0.24563530929619218
+  },
+  {
+    "from": "souped-up",
+    "to": "excited",
+    "sim": 0.23360078899402179
+  },
+  {
+    "from": "soupçon",
+    "to": "suspicion",
+    "sim": 0.16530101181036327
+  },
+  {
+    "from": "space",
+    "to": "while",
+    "sim": 0.2430486029983002
+  },
+  {
+    "from": "speaking",
+    "to": "eloquent",
+    "sim": 0.2959501504152965
+  },
+  {
+    "from": "speed",
+    "to": "luck",
+    "sim": 0.2675060661745747
+  },
+  {
+    "from": "spelunk",
+    "to": "cave",
+    "sim": 0.32933103474271996
+  },
+  {
+    "from": "sperm bank",
+    "to": "cunt",
+    "sim": 0.15044174502560545
+  },
+  {
+    "from": "spew",
+    "to": "vomit",
+    "sim": 0.3431827659358896
+  },
+  {
+    "from": "spew",
+    "to": "ejaculate",
+    "sim": 0.2392697276767853
+  },
+  {
+    "from": "spice",
+    "to": "sweet",
+    "sim": 0.09667913638884804
+  },
+  {
+    "from": "spigot",
+    "to": "tap",
+    "sim": 0.3469186845766516
+  },
+  {
+    "from": "spill one's guts",
+    "to": "vomit",
+    "sim": 0.41137517798087747
+  },
+  {
+    "from": "spindle",
+    "to": "dragonfly",
+    "sim": 0.23776486437935385
+  },
+  {
+    "from": "spine pig",
+    "to": "porcupine",
+    "sim": 0.22373095076919586
+  },
+  {
+    "from": "spiny anteater",
+    "to": "echidna",
+    "sim": 0.3443154746985992
+  },
+  {
+    "from": "spit",
+    "to": "dig",
+    "sim": 0.2176648074950415
+  },
+  {
+    "from": "splice",
+    "to": "marry",
+    "sim": 0.2454910670329409
+  },
+  {
+    "from": "split",
+    "to": "peach",
+    "sim": 0.25716239822926873
+  },
+  {
+    "from": "spondyle",
+    "to": "vertebra",
+    "sim": 0.32689090385528874
+  },
+  {
+    "from": "spring",
+    "to": "jump",
+    "sim": 0.33362287547834846
+  },
+  {
+    "from": "spring",
+    "to": "jump",
+    "sim": 0.33362287547834846
+  },
+  {
+    "from": "spring",
+    "to": "race",
+    "sim": 0.3072867562643944
+  },
+  {
+    "from": "spring",
+    "to": "shoot",
+    "sim": 0.2312263120574629
+  },
+  {
+    "from": "spring",
+    "to": "grove",
+    "sim": 0.30114657081589086
+  },
+  {
+    "from": "spring",
+    "to": "erection",
+    "sim": 0.22222953750440405
+  },
+  {
+    "from": "spring",
+    "to": "youth",
+    "sim": 0.3271652165934165
+  },
+  {
+    "from": "spring",
+    "to": "high tide",
+    "sim": 0.3855608791547988
+  },
+  {
+    "from": "spring",
+    "to": "elasticity",
+    "sim": 0.24443465782754684
+  },
+  {
+    "from": "sprite",
+    "to": "green woodpecker",
+    "sim": 0.28330847268242654
+  },
+  {
+    "from": "spyglass",
+    "to": "binoculars",
+    "sim": 0.4080461919485084
+  },
+  {
+    "from": "square",
+    "to": "quarrel",
+    "sim": 0.3088750363933119
+  },
+  {
+    "from": "square",
+    "to": "quarrel",
+    "sim": 0.3088750363933119
+  },
+  {
+    "from": "square",
+    "to": "fair",
+    "sim": 0.1727304563964168
+  },
+  {
+    "from": "stag",
+    "to": "bachelor party",
+    "sim": 0.2677583555325756
+  },
+  {
+    "from": "stag do",
+    "to": "bachelor party",
+    "sim": 0.21088548741949878
+  },
+  {
+    "from": "stamp collecting",
+    "to": "philately",
+    "sim": 0.3964230856275131
+  },
+  {
+    "from": "statecraft",
+    "to": "statesmanship",
+    "sim": 0.29289922978960964
+  },
+  {
+    "from": "station",
+    "to": "ranch",
+    "sim": 0.25380283473107623
+  },
+  {
+    "from": "stay",
+    "to": "corset",
+    "sim": 0.25558103197322424
+  },
+  {
+    "from": "steep",
+    "to": "expensive",
+    "sim": 0.3361891201595127
+  },
+  {
+    "from": "steeple",
+    "to": "spire",
+    "sim": 0.29794898595882724
+  },
+  {
+    "from": "Stettin",
+    "to": "Szczecin",
+    "sim": 0.33238919849147974
+  },
+  {
+    "from": "steven",
+    "to": "prayer",
+    "sim": 0.16706816756347917
+  },
+  {
+    "from": "steven",
+    "to": "voice",
+    "sim": 0.3266088235834961
+  },
+  {
+    "from": "stiletto",
+    "to": "awl",
+    "sim": 0.2683662806128255
+  },
+  {
+    "from": "stilt",
+    "to": "crutch",
+    "sim": 0.27342792242051195
+  },
+  {
+    "from": "stitch",
+    "to": "plough",
+    "sim": 0.29698143950234585
+  },
+  {
+    "from": "stitch",
+    "to": "furrow",
+    "sim": 0.36628875339726574
+  },
+  {
+    "from": "stoat",
+    "to": "ermine",
+    "sim": 0.2866745582752052
+  },
+  {
+    "from": "stocking cap",
+    "to": "beanie",
+    "sim": 0.11743634142961114
+  },
+  {
+    "from": "stompie",
+    "to": "butt",
+    "sim": 0.3282322076427001
+  },
+  {
+    "from": "stoned",
+    "to": "drunk",
+    "sim": 0.34542252069728946
+  },
+  {
+    "from": "stony",
+    "to": "broke",
+    "sim": 0.20112303436554269
+  },
+  {
+    "from": "stop",
+    "to": "plosive",
+    "sim": 0.28079878318193696
+  },
+  {
+    "from": "store",
+    "to": "memory",
+    "sim": 0.41852753698094336
+  },
+  {
+    "from": "story",
+    "to": "storey",
+    "sim": 0.22740524252777627
+  },
+  {
+    "from": "stout",
+    "to": "obstinate",
+    "sim": 0.17235120703549472
+  },
+  {
+    "from": "Strategic Defense Initiative",
+    "to": "Star Wars",
+    "sim": 0.37041505783624634
+  },
+  {
+    "from": "streetcar",
+    "to": "tram",
+    "sim": 0.4188593041047055
+  },
+  {
+    "from": "stress",
+    "to": "accent",
+    "sim": 0.34669405029659833
+  },
+  {
+    "from": "striker",
+    "to": "batter",
+    "sim": 0.41056663921377873
+  },
+  {
+    "from": "stroke",
+    "to": "slash",
+    "sim": 0.3266516180933057
+  },
+  {
+    "from": "stroke",
+    "to": "appetite",
+    "sim": 0.20130691492903122
+  },
+  {
+    "from": "strongbox",
+    "to": "safe",
+    "sim": 0.2726926791251668
+  },
+  {
+    "from": "study",
+    "to": "etude",
+    "sim": 0.27605549989223055
+  },
+  {
+    "from": "stutter",
+    "to": "stammer",
+    "sim": 0.24297965098843874
+  },
+  {
+    "from": "sty",
+    "to": "ladder",
+    "sim": 0.2184637505587383
+  },
+  {
+    "from": "sty",
+    "to": "ascend",
+    "sim": 0.2622755213549815
+  },
+  {
+    "from": "subaltern",
+    "to": "subordinate",
+    "sim": 0.41539458080087643
+  },
+  {
+    "from": "subsistent",
+    "to": "inherent",
+    "sim": 0.19344238787115675
+  },
+  {
+    "from": "suck",
+    "to": "sycophant",
+    "sim": 0.09896641621095852
+  },
+  {
+    "from": "sucker",
+    "to": "lollipop",
+    "sim": 0.2615383981208591
+  },
+  {
+    "from": "sudorific",
+    "to": "sweaty",
+    "sim": 0.13298414148776916
+  },
+  {
+    "from": "suffragist",
+    "to": "suffragette",
+    "sim": 0.41416575632047625
+  },
+  {
+    "from": "suit",
+    "to": "pursuit",
+    "sim": 0.3558839574210254
+  },
+  {
+    "from": "sum",
+    "to": "summit",
+    "sim": 0.26201078242071263
+  },
+  {
+    "from": "supercilium",
+    "to": "eyebrow",
+    "sim": 0.18021505828333637
+  },
+  {
+    "from": "supermajority",
+    "to": "qualified majority",
+    "sim": 0.32378882939591236
+  },
+  {
+    "from": "surround",
+    "to": "enclose",
+    "sim": 0.23154733757804985
+  },
+  {
+    "from": "Susanna",
+    "to": "Susan",
+    "sim": 0.29766793303796213
+  },
+  {
+    "from": "swarthy",
+    "to": "dark",
+    "sim": 0.34832424942123524
+  },
+  {
+    "from": "swarthy",
+    "to": "tawny",
+    "sim": 0.35629326544228074
+  },
+  {
+    "from": "swarthy",
+    "to": "dark-skinned",
+    "sim": 0.33123571205727365
+  },
+  {
+    "from": "swede",
+    "to": "turnip",
+    "sim": 0.26074755722008974
+  },
+  {
+    "from": "swede",
+    "to": "rutabaga",
+    "sim": 0.36359566522738473
+  },
+  {
+    "from": "swede",
+    "to": "rutabaga",
+    "sim": 0.36359566522738473
+  },
+  {
+    "from": "Swedish turnip",
+    "to": "rutabaga",
+    "sim": 0.3622154374994118
+  },
+  {
+    "from": "sweet",
+    "to": "dessert",
+    "sim": 0.23727720998415947
+  },
+  {
+    "from": "sweet",
+    "to": "sweetness",
+    "sim": 0.35134218207374934
+  },
+  {
+    "from": "sweet potato",
+    "to": "yam",
+    "sim": 0.34167776360988394
+  },
+  {
+    "from": "swole",
+    "to": "upset",
+    "sim": 0.15382857223232224
+  },
+  {
+    "from": "swole",
+    "to": "muscular",
+    "sim": 0.3236563353579463
+  },
+  {
+    "from": "syenite",
+    "to": "granite",
+    "sim": 0.32348717151663003
+  },
+  {
+    "from": "syrinx",
+    "to": "panpipes",
+    "sim": 0.10750090975180487
+  },
+  {
+    "from": "tab",
+    "to": "cigarette",
+    "sim": 0.3761741141307092
+  },
+  {
+    "from": "table football",
+    "to": "foosball",
+    "sim": 0.3504491714153323
+  },
+  {
+    "from": "table soccer",
+    "to": "foosball",
+    "sim": 0.23878858049731067
+  },
+  {
+    "from": "tack",
+    "to": "board",
+    "sim": 0.38970063439689273
+  },
+  {
+    "from": "Taibei",
+    "to": "Taipei",
+    "sim": 0.34988378805070486
+  },
+  {
+    "from": "tailbone",
+    "to": "coccyx",
+    "sim": 0.3870448360870954
+  },
+  {
+    "from": "Tʻai-pei",
+    "to": "Taipei",
+    "sim": 0.36933566889782127
+  },
+  {
+    "from": "take apart",
+    "to": "defeat",
+    "sim": 0.39318467165752174
+  },
+  {
+    "from": "take effect",
+    "to": "come into force",
+    "sim": 0.38304880432215477
+  },
+  {
+    "from": "take off",
+    "to": "quantify",
+    "sim": 0.15951973985483808
+  },
+  {
+    "from": "take on",
+    "to": "employ",
+    "sim": 0.18211836666584852
+  },
+  {
+    "from": "take the wrong way",
+    "to": "misunderstand",
+    "sim": 0.3524765850459594
+  },
+  {
+    "from": "talk around",
+    "to": "persuade",
+    "sim": 0.18403059349046919
+  },
+  {
+    "from": "talk over",
+    "to": "persuade",
+    "sim": 0.15501335855502388
+  },
+  {
+    "from": "tang",
+    "to": "tongue",
+    "sim": 0.3902583852580059
+  },
+  {
+    "from": "tanked",
+    "to": "drunk",
+    "sim": 0.3882167358462543
+  },
+  {
+    "from": "Tanya",
+    "to": "Tania",
+    "sim": 0.36785072655117484
+  },
+  {
+    "from": "tardigrade",
+    "to": "water bear",
+    "sim": 0.21370101701355868
+  },
+  {
+    "from": "tartar",
+    "to": "dental calculus",
+    "sim": 0.03619013457110308
+  },
+  {
+    "from": "tea",
+    "to": "dinner",
+    "sim": 0.4103854937879051
+  },
+  {
+    "from": "teacher",
+    "to": "forefinger",
+    "sim": 0.22204438990419184
+  },
+  {
+    "from": "teacher's desk",
+    "to": "pulpit",
+    "sim": 0.3359151182345347
+  },
+  {
+    "from": "tea leaf",
+    "to": "thief",
+    "sim": 0.20256552044257847
+  },
+  {
+    "from": "tearoom",
+    "to": "teahouse",
+    "sim": 0.2307350967758843
+  },
+  {
+    "from": "teetan",
+    "to": "pipit",
+    "sim": 0.2749538660278299
+  },
+  {
+    "from": "Teheran",
+    "to": "Tehran",
+    "sim": 0.3891849240480693
+  },
+  {
+    "from": "tečka",
+    "to": "dot",
+    "sim": 0.25238442772098807
+  },
+  {
+    "from": "teleshow",
+    "to": "television show",
+    "sim": 0.33362531156818237
+  },
+  {
+    "from": "tell",
+    "to": "narrate",
+    "sim": 0.23236345746752182
+  },
+  {
+    "from": "Tellurian",
+    "to": "Earthling",
+    "sim": 0.2043766511244324
+  },
+  {
+    "from": "temblor",
+    "to": "earthquake",
+    "sim": 0.1776149847179586
+  },
+  {
+    "from": "temperance",
+    "to": "temperature",
+    "sim": 0.16685908348579095
+  },
+  {
+    "from": "term of art",
+    "to": "technical term",
+    "sim": 0.31085645140183815
+  },
+  {
+    "from": "tetragon",
+    "to": "quadrilateral",
+    "sim": 0.28606756524294796
+  },
+  {
+    "from": "tetrapod",
+    "to": "quadruped",
+    "sim": 0.3266714913097569
+  },
+  {
+    "from": "Teutonism",
+    "to": "Germanism",
+    "sim": 0.3648276394326133
+  },
+  {
+    "from": "that train has left the station",
+    "to": "that ship has sailed",
+    "sim": 0.29246894442607574
+  },
+  {
+    "from": "thede",
+    "to": "nation",
+    "sim": 0.30754450323539856
+  },
+  {
+    "from": "therefor",
+    "to": "therefore",
+    "sim": 0.3482931804003671
+  },
+  {
+    "from": "thickness",
+    "to": "layer",
+    "sim": 0.3812397041598453
+  },
+  {
+    "from": "think nothing of it",
+    "to": "you're welcome",
+    "sim": 0.05231473542909562
+  },
+  {
+    "from": "this way",
+    "to": "thus",
+    "sim": 0.39155238921658975
+  },
+  {
+    "from": "thole",
+    "to": "suffer",
+    "sim": 0.17508861276056917
+  },
+  {
+    "from": "thole",
+    "to": "endure",
+    "sim": 0.21329983579476955
+  },
+  {
+    "from": "thole",
+    "to": "endurance",
+    "sim": 0.14214752212102166
+  },
+  {
+    "from": "thong",
+    "to": "G-string",
+    "sim": 0.2976592850682092
+  },
+  {
+    "from": "thorn apple",
+    "to": "jimsonweed",
+    "sim": 0.25704724486097064
+  },
+  {
+    "from": "threads",
+    "to": "clothes",
+    "sim": 0.2888675024356357
+  },
+  {
+    "from": "throne room",
+    "to": "toilet",
+    "sim": 0.36538282745805495
+  },
+  {
+    "from": "tickler",
+    "to": "dram",
+    "sim": 0.180761336639559
+  },
+  {
+    "from": "tickler",
+    "to": "conundrum",
+    "sim": 0.22182585328963395
+  },
+  {
+    "from": "tickler",
+    "to": "reminder",
+    "sim": 0.18077751278558257
+  },
+  {
+    "from": "timpanum",
+    "to": "kettledrum",
+    "sim": 0.3381947713573379
+  },
+  {
+    "from": "timpanum",
+    "to": "middle ear",
+    "sim": 0.17503372498861108
+  },
+  {
+    "from": "timpanum",
+    "to": "eardrum",
+    "sim": 0.20562803597100038
+  },
+  {
+    "from": "tinkle",
+    "to": "urinate",
+    "sim": 0.2283770280111763
+  },
+  {
+    "from": "tipi",
+    "to": "teepee",
+    "sim": 0.38610651646295097
+  },
+  {
+    "from": "tip-top",
+    "to": "excellent",
+    "sim": 0.24835002801063918
+  },
+  {
+    "from": "tit",
+    "to": "chickadee",
+    "sim": 0.28673716165906765
+  },
+  {
+    "from": "titfer",
+    "to": "hat",
+    "sim": 0.24790533818634589
+  },
+  {
+    "from": "tit for tat",
+    "to": "hat",
+    "sim": 0.19593764736753375
+  },
+  {
+    "from": "tithe",
+    "to": "tenth",
+    "sim": 0.26601667048804195
+  },
+  {
+    "from": "titling",
+    "to": "stockfish",
+    "sim": 0.23278979213757703
+  },
+  {
+    "from": "titling",
+    "to": "meadow pipit",
+    "sim": 0.14993556835868274
+  },
+  {
+    "from": "toastmaster",
+    "to": "master of ceremonies",
+    "sim": 0.33303904429848713
+  },
+  {
+    "from": "tomnoddy",
+    "to": "puffin",
+    "sim": 0.2759116985908006
+  },
+  {
+    "from": "tonic",
+    "to": "soda pop",
+    "sim": 0.33995774810913804
+  },
+  {
+    "from": "toon",
+    "to": "town",
+    "sim": 0.2658769897195572
+  },
+  {
+    "from": "topic",
+    "to": "thread",
+    "sim": 0.4158227183067724
+  },
+  {
+    "from": "topside",
+    "to": "upper side",
+    "sim": 0.41904995528014144
+  },
+  {
+    "from": "toque",
+    "to": "beanie",
+    "sim": 0.2539988172948989
+  },
+  {
+    "from": "tor",
+    "to": "hill",
+    "sim": 0.25999866767886715
+  },
+  {
+    "from": "to that end",
+    "to": "therefore",
+    "sim": 0.31456312413361753
+  },
+  {
+    "from": "to the max",
+    "to": "very",
+    "sim": 0.2685548303137437
+  },
+  {
+    "from": "tough",
+    "to": "endure",
+    "sim": 0.3620146589853571
+  },
+  {
+    "from": "tough",
+    "to": "stubborn",
+    "sim": 0.3265796052326149
+  },
+  {
+    "from": "tough",
+    "to": "resilient",
+    "sim": 0.3320399736298015
+  },
+  {
+    "from": "tough out",
+    "to": "endure",
+    "sim": 0.3975756878934271
+  },
+  {
+    "from": "tovarish",
+    "to": "comrade",
+    "sim": 0.27182018442399375
+  },
+  {
+    "from": "traductology",
+    "to": "translation studies",
+    "sim": 0.22071066416368584
+  },
+  {
+    "from": "trafficator",
+    "to": "indicator",
+    "sim": 0.3252400620825334
+  },
+  {
+    "from": "tramp",
+    "to": "hitchhike",
+    "sim": 0.288664773328908
+  },
+  {
+    "from": "tranche",
+    "to": "slice",
+    "sim": 0.20015614174459254
+  },
+  {
+    "from": "transfuge",
+    "to": "deserter",
+    "sim": 0.25907017392378684
+  },
+  {
+    "from": "transfuge",
+    "to": "turncoat",
+    "sim": 0.19318414086945343
+  },
+  {
+    "from": "transmutation",
+    "to": "alteration",
+    "sim": 0.3156741903511305
+  },
+  {
+    "from": "transpire",
+    "to": "happen",
+    "sim": 0.2895562393659699
+  },
+  {
+    "from": "travelator",
+    "to": "moving walkway",
+    "sim": 0.25838560740692407
+  },
+  {
+    "from": "treachery",
+    "to": "treason",
+    "sim": 0.32187950846025426
+  },
+  {
+    "from": "treat",
+    "to": "negotiation",
+    "sim": 0.28174056135243325
+  },
+  {
+    "from": "trespass",
+    "to": "sin",
+    "sim": 0.29804546692546663
+  },
+  {
+    "from": "trickster",
+    "to": "fraud",
+    "sim": 0.30904220764320733
+  },
+  {
+    "from": "tripedal",
+    "to": "three-legged",
+    "sim": 0.24398140212340025
+  },
+  {
+    "from": "triumph",
+    "to": "trump",
+    "sim": 0.316328582684352
+  },
+  {
+    "from": "tropical",
+    "to": "figurative",
+    "sim": 0.17191043514402773
+  },
+  {
+    "from": "trot",
+    "to": "toddler",
+    "sim": 0.1731903191510244
+  },
+  {
+    "from": "troth",
+    "to": "truth",
+    "sim": 0.29039095640177964
+  },
+  {
+    "from": "trouser",
+    "to": "pocket",
+    "sim": 0.2792120931875028
+  },
+  {
+    "from": "truck",
+    "to": "trade",
+    "sim": 0.29949794095864385
+  },
+  {
+    "from": "tumbler",
+    "to": "acrobat",
+    "sim": 0.2444448861457787
+  },
+  {
+    "from": "tup",
+    "to": "fuck",
+    "sim": 0.27046295550608845
+  },
+  {
+    "from": "tup",
+    "to": "ram",
+    "sim": 0.15172105618466747
+  },
+  {
+    "from": "Turk",
+    "to": "Muslim",
+    "sim": 0.410404316652125
+  },
+  {
+    "from": "turn",
+    "to": "flop",
+    "sim": 0.3787344227633805
+  },
+  {
+    "from": "turn over",
+    "to": "transfer",
+    "sim": 0.24147090236566554
+  },
+  {
+    "from": "turnpike",
+    "to": "cheval de frise",
+    "sim": 0.1562568210265584
+  },
+  {
+    "from": "turn signal",
+    "to": "indicator",
+    "sim": 0.34935790309307696
+  },
+  {
+    "from": "turn turtle",
+    "to": "fail",
+    "sim": 0.2681445096924333
+  },
+  {
+    "from": "tussis",
+    "to": "cough",
+    "sim": 0.20260585117323587
+  },
+  {
+    "from": "twist",
+    "to": "twig",
+    "sim": 0.2982266560406414
+  },
+  {
+    "from": "twitch",
+    "to": "couch grass",
+    "sim": 0.1602450467391657
+  },
+  {
+    "from": "tympanic membrane",
+    "to": "eardrum",
+    "sim": 0.3668352986591177
+  },
+  {
+    "from": "tympanum",
+    "to": "middle ear",
+    "sim": 0.18904048448674177
+  },
+  {
+    "from": "tympanum",
+    "to": "eardrum",
+    "sim": 0.2547229041489724
+  },
+  {
+    "from": "umbilicus",
+    "to": "navel",
+    "sim": 0.3684818793936464
+  },
+  {
+    "from": "umbra",
+    "to": "shadow",
+    "sim": 0.2633730679538985
+  },
+  {
+    "from": "unanimousness",
+    "to": "unanimity",
+    "sim": 0.316615970228404
+  },
+  {
+    "from": "unbeliever",
+    "to": "infidel",
+    "sim": 0.30527459502954185
+  },
+  {
+    "from": "undercut",
+    "to": "undermine",
+    "sim": 0.2515696899692622
+  },
+  {
+    "from": "under lock and key",
+    "to": "behind bars",
+    "sim": 0.3064124469943225
+  },
+  {
+    "from": "under one's hat",
+    "to": "secret",
+    "sim": 0.31422232463264815
+  },
+  {
+    "from": "understanding",
+    "to": "grasp",
+    "sim": 0.39178970118852985
+  },
+  {
+    "from": "uneven",
+    "to": "odd",
+    "sim": 0.4194540175443383
+  },
+  {
+    "from": "unguent",
+    "to": "ointment",
+    "sim": 0.22343593982781698
+  },
+  {
+    "from": "unharness",
+    "to": "liberate",
+    "sim": 0.29954458913005255
+  },
+  {
+    "from": "unit",
+    "to": "kilowatt-hour",
+    "sim": 0.3692179883320237
+  },
+  {
+    "from": "unsaid",
+    "to": "unspoken",
+    "sim": 0.1820577129824094
+  },
+  {
+    "from": "unsatisfied",
+    "to": "dissatisfied",
+    "sim": 0.39803352173283174
+  },
+  {
+    "from": "unvoiced",
+    "to": "voiceless",
+    "sim": 0.30188038554092733
+  },
+  {
+    "from": "upfront",
+    "to": "attacker",
+    "sim": 0.2350030252678544
+  },
+  {
+    "from": "Uranian",
+    "to": "homosexual",
+    "sim": 0.22892915969884328
+  },
+  {
+    "from": "Uranian",
+    "to": "astronomical",
+    "sim": 0.22636559784560822
+  },
+  {
+    "from": "Uriah Heep",
+    "to": "yes man",
+    "sim": 0.2046560347151388
+  },
+  {
+    "from": "urinal",
+    "to": "outhouse",
+    "sim": 0.2912034480313002
+  },
+  {
+    "from": "urinal",
+    "to": "latrine",
+    "sim": 0.2469451342514604
+  },
+  {
+    "from": "use",
+    "to": "consume",
+    "sim": 0.37467905455026074
+  },
+  {
+    "from": "use up",
+    "to": "exhaust",
+    "sim": 0.24376895133721158
+  },
+  {
+    "from": "utopic",
+    "to": "utopian",
+    "sim": 0.25016951409663624
+  },
+  {
+    "from": "valise",
+    "to": "suitcase",
+    "sim": 0.2241402018149912
+  },
+  {
+    "from": "valor",
+    "to": "value",
+    "sim": 0.3510946102060759
+  },
+  {
+    "from": "valour",
+    "to": "value",
+    "sim": 0.37492002702019245
+  },
+  {
+    "from": "valve",
+    "to": "vacuum tube",
+    "sim": 0.289006550071921
+  },
+  {
+    "from": "vamp",
+    "to": "exploit",
+    "sim": 0.2711040646663646
+  },
+  {
+    "from": "vampirism",
+    "to": "extortion",
+    "sim": 0.29771049588998205
+  },
+  {
+    "from": "variant",
+    "to": "variable",
+    "sim": 0.36217587004502416
+  },
+  {
+    "from": "varicella",
+    "to": "chicken pox",
+    "sim": 0.38427322858915297
+  },
+  {
+    "from": "vary",
+    "to": "modify",
+    "sim": 0.3834345841022447
+  },
+  {
+    "from": "vaunt",
+    "to": "boast",
+    "sim": 0.2894920832180048
+  },
+  {
+    "from": "veisalgia",
+    "to": "hangover",
+    "sim": 0.16458870045182322
+  },
+  {
+    "from": "venturi",
+    "to": "throat",
+    "sim": 0.37198581639140077
+  },
+  {
+    "from": "vermiculation",
+    "to": "peristalsis",
+    "sim": 0.24521945702240333
+  },
+  {
+    "from": "vertical bar",
+    "to": "pipe",
+    "sim": 0.18852194356448024
+  },
+  {
+    "from": "very much",
+    "to": "indeed",
+    "sim": 0.39326700531934267
+  },
+  {
+    "from": "vexillum",
+    "to": "sign of the cross",
+    "sim": 0.2138026492622456
+  },
+  {
+    "from": "Vilamovian",
+    "to": "Wymysorys",
+    "sim": 0.056365772164613435
+  },
+  {
+    "from": "vinification",
+    "to": "winemaking",
+    "sim": 0.408225408018327
+  },
+  {
+    "from": "viola da gamba",
+    "to": "viol",
+    "sim": 0.4014002089425178
+  },
+  {
+    "from": "violation",
+    "to": "rape",
+    "sim": 0.41577032909413636
+  },
+  {
+    "from": "violoncello",
+    "to": "cello",
+    "sim": 0.33681471988396333
+  },
+  {
+    "from": "viper",
+    "to": "adder",
+    "sim": 0.30277428691040736
+  },
+  {
+    "from": "virginal membrane",
+    "to": "hymen",
+    "sim": 0.3244752561319754
+  },
+  {
+    "from": "visit",
+    "to": "avenge",
+    "sim": 0.26409096808019317
+  },
+  {
+    "from": "visitant",
+    "to": "migrant",
+    "sim": 0.36764803266879026
+  },
+  {
+    "from": "visor",
+    "to": "mask",
+    "sim": 0.34985377855796956
+  },
+  {
+    "from": "vitriol",
+    "to": "sulfuric acid",
+    "sim": 0.18550662920513608
+  },
+  {
+    "from": "vitriolic",
+    "to": "caustic",
+    "sim": 0.2538063644231164
+  },
+  {
+    "from": "vixen",
+    "to": "fox",
+    "sim": 0.3470249885290752
+  },
+  {
+    "from": "vlei",
+    "to": "marsh",
+    "sim": 0.2160060764181697
+  },
+  {
+    "from": "vlei",
+    "to": "wetland",
+    "sim": 0.1724014614287875
+  },
+  {
+    "from": "Volodymyr",
+    "to": "Vladimir",
+    "sim": 0.3701828904851018
+  },
+  {
+    "from": "vulcanology",
+    "to": "volcanology",
+    "sim": 0.37461267044358904
+  },
+  {
+    "from": "vulnerability",
+    "to": "hole",
+    "sim": 0.31577591986028347
+  },
+  {
+    "from": "wait",
+    "to": "await",
+    "sim": 0.3682192519545137
+  },
+  {
+    "from": "waldmeister",
+    "to": "sweet woodruff",
+    "sim": 0.36002680727166675
+  },
+  {
+    "from": "walkout",
+    "to": "strike",
+    "sim": 0.3427649002848845
+  },
+  {
+    "from": "wardrobe",
+    "to": "toilet",
+    "sim": 0.35373747327142374
+  },
+  {
+    "from": "wardrobe",
+    "to": "outhouse",
+    "sim": 0.3353922620077373
+  },
+  {
+    "from": "warrant",
+    "to": "justify",
+    "sim": 0.38281462039796726
+  },
+  {
+    "from": "warrant",
+    "to": "authorize",
+    "sim": 0.2427237092547017
+  },
+  {
+    "from": "Warsovian",
+    "to": "Varsovian",
+    "sim": 0.33895076907263133
+  },
+  {
+    "from": "Warsovian",
+    "to": "Varsovian",
+    "sim": 0.33895076907263133
+  },
+  {
+    "from": "wash up",
+    "to": "do the dishes",
+    "sim": 0.3114505012357955
+  },
+  {
+    "from": "watch cap",
+    "to": "beanie",
+    "sim": 0.13886605257896886
+  },
+  {
+    "from": "watcher",
+    "to": "guard",
+    "sim": 0.3811892640114947
+  },
+  {
+    "from": "water",
+    "to": "amniotic fluid",
+    "sim": 0.31878578680563274
+  },
+  {
+    "from": "water carrier",
+    "to": "Aquarius",
+    "sim": 0.3193357880530273
+  },
+  {
+    "from": "water chestnut",
+    "to": "water caltrop",
+    "sim": 0.34851110699472365
+  },
+  {
+    "from": "water hemlock",
+    "to": "cowbane",
+    "sim": 0.2079946359101971
+  },
+  {
+    "from": "watery",
+    "to": "tearful",
+    "sim": 0.32508822607845644
+  },
+  {
+    "from": "waulk",
+    "to": "full",
+    "sim": 0.1716417462259252
+  },
+  {
+    "from": "weather",
+    "to": "situation",
+    "sim": 0.3076356346016581
+  },
+  {
+    "from": "welkin",
+    "to": "sky",
+    "sim": 0.20308247581977354
+  },
+  {
+    "from": "well",
+    "to": "cockpit",
+    "sim": 0.10425285105556094
+  },
+  {
+    "from": "weltanschauung",
+    "to": "worldview",
+    "sim": 0.15539851383108283
+  },
+  {
+    "from": "Wend",
+    "to": "Slav",
+    "sim": 0.1646500091449381
+  },
+  {
+    "from": "Wendish",
+    "to": "Sorbian",
+    "sim": 0.2923711677819824
+  },
+  {
+    "from": "Wendish",
+    "to": "Sorbian",
+    "sim": 0.2923711677819824
+  },
+  {
+    "from": "wheat midge",
+    "to": "Hessian fly",
+    "sim": 0.24142115126709587
+  },
+  {
+    "from": "whistle",
+    "to": "suit",
+    "sim": 0.182831773963512
+  },
+  {
+    "from": "whitefin dolphin",
+    "to": "baiji",
+    "sim": 0.2702104089828161
+  },
+  {
+    "from": "whitefish",
+    "to": "whiting",
+    "sim": 0.39336333198434
+  },
+  {
+    "from": "whitefish",
+    "to": "beluga",
+    "sim": 0.22437758311102046
+  },
+  {
+    "from": "whiteout",
+    "to": "correction fluid",
+    "sim": 0.1912241617412166
+  },
+  {
+    "from": "white whale",
+    "to": "beluga",
+    "sim": 0.3923834837269986
+  },
+  {
+    "from": "whiz",
+    "to": "urination",
+    "sim": 0.16048046955630815
+  },
+  {
+    "from": "whiz",
+    "to": "urinate",
+    "sim": 0.25091055462123885
+  },
+  {
+    "from": "whore",
+    "to": "pimp",
+    "sim": 0.2748336685352258
+  },
+  {
+    "from": "whoremaster",
+    "to": "pimp",
+    "sim": 0.2894701224529281
+  },
+  {
+    "from": "widdle",
+    "to": "urinate",
+    "sim": 0.21674280734521884
+  },
+  {
+    "from": "wild cat",
+    "to": "bobcat",
+    "sim": 0.40337317762876873
+  },
+  {
+    "from": "wildebeest",
+    "to": "gnu",
+    "sim": 0.24326846386983972
+  },
+  {
+    "from": "windflower",
+    "to": "wood anemone",
+    "sim": 0.2805865999111758
+  },
+  {
+    "from": "windhover",
+    "to": "common kestrel",
+    "sim": 0.17647137968951793
+  },
+  {
+    "from": "windle",
+    "to": "redwing",
+    "sim": 0.3109199424997821
+  },
+  {
+    "from": "windpipe",
+    "to": "anus",
+    "sim": 0.23525858862213891
+  },
+  {
+    "from": "windy",
+    "to": "fart",
+    "sim": 0.25886852739068306
+  },
+  {
+    "from": "wing",
+    "to": "throw",
+    "sim": 0.23799539987594442
+  },
+  {
+    "from": "win over",
+    "to": "persuade",
+    "sim": 0.29310220805681503
+  },
+  {
+    "from": "wire",
+    "to": "telegram",
+    "sim": 0.3349882178781557
+  },
+  {
+    "from": "wishable",
+    "to": "desirable",
+    "sim": 0.4067957732294097
+  },
+  {
+    "from": "without a doubt",
+    "to": "probably",
+    "sim": 0.3923135471716915
+  },
+  {
+    "from": "withspeak",
+    "to": "contradict",
+    "sim": 0.18752617642765537
+  },
+  {
+    "from": "wobbler",
+    "to": "tantrum",
+    "sim": 0.37027655853347025
+  },
+  {
+    "from": "wolfram",
+    "to": "tungsten",
+    "sim": 0.36454240756513784
+  },
+  {
+    "from": "womanhater",
+    "to": "misogynist",
+    "sim": 0.3971608616246941
+  },
+  {
+    "from": "woodie",
+    "to": "erection",
+    "sim": 0.27045803190059087
+  },
+  {
+    "from": "woolly hat",
+    "to": "beanie",
+    "sim": 0.23543397519546308
+  },
+  {
+    "from": "word",
+    "to": "proverb",
+    "sim": 0.18385546370721287
+  },
+  {
+    "from": "wordbook",
+    "to": "lexicon",
+    "sim": 0.39643730233788654
+  },
+  {
+    "from": "word for word",
+    "to": "verbatim",
+    "sim": 0.3468208967857909
+  },
+  {
+    "from": "wordster",
+    "to": "hypocrite",
+    "sim": 0.23720170254199832
+  },
+  {
+    "from": "word-stock",
+    "to": "vocabulary",
+    "sim": 0.3999754705316388
+  },
+  {
+    "from": "worksome",
+    "to": "industrious",
+    "sim": 0.27154606940502385
+  },
+  {
+    "from": "work up",
+    "to": "develop",
+    "sim": 0.3119947269029864
+  },
+  {
+    "from": "worry",
+    "to": "strangle",
+    "sim": 0.125345712882058
+  },
+  {
+    "from": "wramp",
+    "to": "sprain",
+    "sim": 0.3494353275795928
+  },
+  {
+    "from": "wrest",
+    "to": "seize",
+    "sim": 0.19028957662504428
+  },
+  {
+    "from": "wrest",
+    "to": "distort",
+    "sim": 0.1983515559762206
+  },
+  {
+    "from": "wretch",
+    "to": "exile",
+    "sim": 0.22719460095666003
+  },
+  {
+    "from": "wristlet",
+    "to": "handcuff",
+    "sim": 0.2889300886705449
+  },
+  {
+    "from": "WSC",
+    "to": "Mandarin",
+    "sim": 0.2092569180566689
+  },
+  {
+    "from": "wuderove",
+    "to": "sweet woodruff",
+    "sim": 0.3369869224611947
+  },
+  {
+    "from": "wunderkind",
+    "to": "child prodigy",
+    "sim": 0.20712513604471272
+  },
+  {
+    "from": "xenoglossy",
+    "to": "glossolalia",
+    "sim": 0.41823383715817464
+  },
+  {
+    "from": "xerostomia",
+    "to": "dry mouth",
+    "sim": 0.126135486614395
+  },
+  {
+    "from": "Xianggang",
+    "to": "Hong Kong",
+    "sim": 0.3981910525924798
+  },
+  {
+    "from": "xiphias",
+    "to": "swordfish",
+    "sim": 0.1896971032935319
+  },
+  {
+    "from": "Xizang",
+    "to": "Tibet",
+    "sim": 0.3340142577731172
+  },
+  {
+    "from": "xylograph",
+    "to": "woodcut",
+    "sim": 0.2246945696855113
+  },
+  {
+    "from": "xylograph",
+    "to": "woodcut",
+    "sim": 0.2246945696855113
+  },
+  {
+    "from": "xylography",
+    "to": "woodcut",
+    "sim": 0.15768914623040878
+  },
+  {
+    "from": "yaffingale",
+    "to": "green woodpecker",
+    "sim": 0.41501212649334196
+  },
+  {
+    "from": "yaffle",
+    "to": "green woodpecker",
+    "sim": 0.2892037693232108
+  },
+  {
+    "from": "yaffler",
+    "to": "green woodpecker",
+    "sim": 0.35224895540569595
+  },
+  {
+    "from": "Yahweh",
+    "to": "Jehovah",
+    "sim": 0.3916677774729404
+  },
+  {
+    "from": "yam",
+    "to": "potato",
+    "sim": 0.27057419065084115
+  },
+  {
+    "from": "yam",
+    "to": "sweet potato",
+    "sim": 0.34167776360988394
+  },
+  {
+    "from": "Yangtze River dolphin",
+    "to": "baiji",
+    "sim": 0.38209861271526574
+  },
+  {
+    "from": "Yard",
+    "to": "Jamaica",
+    "sim": 0.22962732200171956
+  },
+  {
+    "from": "Yehudit",
+    "to": "Judith",
+    "sim": 0.23827666756740243
+  },
+  {
+    "from": "yet",
+    "to": "even",
+    "sim": 0.40036011861070436
+  },
+  {
+    "from": "yin-yang",
+    "to": "vagina",
+    "sim": 0.21846007442267693
+  },
+  {
+    "from": "Yitzchak",
+    "to": "Isaac",
+    "sim": 0.2626772474968872
+  },
+  {
+    "from": "za",
+    "to": "pizza",
+    "sim": 0.27433744153698325
+  },
+  {
+    "from": "zonked",
+    "to": "drunk",
+    "sim": 0.23211410644861652
+  },
+  {
+    "from": "zubr",
+    "to": "wisent",
+    "sim": 0.23962380153743768
+  }
+]

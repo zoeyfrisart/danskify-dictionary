@@ -15,8 +15,11 @@
 // # Version :: 20200401
 // # Size :: 32332 English glosses; 34346 Danish translations
 // # URL :: http://en.wiktionary.org/wiki/User:Matthias_Buchmeier
-import data from './data.json';
-import type { IDictionaryEntry } from './types';
+import data from './data.json'
+import shuffledData from './data-shuffled.json'
+import type { IDictionaryEntry } from './types'
 
-export const dictionary = data as IDictionaryEntry[];
-export type { IDictionaryEntry };
+export const dictionary = data as IDictionaryEntry[]
+export const shuffledDictionary = shuffledData as IDictionaryEntry[]
+
+export { type IDictionaryEntry } from './types'
