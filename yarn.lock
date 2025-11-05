@@ -44,6 +44,7 @@ __metadata:
     "@typescript-eslint/parser": "npm:8.17.0"
     "@xenova/transformers": "npm:^2.17.2"
     cheerio: "npm:^1.1.2"
+    dotenv: "npm:^17.2.3"
     eslint: "npm:9.16.0"
     eslint-config-prettier: "npm:9.1.0"
     eslint-plugin-import-x: "npm:4.5.0"
@@ -54,6 +55,7 @@ __metadata:
     eslint-plugin-react-refresh: "npm:0.4.16"
     eslint-plugin-unicorn: "npm:56.0.1"
     globals: "npm:15.13.0"
+    openai: "npm:^6.8.1"
     prettier: "npm:3.4.2"
     prettier-eslint: "npm:16.3.0"
     ts-node: "npm:^10.9.2"
@@ -1700,6 +1702,13 @@ __metadata:
     domelementtype: "npm:^2.3.0"
     domhandler: "npm:^5.0.3"
   checksum: 10c0/47938f473b987ea71cd59e59626eb8666d3aa8feba5266e45527f3b636c7883cca7e582d901531961f742c519d7514636b7973353b648762b2e3bedbf235fada
+  languageName: node
+  linkType: hard
+
+"dotenv@npm:^17.2.3":
+  version: 17.2.3
+  resolution: "dotenv@npm:17.2.3"
+  checksum: 10c0/c884403209f713214a1b64d4d1defa4934c2aa5b0002f5a670ae298a51e3c3ad3ba79dfee2f8df49f01ae74290fcd9acdb1ab1d09c7bfb42b539036108bb2ba0
   languageName: node
   linkType: hard
 
@@ -3873,6 +3882,23 @@ __metadata:
     onnxruntime-common: "npm:~1.14.0"
     platform: "npm:^1.3.6"
   checksum: 10c0/f58a95d6d0dd0abc87a2beb2377926173ea189290009a15957e2bce14f42740382a59aaf596a8ab80f4d98e621dd336028389fb3a25a743c9c41d768761ca5b3
+  languageName: node
+  linkType: hard
+
+"openai@npm:^6.8.1":
+  version: 6.8.1
+  resolution: "openai@npm:6.8.1"
+  peerDependencies:
+    ws: ^8.18.0
+    zod: ^3.25 || ^4.0
+  peerDependenciesMeta:
+    ws:
+      optional: true
+    zod:
+      optional: true
+  bin:
+    openai: bin/cli
+  checksum: 10c0/84d663179db9f97b1ba921e7eafd870501b93e376f59fd035207edfa3bc6de97a1fd00a904f1f22bff72f19981781bb69a529f89a14e7c548150ae659dd2d100
   languageName: node
   linkType: hard
 

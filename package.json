@@ -1,6 +1,6 @@
 {
   "name": "@danskify/dictionary",
-  "version": "1.1.4",
+  "version": "2.0.0",
   "description": "A Danish dictionary data package with 20k entries",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,11 +10,12 @@
   ],
   "scripts": {
     "build": "rm -rf dist && tsc -p tsconfig.build.json && cp ./src/data-info.txt ./dist/data-info.txt",
-    "prepublishOnly": "yarn build",
+    "prepublishOnly": "cp ./data/data-clean.json ./src/data.json && yarn build",
     "generate": "ts-node ./scripts/parser.ts && yarn analyze:see-rejections",
     "generate:production": "VALIDATE_SEMANTICS=true yarn generate",
     "generate:validation": "ts-node ./scripts/generate-validation-sample.ts",
     "analyze:see-rejections": "ts-node ./scripts/analyze-see.ts",
+    "remove-offensive": "ts-node ./scripts/filter-offensive.ts",
     "validate:sample": "ts-node ./scripts/validate-sample.ts",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
@@ -42,6 +43,7 @@
     "@typescript-eslint/parser": "8.17.0",
     "@xenova/transformers": "^2.17.2",
     "cheerio": "^1.1.2",
+    "dotenv": "^17.2.3",
     "eslint": "9.16.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-import-x": "4.5.0",
@@ -52,6 +54,7 @@
     "eslint-plugin-react-refresh": "0.4.16",
     "eslint-plugin-unicorn": "56.0.1",
     "globals": "15.13.0",
+    "openai": "^6.8.1",
     "prettier": "3.4.2",
     "prettier-eslint": "16.3.0",
     "ts-node": "^10.9.2",

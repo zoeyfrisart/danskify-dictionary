@@ -1,0 +1,429 @@
+[
+  {
+    "engelsk": "as the crow flies",
+    "dansk": "i fugleflugt",
+    "form": "adverb",
+    "extraUsageContext": "in a straight line",
+    "wordCount": 4,
+    "toxicScore": 0.6066391468048096
+  },
+  {
+    "engelsk": "awesome",
+    "dansk": "grum",
+    "form": "adjective",
+    "extraUsageContext": "excellent, exciting",
+    "wordCount": 1,
+    "toxicScore": 0.6280573010444641
+  },
+  {
+    "engelsk": "backlog",
+    "dansk": "pukkel",
+    "form": "noun",
+    "extraUsageContext": "an accumulation or buildup",
+    "wordCount": 1,
+    "toxicScore": 0.637022078037262
+  },
+  {
+    "engelsk": "bassoon",
+    "dansk": "fagot",
+    "form": "noun",
+    "extraUsageContext": "musical instrument in the woodwind family",
+    "wordCount": 1,
+    "toxicScore": 0.5269438624382019
+  },
+  {
+    "engelsk": "bassoonist",
+    "dansk": "fagottist",
+    "form": "noun",
+    "extraUsageContext": "person who plays the bassoon",
+    "wordCount": 1,
+    "toxicScore": 0.554282009601593
+  },
+  {
+    "engelsk": "beautiful",
+    "dansk": "smuk",
+    "form": "adjective",
+    "extraUsageContext": "possessing charm and attractive",
+    "wordCount": 1,
+    "toxicScore": 0.6136609315872192
+  },
+  {
+    "engelsk": "blowfish",
+    "dansk": "kuglefisk",
+    "form": "noun",
+    "extraUsageContext": "any species of fish of the family Tetraodontidae that have the ability to inflate themselves to a globe",
+    "wordCount": 1,
+    "toxicScore": 0.5569058656692505
+  },
+  {
+    "engelsk": "built-in",
+    "dansk": "indbygget",
+    "form": "adjective",
+    "extraUsageContext": "constructed as a non-detachable part",
+    "wordCount": 1,
+    "toxicScore": 0.556624710559845
+  },
+  {
+    "engelsk": "bullfinch",
+    "dansk": "dompap",
+    "form": "noun",
+    "extraUsageContext": "Pyrrhula pyrrhula",
+    "wordCount": 1,
+    "toxicScore": 0.578442394733429
+  },
+  {
+    "engelsk": "cumin",
+    "dansk": "kommen",
+    "form": "noun",
+    "extraUsageContext": "plant Cuminum cyminum",
+    "wordCount": 1,
+    "toxicScore": 0.6092936396598816
+  },
+  {
+    "engelsk": "cumin",
+    "dansk": "spidskommen",
+    "form": "noun",
+    "extraUsageContext": "plant Cuminum cyminum",
+    "wordCount": 1,
+    "toxicScore": 0.49558353424072266
+  },
+  {
+    "engelsk": "cumin",
+    "dansk": "spidskommen",
+    "form": "noun",
+    "extraUsageContext": "its seed used as spice",
+    "wordCount": 1,
+    "toxicScore": 0.49558353424072266
+  },
+  {
+    "engelsk": "extinguish",
+    "dansk": "slukke",
+    "form": "verb",
+    "extraUsageContext": "to put out, as in fire; to end burning; to quench",
+    "wordCount": 1,
+    "toxicScore": 0.5689001679420471
+  },
+  {
+    "engelsk": "extinguish",
+    "dansk": "slukke",
+    "form": "verb",
+    "extraUsageContext": "to destroy or abolish something",
+    "wordCount": 1,
+    "toxicScore": 0.5689001679420471
+  },
+  {
+    "engelsk": "extinguish",
+    "dansk": "slukke",
+    "form": "verb",
+    "extraUsageContext": "to obscure or eclipse something",
+    "wordCount": 1,
+    "toxicScore": 0.5689001679420471
+  },
+  {
+    "engelsk": "factotum",
+    "dansk": "faktotum",
+    "form": "noun",
+    "extraUsageContext": "general servant",
+    "wordCount": 1,
+    "toxicScore": 0.6256675124168396
+  },
+  {
+    "engelsk": "fair",
+    "dansk": "smuk",
+    "form": "adjective",
+    "extraUsageContext": "pretty or attractive",
+    "wordCount": 1,
+    "toxicScore": 0.4654981195926666
+  },
+  {
+    "engelsk": "fax",
+    "dansk": "faxe",
+    "form": "verb",
+    "extraUsageContext": "send document",
+    "wordCount": 1,
+    "toxicScore": 0.454805463552475
+  },
+  {
+    "engelsk": "fortnight",
+    "dansk": "to uger",
+    "form": "noun",
+    "extraUsageContext": "period of two weeks",
+    "wordCount": 1,
+    "toxicScore": 0.5184900164604187
+  },
+  {
+    "engelsk": "garbage",
+    "dansk": "affald",
+    "form": "noun",
+    "extraUsageContext": "waste material",
+    "wordCount": 1,
+    "toxicScore": 0.491020530462265
+  },
+  {
+    "engelsk": "hairy",
+    "dansk": "lodden",
+    "form": "adjective",
+    "extraUsageContext": "of an animal",
+    "wordCount": 1,
+    "toxicScore": 0.5346816778182983
+  },
+  {
+    "engelsk": "hard",
+    "dansk": "hård",
+    "form": "adjective",
+    "extraUsageContext": "resistant to pressure",
+    "wordCount": 1,
+    "toxicScore": 0.4681341052055359
+  },
+  {
+    "engelsk": "how old are you",
+    "dansk": "hvor gammel er du?",
+    "form": "phrase",
+    "extraUsageContext": "what is your age in years",
+    "wordCount": 4,
+    "toxicScore": 0.5272960066795349
+  },
+  {
+    "engelsk": "humpback whale",
+    "dansk": "pukkelhval",
+    "form": "noun",
+    "extraUsageContext": "Megaptera novaeangliae",
+    "wordCount": 2,
+    "toxicScore": 0.48541170358657837
+  },
+  {
+    "engelsk": "keg",
+    "dansk": "fad",
+    "form": "noun",
+    "extraUsageContext": "round wooden container that has a flat top and bottom",
+    "wordCount": 1,
+    "toxicScore": 0.5303072929382324
+  },
+  {
+    "engelsk": "leveret",
+    "dansk": "killing",
+    "form": "noun",
+    "extraUsageContext": "a young hare",
+    "notes": [
+      "rare"
+    ],
+    "wordCount": 1,
+    "toxicScore": 0.49387940764427185
+  },
+  {
+    "engelsk": "look back",
+    "dansk": "kigge tilbage",
+    "form": "verb",
+    "extraUsageContext": "look behind oneself",
+    "wordCount": 2,
+    "toxicScore": 0.5517857670783997
+  },
+  {
+    "engelsk": "minor",
+    "dansk": "bifag",
+    "form": "noun",
+    "extraUsageContext": "subject of secondary concentration",
+    "wordCount": 1,
+    "toxicScore": 0.5054742693901062
+  },
+  {
+    "engelsk": "nugget",
+    "dansk": "klump",
+    "form": "noun",
+    "extraUsageContext": "small chunk or clump",
+    "wordCount": 1,
+    "toxicScore": 0.5170950889587402
+  },
+  {
+    "engelsk": "per capita",
+    "dansk": "per indbygger",
+    "form": "adjective",
+    "extraUsageContext": "per person",
+    "wordCount": 2,
+    "toxicScore": 0.5207377672195435
+  },
+  {
+    "engelsk": "plaster",
+    "dansk": "puds",
+    "form": "noun",
+    "extraUsageContext": "mixture for coating",
+    "wordCount": 1,
+    "toxicScore": 0.464396208524704
+  },
+  {
+    "engelsk": "profession",
+    "dansk": "fag",
+    "form": "noun",
+    "extraUsageContext": "occupation",
+    "wordCount": 1,
+    "toxicScore": 0.45863860845565796
+  },
+  {
+    "engelsk": "quench",
+    "dansk": "slukke",
+    "form": "verb",
+    "extraUsageContext": "to satisfy thirst",
+    "wordCount": 1,
+    "toxicScore": 0.7113692164421082
+  },
+  {
+    "engelsk": "quiver",
+    "dansk": "kogger",
+    "form": "noun",
+    "extraUsageContext": "arrow container",
+    "wordCount": 1,
+    "toxicScore": 0.4665822386741638
+  },
+  {
+    "engelsk": "recirculation",
+    "dansk": "recirkulation",
+    "form": "noun",
+    "extraUsageContext": "act or process of recirculating",
+    "wordCount": 1,
+    "toxicScore": 0.4839480221271515
+  },
+  {
+    "engelsk": "skim",
+    "dansk": "slå smut",
+    "form": "verb",
+    "extraUsageContext": "throw an object so it bounces on water",
+    "wordCount": 1,
+    "toxicScore": 0.7173370122909546
+  },
+  {
+    "engelsk": "slum",
+    "dansk": "slumkvarter",
+    "form": "noun",
+    "extraUsageContext": "dilapidated neighborhood",
+    "wordCount": 1,
+    "toxicScore": 0.5783045887947083
+  },
+  {
+    "engelsk": "slum",
+    "dansk": "slum",
+    "form": "noun",
+    "extraUsageContext": "dilapidated neighborhood",
+    "wordCount": 1,
+    "toxicScore": 0.8073728084564209
+  },
+  {
+    "engelsk": "sock puppet",
+    "dansk": "sokkedukke",
+    "form": "noun",
+    "extraUsageContext": "simple puppet made from a sock",
+    "wordCount": 2,
+    "toxicScore": 0.5246850848197937
+  },
+  {
+    "engelsk": "something",
+    "dansk": "noget",
+    "form": "pronoun",
+    "extraUsageContext": "unspecified object",
+    "wordCount": 1,
+    "toxicScore": 0.5074129700660706
+  },
+  {
+    "engelsk": "subject",
+    "dansk": "fag",
+    "form": "noun",
+    "extraUsageContext": "particular area of study",
+    "wordCount": 1,
+    "toxicScore": 0.473922461271286
+  },
+  {
+    "engelsk": "Taiwan Strait",
+    "dansk": "Fukienstrædet",
+    "form": "properNoun",
+    "extraUsageContext": "the channel of water between mainland China and Taiwan",
+    "wordCount": 2,
+    "toxicScore": 0.7914300560951233
+  },
+  {
+    "engelsk": "trash",
+    "dansk": "affald",
+    "form": "noun",
+    "extraUsageContext": "things to be discarded",
+    "wordCount": 1,
+    "toxicScore": 0.593573808670044
+  },
+  {
+    "engelsk": "trash",
+    "dansk": "affaldscontainer",
+    "form": "noun",
+    "extraUsageContext": "container",
+    "wordCount": 1,
+    "toxicScore": 0.5753211975097656
+  },
+  {
+    "engelsk": "trash",
+    "dansk": "skrammel",
+    "form": "noun",
+    "extraUsageContext": "something of poor quality",
+    "wordCount": 1,
+    "toxicScore": 0.5011202096939087
+  },
+  {
+    "engelsk": "try",
+    "dansk": "teste",
+    "form": "verb",
+    "extraUsageContext": "to put on trial",
+    "wordCount": 1,
+    "toxicScore": 0.5775665044784546
+  },
+  {
+    "engelsk": "ugli",
+    "dansk": "ugli",
+    "form": "noun",
+    "extraUsageContext": "cross between a tangerine and grapefruit",
+    "wordCount": 1,
+    "toxicScore": 0.6155994534492493
+  },
+  {
+    "engelsk": "well-built",
+    "dansk": "velbygget",
+    "form": "adjective",
+    "extraUsageContext": "well constructed",
+    "wordCount": 1,
+    "toxicScore": 0.4571951925754547
+  },
+  {
+    "engelsk": "win",
+    "dansk": "seger",
+    "form": "noun",
+    "extraUsageContext": "individual victory",
+    "wordCount": 1,
+    "toxicScore": 0.7771026492118835
+  },
+  {
+    "engelsk": "rubbish",
+    "dansk": "affald",
+    "form": "noun",
+    "extraUsageContext": "garbage",
+    "wordCount": 1,
+    "toxicScore": 0.4686628580093384
+  },
+  {
+    "engelsk": "sock",
+    "dansk": "sokkedukke",
+    "form": "noun",
+    "extraUsageContext": "sock puppet",
+    "wordCount": 1,
+    "toxicScore": 0.6881824135780334
+  },
+  {
+    "engelsk": "trash bag",
+    "dansk": "affaldspose",
+    "form": "noun",
+    "extraUsageContext": "plastic bag for the disposal of household waste",
+    "wordCount": 2,
+    "toxicScore": 0.5084858536720276
+  },
+  {
+    "engelsk": "what a shame",
+    "dansk": "det er synd",
+    "form": "phrase",
+    "extraUsageContext": "used to express regret",
+    "wordCount": 3,
+    "toxicScore": 0.5307794213294983
+  }
+]

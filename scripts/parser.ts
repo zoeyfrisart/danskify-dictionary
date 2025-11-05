@@ -1,5 +1,3 @@
-/* eslint-disable unicorn/prefer-math-trunc */
-/* eslint-disable no-param-reassign */
 /* eslint-disable unicorn/no-process-exit */
 /* eslint-disable @typescript-eslint/no-unnecessary-condition */
 import type { Tensor } from '@xenova/transformers'
@@ -14,8 +12,6 @@ const TXT_FILE = './en-da-enwiktionary.txt'
 const OUTPUT_FILE = './src/data.json'
 const OUTPUT_FILE_WITH_ORIGINALS = './validations/data-originals.json'
 const REJECTED_SEE_FILE = './validations/see-rejected.json'
-const SHUFFLED_OUTPUT_FILE = './src/data-shuffled.json'
-const SHUFFLE_SEED = 'danskify-v1'
 const VALIDATE_SEMANTICS = process.env.VALIDATE_SEMANTICS === 'true'
 
 export const SIM_THRESHOLD = 0.42
@@ -317,62 +313,6 @@ async function parseTxtFile(
   return [entries, entriesWithoutOriginalLines]
 }
 
-// xmur3/JSF-based deterministic PRNG
-function xmur3(string_: string) {
-  let h = 1_779_033_703 ^ string_.length
-
-  for (let index = 0; index < string_.length; index++) {
-    // eslint-disable-next-line unicorn/prefer-code-point
-    h = Math.imul(h ^ string_.charCodeAt(index), 3_432_918_353)
-    h = (h << 13) | (h >>> 19)
-  }
-
-  return function () {
-    h = Math.imul(h ^ (h >>> 16), 2_246_822_507)
-    h = Math.imul(h ^ (h >>> 13), 3_266_489_909)
-    return (h ^= h >>> 16) >>> 0
-  }
-}
-
-function sfc32(a: number, b: number, c: number, d: number) {
-  return function () {
-    a >>>= 0
-    b >>>= 0
-    c >>>= 0
-    d >>>= 0
-    let t = (a + b) | 0
-    a = b ^ (b >>> 9)
-    b = (c + (c << 3)) | 0
-    c = (c << 21) | (c >>> 11)
-    d = (d + 1) | 0
-    t = (t + d) | 0
-    c = (c + t) | 0
-    return (t >>> 0) / 4_294_967_296
-  }
-}
-
-/**
-
-* Deterministic shuffle using a hash-based PRNG
-  */
-function seededShuffle<T>(array: T[], seed: string): T[] {
-  const seedFunction = xmur3(seed)
-  const rand = sfc32(
-    seedFunction(),
-    seedFunction(),
-    seedFunction(),
-    seedFunction()
-  )
-  const array_ = [...array]
-
-  for (let index = array_.length - 1; index > 0; index--) {
-    const index_ = Math.floor(rand() * (index + 1))
-    ;[array_[index], array_[index_]] = [array_[index_], array_[index]]
-  }
-
-  return array_
-}
-
 /**
 
 * Parse all input sources and save output
@@ -408,15 +348,6 @@ async function parseAll(): Promise<void> {
     JSON.stringify(allEntriesWithOriginal, null, 2)
   )
   console.log(`💾 Saved output → ${OUTPUT_FILE_WITH_ORIGINALS}`)
-
-  console.log('Deterministically shuffling entries...')
-  const shuffled = seededShuffle(finalEntries, SHUFFLE_SEED)
-  await fs.writeFile(
-    SHUFFLED_OUTPUT_FILE,
-    JSON.stringify(shuffled, null, 2),
-    'utf8'
-  )
-  console.log(`💾 Saved output → ${SHUFFLED_OUTPUT_FILE}`)
 }
 
 // Run

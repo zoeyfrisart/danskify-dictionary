@@ -16,9 +16,48 @@ Processing steps include:
 - **Data cleaning**: removing malformed, duplicate, or incomplete entries.
 - **Quality filtering**: dropping low-confidence translations based on semantic similarity using `Xenova/distiluse-base-multilingual-cased-v2`.
 - **Category pruning**: excluding entries classified as _article_, _interjection_, _abbreviation_, _prefix_, _suffix_, and _proverb_.
+- **Toxicity screening**: run `Xenova/toxic-bert` locally to remove offensive or unsafe entries (slurs, profanity, explicit, or violent content).
+- **AI audit**: uses `gpt-5` with a strict whitelist prompt to double-check borderline entries.
 - **Normalization**: converting data from .txt to JSON, standardizing field names, and adding optional metadata (e.g., `wordCount`, `form`).
 
 As a result, this dataset represents a **curated derivative work** of the Wiktionary material, not an official subset or mirror.
+
+## Regenerating the dataset
+
+To rebuild the dataset from the original text source:
+
+1. Parse and normalize
+
+```bash
+yarn parse
+```
+
+This generates the `src/data.json` and `validations/data-originals.json` files.
+
+2. Run semantic validation
+
+```bash
+yarn generate:validation && yarn validate:sample
+```
+
+Filters by embedding similarity; logs average and flagged entries (this is an additional set of data validation for possible incorrect entries).
+
+3. Run toxicity filter
+
+```bash
+yarn clean
+```
+
+→ produces
+data/data-clean.json and data/data-removed.json logs counts and top 30 borderline removals. It will also generate a `data/data-review.json` file which contains words that were not removed but were close to being removed.
+
+It's good practice to review this file for entries that might need to be removed from the final output.
+
+Afterwards this command will proceed to automatically review the removed entries with `gpt-5`. We'd expect around 50 entries to be restored back from the `data-removed.json`. These will be output in `data-restored.json`, manually review these entries if they are indeed safe copy and paste them over to data-clean.
+
+When publishing to NPM it will automatically copy over the data-clean.json into the src folder.
+
+Publish via npm once validated.
 
 ## License and Provenance
 
