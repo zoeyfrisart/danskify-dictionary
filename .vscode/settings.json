@@ -40,5 +40,11 @@
     "**/.pnp.*": true
   },
   "typescript.tsdk": ".yarn/sdks/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#084a29",
+    "titleBar.inactiveBackground": "#2cfa93",
+    "titleBar.activeForeground": "#EDEDED",
+    "titleBar.inactiveForeground": "#EDEDEDCC",
+  }
 }

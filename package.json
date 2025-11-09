@@ -1,6 +1,6 @@
 {
   "name": "@danskify/dictionary",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A Danish dictionary data package with 20k entries",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,8 +15,9 @@
     "generate:production": "VALIDATE_SEMANTICS=true yarn generate",
     "generate:validation": "ts-node ./scripts/generate-validation-sample.ts",
     "analyze:see-rejections": "ts-node ./scripts/analyze-see.ts",
-    "remove-offensive": "ts-node ./scripts/filter-offensive.ts",
+    "clean": "ts-node ./scripts/filter-offensive.ts",
     "validate:sample": "ts-node ./scripts/validate-sample.ts",
+    "validate:structure": "ts-node ./scripts/validate-structure.ts",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },

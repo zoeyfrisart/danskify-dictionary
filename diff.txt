@@ -1,0 +1,3606 @@
+diff --git a/validations/data-originals.json b/validations/data-originals.json
+index 15f3caf..1f951be 100644
+--- a/validations/data-originals.json
++++ b/validations/data-originals.json
+@@ -697,9 +697,12 @@
+   },
+   {
+     "engelsk": "aboard",
+-    "dansk": "om bord (på)",
++    "dansk": "om bord",
+     "form": "preposition",
+     "extraUsageContext": "on board of",
++    "notes": [
++      "på"
++    ],
+     "wordCount": 1,
+     "originalLine": "aboard {prep} (on board of) :: om bord (på)"
+   },
+@@ -1442,9 +1445,12 @@
+   },
+   {
+     "engelsk": "abstain",
+-    "dansk": "afholde sig fra (at stemme)",
++    "dansk": "afholde sig fra",
+     "form": "verb",
+     "extraUsageContext": "refrain from voting",
++    "notes": [
++      "at stemme"
++    ],
+     "wordCount": 1,
+     "originalLine": "abstain {v} (refrain from voting) :: afholde sig fra (at stemme)"
+   },
+@@ -2881,17 +2887,23 @@
+   },
+   {
+     "engelsk": "acquiesce",
+-    "dansk": "finde sig (followed by i)",
++    "dansk": "finde sig",
+     "form": "verb",
+     "extraUsageContext": "concur upon conviction",
++    "notes": [
++      "followed by i"
++    ],
+     "wordCount": 1,
+     "originalLine": "acquiesce {v} (concur upon conviction) :: finde sig (followed by i), indvillige (i)"
+   },
+   {
+     "engelsk": "acquiesce",
+-    "dansk": "indvillige (i)",
++    "dansk": "indvillige",
+     "form": "verb",
+     "extraUsageContext": "concur upon conviction",
++    "notes": [
++      "i"
++    ],
+     "wordCount": 1,
+     "originalLine": "acquiesce {v} (concur upon conviction) :: finde sig (followed by i), indvillige (i)"
+   },
+@@ -3097,9 +3109,12 @@
+   },
+   {
+     "engelsk": "across",
+-    "dansk": "gennem (of time)",
++    "dansk": "gennem",
+     "form": "preposition",
+     "extraUsageContext": "bridging a gap",
++    "notes": [
++      "of time"
++    ],
+     "wordCount": 1,
+     "originalLine": "across {prep} (bridging a gap) :: gennem (of time)"
+   },
+@@ -3487,9 +3502,12 @@
+   },
+   {
+     "engelsk": "AD",
+-    "dansk": "e.Kr. (efter Kristus)",
++    "dansk": "e.Kr.",
+     "form": "adverb",
+     "extraUsageContext": "anno Domini",
++    "notes": [
++      "efter Kristus"
++    ],
+     "wordCount": 1,
+     "originalLine": "AD {adv} (anno Domini) :: e.Kr. (efter Kristus)"
+   },
+@@ -3679,9 +3697,12 @@
+   },
+   {
+     "engelsk": "additive",
+-    "dansk": "additiv (rare)",
++    "dansk": "additiv",
+     "form": "adjective",
+     "extraUsageContext": "which can be added",
++    "notes": [
++      "rare"
++    ],
+     "wordCount": 1,
+     "originalLine": "additive {adj} (which can be added) :: additiv (rare)"
+   },
+@@ -4347,12 +4368,7 @@
+     "extraUsageContext": "husband or wife who commits adultery",
+     "notes": [
+       "female",
+-      "male",
+-      "male",
+-      "female",
+-      "female",
+-      "female",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "adulterer {n} (husband or wife who commits adultery) :: ægteskabsbryder {c}, ægteskabsbryderske {c} [female], horkarl {c} [male], horekarl {c} [male], horkone {c} [female], horekone {f} [female], horkvinde {c} [female], horekvinde {c} [female]"
+@@ -4364,12 +4380,7 @@
+     "extraUsageContext": "husband or wife who commits adultery",
+     "notes": [
+       "female",
+-      "male",
+-      "male",
+-      "female",
+-      "female",
+-      "female",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "adulterer {n} (husband or wife who commits adultery) :: ægteskabsbryder {c}, ægteskabsbryderske {c} [female], horkarl {c} [male], horekarl {c} [male], horkone {c} [female], horekone {f} [female], horkvinde {c} [female], horekvinde {c} [female]"
+@@ -4381,12 +4392,7 @@
+     "extraUsageContext": "husband or wife who commits adultery",
+     "notes": [
+       "female",
+-      "male",
+-      "male",
+-      "female",
+-      "female",
+-      "female",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "adulterer {n} (husband or wife who commits adultery) :: ægteskabsbryder {c}, ægteskabsbryderske {c} [female], horkarl {c} [male], horekarl {c} [male], horkone {c} [female], horekone {f} [female], horkvinde {c} [female], horekvinde {c} [female]"
+@@ -4398,12 +4404,7 @@
+     "extraUsageContext": "husband or wife who commits adultery",
+     "notes": [
+       "female",
+-      "male",
+-      "male",
+-      "female",
+-      "female",
+-      "female",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "adulterer {n} (husband or wife who commits adultery) :: ægteskabsbryder {c}, ægteskabsbryderske {c} [female], horkarl {c} [male], horekarl {c} [male], horkone {c} [female], horekone {f} [female], horkvinde {c} [female], horekvinde {c} [female]"
+@@ -4415,12 +4416,7 @@
+     "extraUsageContext": "husband or wife who commits adultery",
+     "notes": [
+       "female",
+-      "male",
+-      "male",
+-      "female",
+-      "female",
+-      "female",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "adulterer {n} (husband or wife who commits adultery) :: ægteskabsbryder {c}, ægteskabsbryderske {c} [female], horkarl {c} [male], horekarl {c} [male], horkone {c} [female], horekone {f} [female], horkvinde {c} [female], horekvinde {c} [female]"
+@@ -4432,12 +4428,7 @@
+     "extraUsageContext": "husband or wife who commits adultery",
+     "notes": [
+       "female",
+-      "male",
+-      "male",
+-      "female",
+-      "female",
+-      "female",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "adulterer {n} (husband or wife who commits adultery) :: ægteskabsbryder {c}, ægteskabsbryderske {c} [female], horkarl {c} [male], horekarl {c} [male], horkone {c} [female], horekone {f} [female], horkvinde {c} [female], horekvinde {c} [female]"
+@@ -4449,12 +4440,7 @@
+     "extraUsageContext": "husband or wife who commits adultery",
+     "notes": [
+       "female",
+-      "male",
+-      "male",
+-      "female",
+-      "female",
+-      "female",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "adulterer {n} (husband or wife who commits adultery) :: ægteskabsbryder {c}, ægteskabsbryderske {c} [female], horkarl {c} [male], horekarl {c} [male], horkone {c} [female], horekone {f} [female], horkvinde {c} [female], horekvinde {c} [female]"
+@@ -4466,12 +4452,7 @@
+     "extraUsageContext": "husband or wife who commits adultery",
+     "notes": [
+       "female",
+-      "male",
+-      "male",
+-      "female",
+-      "female",
+-      "female",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "adulterer {n} (husband or wife who commits adultery) :: ægteskabsbryder {c}, ægteskabsbryderske {c} [female], horkarl {c} [male], horekarl {c} [male], horkone {c} [female], horekone {f} [female], horkvinde {c} [female], horekvinde {c} [female]"
+@@ -7486,9 +7467,12 @@
+   },
+   {
+     "engelsk": "a little bird told me",
+-    "dansk": "høre en lille fugl synge om (hear a little bird sing about)",
++    "dansk": "høre en lille fugl synge om",
+     "form": "phrase",
+     "extraUsageContext": "idiomatic",
++    "notes": [
++      "hear a little bird sing about"
++    ],
+     "wordCount": 5,
+     "originalLine": "a little bird told me {phrase} (idiomatic) :: høre en lille fugl synge om (hear a little bird sing about)"
+   },
+@@ -7790,10 +7774,6 @@
+     "form": "verb",
+     "extraUsageContext": "make less severe",
+     "notes": [
+-      "of pain",
+-      "of pain",
+-      "of pain",
+-      "of pain",
+       "of pain"
+     ],
+     "wordCount": 1,
+@@ -7805,10 +7785,6 @@
+     "form": "verb",
+     "extraUsageContext": "make less severe",
+     "notes": [
+-      "of pain",
+-      "of pain",
+-      "of pain",
+-      "of pain",
+       "of pain"
+     ],
+     "wordCount": 1,
+@@ -7820,10 +7796,6 @@
+     "form": "verb",
+     "extraUsageContext": "make less severe",
+     "notes": [
+-      "of pain",
+-      "of pain",
+-      "of pain",
+-      "of pain",
+       "of pain"
+     ],
+     "wordCount": 1,
+@@ -7831,15 +7803,12 @@
+   },
+   {
+     "engelsk": "alleviate",
+-    "dansk": "lette (make easier)",
++    "dansk": "lette",
+     "form": "verb",
+     "extraUsageContext": "make less severe",
+     "notes": [
+       "of pain",
+-      "of pain",
+-      "of pain",
+-      "of pain",
+-      "of pain"
++      "make easier"
+     ],
+     "wordCount": 1,
+     "originalLine": "alleviate {v} (make less severe) :: lindre [of pain], mildne [of pain], hjælpe på [of pain], lette (make easier), dulme [of pain], tage brodden af [of pain]"
+@@ -7850,10 +7819,6 @@
+     "form": "verb",
+     "extraUsageContext": "make less severe",
+     "notes": [
+-      "of pain",
+-      "of pain",
+-      "of pain",
+-      "of pain",
+       "of pain"
+     ],
+     "wordCount": 1,
+@@ -7865,10 +7830,6 @@
+     "form": "verb",
+     "extraUsageContext": "make less severe",
+     "notes": [
+-      "of pain",
+-      "of pain",
+-      "of pain",
+-      "of pain",
+       "of pain"
+     ],
+     "wordCount": 1,
+@@ -12502,25 +12463,34 @@
+   },
+   {
+     "engelsk": "anxious",
+-    "dansk": "ivrig (efter)",
++    "dansk": "ivrig",
+     "form": "adjective",
+     "extraUsageContext": "earnestly desirous",
++    "notes": [
++      "efter"
++    ],
+     "wordCount": 1,
+     "originalLine": "anxious {adj} (earnestly desirous) :: ivrig (efter), opsat (på), spændt (på)"
+   },
+   {
+     "engelsk": "anxious",
+-    "dansk": "opsat (på)",
++    "dansk": "opsat",
+     "form": "adjective",
+     "extraUsageContext": "earnestly desirous",
++    "notes": [
++      "på"
++    ],
+     "wordCount": 1,
+     "originalLine": "anxious {adj} (earnestly desirous) :: ivrig (efter), opsat (på), spændt (på)"
+   },
+   {
+     "engelsk": "anxious",
+-    "dansk": "spændt (på)",
++    "dansk": "spændt",
+     "form": "adjective",
+     "extraUsageContext": "earnestly desirous",
++    "notes": [
++      "på"
++    ],
+     "wordCount": 1,
+     "originalLine": "anxious {adj} (earnestly desirous) :: ivrig (efter), opsat (på), spændt (på)"
+   },
+@@ -15457,14 +15427,6 @@
+     "wordCount": 1,
+     "originalLine": "arrangement {n} (act of arranging) :: arrangement {n}"
+   },
+-  {
+-    "engelsk": "arrear",
+-    "dansk": "(udestående",
+-    "form": "noun",
+-    "extraUsageContext": "unpaid debt",
+-    "wordCount": 1,
+-    "originalLine": "arrear {n} (unpaid debt) :: (udestående, ubetalt) gæld {c}"
+-  },
+   {
+     "engelsk": "arrear",
+     "dansk": "ubetalt) gæld",
+@@ -22150,9 +22112,12 @@
+   },
+   {
+     "engelsk": "ball",
+-    "dansk": "(hard) kugle",
++    "dansk": "kugle",
+     "form": "noun",
+     "extraUsageContext": "object, generally spherical, used for playing games",
++    "notes": [
++      "hard"
++    ],
+     "wordCount": 1,
+     "originalLine": "ball {n} (object, generally spherical, used for playing games) :: bold {c}, (hard) kugle"
+   },
+@@ -26642,7 +26607,6 @@
+     "form": "noun",
+     "extraUsageContext": "person who begs",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -26654,7 +26618,6 @@
+     "form": "noun",
+     "extraUsageContext": "person who begs",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -26666,7 +26629,6 @@
+     "form": "noun",
+     "extraUsageContext": "person who begs",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -26678,7 +26640,6 @@
+     "form": "noun",
+     "extraUsageContext": "person who begs",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -27376,9 +27337,12 @@
+   },
+   {
+     "engelsk": "belong",
+-    "dansk": "henhøre (under)",
++    "dansk": "henhøre",
+     "form": "verb",
+     "extraUsageContext": "be the guardian, spouse or partner of",
++    "notes": [
++      "under"
++    ],
+     "wordCount": 1,
+     "originalLine": "belong {v} (be the guardian, spouse or partner of) :: henhøre (under)"
+   },
+@@ -28064,17 +28028,12 @@
+   },
+   {
+     "engelsk": "between",
+-    "dansk": "tilsammen (adverb)",
+-    "form": "preposition",
+-    "extraUsageContext": "combined by effort or ownership",
+-    "wordCount": 1,
+-    "originalLine": "between {prep} (combined by effort or ownership) :: tilsammen (adverb), ved fælles hjælp (by combined forces), i forening"
+-  },
+-  {
+-    "engelsk": "between",
+-    "dansk": "ved fælles hjælp (by combined forces)",
++    "dansk": "ved fælles hjælp",
+     "form": "preposition",
+     "extraUsageContext": "combined by effort or ownership",
++    "notes": [
++      "by combined forces"
++    ],
+     "wordCount": 1,
+     "originalLine": "between {prep} (combined by effort or ownership) :: tilsammen (adverb), ved fælles hjælp (by combined forces), i forening"
+   },
+@@ -28096,9 +28055,13 @@
+   },
+   {
+     "engelsk": "between a rock and a hard place",
+-    "dansk": "(valge) mellem pest og kolera ((choose) between plague and cholera)",
++    "dansk": "mellem pest og kolera between plague and cholera)",
+     "form": "preposition",
+     "extraUsageContext": "having the choice between two unpleasant options",
++    "notes": [
++      "valge",
++      "(choose"
++    ],
+     "wordCount": 7,
+     "originalLine": "between a rock and a hard place {prep} (having the choice between two unpleasant options) :: (valge) mellem pest og kolera ((choose) between plague and cholera)"
+   },
+@@ -29778,9 +29741,12 @@
+   },
+   {
+     "engelsk": "black",
+-    "dansk": "(den) sorte",
++    "dansk": "sorte",
+     "form": "noun",
+     "extraUsageContext": "billiards, snooker, pool: black ball",
++    "notes": [
++      "den"
++    ],
+     "wordCount": 1,
+     "originalLine": "black {n} (billiards, snooker, pool: black ball) :: (den) sorte {c}"
+   },
+@@ -33531,9 +33497,12 @@
+   },
+   {
+     "engelsk": "box",
+-    "dansk": "bokse (med)",
++    "dansk": "bokse",
+     "form": "verb",
+     "extraUsageContext": "to fight against (a person",
++    "notes": [
++      "med"
++    ],
+     "wordCount": 1,
+     "originalLine": "box {v} (to fight against (a person) in a boxing match) :: bokse (med)"
+   },
+@@ -33659,9 +33628,12 @@
+   },
+   {
+     "engelsk": "bra",
+-    "dansk": "(underwired bra) bøjle-bh",
++    "dansk": "bøjle-bh",
+     "form": "noun",
+     "extraUsageContext": "brassiere",
++    "notes": [
++      "underwired bra"
++    ],
+     "wordCount": 1,
+     "originalLine": "bra {n} (brassiere) :: brystholder, bh {c}, (underwired bra) bøjle-bh {c}"
+   },
+@@ -34899,7 +34871,6 @@
+     "form": "verb",
+     "extraUsageContext": "to sexually produce offspring",
+     "notes": [
+-      "humans",
+       "humans"
+     ],
+     "wordCount": 1,
+@@ -34911,7 +34882,6 @@
+     "form": "verb",
+     "extraUsageContext": "to sexually produce offspring",
+     "notes": [
+-      "humans",
+       "humans"
+     ],
+     "wordCount": 1,
+@@ -34923,7 +34893,6 @@
+     "form": "verb",
+     "extraUsageContext": "to sexually produce offspring",
+     "notes": [
+-      "humans",
+       "humans"
+     ],
+     "wordCount": 1,
+@@ -34995,17 +34964,23 @@
+   },
+   {
+     "engelsk": "breed",
+-    "dansk": "race  (of animals)",
++    "dansk": "race",
+     "form": "noun",
+     "extraUsageContext": "all animals or plants of the same species or subspecies",
++    "notes": [
++      "of animals"
++    ],
+     "wordCount": 1,
+     "originalLine": "breed {n} (all animals or plants of the same species or subspecies) :: race {c} (of animals), sort {c} (of plants)"
+   },
+   {
+     "engelsk": "breed",
+-    "dansk": "sort  (of plants)",
++    "dansk": "sort",
+     "form": "noun",
+     "extraUsageContext": "all animals or plants of the same species or subspecies",
++    "notes": [
++      "of plants"
++    ],
+     "wordCount": 1,
+     "originalLine": "breed {n} (all animals or plants of the same species or subspecies) :: race {c} (of animals), sort {c} (of plants)"
+   },
+@@ -35019,9 +34994,12 @@
+   },
+   {
+     "engelsk": "breed",
+-    "dansk": "sort  (of plants)",
++    "dansk": "sort",
+     "form": "noun",
+     "extraUsageContext": "race or lineage",
++    "notes": [
++      "of plants"
++    ],
+     "wordCount": 1,
+     "originalLine": "breed {n} (race or lineage) :: race {c}, sort {c} (of plants)"
+   },
+@@ -36712,9 +36690,12 @@
+   },
+   {
+     "engelsk": "buffalo",
+-    "dansk": "gå på jagt (gå på bøffeljagt)",
++    "dansk": "gå på jagt",
+     "form": "verb",
+     "extraUsageContext": "hunt buffalo",
++    "notes": [
++      "gå på bøffeljagt"
++    ],
+     "wordCount": 1,
+     "originalLine": "buffalo {v} (hunt buffalo) :: jage bøfler, gå på jagt (gå på bøffeljagt)"
+   },
+@@ -36816,9 +36797,12 @@
+   },
+   {
+     "engelsk": "building",
+-    "dansk": "opførelse  (af en bygning)",
++    "dansk": "opførelse",
+     "form": "noun",
+     "extraUsageContext": "act or process of building",
++    "notes": [
++      "af en bygning"
++    ],
+     "wordCount": 1,
+     "originalLine": "building {n} (act or process of building) :: byggeri {n}, opførelse {c} (af en bygning)"
+   },
+@@ -38928,7 +38912,6 @@
+     "form": "noun",
+     "extraUsageContext": "dining area",
+     "notes": [
+-      "meals can be purchased",
+       "meals can be purchased",
+       "schools",
+       "companies, no sale of food"
+@@ -38942,7 +38925,6 @@
+     "form": "noun",
+     "extraUsageContext": "dining area",
+     "notes": [
+-      "meals can be purchased",
+       "meals can be purchased",
+       "schools",
+       "companies, no sale of food"
+@@ -38956,7 +38938,6 @@
+     "form": "noun",
+     "extraUsageContext": "dining area",
+     "notes": [
+-      "meals can be purchased",
+       "meals can be purchased",
+       "schools",
+       "companies, no sale of food"
+@@ -38970,7 +38951,6 @@
+     "form": "noun",
+     "extraUsageContext": "dining area",
+     "notes": [
+-      "meals can be purchased",
+       "meals can be purchased",
+       "schools",
+       "companies, no sale of food"
+@@ -40271,9 +40251,12 @@
+   },
+   {
+     "engelsk": "cancel",
+-    "dansk": "stemple (cancelling stamps)",
++    "dansk": "stemple",
+     "form": "verb",
+     "extraUsageContext": "mark to prevent reuse",
++    "notes": [
++      "cancelling stamps"
++    ],
+     "wordCount": 1,
+     "originalLine": "cancel {v} (mark to prevent reuse) :: stemple (cancelling stamps)"
+   },
+@@ -42522,9 +42505,12 @@
+   },
+   {
+     "engelsk": "carry coals to Newcastle",
+-    "dansk": "give bagerbørn hvedebrød (give wheat bread to bakers' children)",
++    "dansk": "give bagerbørn hvedebrød",
+     "form": "verb",
+     "extraUsageContext": "do something unneeded or redundant",
++    "notes": [
++      "give wheat bread to bakers' children"
++    ],
+     "wordCount": 4,
+     "originalLine": "carry coals to Newcastle {v} (do something unneeded or redundant) :: give bagerbørn hvedebrød (give wheat bread to bakers' children)"
+   },
+@@ -45803,9 +45789,12 @@
+   },
+   {
+     "engelsk": "chance",
+-    "dansk": "støde på (ved en tilfældighed)",
++    "dansk": "støde på",
+     "form": "verb",
+     "extraUsageContext": "to discover by chance",
++    "notes": [
++      "ved en tilfældighed"
++    ],
+     "wordCount": 1,
+     "originalLine": "chance {v} (to discover by chance) :: støde på (ved en tilfældighed)"
+   },
+@@ -46639,9 +46628,12 @@
+   },
+   {
+     "engelsk": "chase",
+-    "dansk": "jagte (?)",
++    "dansk": "jagte",
+     "form": "verb",
+     "extraUsageContext": "to pursue, to follow at speed",
++    "notes": [
++      "?"
++    ],
+     "wordCount": 1,
+     "originalLine": "chase {v} (to pursue, to follow at speed) :: jagte (?)"
+   },
+@@ -47877,9 +47869,12 @@
+   },
+   {
+     "engelsk": "child neglect",
+-    "dansk": "omsorgssvigtede børn  (neglected children)",
++    "dansk": "omsorgssvigtede børn",
+     "form": "noun",
+     "extraUsageContext": "form of child abuse",
++    "notes": [
++      "neglected children"
++    ],
+     "wordCount": 2,
+     "originalLine": "child neglect {n} (form of child abuse) :: omsorgssvigt {c}, omsorgssvigtede børn {c} (neglected children)"
+   },
+@@ -50670,7 +50665,6 @@
+     "form": "noun",
+     "extraUsageContext": "content aimed at generating advertising revenue",
+     "notes": [
+-      "uncommon",
+       "uncommon"
+     ],
+     "wordCount": 1,
+@@ -50682,7 +50676,6 @@
+     "form": "noun",
+     "extraUsageContext": "content aimed at generating advertising revenue",
+     "notes": [
+-      "uncommon",
+       "uncommon"
+     ],
+     "wordCount": 1,
+@@ -50694,7 +50687,6 @@
+     "form": "noun",
+     "extraUsageContext": "content aimed at generating advertising revenue",
+     "notes": [
+-      "uncommon",
+       "uncommon"
+     ],
+     "wordCount": 1,
+@@ -50883,8 +50875,6 @@
+     "form": "verb",
+     "extraUsageContext": "to hit or bash severely",
+     "notes": [
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -50896,8 +50886,6 @@
+     "form": "verb",
+     "extraUsageContext": "to hit or bash severely",
+     "notes": [
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -50909,8 +50897,6 @@
+     "form": "verb",
+     "extraUsageContext": "to hit or bash severely",
+     "notes": [
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -50922,8 +50908,6 @@
+     "form": "verb",
+     "extraUsageContext": "to hit or bash severely",
+     "notes": [
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -51902,8 +51886,6 @@
+     "extraUsageContext": "hereditary design depicted on an escutcheon",
+     "notes": [
+       "the heraldic symbol shown without the shield",
+-      "the heraldic symbol shown without the shield",
+-      "when used by a sovereign state",
+       "when used by a sovereign state"
+     ],
+     "wordCount": 3,
+@@ -51916,8 +51898,6 @@
+     "extraUsageContext": "hereditary design depicted on an escutcheon",
+     "notes": [
+       "the heraldic symbol shown without the shield",
+-      "the heraldic symbol shown without the shield",
+-      "when used by a sovereign state",
+       "when used by a sovereign state"
+     ],
+     "wordCount": 3,
+@@ -51930,8 +51910,6 @@
+     "extraUsageContext": "hereditary design depicted on an escutcheon",
+     "notes": [
+       "the heraldic symbol shown without the shield",
+-      "the heraldic symbol shown without the shield",
+-      "when used by a sovereign state",
+       "when used by a sovereign state"
+     ],
+     "wordCount": 3,
+@@ -51944,8 +51922,6 @@
+     "extraUsageContext": "hereditary design depicted on an escutcheon",
+     "notes": [
+       "the heraldic symbol shown without the shield",
+-      "the heraldic symbol shown without the shield",
+-      "when used by a sovereign state",
+       "when used by a sovereign state"
+     ],
+     "wordCount": 3,
+@@ -51958,8 +51934,6 @@
+     "extraUsageContext": "hereditary design depicted on an escutcheon",
+     "notes": [
+       "the heraldic symbol shown without the shield",
+-      "the heraldic symbol shown without the shield",
+-      "when used by a sovereign state",
+       "when used by a sovereign state"
+     ],
+     "wordCount": 3,
+@@ -51972,8 +51946,6 @@
+     "extraUsageContext": "hereditary design depicted on an escutcheon",
+     "notes": [
+       "the heraldic symbol shown without the shield",
+-      "the heraldic symbol shown without the shield",
+-      "when used by a sovereign state",
+       "when used by a sovereign state"
+     ],
+     "wordCount": 3,
+@@ -53920,15 +53892,21 @@
+   },
+   {
+     "engelsk": "come hell or high water",
+-    "dansk": "med djævelens vold og magt (by the devil's violence and might)",
++    "dansk": "med djævelens vold og magt",
+     "form": "adverb",
++    "notes": [
++      "by the devil's violence and might"
++    ],
+     "wordCount": 5,
+     "originalLine": "come hell or high water {adv} :: med djævelens vold og magt (by the devil's violence and might), koste hvad det være (cost what it may)"
+   },
+   {
+     "engelsk": "come hell or high water",
+-    "dansk": "koste hvad det være (cost what it may)",
++    "dansk": "koste hvad det være",
+     "form": "adverb",
++    "notes": [
++      "cost what it may"
++    ],
+     "wordCount": 5,
+     "originalLine": "come hell or high water {adv} :: med djævelens vold og magt (by the devil's violence and might), koste hvad det være (cost what it may)"
+   },
+@@ -54139,7 +54117,6 @@
+     "form": "adjective",
+     "extraUsageContext": "of or pertaining to a count or earl",
+     "notes": [
+-      "count",
+       "count"
+     ],
+     "wordCount": 1,
+@@ -54151,7 +54128,6 @@
+     "form": "adjective",
+     "extraUsageContext": "of or pertaining to a count or earl",
+     "notes": [
+-      "count",
+       "count"
+     ],
+     "wordCount": 1,
+@@ -57789,14 +57765,6 @@
+     "wordCount": 1,
+     "originalLine": "control {v} (to exercise influence over; to suggest or dictate the behavior of) :: styre (Do not confuse with kontrollere, which means to check and/or to verify)"
+   },
+-  {
+-    "engelsk": "control",
+-    "dansk": "which means to check and/or to verify)",
+-    "form": "verb",
+-    "extraUsageContext": "to exercise influence over; to suggest or dictate the behavior of",
+-    "wordCount": 1,
+-    "originalLine": "control {v} (to exercise influence over; to suggest or dictate the behavior of) :: styre (Do not confuse with kontrollere, which means to check and/or to verify)"
+-  },
+   {
+     "engelsk": "control",
+     "dansk": "kontrol",
+@@ -58669,9 +58637,12 @@
+   },
+   {
+     "engelsk": "cormorant",
+-    "dansk": "(great cormorant) storskarv",
++    "dansk": "storskarv",
+     "form": "noun",
+     "extraUsageContext": "seabird",
++    "notes": [
++      "great cormorant"
++    ],
+     "wordCount": 1,
+     "originalLine": "cormorant {n} (seabird) :: skarv {c}, (great cormorant) storskarv {c}, ålekrage {c}"
+   },
+@@ -59711,9 +59682,12 @@
+   },
+   {
+     "engelsk": "count on",
+-    "dansk": "stole (på)",
++    "dansk": "stole",
+     "form": "verb",
+     "extraUsageContext": "rely upon, trust, or expect",
++    "notes": [
++      "på"
++    ],
+     "wordCount": 2,
+     "originalLine": "count on {v} (rely upon, trust, or expect) :: stole (på)"
+   },
+@@ -63193,7 +63167,6 @@
+     "form": "noun",
+     "extraUsageContext": "unpleasant or objectionable person",
+     "notes": [
+-      "female only",
+       "female only"
+     ],
+     "wordCount": 1,
+@@ -63205,7 +63178,6 @@
+     "form": "noun",
+     "extraUsageContext": "unpleasant or objectionable person",
+     "notes": [
+-      "female only",
+       "female only"
+     ],
+     "wordCount": 1,
+@@ -64274,9 +64246,12 @@
+   },
+   {
+     "engelsk": "cycle",
+-    "dansk": "(vaske)-program",
++    "dansk": "-program",
+     "form": "noun",
+     "extraUsageContext": "program on a washing machine",
++    "notes": [
++      "vaske"
++    ],
+     "wordCount": 1,
+     "originalLine": "cycle {n} (program on a washing machine) :: (vaske)-program"
+   },
+@@ -64298,17 +64273,23 @@
+   },
+   {
+     "engelsk": "cycle",
+-    "dansk": "tænde for/slå til (turn on)",
++    "dansk": "tænde for/slå til",
+     "form": "verb",
+     "extraUsageContext": "to turn power off and back on",
++    "notes": [
++      "turn on"
++    ],
+     "wordCount": 1,
+     "originalLine": "cycle {v} (to turn power off and back on) :: tænde for/slå til (turn on), slukke for/slå fra (turn off)"
+   },
+   {
+     "engelsk": "cycle",
+-    "dansk": "slukke for/slå fra (turn off)",
++    "dansk": "slukke for/slå fra",
+     "form": "verb",
+     "extraUsageContext": "to turn power off and back on",
++    "notes": [
++      "turn off"
++    ],
+     "wordCount": 1,
+     "originalLine": "cycle {v} (to turn power off and back on) :: tænde for/slå til (turn on), slukke for/slå fra (turn off)"
+   },
+@@ -70419,8 +70400,6 @@
+     "extraUsageContext": "subdivision of organization",
+     "notes": [
+       "government",
+-      "government",
+-      "university",
+       "university"
+     ],
+     "wordCount": 1,
+@@ -70433,8 +70412,6 @@
+     "extraUsageContext": "subdivision of organization",
+     "notes": [
+       "government",
+-      "government",
+-      "university",
+       "university"
+     ],
+     "wordCount": 1,
+@@ -70447,8 +70424,6 @@
+     "extraUsageContext": "subdivision of organization",
+     "notes": [
+       "government",
+-      "government",
+-      "university",
+       "university"
+     ],
+     "wordCount": 1,
+@@ -70461,8 +70436,6 @@
+     "extraUsageContext": "subdivision of organization",
+     "notes": [
+       "government",
+-      "government",
+-      "university",
+       "university"
+     ],
+     "wordCount": 1,
+@@ -72540,7 +72513,6 @@
+     "form": "adjective",
+     "extraUsageContext": "right",
+     "notes": [
+-      "heraldry",
+       "heraldry"
+     ],
+     "wordCount": 1,
+@@ -72552,7 +72524,6 @@
+     "form": "adjective",
+     "extraUsageContext": "right",
+     "notes": [
+-      "heraldry",
+       "heraldry"
+     ],
+     "wordCount": 1,
+@@ -72564,7 +72535,6 @@
+     "form": "adjective",
+     "extraUsageContext": "right",
+     "notes": [
+-      "heraldry",
+       "heraldry"
+     ],
+     "wordCount": 1,
+@@ -72576,7 +72546,6 @@
+     "form": "adjective",
+     "extraUsageContext": "right",
+     "notes": [
+-      "heraldry",
+       "heraldry"
+     ],
+     "wordCount": 1,
+@@ -73626,17 +73595,23 @@
+   },
+   {
+     "engelsk": "differ",
+-    "dansk": "være forskellig(e)",
++    "dansk": "være forskellig",
+     "form": "verb",
+     "extraUsageContext": "not to have the same characteristics",
++    "notes": [
++      "e"
++    ],
+     "wordCount": 1,
+     "originalLine": "differ {v} (not to have the same characteristics) :: være forskellig(e)"
+   },
+   {
+     "engelsk": "differ",
+-    "dansk": "være uenig(e)",
++    "dansk": "være uenig",
+     "form": "verb",
+     "extraUsageContext": "to have diverging opinions, disagree",
++    "notes": [
++      "e"
++    ],
+     "wordCount": 1,
+     "originalLine": "differ {v} (to have diverging opinions, disagree) :: være uenig(e)"
+   },
+@@ -74246,7 +74221,6 @@
+     "form": "noun",
+     "extraUsageContext": "process of making something dilute",
+     "notes": [
+-      "figuratively",
+       "figuratively"
+     ],
+     "wordCount": 1,
+@@ -74258,7 +74232,6 @@
+     "form": "noun",
+     "extraUsageContext": "process of making something dilute",
+     "notes": [
+-      "figuratively",
+       "figuratively"
+     ],
+     "wordCount": 1,
+@@ -74270,7 +74243,6 @@
+     "form": "noun",
+     "extraUsageContext": "process of making something dilute",
+     "notes": [
+-      "figuratively",
+       "figuratively"
+     ],
+     "wordCount": 1,
+@@ -74378,7 +74350,6 @@
+     "form": "noun",
+     "extraUsageContext": "room, in a home or hotel, where meals are eaten",
+     "notes": [
+-      "hotel",
+       "hotel",
+       "large, in a private home"
+     ],
+@@ -74391,7 +74362,6 @@
+     "form": "noun",
+     "extraUsageContext": "room, in a home or hotel, where meals are eaten",
+     "notes": [
+-      "hotel",
+       "hotel",
+       "large, in a private home"
+     ],
+@@ -74404,7 +74374,6 @@
+     "form": "noun",
+     "extraUsageContext": "room, in a home or hotel, where meals are eaten",
+     "notes": [
+-      "hotel",
+       "hotel",
+       "large, in a private home"
+     ],
+@@ -75313,7 +75282,6 @@
+     "extraUsageContext": "expression in (spoken or written",
+     "notes": [
+       "written",
+-      "oral",
+       "oral"
+     ],
+     "wordCount": 1,
+@@ -75326,7 +75294,6 @@
+     "extraUsageContext": "expression in (spoken or written",
+     "notes": [
+       "written",
+-      "oral",
+       "oral"
+     ],
+     "wordCount": 1,
+@@ -75339,7 +75306,6 @@
+     "extraUsageContext": "expression in (spoken or written",
+     "notes": [
+       "written",
+-      "oral",
+       "oral"
+     ],
+     "wordCount": 1,
+@@ -75352,7 +75318,6 @@
+     "extraUsageContext": "expression in (spoken or written",
+     "notes": [
+       "written",
+-      "oral",
+       "oral"
+     ],
+     "wordCount": 1,
+@@ -75364,7 +75329,6 @@
+     "form": "noun",
+     "extraUsageContext": "formal lengthy exposition of some subject",
+     "notes": [
+-      "oral",
+       "oral",
+       "written"
+     ],
+@@ -75377,7 +75341,6 @@
+     "form": "noun",
+     "extraUsageContext": "formal lengthy exposition of some subject",
+     "notes": [
+-      "oral",
+       "oral",
+       "written"
+     ],
+@@ -75390,7 +75353,6 @@
+     "form": "noun",
+     "extraUsageContext": "formal lengthy exposition of some subject",
+     "notes": [
+-      "oral",
+       "oral",
+       "written"
+     ],
+@@ -77617,9 +77579,12 @@
+   },
+   {
+     "engelsk": "do",
+-    "dansk": "gøre (som der bliver sagt)",
++    "dansk": "gøre",
+     "form": "verb",
+     "extraUsageContext": "behave",
++    "notes": [
++      "som der bliver sagt"
++    ],
+     "wordCount": 1,
+     "originalLine": "do {v} (behave) :: gøre (som der bliver sagt)"
+   },
+@@ -79362,11 +79327,12 @@
+   },
+   {
+     "engelsk": "doughnut",
+-    "dansk": "berliner  (with filling)",
++    "dansk": "berliner",
+     "form": "noun",
+     "extraUsageContext": "deep-fried piece of dough or batter",
+     "notes": [
+-      "rare"
++      "rare",
++      "with filling"
+     ],
+     "wordCount": 1,
+     "originalLine": "doughnut {n} (deep-fried piece of dough or batter) :: donut {c}, [rare] munkering, berliner {c} (with filling)"
+@@ -82850,9 +82816,12 @@
+   },
+   {
+     "engelsk": "dwarf",
+-    "dansk": "rage op over (with respect to height)",
++    "dansk": "rage op over",
+     "form": "verb",
+     "extraUsageContext": "to make appear much smaller",
++    "notes": [
++      "with respect to height"
++    ],
+     "wordCount": 1,
+     "originalLine": "dwarf {v} (to make appear much smaller) :: rage op over (with respect to height)"
+   },
+@@ -84023,9 +83992,12 @@
+   },
+   {
+     "engelsk": "eat",
+-    "dansk": "æde (used for animals and ill-mannered people)",
++    "dansk": "æde",
+     "form": "verb",
+     "extraUsageContext": "to ingest, see also: consume; ingest",
++    "notes": [
++      "used for animals and ill-mannered people"
++    ],
+     "wordCount": 1,
+     "originalLine": "eat {v} (to ingest, see also: consume; ingest) :: spise, æde (used for animals and ill-mannered people)"
+   },
+@@ -85904,11 +85876,12 @@
+   },
+   {
+     "engelsk": "Elector",
+-    "dansk": "kurfyrste  (kurfyrstinde  )",
++    "dansk": "kurfyrste",
+     "form": "noun",
+     "extraUsageContext": "elector or prince-elector",
+     "notes": [
+-      "Elector's wife"
++      "Elector's wife",
++      "kurfyrstinde"
+     ],
+     "wordCount": 1,
+     "originalLine": "Elector {n} (elector or prince-elector) :: kurfyrste {c} (kurfyrstinde {f} [Elector's wife])"
+@@ -97130,9 +97103,12 @@
+   },
+   {
+     "engelsk": "Falkland Islander",
+-    "dansk": "malviner  (according to political standpoint)",
++    "dansk": "malviner",
+     "form": "noun",
+     "extraUsageContext": "person from the Falkland Islands",
++    "notes": [
++      "according to political standpoint"
++    ],
+     "wordCount": 2,
+     "originalLine": "Falkland Islander {n} (person from the Falkland Islands) :: falklænder {c}, malviner {c} (according to political standpoint)"
+   },
+@@ -98761,22 +98737,24 @@
+   },
+   {
+     "engelsk": "fawn",
+-    "dansk": "(hjorte)kalv",
++    "dansk": "kalv",
+     "form": "noun",
+     "extraUsageContext": "young deer",
+     "notes": [
+-      "of a roe"
++      "of a roe",
++      "hjorte"
+     ],
+     "wordCount": 1,
+     "originalLine": "fawn {n} (young deer) :: (hjorte)kalv, [of a roe] (rå)lam"
+   },
+   {
+     "engelsk": "fawn",
+-    "dansk": "(rå)lam",
++    "dansk": "lam",
+     "form": "noun",
+     "extraUsageContext": "young deer",
+     "notes": [
+-      "of a roe"
++      "of a roe",
++      "rå"
+     ],
+     "wordCount": 1,
+     "originalLine": "fawn {n} (young deer) :: (hjorte)kalv, [of a roe] (rå)lam"
+@@ -99109,11 +99087,12 @@
+   },
+   {
+     "engelsk": "feceate",
+-    "dansk": "kaste fækalier (bookish)",
++    "dansk": "kaste fækalier",
+     "form": "verb",
+     "extraUsageContext": "to discharge feces from the digestive tract",
+     "notes": [
+-      "vulgar"
++      "vulgar",
++      "bookish"
+     ],
+     "wordCount": 1,
+     "originalLine": "feceate {v} (to discharge feces from the digestive tract) :: kaste fækalier (bookish); møge sig [vulgar]"
+@@ -99620,19 +99599,7 @@
+   },
+   {
+     "engelsk": "female",
+-    "dansk": "kvindelig  (1",
+-    "form": "adjective",
+-    "extraUsageContext": "belonging to the sex that typically produces eggs, or the gender typically associated with it",
+-    "notes": [
+-      "of plants and animals",
+-      "of humans"
+-    ],
+-    "wordCount": 1,
+-    "originalLine": "female {adj} (belonging to the sex that typically produces eggs, or the gender typically associated with it) :: hun- or hunlig [of plants and animals], kvindelig [of humans] (1,2 & 3)"
+-  },
+-  {
+-    "engelsk": "female",
+-    "dansk": "2 & 3)",
++    "dansk": "kvindelig (1",
+     "form": "adjective",
+     "extraUsageContext": "belonging to the sex that typically produces eggs, or the gender typically associated with it",
+     "notes": [
+@@ -101003,9 +100970,12 @@
+   },
+   {
+     "engelsk": "fiftieth",
+-    "dansk": "halvtredsindstyvende (abbreviation 50.)",
++    "dansk": "halvtredsindstyvende",
+     "form": "adjective",
+     "extraUsageContext": "the ordinal form of the number fifty",
++    "notes": [
++      "abbreviation 50."
++    ],
+     "wordCount": 1,
+     "originalLine": "fiftieth {adj} (the ordinal form of the number fifty) :: halvtredsindstyvende (abbreviation 50.)"
+   },
+@@ -103739,9 +103709,12 @@
+   },
+   {
+     "engelsk": "five",
+-    "dansk": "femmer  (also used for the Danish 5-krone coin)",
++    "dansk": "femmer",
+     "form": "noun",
+     "extraUsageContext": "banknote",
++    "notes": [
++      "also used for the Danish 5-krone coin"
++    ],
+     "wordCount": 1,
+     "originalLine": "five {n} (banknote) :: femmer {c} (also used for the Danish 5-krone coin)"
+   },
+@@ -103763,9 +103736,12 @@
+   },
+   {
+     "engelsk": "five-hundredth",
+-    "dansk": "fem hundrede (abbreviation: 500.)",
++    "dansk": "fem hundrede",
+     "form": "adjective",
+     "extraUsageContext": "the ordinal form of the number five hundred",
++    "notes": [
++      "abbreviation: 500."
++    ],
+     "wordCount": 1,
+     "originalLine": "five-hundredth {adj} (the ordinal form of the number five hundred) :: fem hundrede (abbreviation: 500.)"
+   },
+@@ -104209,9 +104185,12 @@
+   },
+   {
+     "engelsk": "Flanders",
+-    "dansk": "(grevskabet) Flandern",
++    "dansk": "Flandern",
+     "form": "properNoun",
+     "extraUsageContext": "historical county",
++    "notes": [
++      "grevskabet"
++    ],
+     "wordCount": 1,
+     "originalLine": "Flanders {prop} (historical county) :: (grevskabet) Flandern"
+   },
+@@ -104660,12 +104639,13 @@
+   },
+   {
+     "engelsk": "flatulence",
+-    "dansk": "fjært (old-fashioned)",
++    "dansk": "fjært",
+     "form": "noun",
+     "extraUsageContext": "state of having gas in digestive system",
+     "notes": [
+       "medical",
+-      "vulgar"
++      "vulgar",
++      "old-fashioned"
+     ],
+     "wordCount": 1,
+     "originalLine": "flatulence {n} (state of having gas in digestive system) :: fjært (old-fashioned); vind [medical]; fis [vulgar]"
+@@ -109605,7 +109585,6 @@
+     "form": "verb",
+     "extraUsageContext": "break",
+     "notes": [
+-      "transitive",
+       "transitive",
+       "intransitive"
+     ],
+@@ -109618,7 +109597,6 @@
+     "form": "verb",
+     "extraUsageContext": "break",
+     "notes": [
+-      "transitive",
+       "transitive",
+       "intransitive"
+     ],
+@@ -109631,7 +109609,6 @@
+     "form": "verb",
+     "extraUsageContext": "break",
+     "notes": [
+-      "transitive",
+       "transitive",
+       "intransitive"
+     ],
+@@ -109844,7 +109821,6 @@
+     "form": "adjective",
+     "extraUsageContext": "In a state of panic, worry, frenzy or rush",
+     "notes": [
+-      "person",
+       "person"
+     ],
+     "wordCount": 1,
+@@ -109856,7 +109832,6 @@
+     "form": "adjective",
+     "extraUsageContext": "In a state of panic, worry, frenzy or rush",
+     "notes": [
+-      "person",
+       "person"
+     ],
+     "wordCount": 1,
+@@ -109868,7 +109843,6 @@
+     "form": "adjective",
+     "extraUsageContext": "In a state of panic, worry, frenzy or rush",
+     "notes": [
+-      "person",
+       "person"
+     ],
+     "wordCount": 1,
+@@ -109880,7 +109854,6 @@
+     "form": "adjective",
+     "extraUsageContext": "In a state of panic, worry, frenzy or rush",
+     "notes": [
+-      "person",
+       "person"
+     ],
+     "wordCount": 1,
+@@ -110784,7 +110757,6 @@
+     "form": "noun",
+     "extraUsageContext": "person whose company one enjoys",
+     "notes": [
+-      "♀",
+       "♀"
+     ],
+     "wordCount": 1,
+@@ -110796,7 +110768,6 @@
+     "form": "noun",
+     "extraUsageContext": "person whose company one enjoys",
+     "notes": [
+-      "♀",
+       "♀"
+     ],
+     "wordCount": 1,
+@@ -110808,7 +110779,6 @@
+     "form": "noun",
+     "extraUsageContext": "person whose company one enjoys",
+     "notes": [
+-      "♀",
+       "♀"
+     ],
+     "wordCount": 1,
+@@ -110820,7 +110790,6 @@
+     "form": "noun",
+     "extraUsageContext": "person whose company one enjoys",
+     "notes": [
+-      "♀",
+       "♀"
+     ],
+     "wordCount": 1,
+@@ -111160,9 +111129,12 @@
+   },
+   {
+     "engelsk": "frog",
+-    "dansk": "frøæder  (frog eater)",
++    "dansk": "frøæder",
+     "form": "noun",
+     "extraUsageContext": "French person",
++    "notes": [
++      "frog eater"
++    ],
+     "wordCount": 1,
+     "originalLine": "frog {n} (French person) :: frøæder {c} (frog eater)"
+   },
+@@ -120164,7 +120136,7 @@
+   },
+   {
+     "engelsk": "Great Depression",
+-    "dansk": "depressionen i trediverne 30s].",
++    "dansk": "depressionen i trediverne 30s",
+     "form": "properNoun",
+     "extraUsageContext": "economic collapse",
+     "notes": [
+@@ -125694,9 +125666,12 @@
+   },
+   {
+     "engelsk": "heifer",
+-    "dansk": "kvie eller skældsord (fede ko) om en tyk kvinde",
++    "dansk": "kvie eller skældsord om en tyk kvinde",
+     "form": "noun",
+     "extraUsageContext": "young cow",
++    "notes": [
++      "fede ko"
++    ],
+     "wordCount": 1,
+     "originalLine": "heifer {n} (young cow) :: kvie eller skældsord (fede ko) om en tyk kvinde"
+   },
+@@ -127403,9 +127378,12 @@
+   },
+   {
+     "engelsk": "high school",
+-    "dansk": "gymnasium (ca.)",
++    "dansk": "gymnasium",
+     "form": "noun",
+     "extraUsageContext": "secondary school",
++    "notes": [
++      "ca."
++    ],
+     "wordCount": 2,
+     "originalLine": "high school {n} (secondary school) :: gymnasium (ca.)"
+   },
+@@ -130357,7 +130335,6 @@
+     "form": "noun",
+     "extraUsageContext": "one who angers easily or goes in search of arguments or fights",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -130369,7 +130346,6 @@
+     "form": "noun",
+     "extraUsageContext": "one who angers easily or goes in search of arguments or fights",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -130381,7 +130357,6 @@
+     "form": "noun",
+     "extraUsageContext": "one who angers easily or goes in search of arguments or fights",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -130393,7 +130368,6 @@
+     "form": "noun",
+     "extraUsageContext": "one who angers easily or goes in search of arguments or fights",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -134694,9 +134668,12 @@
+   },
+   {
+     "engelsk": "improve",
+-    "dansk": "forbedre (sig)",
++    "dansk": "forbedre",
+     "form": "verb",
+     "extraUsageContext": "to become better",
++    "notes": [
++      "sig"
++    ],
+     "wordCount": 1,
+     "originalLine": "improve {v} (to become better) :: forbedre (sig)"
+   },
+@@ -135133,9 +135110,12 @@
+   },
+   {
+     "engelsk": "incense",
+-    "dansk": "virak  (dated)",
++    "dansk": "virak",
+     "form": "noun",
+     "extraUsageContext": "A perfume often used in the rites of various religions",
++    "notes": [
++      "dated"
++    ],
+     "wordCount": 1,
+     "originalLine": "incense {n} (A perfume often used in the rites of various religions) :: røgelse {c}, virak {c} (dated)"
+   },
+@@ -137100,9 +137080,12 @@
+   },
+   {
+     "engelsk": "insertion",
+-    "dansk": "(of coins) indkast",
++    "dansk": "indkast",
+     "form": "noun",
+     "extraUsageContext": "act of inserting, or something inserted",
++    "notes": [
++      "of coins"
++    ],
+     "wordCount": 1,
+     "originalLine": "insertion {n} (act of inserting, or something inserted) :: (of coins) indkast {n}"
+   },
+@@ -139860,7 +139843,7 @@
+   },
+   {
+     "engelsk": "it",
+-    "dansk": "den  det",
++    "dansk": "den det",
+     "form": "pronoun",
+     "extraUsageContext": "subject — inanimate thing",
+     "wordCount": 1,
+@@ -140060,25 +140043,34 @@
+   },
+   {
+     "engelsk": "it's all Greek to me",
+-    "dansk": "rent volapyk (pure Volapük)",
++    "dansk": "rent volapyk",
+     "form": "phrase",
+     "extraUsageContext": "I don't understand any of this",
++    "notes": [
++      "pure Volapük"
++    ],
+     "wordCount": 5,
+     "originalLine": "it's all Greek to me {phrase} (I don't understand any of this) :: rent volapyk (pure Volapük), det er græsk for mig (it is Greek to me), en by i Rusland (a town in Russia)"
+   },
+   {
+     "engelsk": "it's all Greek to me",
+-    "dansk": "det er græsk for mig (it is Greek to me)",
++    "dansk": "det er græsk for mig",
+     "form": "phrase",
+     "extraUsageContext": "I don't understand any of this",
++    "notes": [
++      "it is Greek to me"
++    ],
+     "wordCount": 5,
+     "originalLine": "it's all Greek to me {phrase} (I don't understand any of this) :: rent volapyk (pure Volapük), det er græsk for mig (it is Greek to me), en by i Rusland (a town in Russia)"
+   },
+   {
+     "engelsk": "it's all Greek to me",
+-    "dansk": "en by i Rusland (a town in Russia)",
++    "dansk": "en by i Rusland",
+     "form": "phrase",
+     "extraUsageContext": "I don't understand any of this",
++    "notes": [
++      "a town in Russia"
++    ],
+     "wordCount": 5,
+     "originalLine": "it's all Greek to me {phrase} (I don't understand any of this) :: rent volapyk (pure Volapük), det er græsk for mig (it is Greek to me), en by i Rusland (a town in Russia)"
+   },
+@@ -141850,22 +141842,6 @@
+     "wordCount": 1,
+     "originalLine": "John {prop} (one of the epistles of John) :: Johannes, Johannesbrev, 1, 2, 3 Joh"
+   },
+-  {
+-    "engelsk": "John",
+-    "dansk": "1",
+-    "form": "properNoun",
+-    "extraUsageContext": "one of the epistles of John",
+-    "wordCount": 1,
+-    "originalLine": "John {prop} (one of the epistles of John) :: Johannes, Johannesbrev, 1, 2, 3 Joh"
+-  },
+-  {
+-    "engelsk": "John",
+-    "dansk": "2",
+-    "form": "properNoun",
+-    "extraUsageContext": "one of the epistles of John",
+-    "wordCount": 1,
+-    "originalLine": "John {prop} (one of the epistles of John) :: Johannes, Johannesbrev, 1, 2, 3 Joh"
+-  },
+   {
+     "engelsk": "John",
+     "dansk": "3 Joh",
+@@ -144901,9 +144877,12 @@
+   },
+   {
+     "engelsk": "kill two birds with one stone",
+-    "dansk": "slå to fluer med et smæk (to hit two flies with one slap)",
++    "dansk": "slå to fluer med et smæk",
+     "form": "verb",
+     "extraUsageContext": "solve two problems at once",
++    "notes": [
++      "to hit two flies with one slap"
++    ],
+     "wordCount": 6,
+     "originalLine": "kill two birds with one stone {v} (solve two problems at once) :: slå to fluer med et smæk (to hit two flies with one slap)"
+   },
+@@ -146147,9 +146126,12 @@
+   },
+   {
+     "engelsk": "knock on wood",
+-    "dansk": "banke under bordet (to knock under the table)",
++    "dansk": "banke under bordet",
+     "form": "verb",
+     "extraUsageContext": "to take a customary action to ward off misfortune",
++    "notes": [
++      "to knock under the table"
++    ],
+     "wordCount": 3,
+     "originalLine": "knock on wood {v} (to take a customary action to ward off misfortune) :: banke under bordet (to knock under the table)"
+   },
+@@ -149078,7 +149060,6 @@
+     "form": "noun",
+     "extraUsageContext": "dismissal of employees",
+     "notes": [
+-      "dismissal",
+       "dismissal",
+       "downsizing of multiple employees"
+     ],
+@@ -149091,7 +149072,6 @@
+     "form": "noun",
+     "extraUsageContext": "dismissal of employees",
+     "notes": [
+-      "dismissal",
+       "dismissal",
+       "downsizing of multiple employees"
+     ],
+@@ -149104,7 +149084,6 @@
+     "form": "noun",
+     "extraUsageContext": "dismissal of employees",
+     "notes": [
+-      "dismissal",
+       "dismissal",
+       "downsizing of multiple employees"
+     ],
+@@ -149865,7 +149844,6 @@
+     "form": "noun",
+     "extraUsageContext": "who creates or enacts laws",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -149877,7 +149855,6 @@
+     "form": "noun",
+     "extraUsageContext": "who creates or enacts laws",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -149889,7 +149866,6 @@
+     "form": "noun",
+     "extraUsageContext": "who creates or enacts laws",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -150065,9 +150041,12 @@
+   },
+   {
+     "engelsk": "lend",
+-    "dansk": "låne (ud)",
++    "dansk": "låne",
+     "form": "verb",
+     "extraUsageContext": "to allow to be used temporarily",
++    "notes": [
++      "ud"
++    ],
+     "wordCount": 1,
+     "originalLine": "lend {v} (to allow to be used temporarily) :: låne (ud)"
+   },
+@@ -151518,14 +151497,6 @@
+     "wordCount": 1,
+     "originalLine": "lift {v} (to raise or rise) :: løfte, hæve, ophæve (ban, embargo etc.)"
+   },
+-  {
+-    "engelsk": "lift",
+-    "dansk": "embargo etc.)",
+-    "form": "verb",
+-    "extraUsageContext": "to raise or rise",
+-    "wordCount": 1,
+-    "originalLine": "lift {v} (to raise or rise) :: løfte, hæve, ophæve (ban, embargo etc.)"
+-  },
+   {
+     "engelsk": "lift",
+     "dansk": "stjæle",
+@@ -154497,17 +154468,23 @@
+   },
+   {
+     "engelsk": "Lord",
+-    "dansk": "Herre  (Herren )",
++    "dansk": "Herre",
+     "form": "properNoun",
+     "extraUsageContext": "God",
++    "notes": [
++      "Herren"
++    ],
+     "wordCount": 1,
+     "originalLine": "Lord {prop} (God) :: Herre {c} (Herren {c})"
+   },
+   {
+     "engelsk": "Lord",
+-    "dansk": "Herre  (Herren )",
++    "dansk": "Herre",
+     "form": "properNoun",
+     "extraUsageContext": "Jesus",
++    "notes": [
++      "Herren"
++    ],
+     "wordCount": 1,
+     "originalLine": "Lord {prop} (Jesus) :: Herre {c} (Herren {c})"
+   },
+@@ -156925,9 +156902,12 @@
+   },
+   {
+     "engelsk": "make a mountain out of a molehill",
+-    "dansk": "gøre en myg til en elefant (to turn a mosquito into an elephant)",
++    "dansk": "gøre en myg til en elefant",
+     "form": "verb",
+     "extraUsageContext": "to treat a problem as greater than it is",
++    "notes": [
++      "to turn a mosquito into an elephant"
++    ],
+     "wordCount": 7,
+     "originalLine": "make a mountain out of a molehill {v} (to treat a problem as greater than it is) :: gøre en myg til en elefant (to turn a mosquito into an elephant)"
+   },
+@@ -157496,9 +157476,12 @@
+   },
+   {
+     "engelsk": "manacle",
+-    "dansk": "sætte håndjern på (nogen)",
++    "dansk": "sætte håndjern på",
+     "form": "verb",
+     "extraUsageContext": "to confine with manacles",
++    "notes": [
++      "nogen"
++    ],
+     "wordCount": 1,
+     "originalLine": "manacle {v} (to confine with manacles) :: sætte håndjern på (nogen)"
+   },
+@@ -158192,7 +158175,6 @@
+     "form": "noun",
+     "extraUsageContext": "tree of the Acer genus",
+     "notes": [
+-      "rare",
+       "rare"
+     ],
+     "wordCount": 1,
+@@ -158204,7 +158186,6 @@
+     "form": "noun",
+     "extraUsageContext": "tree of the Acer genus",
+     "notes": [
+-      "rare",
+       "rare"
+     ],
+     "wordCount": 1,
+@@ -158216,7 +158197,6 @@
+     "form": "noun",
+     "extraUsageContext": "tree of the Acer genus",
+     "notes": [
+-      "rare",
+       "rare"
+     ],
+     "wordCount": 1,
+@@ -158402,7 +158382,6 @@
+     "form": "noun",
+     "extraUsageContext": "border region",
+     "notes": [
+-      "Holy Roman Empire",
+       "Holy Roman Empire"
+     ],
+     "wordCount": 1,
+@@ -158414,7 +158393,6 @@
+     "form": "noun",
+     "extraUsageContext": "border region",
+     "notes": [
+-      "Holy Roman Empire",
+       "Holy Roman Empire"
+     ],
+     "wordCount": 1,
+@@ -158426,7 +158404,6 @@
+     "form": "noun",
+     "extraUsageContext": "border region",
+     "notes": [
+-      "Holy Roman Empire",
+       "Holy Roman Empire"
+     ],
+     "wordCount": 1,
+@@ -161466,9 +161443,6 @@
+     "form": "noun",
+     "extraUsageContext": "facility designed to treat persons with mental disorders",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -161480,9 +161454,6 @@
+     "form": "noun",
+     "extraUsageContext": "facility designed to treat persons with mental disorders",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -161494,9 +161465,6 @@
+     "form": "noun",
+     "extraUsageContext": "facility designed to treat persons with mental disorders",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -161508,9 +161476,6 @@
+     "form": "noun",
+     "extraUsageContext": "facility designed to treat persons with mental disorders",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -161522,9 +161487,6 @@
+     "form": "noun",
+     "extraUsageContext": "facility designed to treat persons with mental disorders",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -161536,9 +161498,6 @@
+     "form": "noun",
+     "extraUsageContext": "facility designed to treat persons with mental disorders",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -162201,9 +162160,12 @@
+   },
+   {
+     "engelsk": "metrical foot",
+-    "dansk": "versefod/versfod  (versefødder/versfødder )",
++    "dansk": "versefod/versfod",
+     "form": "noun",
+     "extraUsageContext": "basic unit of verse",
++    "notes": [
++      "versefødder/versfødder"
++    ],
+     "wordCount": 2,
+     "originalLine": "metrical foot {n} (basic unit of verse) :: versefod/versfod {c} (versefødder/versfødder {p})"
+   },
+@@ -163969,9 +163931,12 @@
+   },
+   {
+     "engelsk": "Miss",
+-    "dansk": "frøken (Frk.)",
++    "dansk": "frøken",
+     "form": "noun",
+     "extraUsageContext": "title",
++    "notes": [
++      "Frk."
++    ],
+     "wordCount": 1,
+     "originalLine": "Miss {n} (title) :: frøken (Frk.)"
+   },
+@@ -166834,9 +166799,12 @@
+   },
+   {
+     "engelsk": "move",
+-    "dansk": "trække (in chess)",
++    "dansk": "trække",
+     "form": "verb",
+     "extraUsageContext": "to change the place of a piece",
++    "notes": [
++      "in chess"
++    ],
+     "wordCount": 1,
+     "originalLine": "move {v} (to change the place of a piece) :: trække (in chess)"
+   },
+@@ -167441,24 +167409,26 @@
+   },
+   {
+     "engelsk": "multiplication table",
+-    "dansk": "lille tabel  (small table)",
++    "dansk": "lille tabel",
+     "form": "noun",
+     "extraUsageContext": "in arithmetic",
+     "notes": [
+       "table from 1x1 to 10x10",
+-      "table from 1x1 to 20x20"
++      "table from 1x1 to 20x20",
++      "small table"
+     ],
+     "wordCount": 2,
+     "originalLine": "multiplication table {n} (in arithmetic) :: multiplikationstabel {c}, gangetabel {c}, lille tabel {c} (small table) [table from 1x1 to 10x10], store tabel {c} (great table) [table from 1x1 to 20x20]"
+   },
+   {
+     "engelsk": "multiplication table",
+-    "dansk": "store tabel  (great table)",
++    "dansk": "store tabel",
+     "form": "noun",
+     "extraUsageContext": "in arithmetic",
+     "notes": [
+       "table from 1x1 to 10x10",
+-      "table from 1x1 to 20x20"
++      "table from 1x1 to 20x20",
++      "great table"
+     ],
+     "wordCount": 2,
+     "originalLine": "multiplication table {n} (in arithmetic) :: multiplikationstabel {c}, gangetabel {c}, lille tabel {c} (small table) [table from 1x1 to 10x10], store tabel {c} (great table) [table from 1x1 to 20x20]"
+@@ -169599,9 +169569,12 @@
+   },
+   {
+     "engelsk": "Neapolitan",
+-    "dansk": "regnbueis  (rainbow ice cream)",
++    "dansk": "regnbueis",
+     "form": "adjective",
+     "extraUsageContext": "ice cream",
++    "notes": [
++      "rainbow ice cream"
++    ],
+     "wordCount": 1,
+     "originalLine": "Neapolitan {adj} (ice cream) :: regnbueis {c} (rainbow ice cream)"
+   },
+@@ -170793,7 +170766,7 @@
+   },
+   {
+     "engelsk": "neuter",
+-    "dansk": "intetkøn  intetkønsord",
++    "dansk": "intetkøn intetkønsord",
+     "form": "noun",
+     "extraUsageContext": "grammar: noun of the neuter gender",
+     "wordCount": 1,
+@@ -172708,17 +172681,23 @@
+   },
+   {
+     "engelsk": "none of someone's business",
+-    "dansk": "det skal du ikke stikke næsen i (don't put your nose into that)",
++    "dansk": "det skal du ikke stikke næsen i",
+     "form": "noun",
+     "extraUsageContext": "matter that someone is not entitled to be involved in",
++    "notes": [
++      "don't put your nose into that"
++    ],
+     "wordCount": 4,
+     "originalLine": "none of someone's business {n} (matter that someone is not entitled to be involved in) :: det skal du ikke stikke næsen i (don't put your nose into that), det skal du ikke blande dig i (don't mix youself into that)"
+   },
+   {
+     "engelsk": "none of someone's business",
+-    "dansk": "det skal du ikke blande dig i (don't mix youself into that)",
++    "dansk": "det skal du ikke blande dig i",
+     "form": "noun",
+     "extraUsageContext": "matter that someone is not entitled to be involved in",
++    "notes": [
++      "don't mix youself into that"
++    ],
+     "wordCount": 4,
+     "originalLine": "none of someone's business {n} (matter that someone is not entitled to be involved in) :: det skal du ikke stikke næsen i (don't put your nose into that), det skal du ikke blande dig i (don't mix youself into that)"
+   },
+@@ -176840,9 +176819,12 @@
+   },
+   {
+     "engelsk": "once",
+-    "dansk": "så snart (som)",
++    "dansk": "så snart",
+     "form": "conjunction",
+     "extraUsageContext": "as soon as",
++    "notes": [
++      "som"
++    ],
+     "wordCount": 1,
+     "originalLine": "once {conj} (as soon as) :: så snart (som), bare, når først"
+   },
+@@ -180158,9 +180140,12 @@
+   },
+   {
+     "engelsk": "overspeak",
+-    "dansk": "tale over (sig)",
++    "dansk": "tale over",
+     "form": "verb",
+     "extraUsageContext": "say too much",
++    "notes": [
++      "sig"
++    ],
+     "wordCount": 1,
+     "originalLine": "overspeak {v} (say too much) :: tale over (sig)"
+   },
+@@ -180688,7 +180673,6 @@
+     "form": "noun",
+     "extraUsageContext": "young male attendant at a wedding ceremony",
+     "notes": [
+-      "in the service of the bride",
+       "in the service of the bride"
+     ],
+     "wordCount": 2,
+@@ -180700,7 +180684,6 @@
+     "form": "noun",
+     "extraUsageContext": "young male attendant at a wedding ceremony",
+     "notes": [
+-      "in the service of the bride",
+       "in the service of the bride"
+     ],
+     "wordCount": 2,
+@@ -182480,9 +182463,12 @@
+   },
+   {
+     "engelsk": "partner",
+-    "dansk": "slå sig sammen (become partners)",
++    "dansk": "slå sig sammen",
+     "form": "verb",
+     "extraUsageContext": "To make or be partner",
++    "notes": [
++      "become partners"
++    ],
+     "wordCount": 1,
+     "originalLine": "partner {v} (To make or be partner) :: slå sig sammen (become partners)"
+   },
+@@ -184397,8 +184383,6 @@
+     "notes": [
+       "clinical",
+       "slang, pejorative",
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -184411,8 +184395,6 @@
+     "notes": [
+       "clinical",
+       "slang, pejorative",
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -184425,8 +184407,6 @@
+     "notes": [
+       "clinical",
+       "slang, pejorative",
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -184439,8 +184419,6 @@
+     "notes": [
+       "clinical",
+       "slang, pejorative",
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -184453,8 +184431,6 @@
+     "notes": [
+       "clinical",
+       "slang, pejorative",
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -184467,8 +184443,6 @@
+     "notes": [
+       "clinical",
+       "slang, pejorative",
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -184481,8 +184455,6 @@
+     "notes": [
+       "clinical",
+       "slang, pejorative",
+-      "slang",
+-      "slang",
+       "slang"
+     ],
+     "wordCount": 1,
+@@ -190472,17 +190444,23 @@
+   },
+   {
+     "engelsk": "polish",
+-    "dansk": "pudse (make shiny)",
++    "dansk": "pudse",
+     "form": "verb",
+     "extraUsageContext": "make a surface smooth or shiny",
++    "notes": [
++      "make shiny"
++    ],
+     "wordCount": 1,
+     "originalLine": "polish {v} (make a surface smooth or shiny) :: polere, blanke, pudse (make shiny), glatte (make smooth)"
+   },
+   {
+     "engelsk": "polish",
+-    "dansk": "glatte (make smooth)",
++    "dansk": "glatte",
+     "form": "verb",
+     "extraUsageContext": "make a surface smooth or shiny",
++    "notes": [
++      "make smooth"
++    ],
+     "wordCount": 1,
+     "originalLine": "polish {v} (make a surface smooth or shiny) :: polere, blanke, pudse (make shiny), glatte (make smooth)"
+   },
+@@ -195270,9 +195248,12 @@
+   },
+   {
+     "engelsk": "property",
+-    "dansk": "egenskab  (property often used untranslated)",
++    "dansk": "egenskab",
+     "form": "noun",
+     "extraUsageContext": "computing: an editable parameter associated with an application, or its value",
++    "notes": [
++      "property often used untranslated"
++    ],
+     "wordCount": 1,
+     "originalLine": "property {n} (computing: an editable parameter associated with an application, or its value) :: egenskab {c} (property often used untranslated)"
+   },
+@@ -195337,8 +195318,7 @@
+     "extraUsageContext": "one who foretells the future",
+     "notes": [
+       "female",
+-      "male",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "prophet {n} (one who foretells the future) :: profet {c}, profetinde {c} [female], spåmand {c} [male], spåkvinde {c} [female]"
+@@ -195350,8 +195330,7 @@
+     "extraUsageContext": "one who foretells the future",
+     "notes": [
+       "female",
+-      "male",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "prophet {n} (one who foretells the future) :: profet {c}, profetinde {c} [female], spåmand {c} [male], spåkvinde {c} [female]"
+@@ -195363,8 +195342,7 @@
+     "extraUsageContext": "one who foretells the future",
+     "notes": [
+       "female",
+-      "male",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "prophet {n} (one who foretells the future) :: profet {c}, profetinde {c} [female], spåmand {c} [male], spåkvinde {c} [female]"
+@@ -195376,8 +195354,7 @@
+     "extraUsageContext": "one who foretells the future",
+     "notes": [
+       "female",
+-      "male",
+-      "female"
++      "male"
+     ],
+     "wordCount": 1,
+     "originalLine": "prophet {n} (one who foretells the future) :: profet {c}, profetinde {c} [female], spåmand {c} [male], spåkvinde {c} [female]"
+@@ -196788,7 +196765,6 @@
+     "extraUsageContext": "light, flaky pastry",
+     "notes": [
+       "cake",
+-      "the pastry dough as an ingredient",
+       "the pastry dough as an ingredient"
+     ],
+     "wordCount": 2,
+@@ -196801,7 +196777,6 @@
+     "extraUsageContext": "light, flaky pastry",
+     "notes": [
+       "cake",
+-      "the pastry dough as an ingredient",
+       "the pastry dough as an ingredient"
+     ],
+     "wordCount": 2,
+@@ -196814,7 +196789,6 @@
+     "extraUsageContext": "light, flaky pastry",
+     "notes": [
+       "cake",
+-      "the pastry dough as an ingredient",
+       "the pastry dough as an ingredient"
+     ],
+     "wordCount": 2,
+@@ -197522,9 +197496,12 @@
+   },
+   {
+     "engelsk": "put a foot wrong",
+-    "dansk": "træde i spinaten (step into the spinach)",
++    "dansk": "træde i spinaten",
+     "form": "verb",
+     "extraUsageContext": "make a mistake",
++    "notes": [
++      "step into the spinach"
++    ],
+     "wordCount": 4,
+     "originalLine": "put a foot wrong {v} (make a mistake) :: træde i spinaten (step into the spinach)"
+   },
+@@ -202910,17 +202887,6 @@
+     "wordCount": 1,
+     "originalLine": "reinterpretation {n} (the act of reinterpreting) :: omfortolkning {c}"
+   },
+-  {
+-    "engelsk": "reinvent the wheel",
+-    "dansk": "opfinde den dybe tallerken  bowl]",
+-    "form": "verb",
+-    "extraUsageContext": "do work unnecessarily",
+-    "notes": [
+-      "literally: invent the deep [soup"
+-    ],
+-    "wordCount": 3,
+-    "originalLine": "reinvent the wheel {v} (do work unnecessarily) :: opfinde den dybe tallerken [literally: invent the deep [soup] bowl]"
+-  },
+   {
+     "engelsk": "reject",
+     "dansk": "afvise",
+@@ -205325,7 +205291,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -205337,7 +205302,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -205349,7 +205313,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -205361,7 +205324,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -205373,7 +205335,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -206571,17 +206532,23 @@
+   },
+   {
+     "engelsk": "rim",
+-    "dansk": "indfatning (for any shape)",
++    "dansk": "indfatning",
+     "form": "noun",
+     "extraUsageContext": "edge around something",
++    "notes": [
++      "for any shape"
++    ],
+     "wordCount": 1,
+     "originalLine": "rim {n} (edge around something) :: rand, indfatning (for any shape), fælg (only for wheels)"
+   },
+   {
+     "engelsk": "rim",
+-    "dansk": "fælg (only for wheels)",
++    "dansk": "fælg",
+     "form": "noun",
+     "extraUsageContext": "edge around something",
++    "notes": [
++      "only for wheels"
++    ],
+     "wordCount": 1,
+     "originalLine": "rim {n} (edge around something) :: rand, indfatning (for any shape), fælg (only for wheels)"
+   },
+@@ -212896,7 +212863,6 @@
+     "form": "properNoun",
+     "extraUsageContext": "group of European countries",
+     "notes": [
+-      "definite form",
+       "definite form"
+     ],
+     "wordCount": 2,
+@@ -212908,7 +212874,6 @@
+     "form": "properNoun",
+     "extraUsageContext": "group of European countries",
+     "notes": [
+-      "definite form",
+       "definite form"
+     ],
+     "wordCount": 2,
+@@ -213331,9 +213296,12 @@
+   },
+   {
+     "engelsk": "sclerosis",
+-    "dansk": "sclerose  (informal)",
++    "dansk": "sclerose",
+     "form": "noun",
+     "extraUsageContext": "abnormal hardening of body tissues",
++    "notes": [
++      "informal"
++    ],
+     "wordCount": 1,
+     "originalLine": "sclerosis {n} (abnormal hardening of body tissues) :: sklerose {c}, sclerose {c} (informal)"
+   },
+@@ -214417,9 +214385,12 @@
+   },
+   {
+     "engelsk": "secede",
+-    "dansk": "løsrive (sig)",
++    "dansk": "løsrive",
+     "form": "verb",
+     "extraUsageContext": "To split from or to withdraw from membership of a political union, an alliance or an organisation",
++    "notes": [
++      "sig"
++    ],
+     "wordCount": 1,
+     "originalLine": "secede {v} (To split from or to withdraw from membership of a political union, an alliance or an organisation) :: løsrive (sig)"
+   },
+@@ -215482,8 +215453,6 @@
+     "form": "noun",
+     "extraUsageContext": "someone who sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -215495,8 +215464,6 @@
+     "form": "noun",
+     "extraUsageContext": "someone who sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -215508,8 +215475,6 @@
+     "form": "noun",
+     "extraUsageContext": "someone who sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -215521,8 +215486,6 @@
+     "form": "noun",
+     "extraUsageContext": "someone who sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -215534,8 +215497,6 @@
+     "form": "noun",
+     "extraUsageContext": "someone who sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -216486,9 +216447,12 @@
+   },
+   {
+     "engelsk": "set",
+-    "dansk": "præsentere (set the scene: lægge op til)",
++    "dansk": "præsentere",
+     "form": "verb",
+     "extraUsageContext": "to introduce",
++    "notes": [
++      "set the scene: lægge op til"
++    ],
+     "wordCount": 1,
+     "originalLine": "set {v} (to introduce) :: præsentere (set the scene: lægge op til)"
+   },
+@@ -218721,9 +218685,12 @@
+   },
+   {
+     "engelsk": "shit a brick",
+-    "dansk": "gå amok (walk amok)",
++    "dansk": "gå amok",
+     "form": "verb",
+     "extraUsageContext": "To react strongly in anger",
++    "notes": [
++      "walk amok"
++    ],
+     "wordCount": 3,
+     "originalLine": "shit a brick {v} (To react strongly in anger) :: gå amok (walk amok), flippe ud"
+   },
+@@ -218737,9 +218704,12 @@
+   },
+   {
+     "engelsk": "shit a brick",
+-    "dansk": "skide i bukserne (shit in the pants)",
++    "dansk": "skide i bukserne",
+     "form": "verb",
+     "extraUsageContext": "To react strongly in fear",
++    "notes": [
++      "shit in the pants"
++    ],
+     "wordCount": 3,
+     "originalLine": "shit a brick {v} (To react strongly in fear) :: skide i bukserne (shit in the pants)"
+   },
+@@ -219756,7 +219726,6 @@
+     "notes": [
+       "1",
+       "2",
+-      "2",
+       "3"
+     ],
+     "wordCount": 1,
+@@ -219769,7 +219738,6 @@
+     "notes": [
+       "1",
+       "2",
+-      "2",
+       "3"
+     ],
+     "wordCount": 1,
+@@ -219782,7 +219750,6 @@
+     "notes": [
+       "1",
+       "2",
+-      "2",
+       "3"
+     ],
+     "wordCount": 1,
+@@ -219795,7 +219762,6 @@
+     "notes": [
+       "1",
+       "2",
+-      "2",
+       "3"
+     ],
+     "wordCount": 1,
+@@ -220380,17 +220346,23 @@
+   },
+   {
+     "engelsk": "silencer",
+-    "dansk": "(firearms) lyddæmper",
++    "dansk": "lyddæmper",
+     "form": "noun",
+     "extraUsageContext": "attachment",
++    "notes": [
++      "firearms"
++    ],
+     "wordCount": 1,
+     "originalLine": "silencer {n} (attachment) :: (firearms) lyddæmper {c}, (vehicles) lydpotte {c}"
+   },
+   {
+     "engelsk": "silencer",
+-    "dansk": "(vehicles) lydpotte",
++    "dansk": "lydpotte",
+     "form": "noun",
+     "extraUsageContext": "attachment",
++    "notes": [
++      "vehicles"
++    ],
+     "wordCount": 1,
+     "originalLine": "silencer {n} (attachment) :: (firearms) lyddæmper {c}, (vehicles) lydpotte {c}"
+   },
+@@ -221138,9 +221110,12 @@
+   },
+   {
+     "engelsk": "sink",
+-    "dansk": "(kitchen sink) køkkenvask",
++    "dansk": "køkkenvask",
+     "form": "noun",
+     "extraUsageContext": "basin",
++    "notes": [
++      "kitchen sink"
++    ],
+     "wordCount": 1,
+     "originalLine": "sink {n} (basin) :: vask {c}, (kitchen sink) køkkenvask {c}"
+   },
+@@ -223653,15 +223628,7 @@
+   },
+   {
+     "engelsk": "snail",
+-    "dansk": "snegl  (this can also mean slug",
+-    "form": "noun",
+-    "extraUsageContext": "any animal of the class Gastropoda having a shell",
+-    "wordCount": 1,
+-    "originalLine": "snail {n} (any animal of the class Gastropoda having a shell) :: snegl {c} (this can also mean slug, so snail in Danish is more fully snegl med skal)"
+-  },
+-  {
+-    "engelsk": "snail",
+-    "dansk": "so snail in Danish is more fully snegl med skal)",
++    "dansk": "snegl (this can also mean slug",
+     "form": "noun",
+     "extraUsageContext": "any animal of the class Gastropoda having a shell",
+     "wordCount": 1,
+@@ -223811,7 +223778,7 @@
+   },
+   {
+     "engelsk": "sniper",
+-    "dansk": "skarpskytte   finskytte",
++    "dansk": "skarpskytte finskytte",
+     "form": "noun",
+     "extraUsageContext": "a person using long-range small arms for precise attacks from a concealed position",
+     "notes": [
+@@ -225905,9 +225872,12 @@
+   },
+   {
+     "engelsk": "sound",
+-    "dansk": "dykke (ned)",
++    "dansk": "dykke",
+     "form": "noun",
+     "extraUsageContext": "to dive downwards, of a whale",
++    "notes": [
++      "ned"
++    ],
+     "wordCount": 1,
+     "originalLine": "sound {n} (to dive downwards, of a whale) :: dykke (ned)"
+   },
+@@ -226880,7 +226850,6 @@
+     "form": "noun",
+     "extraUsageContext": "somebody from Spain",
+     "notes": [
+-      "archaic",
+       "archaic"
+     ],
+     "wordCount": 1,
+@@ -226892,7 +226861,6 @@
+     "form": "noun",
+     "extraUsageContext": "somebody from Spain",
+     "notes": [
+-      "archaic",
+       "archaic"
+     ],
+     "wordCount": 1,
+@@ -226904,7 +226872,6 @@
+     "form": "noun",
+     "extraUsageContext": "somebody from Spain",
+     "notes": [
+-      "archaic",
+       "archaic"
+     ],
+     "wordCount": 1,
+@@ -227216,9 +227183,12 @@
+   },
+   {
+     "engelsk": "speak of the devil",
+-    "dansk": "når man taler om solen (when you speak of the sun)",
++    "dansk": "når man taler om solen",
+     "form": "phrase",
+     "extraUsageContext": "expression used when a person mentioned in the current conversation happens to arrive",
++    "notes": [
++      "when you speak of the sun"
++    ],
+     "wordCount": 4,
+     "originalLine": "speak of the devil {phrase} (expression used when a person mentioned in the current conversation happens to arrive) :: når man taler om solen (when you speak of the sun)"
+   },
+@@ -230102,7 +230072,6 @@
+     "form": "noun",
+     "extraUsageContext": "a flag or ensign",
+     "notes": [
+-      "small cavalry flag",
+       "small cavalry flag",
+       "infantry flag"
+     ],
+@@ -230115,7 +230084,6 @@
+     "form": "noun",
+     "extraUsageContext": "a flag or ensign",
+     "notes": [
+-      "small cavalry flag",
+       "small cavalry flag",
+       "infantry flag"
+     ],
+@@ -230128,7 +230096,6 @@
+     "form": "noun",
+     "extraUsageContext": "a flag or ensign",
+     "notes": [
+-      "small cavalry flag",
+       "small cavalry flag",
+       "infantry flag"
+     ],
+@@ -230141,7 +230108,6 @@
+     "form": "noun",
+     "extraUsageContext": "person who carries flag or banner",
+     "notes": [
+-      "infantry",
+       "infantry"
+     ],
+     "wordCount": 1,
+@@ -230153,7 +230119,6 @@
+     "form": "noun",
+     "extraUsageContext": "person who carries flag or banner",
+     "notes": [
+-      "infantry",
+       "infantry"
+     ],
+     "wordCount": 1,
+@@ -231137,9 +231102,12 @@
+   },
+   {
+     "engelsk": "steep",
+-    "dansk": "trække (tea)",
++    "dansk": "trække",
+     "form": "verb",
+     "extraUsageContext": "to make tea/coffee",
++    "notes": [
++      "tea"
++    ],
+     "wordCount": 1,
+     "originalLine": "steep {v} (to make tea/coffee) :: trække (tea)"
+   },
+@@ -232089,9 +232057,12 @@
+   },
+   {
+     "engelsk": "stone",
+-    "dansk": "stok (døv)",
++    "dansk": "stok",
+     "form": "adverb",
+     "extraUsageContext": "absolutely, completely",
++    "notes": [
++      "døv"
++    ],
+     "wordCount": 1,
+     "originalLine": "stone {adv} (absolutely, completely) :: stok (døv), sten død"
+   },
+@@ -232396,7 +232367,6 @@
+     "form": "adjective",
+     "extraUsageContext": "not crooked or bent",
+     "notes": [
+-      "line",
+       "line"
+     ],
+     "wordCount": 1,
+@@ -232408,7 +232378,6 @@
+     "form": "adjective",
+     "extraUsageContext": "not crooked or bent",
+     "notes": [
+-      "line",
+       "line"
+     ],
+     "wordCount": 1,
+@@ -234195,7 +234164,6 @@
+     "form": "properNoun",
+     "extraUsageContext": "Ottoman imperial government",
+     "notes": [
+-      "definite form",
+       "definite form"
+     ],
+     "wordCount": 2,
+@@ -234207,7 +234175,6 @@
+     "form": "properNoun",
+     "extraUsageContext": "Ottoman imperial government",
+     "notes": [
+-      "definite form",
+       "definite form"
+     ],
+     "wordCount": 2,
+@@ -236662,8 +236629,11 @@
+   },
+   {
+     "engelsk": "swear like a trooper",
+-    "dansk": "bande som en tyrk (like a Turk)",
++    "dansk": "bande som en tyrk",
+     "form": "verb",
++    "notes": [
++      "like a Turk"
++    ],
+     "wordCount": 4,
+     "originalLine": "swear like a trooper {v} :: bande som en tyrk (like a Turk)"
+   },
+@@ -238912,9 +238882,12 @@
+   },
+   {
+     "engelsk": "Tallinn",
+-    "dansk": "Reval (old name)",
++    "dansk": "Reval",
+     "form": "properNoun",
+     "extraUsageContext": "Capital of Estonia",
++    "notes": [
++      "old name"
++    ],
+     "wordCount": 1,
+     "originalLine": "Tallinn {prop} (Capital of Estonia) :: Tallinn, Reval (old name)"
+   },
+@@ -243437,22 +243410,31 @@
+   },
+   {
+     "engelsk": "thick as a brick",
+-    "dansk": "dum som et bræt (\"dumb as a plank\")",
++    "dansk": "dum som et bræt",
+     "form": "adjective",
++    "notes": [
++      "\"dumb as a plank\""
++    ],
+     "wordCount": 4,
+     "originalLine": "thick as a brick {adj} :: dum som et bræt (\"dumb as a plank\"), dum som en skovl (\"dumb as a shovel\"), dum som en dør (\"dumb as a door\")"
+   },
+   {
+     "engelsk": "thick as a brick",
+-    "dansk": "dum som en skovl (\"dumb as a shovel\")",
++    "dansk": "dum som en skovl",
+     "form": "adjective",
++    "notes": [
++      "\"dumb as a shovel\""
++    ],
+     "wordCount": 4,
+     "originalLine": "thick as a brick {adj} :: dum som et bræt (\"dumb as a plank\"), dum som en skovl (\"dumb as a shovel\"), dum som en dør (\"dumb as a door\")"
+   },
+   {
+     "engelsk": "thick as a brick",
+-    "dansk": "dum som en dør (\"dumb as a door\")",
++    "dansk": "dum som en dør",
+     "form": "adjective",
++    "notes": [
++      "\"dumb as a door\""
++    ],
+     "wordCount": 4,
+     "originalLine": "thick as a brick {adj} :: dum som et bræt (\"dumb as a plank\"), dum som en skovl (\"dumb as a shovel\"), dum som en dør (\"dumb as a door\")"
+   },
+@@ -245075,9 +245057,12 @@
+   },
+   {
+     "engelsk": "tiddlywinks",
+-    "dansk": "loppespil(l)",
++    "dansk": "loppespil",
+     "form": "noun",
+     "extraUsageContext": "game in which the objective is to shoot winks into a cup",
++    "notes": [
++      "l"
++    ],
+     "wordCount": 1,
+     "originalLine": "tiddlywinks {n} (game in which the objective is to shoot winks into a cup) :: loppespil(l)"
+   },
+@@ -245936,17 +245921,23 @@
+   },
+   {
+     "engelsk": "tissue",
+-    "dansk": "(handkerchief) lommetørklæde",
++    "dansk": "lommetørklæde",
+     "form": "noun",
+     "extraUsageContext": "sheet of absorbent paper",
++    "notes": [
++      "handkerchief"
++    ],
+     "wordCount": 1,
+     "originalLine": "tissue {n} (sheet of absorbent paper) :: serviet, (handkerchief) lommetørklæde, (toilet paper) toiletpapir"
+   },
+   {
+     "engelsk": "tissue",
+-    "dansk": "(toilet paper) toiletpapir",
++    "dansk": "toiletpapir",
+     "form": "noun",
+     "extraUsageContext": "sheet of absorbent paper",
++    "notes": [
++      "toilet paper"
++    ],
+     "wordCount": 1,
+     "originalLine": "tissue {n} (sheet of absorbent paper) :: serviet, (handkerchief) lommetørklæde, (toilet paper) toiletpapir"
+   },
+@@ -247449,9 +247440,12 @@
+   },
+   {
+     "engelsk": "topsy-turvy",
+-    "dansk": "på hovedet (on the head)",
++    "dansk": "på hovedet",
+     "form": "adjective",
+     "extraUsageContext": "backwards or upside down",
++    "notes": [
++      "on the head"
++    ],
+     "wordCount": 1,
+     "originalLine": "topsy-turvy {adj} (backwards or upside down) :: på hovedet (on the head)"
+   },
+@@ -247877,7 +247871,6 @@
+     "extraUsageContext": "cloth used for wiping",
+     "notes": [
+       "of cloth",
+-      "of paper",
+       "of paper"
+     ],
+     "wordCount": 1,
+@@ -247890,7 +247883,6 @@
+     "extraUsageContext": "cloth used for wiping",
+     "notes": [
+       "of cloth",
+-      "of paper",
+       "of paper"
+     ],
+     "wordCount": 1,
+@@ -247903,7 +247895,6 @@
+     "extraUsageContext": "cloth used for wiping",
+     "notes": [
+       "of cloth",
+-      "of paper",
+       "of paper"
+     ],
+     "wordCount": 1,
+@@ -253763,9 +253754,12 @@
+   },
+   {
+     "engelsk": "unbeknown",
+-    "dansk": "uden ngns vidende (without sb's knowledge)",
++    "dansk": "uden ngns vidende",
+     "form": "adjective",
+     "extraUsageContext": "no beknown",
++    "notes": [
++      "without sb's knowledge"
++    ],
+     "wordCount": 1,
+     "originalLine": "unbeknown {adj} (no beknown) :: uden ngns vidende (without sb's knowledge)"
+   },
+@@ -255603,15 +255597,7 @@
+   },
+   {
+     "engelsk": "unit of alcohol",
+-    "dansk": "genstand  (12 g",
+-    "form": "noun",
+-    "extraUsageContext": "various units of alcohol content; possibly defined differently",
+-    "wordCount": 3,
+-    "originalLine": "unit of alcohol {n} (various units of alcohol content; possibly defined differently) :: genstand {c} (12 g, 15 mL)"
+-  },
+-  {
+-    "engelsk": "unit of alcohol",
+-    "dansk": "15 mL)",
++    "dansk": "genstand (12 g",
+     "form": "noun",
+     "extraUsageContext": "various units of alcohol content; possibly defined differently",
+     "wordCount": 3,
+@@ -259763,8 +259749,6 @@
+     "form": "noun",
+     "extraUsageContext": "a person or a company that vends or sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -259776,8 +259760,6 @@
+     "form": "noun",
+     "extraUsageContext": "a person or a company that vends or sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -259789,8 +259771,6 @@
+     "form": "noun",
+     "extraUsageContext": "a person or a company that vends or sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -259802,8 +259782,6 @@
+     "form": "noun",
+     "extraUsageContext": "a person or a company that vends or sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -259815,8 +259793,6 @@
+     "form": "noun",
+     "extraUsageContext": "a person or a company that vends or sells",
+     "notes": [
+-      "female",
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -260979,7 +260955,7 @@
+   },
+   {
+     "engelsk": "video game",
+-    "dansk": "konsolspil  . videospil",
++    "dansk": "konsolspil . videospil",
+     "form": "noun",
+     "extraUsageContext": "game controlled by software",
+     "notes": [
+@@ -261704,7 +261680,7 @@
+   },
+   {
+     "engelsk": "virus",
+-    "dansk": "virus  or",
++    "dansk": "virus or",
+     "form": "noun",
+     "extraUsageContext": "infectious organism",
+     "wordCount": 1,
+@@ -267357,9 +267333,12 @@
+   },
+   {
+     "engelsk": "whatever",
+-    "dansk": "(det er) ligegyldigt",
++    "dansk": "ligegyldigt",
+     "form": "pronoun",
+     "extraUsageContext": "anything",
++    "notes": [
++      "det er"
++    ],
+     "wordCount": 1,
+     "originalLine": "whatever {pron} (anything) :: hvad som helst, (det er) ligegyldigt"
+   },
+@@ -270385,9 +270364,12 @@
+   },
+   {
+     "engelsk": "wing",
+-    "dansk": "vinge  (aircraft wing) flyvinge",
++    "dansk": "vinge flyvinge",
+     "form": "noun",
+     "extraUsageContext": "part of an aircraft",
++    "notes": [
++      "aircraft wing"
++    ],
+     "wordCount": 1,
+     "originalLine": "wing {n} (part of an aircraft) :: vinge {c} (aircraft wing) flyvinge {c}"
+   },
+@@ -272172,7 +272154,7 @@
+   },
+   {
+     "engelsk": "world cup",
+-    "dansk": "verdensmesterskab  VM",
++    "dansk": "verdensmesterskab VM",
+     "form": "noun",
+     "extraUsageContext": "event; competition",
+     "wordCount": 2,
+@@ -273977,9 +273959,12 @@
+   },
+   {
+     "engelsk": "you",
+-    "dansk": "I  (not used in singular)",
++    "dansk": "I",
+     "form": "determiner",
+     "extraUsageContext": "the individual or group spoken/written to",
++    "notes": [
++      "not used in singular"
++    ],
+     "wordCount": 1,
+     "originalLine": "you {determiner} (the individual or group spoken/written to) :: I {p} (not used in singular)"
+   },
+@@ -275844,9 +275829,12 @@
+   },
+   {
+     "engelsk": "airfoil",
+-    "dansk": "vinge  (aircraft wing) flyvinge",
++    "dansk": "vinge flyvinge",
+     "form": "noun",
+     "extraUsageContext": "wing of an aircraft",
++    "notes": [
++      "aircraft wing"
++    ],
+     "wordCount": 1,
+     "originalLine": "airfoil {n} (wing of an aircraft) SEE: wing ::"
+   },
+@@ -278737,9 +278725,12 @@
+   },
+   {
+     "engelsk": "balls",
+-    "dansk": "(hard) kugle",
++    "dansk": "kugle",
+     "form": "noun",
+     "extraUsageContext": "follow the translations in the entry \"ball\"",
++    "notes": [
++      "hard"
++    ],
+     "wordCount": 1,
+     "originalLine": "balls {n} (follow the translations in the entry \"ball\") SEE: ball ::"
+   },
+@@ -284699,9 +284690,12 @@
+   },
+   {
+     "engelsk": "cross",
+-    "dansk": "gennem (of time)",
++    "dansk": "gennem",
+     "form": "preposition",
+     "extraUsageContext": "across",
++    "notes": [
++      "of time"
++    ],
+     "wordCount": 1,
+     "originalLine": "cross {prep} (across) SEE: across ::"
+   },
+@@ -286415,11 +286409,12 @@
+   },
+   {
+     "engelsk": "donut",
+-    "dansk": "berliner  (with filling)",
++    "dansk": "berliner",
+     "form": "noun",
+     "extraUsageContext": "deep-fried piece of dough",
+     "notes": [
+-      "rare"
++      "rare",
++      "with filling"
+     ],
+     "wordCount": 1,
+     "originalLine": "donut {n} (deep-fried piece of dough) SEE: doughnut ::"
+@@ -287346,11 +287341,12 @@
+   },
+   {
+     "engelsk": "elector",
+-    "dansk": "kurfyrste  (kurfyrstinde  )",
++    "dansk": "kurfyrste",
+     "form": "noun",
+     "extraUsageContext": "in the Holy Roman Empire, a participant in the election of the emperor",
+     "notes": [
+-      "Elector's wife"
++      "Elector's wife",
++      "kurfyrstinde"
+     ],
+     "wordCount": 1,
+     "originalLine": "elector {n} (in the Holy Roman Empire, a participant in the election of the emperor) SEE: Elector ::"
+@@ -287562,14 +287558,6 @@
+     "wordCount": 1,
+     "originalLine": "elevator {n} (permanent construction) SEE: lift ::"
+   },
+-  {
+-    "engelsk": "elevator",
+-    "dansk": "embargo etc.)",
+-    "form": "verb",
+-    "extraUsageContext": "permanent construction",
+-    "wordCount": 1,
+-    "originalLine": "elevator {n} (permanent construction) SEE: lift ::"
+-  },
+   {
+     "engelsk": "elevator",
+     "dansk": "stjæle",
+@@ -287644,9 +287632,12 @@
+   },
+   {
+     "engelsk": "elf",
+-    "dansk": "rage op over (with respect to height)",
++    "dansk": "rage op over",
+     "form": "verb",
+     "extraUsageContext": "very diminutive person",
++    "notes": [
++      "with respect to height"
++    ],
+     "wordCount": 1,
+     "originalLine": "elf {n} (very diminutive person) SEE: dwarf ::"
+   },
+@@ -290307,12 +290298,13 @@
+   },
+   {
+     "engelsk": "flatuency",
+-    "dansk": "fjært (old-fashioned)",
++    "dansk": "fjært",
+     "form": "noun",
+     "extraUsageContext": "flatulence",
+     "notes": [
+       "medical",
+-      "vulgar"
++      "vulgar",
++      "old-fashioned"
+     ],
+     "wordCount": 1,
+     "originalLine": "flatuency {n} (flatulence) SEE: flatulence ::"
+@@ -290647,9 +290639,12 @@
+   },
+   {
+     "engelsk": "foot",
+-    "dansk": "versefod/versfod  (versefødder/versfødder )",
++    "dansk": "versefod/versfod",
+     "form": "noun",
+     "extraUsageContext": "metrical foot",
++    "notes": [
++      "versefødder/versfødder"
++    ],
+     "wordCount": 1,
+     "originalLine": "foot {n} (metrical foot) SEE: metrical foot ::"
+   },
+@@ -295142,9 +295137,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -295156,9 +295148,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -295170,9 +295159,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -295184,9 +295170,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -295198,9 +295181,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -295212,9 +295192,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -296771,9 +296748,12 @@
+   },
+   {
+     "engelsk": "lavatory",
+-    "dansk": "(kitchen sink) køkkenvask",
++    "dansk": "køkkenvask",
+     "form": "noun",
+     "extraUsageContext": "sink",
++    "notes": [
++      "kitchen sink"
++    ],
+     "wordCount": 1,
+     "originalLine": "lavatory {n} (sink) SEE: sink ::"
+   },
+@@ -296783,7 +296763,6 @@
+     "form": "noun",
+     "extraUsageContext": "legislator",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -296795,7 +296774,6 @@
+     "form": "noun",
+     "extraUsageContext": "legislator",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -296807,7 +296785,6 @@
+     "form": "noun",
+     "extraUsageContext": "legislator",
+     "notes": [
+-      "female",
+       "female"
+     ],
+     "wordCount": 1,
+@@ -297997,9 +297974,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298011,9 +297985,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298025,9 +297996,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298039,9 +298007,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298053,9 +298018,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298067,9 +298029,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298929,9 +298888,6 @@
+     "form": "noun",
+     "extraUsageContext": "psychiatric hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298943,9 +298899,6 @@
+     "form": "noun",
+     "extraUsageContext": "psychiatric hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298957,9 +298910,6 @@
+     "form": "noun",
+     "extraUsageContext": "psychiatric hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298971,9 +298921,6 @@
+     "form": "noun",
+     "extraUsageContext": "psychiatric hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298985,9 +298932,6 @@
+     "form": "noun",
+     "extraUsageContext": "psychiatric hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -298999,9 +298943,6 @@
+     "form": "noun",
+     "extraUsageContext": "psychiatric hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -299657,9 +299598,12 @@
+   },
+   {
+     "engelsk": "miss",
+-    "dansk": "frøken (Frk.)",
++    "dansk": "frøken",
+     "form": "noun",
+     "extraUsageContext": "Miss",
++    "notes": [
++      "Frk."
++    ],
+     "wordCount": 1,
+     "originalLine": "miss {n} (Miss) SEE: Miss ::"
+   },
+@@ -301647,9 +301591,12 @@
+   },
+   {
+     "engelsk": "on board",
+-    "dansk": "om bord (på)",
++    "dansk": "om bord",
+     "form": "preposition",
+     "extraUsageContext": "aboard",
++    "notes": [
++      "på"
++    ],
+     "wordCount": 2,
+     "originalLine": "on board {adv} (aboard) SEE: aboard ::"
+   },
+@@ -302340,9 +302287,12 @@
+   },
+   {
+     "engelsk": "pair",
+-    "dansk": "præsentere (set the scene: lægge op til)",
++    "dansk": "præsentere",
+     "form": "verb",
+     "extraUsageContext": "number of things resembling one another, or belonging together",
++    "notes": [
++      "set the scene: lægge op til"
++    ],
+     "wordCount": 1,
+     "originalLine": "pair {n} (number of things resembling one another, or belonging together) SEE: set ::"
+   },
+@@ -305326,9 +305276,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -305340,9 +305287,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -305354,9 +305298,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -305368,9 +305309,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -305382,9 +305320,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -305396,9 +305331,6 @@
+     "form": "noun",
+     "extraUsageContext": "mental hospital",
+     "notes": [
+-      "obsolete",
+-      "obsolete",
+-      "obsolete",
+       "obsolete"
+     ],
+     "wordCount": 2,
+@@ -306328,14 +306260,6 @@
+     "wordCount": 1,
+     "originalLine": "regulate {v} (control) SEE: control ::"
+   },
+-  {
+-    "engelsk": "regulate",
+-    "dansk": "which means to check and/or to verify)",
+-    "form": "verb",
+-    "extraUsageContext": "control",
+-    "wordCount": 1,
+-    "originalLine": "regulate {v} (control) SEE: control ::"
+-  },
+   {
+     "engelsk": "regulate",
+     "dansk": "kontrol",
+@@ -306606,7 +306530,6 @@
+     "form": "verb",
+     "extraUsageContext": "to say in reply, to respond",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -306618,7 +306541,6 @@
+     "form": "verb",
+     "extraUsageContext": "to say in reply, to respond",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -306630,7 +306552,6 @@
+     "form": "verb",
+     "extraUsageContext": "to say in reply, to respond",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -306642,7 +306563,6 @@
+     "form": "verb",
+     "extraUsageContext": "to say in reply, to respond",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -306654,7 +306574,6 @@
+     "form": "verb",
+     "extraUsageContext": "to say in reply, to respond",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 1,
+@@ -311407,17 +311326,23 @@
+   },
+   {
+     "engelsk": "swear like a pagan",
+-    "dansk": "bande som en tyrk (like a Turk)",
++    "dansk": "bande som en tyrk",
+     "form": "verb",
+     "extraUsageContext": "swear very rudely",
++    "notes": [
++      "like a Turk"
++    ],
+     "wordCount": 4,
+     "originalLine": "swear like a pagan {v} (swear very rudely) SEE: swear like a trooper ::"
+   },
+   {
+     "engelsk": "swear like a sailor",
+-    "dansk": "bande som en tyrk (like a Turk)",
++    "dansk": "bande som en tyrk",
+     "form": "verb",
+     "extraUsageContext": "swear very rudely",
++    "notes": [
++      "like a Turk"
++    ],
+     "wordCount": 4,
+     "originalLine": "swear like a sailor {v} (swear very rudely) SEE: swear like a trooper ::"
+   },
+@@ -313326,9 +313251,12 @@
+   },
+   {
+     "engelsk": "touch wood",
+-    "dansk": "banke under bordet (to knock under the table)",
++    "dansk": "banke under bordet",
+     "form": "verb",
+     "extraUsageContext": "to make contact with wood or another material to avert bad luck",
++    "notes": [
++      "to knock under the table"
++    ],
+     "wordCount": 2,
+     "originalLine": "touch wood {v} (to make contact with wood or another material to avert bad luck) SEE: knock on wood ::"
+   },
+@@ -313842,7 +313770,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 2,
+@@ -313854,7 +313781,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 2,
+@@ -313866,7 +313792,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 2,
+@@ -313878,7 +313803,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 2,
+@@ -313890,7 +313814,6 @@
+     "form": "verb",
+     "extraUsageContext": "to turn back, retreat",
+     "notes": [
+-      "military",
+       "military"
+     ],
+     "wordCount": 2,

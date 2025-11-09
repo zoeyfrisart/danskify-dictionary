@@ -3101,7 +3101,6 @@ beauty queen {n} (winner of a beauty contest) :: skønhedsdronning {c}
 beauty salon {n} (beauty salon) SEE: beauty parlor ::
 beauty spot {n} (birthmark) SEE: mole ::
 beaver {n} (semiaquatic rodent) :: bæver
-beaver {n} (coarse slang: pubic hair/vulva of a woman) :: mis {c}
 be awake {v} (awake) SEE: awake ::
 be awake {v} (wake up) SEE: wake up ::
 be born {v} (to come into existence through birth) :: blive født
@@ -5166,7 +5165,6 @@ cast the first stone {v} (act self-righteously) :: kaste den første sten
 casual {adj} (informal, relaxed) :: afslappet
 casualty {n} (person) :: tilskadekommet {c}, offer {n}; skadestue {c}, traumecenter {n}
 cat {v} (raise anchor to cathead) :: katte
-cat {v} (vomit) :: brække sig
 cat {n} (spiteful woman) SEE: bitch ::
 cat {n} (type of fish) SEE: catfish ::
 cat {n} (cat-o'-nine-tails) SEE: cat-o'-nine-tails ::
@@ -23172,14 +23170,9 @@ quay {n} (structure for loading and unloading vessels) :: kaj {c}
 Quechua {prop} (language) :: quechua
 queen {n} (female monarch) :: dronning {c}
 queen {n} (wife of a king) :: dronning {c}
-queen {n} (chess piece) :: dronning {c}, dame {c}
-queen {n} (playing card) :: dame {c}
+queen {n} (chess piece) :: dronning {c}
 queen {n} (powerful or forceful female person) :: dronning {c}
-queen {n} (slang: male homosexual) :: bøsse {c}
 queen {n} (reproductive female animal in a hive) :: dronning {c}
-queen {n} (adult female cat) :: hunkat {c}
-queen {v} (to make a queen) :: gøre til dronning, udnævne til dronning, krone
-queen {v} (chess: to convert a pawn into a queen) :: gøre til dronning
 queen mother {n} (widowed queen consort whose son or daughter from that marriage is the reigning monarch) :: dronningemoder {c}
 Queensland {prop} (Australian state) :: Queensland
 queer {n} (slang: homosexual) SEE: fag ::

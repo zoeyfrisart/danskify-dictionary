@@ -1,19 +1,11 @@
 [
   {
-    "engelsk": "Adolph",
-    "dansk": "Adolf",
-    "form": "properNoun",
-    "extraUsageContext": "male given name",
-    "wordCount": 1,
-    "toxicScore": 0.4597589671611786
-  },
-  {
     "engelsk": "AIDS",
     "dansk": "aids",
     "form": "noun",
     "extraUsageContext": "acquired immune deficiency syndrome",
     "wordCount": 1,
-    "toxicScore": 0.6482944488525391
+    "toxicScore": 0.5927028059959412
   },
   {
     "engelsk": "anal sex",
@@ -21,7 +13,7 @@
     "form": "noun",
     "extraUsageContext": "sex involving the anus",
     "wordCount": 2,
-    "toxicScore": 0.9355013370513916
+    "toxicScore": 0.9509015083312988
   },
   {
     "engelsk": "anal sex",
@@ -29,7 +21,7 @@
     "form": "noun",
     "extraUsageContext": "sex involving the anus",
     "wordCount": 2,
-    "toxicScore": 0.9171627163887024
+    "toxicScore": 0.9247430562973022
   },
   {
     "engelsk": "anus",
@@ -37,7 +29,7 @@
     "form": "noun",
     "extraUsageContext": "lower opening of the digestive tract",
     "wordCount": 1,
-    "toxicScore": 0.5840193033218384
+    "toxicScore": 0.5934440493583679
   },
   {
     "engelsk": "anus",
@@ -45,7 +37,7 @@
     "form": "noun",
     "extraUsageContext": "lower opening of the digestive tract",
     "wordCount": 1,
-    "toxicScore": 0.7984493970870972
+    "toxicScore": 0.8368281126022339
   },
   {
     "engelsk": "arrogant",
@@ -53,7 +45,7 @@
     "form": "adjective",
     "extraUsageContext": "having excessive pride",
     "wordCount": 1,
-    "toxicScore": 0.5828498005867004
+    "toxicScore": 0.6186208724975586
   },
   {
     "engelsk": "as hell",
@@ -61,7 +53,7 @@
     "form": "adverb",
     "extraUsageContext": "very",
     "wordCount": 2,
-    "toxicScore": 0.786176860332489
+    "toxicScore": 0.7765243053436279
   },
   {
     "engelsk": "ass",
@@ -69,7 +61,7 @@
     "form": "noun",
     "extraUsageContext": "animal, see also: donkey",
     "wordCount": 1,
-    "toxicScore": 0.8535729050636292
+    "toxicScore": 0.8474813103675842
   },
   {
     "engelsk": "ass",
@@ -77,7 +69,7 @@
     "form": "noun",
     "extraUsageContext": "buttocks",
     "wordCount": 1,
-    "toxicScore": 0.6287319660186768
+    "toxicScore": 0.661349892616272
   },
   {
     "engelsk": "assfuck",
@@ -85,7 +77,7 @@
     "form": "verb",
     "extraUsageContext": "to engage in anal intercourse",
     "wordCount": 1,
-    "toxicScore": 0.9708676934242249
+    "toxicScore": 0.9673828482627869
   },
   {
     "engelsk": "asshole",
@@ -93,7 +85,7 @@
     "form": "noun",
     "extraUsageContext": "anus",
     "wordCount": 1,
-    "toxicScore": 0.9171537160873413
+    "toxicScore": 0.9233130812644958
   },
   {
     "engelsk": "asshole",
@@ -101,7 +93,7 @@
     "form": "noun",
     "extraUsageContext": "mean or rude person",
     "wordCount": 1,
-    "toxicScore": 0.9171537160873413
+    "toxicScore": 0.9233130812644958
   },
   {
     "engelsk": "ass-licker",
@@ -109,15 +101,7 @@
     "form": "noun",
     "extraUsageContext": "one who succumbs to authority",
     "wordCount": 1,
-    "toxicScore": 0.8963224291801453
-  },
-  {
-    "engelsk": "ASSR",
-    "dansk": "ASSR",
-    "form": "noun",
-    "extraUsageContext": "initialism of Autonomous Soviet Socialist Republic, see also: Autonomous Soviet Socialist Republic",
-    "wordCount": 1,
-    "toxicScore": 0.4773412048816681
+    "toxicScore": 0.8965364694595337
   },
   {
     "engelsk": "as the crow flies",
@@ -125,7 +109,7 @@
     "form": "adverb",
     "extraUsageContext": "in a straight line",
     "wordCount": 4,
-    "toxicScore": 0.6066391468048096
+    "toxicScore": 0.5401421189308167
   },
   {
     "engelsk": "awesome",
@@ -133,7 +117,7 @@
     "form": "adjective",
     "extraUsageContext": "excellent, exciting",
     "wordCount": 1,
-    "toxicScore": 0.6280573010444641
+    "toxicScore": 0.5588840842247009
   },
   {
     "engelsk": "backlog",
@@ -141,7 +125,7 @@
     "form": "noun",
     "extraUsageContext": "an accumulation or buildup",
     "wordCount": 1,
-    "toxicScore": 0.637022078037262
+    "toxicScore": 0.6828400492668152
   },
   {
     "engelsk": "badass",
@@ -149,7 +133,7 @@
     "form": "noun",
     "extraUsageContext": "belligerent or mean person",
     "wordCount": 1,
-    "toxicScore": 0.8022894263267517
+    "toxicScore": 0.8010431528091431
   },
   {
     "engelsk": "bassoon",
@@ -157,7 +141,7 @@
     "form": "noun",
     "extraUsageContext": "musical instrument in the woodwind family",
     "wordCount": 1,
-    "toxicScore": 0.5269438624382019
+    "toxicScore": 0.48028430342674255
   },
   {
     "engelsk": "bassoonist",
@@ -165,7 +149,7 @@
     "form": "noun",
     "extraUsageContext": "person who plays the bassoon",
     "wordCount": 1,
-    "toxicScore": 0.554282009601593
+    "toxicScore": 0.5504375100135803
   },
   {
     "engelsk": "bastard",
@@ -176,7 +160,7 @@
       "archaic"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9861636161804199
+    "toxicScore": 0.9852567911148071
   },
   {
     "engelsk": "bastard",
@@ -187,7 +171,7 @@
       "archaic"
     ],
     "wordCount": 1,
-    "toxicScore": 0.911862313747406
+    "toxicScore": 0.9031164646148682
   },
   {
     "engelsk": "bastard",
@@ -198,7 +182,7 @@
       "archaic"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9222676753997803
+    "toxicScore": 0.933405339717865
   },
   {
     "engelsk": "bastard",
@@ -206,7 +190,7 @@
     "form": "noun",
     "extraUsageContext": "contemptible etc. person",
     "wordCount": 1,
-    "toxicScore": 0.7987836003303528
+    "toxicScore": 0.7913247346878052
   },
   {
     "engelsk": "bastard",
@@ -214,7 +198,7 @@
     "form": "noun",
     "extraUsageContext": "contemptible etc. person",
     "wordCount": 1,
-    "toxicScore": 0.9345104694366455
+    "toxicScore": 0.9346436858177185
   },
   {
     "engelsk": "bastardly",
@@ -222,7 +206,7 @@
     "form": "adjective",
     "extraUsageContext": "born outside of wedlock",
     "wordCount": 1,
-    "toxicScore": 0.8604505062103271
+    "toxicScore": 0.8438006043434143
   },
   {
     "engelsk": "bastardly",
@@ -230,7 +214,7 @@
     "form": "adjective",
     "extraUsageContext": "of no use",
     "wordCount": 1,
-    "toxicScore": 0.8402387499809265
+    "toxicScore": 0.8134374022483826
   },
   {
     "engelsk": "bastardly",
@@ -238,7 +222,7 @@
     "form": "adjective",
     "extraUsageContext": "of no use",
     "wordCount": 1,
-    "toxicScore": 0.8310606479644775
+    "toxicScore": 0.8305931091308594
   },
   {
     "engelsk": "bastardly",
@@ -246,7 +230,7 @@
     "form": "adjective",
     "extraUsageContext": "of no use",
     "wordCount": 1,
-    "toxicScore": 0.757526159286499
+    "toxicScore": 0.7332981824874878
   },
   {
     "engelsk": "beautiful",
@@ -254,7 +238,7 @@
     "form": "adjective",
     "extraUsageContext": "possessing charm and attractive",
     "wordCount": 1,
-    "toxicScore": 0.6136609315872192
+    "toxicScore": 0.5344753265380859
   },
   {
     "engelsk": "beggar",
@@ -262,11 +246,10 @@
     "form": "noun",
     "extraUsageContext": "person who begs",
     "notes": [
-      "female",
       "female"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8860945701599121
+    "toxicScore": 0.8876044750213623
   },
   {
     "engelsk": "beggar",
@@ -274,11 +257,10 @@
     "form": "noun",
     "extraUsageContext": "person who begs",
     "notes": [
-      "female",
       "female"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8991792798042297
+    "toxicScore": 0.905008852481842
   },
   {
     "engelsk": "behead",
@@ -286,7 +268,7 @@
     "form": "verb",
     "extraUsageContext": "to remove the head",
     "wordCount": 1,
-    "toxicScore": 0.6036120057106018
+    "toxicScore": 0.6311370730400085
   },
   {
     "engelsk": "bicker",
@@ -294,7 +276,7 @@
     "form": "verb",
     "extraUsageContext": "quarrel in a tiresome manner",
     "wordCount": 1,
-    "toxicScore": 0.6288192272186279
+    "toxicScore": 0.6510201692581177
   },
   {
     "engelsk": "bicker",
@@ -302,7 +284,7 @@
     "form": "verb",
     "extraUsageContext": "quarrel in a tiresome manner",
     "wordCount": 1,
-    "toxicScore": 0.9032471776008606
+    "toxicScore": 0.9157496690750122
   },
   {
     "engelsk": "big-breasted",
@@ -310,7 +292,15 @@
     "form": "adjective",
     "extraUsageContext": "having large breasts",
     "wordCount": 1,
-    "toxicScore": 0.586245059967041
+    "toxicScore": 0.6150148510932922
+  },
+  {
+    "engelsk": "birdie",
+    "dansk": "fuck-finger",
+    "form": "noun",
+    "extraUsageContext": "rude gesture with the middle finger",
+    "wordCount": 1,
+    "toxicScore": 0.9873073697090149
   },
   {
     "engelsk": "bitch",
@@ -321,7 +311,7 @@
       "dog"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9568691253662109
+    "toxicScore": 0.9713317155838013
   },
   {
     "engelsk": "bitch",
@@ -329,7 +319,7 @@
     "form": "noun",
     "extraUsageContext": "disagreeable, aggressive person, usually female",
     "wordCount": 1,
-    "toxicScore": 0.9515374898910522
+    "toxicScore": 0.9599723219871521
   },
   {
     "engelsk": "bitch",
@@ -337,7 +327,7 @@
     "form": "verb",
     "extraUsageContext": "complain (about something",
     "wordCount": 1,
-    "toxicScore": 0.9774224162101746
+    "toxicScore": 0.9771547913551331
   },
   {
     "engelsk": "black",
@@ -348,15 +338,7 @@
       "offensive"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8056790232658386
-  },
-  {
-    "engelsk": "black",
-    "dansk": "dunkel",
-    "form": "adjective",
-    "extraUsageContext": "relating to an initiative whose existence or exact nature must remain withheld",
-    "wordCount": 1,
-    "toxicScore": 0.45342954993247986
+    "toxicScore": 0.8156745433807373
   },
   {
     "engelsk": "black",
@@ -364,7 +346,7 @@
     "form": "noun",
     "extraUsageContext": "dark-skinned person",
     "wordCount": 1,
-    "toxicScore": 0.8056790232658386
+    "toxicScore": 0.8156745433807373
   },
   {
     "engelsk": "black child",
@@ -372,23 +354,15 @@
     "form": "noun",
     "extraUsageContext": "black child, see also: pickaninny",
     "wordCount": 2,
-    "toxicScore": 0.6104819774627686
+    "toxicScore": 0.6441647410392761
   },
   {
-    "engelsk": "black stork",
-    "dansk": "Sort Stork",
+    "engelsk": "black rhinoceros",
+    "dansk": "sort næsehorn",
     "form": "noun",
-    "extraUsageContext": "Ciconia nigra",
+    "extraUsageContext": "Diceros bicornis",
     "wordCount": 2,
-    "toxicScore": 0.4810464680194855
-  },
-  {
-    "engelsk": "bleed out",
-    "dansk": "forbløde",
-    "form": "verb",
-    "extraUsageContext": "die due to excess bloodloss",
-    "wordCount": 2,
-    "toxicScore": 0.4791969656944275
+    "toxicScore": 0.4585639238357544
   },
   {
     "engelsk": "bloodsucker",
@@ -396,7 +370,7 @@
     "form": "noun",
     "extraUsageContext": "animal that drinks the blood of others",
     "wordCount": 1,
-    "toxicScore": 0.9634916186332703
+    "toxicScore": 0.9632965326309204
   },
   {
     "engelsk": "bloodsucking",
@@ -404,7 +378,7 @@
     "form": "adjective",
     "extraUsageContext": "that draws off blood",
     "wordCount": 1,
-    "toxicScore": 0.9878479838371277
+    "toxicScore": 0.9858652353286743
   },
   {
     "engelsk": "bloody mary",
@@ -412,7 +386,7 @@
     "form": "noun",
     "extraUsageContext": "cocktail made from vodka and tomato juice",
     "wordCount": 2,
-    "toxicScore": 0.8157923221588135
+    "toxicScore": 0.8082048892974854
   },
   {
     "engelsk": "blow",
@@ -420,7 +394,7 @@
     "form": "verb",
     "extraUsageContext": "to produce an air current",
     "wordCount": 1,
-    "toxicScore": 0.7691420316696167
+    "toxicScore": 0.8348120450973511
   },
   {
     "engelsk": "blow",
@@ -428,15 +402,7 @@
     "form": "verb",
     "extraUsageContext": "to propel by an air current",
     "wordCount": 1,
-    "toxicScore": 0.7691420316696167
-  },
-  {
-    "engelsk": "blowfish",
-    "dansk": "kuglefisk",
-    "form": "noun",
-    "extraUsageContext": "any species of fish of the family Tetraodontidae that have the ability to inflate themselves to a globe",
-    "wordCount": 1,
-    "toxicScore": 0.5569058656692505
+    "toxicScore": 0.8348120450973511
   },
   {
     "engelsk": "blow up",
@@ -444,31 +410,23 @@
     "form": "verb",
     "extraUsageContext": "to explode (transitive",
     "wordCount": 2,
-    "toxicScore": 0.5959264636039734
+    "toxicScore": 0.5675764083862305
   },
   {
-    "engelsk": "boob",
-    "dansk": "babs",
-    "form": "noun",
-    "extraUsageContext": "breast (colloquial",
-    "wordCount": 1,
-    "toxicScore": 0.5224388837814331
-  },
-  {
-    "engelsk": "brain-dead",
-    "dansk": "åndssvag",
-    "form": "adjective",
-    "extraUsageContext": "colloquially: having no useful thoughts",
-    "wordCount": 1,
-    "toxicScore": 0.48512032628059387
-  },
-  {
-    "engelsk": "brain death",
-    "dansk": "hjernedød",
-    "form": "noun",
-    "extraUsageContext": "irreversible cessation of brain activity",
+    "engelsk": "blow up",
+    "dansk": "springe i luften",
+    "form": "verb",
+    "extraUsageContext": "to explode (intransitive",
     "wordCount": 2,
-    "toxicScore": 0.5198437571525574
+    "toxicScore": 0.5066520571708679
+  },
+  {
+    "engelsk": "blow up",
+    "dansk": "eksplodere",
+    "form": "verb",
+    "extraUsageContext": "to explode (intransitive",
+    "wordCount": 2,
+    "toxicScore": 0.6113766431808472
   },
   {
     "engelsk": "brazen bull",
@@ -476,7 +434,7 @@
     "form": "noun",
     "extraUsageContext": "ancient torture device consisting of a hollow brass bull where victims were imprisoned and burned to death",
     "wordCount": 2,
-    "toxicScore": 0.6437175273895264
+    "toxicScore": 0.5244259238243103
   },
   {
     "engelsk": "built-in",
@@ -484,7 +442,7 @@
     "form": "adjective",
     "extraUsageContext": "constructed as a non-detachable part",
     "wordCount": 1,
-    "toxicScore": 0.556624710559845
+    "toxicScore": 0.5659404993057251
   },
   {
     "engelsk": "bull",
@@ -492,7 +450,7 @@
     "form": "noun",
     "extraUsageContext": "uncastrated adult male bovine",
     "wordCount": 1,
-    "toxicScore": 0.5435675978660583
+    "toxicScore": 0.5519841313362122
   },
   {
     "engelsk": "bull",
@@ -500,7 +458,7 @@
     "form": "noun",
     "extraUsageContext": "uncastrated adult male bovine",
     "wordCount": 1,
-    "toxicScore": 0.690356969833374
+    "toxicScore": 0.6872702836990356
   },
   {
     "engelsk": "bull",
@@ -508,7 +466,7 @@
     "form": "noun",
     "extraUsageContext": "adult male animal",
     "wordCount": 1,
-    "toxicScore": 0.492460161447525
+    "toxicScore": 0.5860770344734192
   },
   {
     "engelsk": "bull",
@@ -516,7 +474,7 @@
     "form": "noun",
     "extraUsageContext": "large, strong man",
     "wordCount": 1,
-    "toxicScore": 0.5435675978660583
+    "toxicScore": 0.5519841313362122
   },
   {
     "engelsk": "bull",
@@ -524,7 +482,15 @@
     "form": "noun",
     "extraUsageContext": "finance: investor who buys in anticipation of a rise in prices",
     "wordCount": 1,
-    "toxicScore": 0.8148137927055359
+    "toxicScore": 0.8360500335693359
+  },
+  {
+    "engelsk": "bull",
+    "dansk": "haussist",
+    "form": "noun",
+    "extraUsageContext": "finance: investor who buys in anticipation of a rise in prices",
+    "wordCount": 1,
+    "toxicScore": 0.517507016658783
   },
   {
     "engelsk": "bull",
@@ -532,7 +498,7 @@
     "form": "verb",
     "extraUsageContext": "lie",
     "wordCount": 1,
-    "toxicScore": 0.6702865362167358
+    "toxicScore": 0.6591644287109375
   },
   {
     "engelsk": "bull",
@@ -540,7 +506,7 @@
     "form": "verb",
     "extraUsageContext": "polish boots to a high shine",
     "wordCount": 1,
-    "toxicScore": 0.7795916795730591
+    "toxicScore": 0.7535043358802795
   },
   {
     "engelsk": "bull",
@@ -548,15 +514,15 @@
     "form": "noun",
     "extraUsageContext": "nonsense",
     "wordCount": 1,
-    "toxicScore": 0.713307797908783
+    "toxicScore": 0.7797811031341553
   },
   {
-    "engelsk": "bull",
-    "dansk": "nonsens",
+    "engelsk": "bulldozer",
+    "dansk": "bulldozer",
     "form": "noun",
-    "extraUsageContext": "nonsense",
+    "extraUsageContext": "tractor",
     "wordCount": 1,
-    "toxicScore": 0.4994250237941742
+    "toxicScore": 0.473209023475647
   },
   {
     "engelsk": "bullfinch",
@@ -564,7 +530,15 @@
     "form": "noun",
     "extraUsageContext": "Pyrrhula pyrrhula",
     "wordCount": 1,
-    "toxicScore": 0.578442394733429
+    "toxicScore": 0.6336774230003357
+  },
+  {
+    "engelsk": "bullshit",
+    "dansk": "pis",
+    "form": "noun",
+    "extraUsageContext": "deceitful statements, etc",
+    "wordCount": 1,
+    "toxicScore": 0.9782617688179016
   },
   {
     "engelsk": "burn one's bridges",
@@ -578,7 +552,7 @@
       "to break all bridges behind oneself"
     ],
     "wordCount": 3,
-    "toxicScore": 0.6901659965515137
+    "toxicScore": 0.6455256342887878
   },
   {
     "engelsk": "burn one's bridges",
@@ -592,7 +566,15 @@
       "to break all bridges behind oneself"
     ],
     "wordCount": 3,
-    "toxicScore": 0.5289949178695679
+    "toxicScore": 0.5590952634811401
+  },
+  {
+    "engelsk": "butcher",
+    "dansk": "slagter",
+    "form": "noun",
+    "extraUsageContext": "a person who prepares and sells meat",
+    "wordCount": 1,
+    "toxicScore": 0.4894990622997284
   },
   {
     "engelsk": "cheat on",
@@ -600,7 +582,7 @@
     "form": "verb",
     "extraUsageContext": "be unfaithful to",
     "wordCount": 2,
-    "toxicScore": 0.6142139434814453
+    "toxicScore": 0.5813465714454651
   },
   {
     "engelsk": "chick",
@@ -608,7 +590,7 @@
     "form": "noun",
     "extraUsageContext": "young bird",
     "wordCount": 1,
-    "toxicScore": 0.5902671217918396
+    "toxicScore": 0.626987874507904
   },
   {
     "engelsk": "choke a darkie",
@@ -616,15 +598,7 @@
     "form": "verb",
     "extraUsageContext": "slang for defecate",
     "wordCount": 3,
-    "toxicScore": 0.7361652255058289
-  },
-  {
-    "engelsk": "clitoris",
-    "dansk": "klitoris",
-    "form": "noun",
-    "extraUsageContext": "elongated erectile organ",
-    "wordCount": 1,
-    "toxicScore": 0.45752769708633423
+    "toxicScore": 0.7477931380271912
   },
   {
     "engelsk": "clusterfuck",
@@ -632,7 +606,7 @@
     "form": "noun",
     "extraUsageContext": "a chaotic situation",
     "wordCount": 1,
-    "toxicScore": 0.8554335236549377
+    "toxicScore": 0.8621522784233093
   },
   {
     "engelsk": "cock",
@@ -643,7 +617,18 @@
       "male pheasant"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9527415037155151
+    "toxicScore": 0.9398465752601624
+  },
+  {
+    "engelsk": "cock",
+    "dansk": "han",
+    "form": "noun",
+    "extraUsageContext": "any male bird",
+    "notes": [
+      "male pheasant"
+    ],
+    "wordCount": 1,
+    "toxicScore": 0.850610613822937
   },
   {
     "engelsk": "cock",
@@ -654,7 +639,7 @@
       "male pheasant"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9180474877357483
+    "toxicScore": 0.9197266697883606
   },
   {
     "engelsk": "cock",
@@ -662,7 +647,7 @@
     "form": "noun",
     "extraUsageContext": "hammer of a firearm trigger mechanism",
     "wordCount": 1,
-    "toxicScore": 0.8843135833740234
+    "toxicScore": 0.8771564364433289
   },
   {
     "engelsk": "cock",
@@ -670,7 +655,7 @@
     "form": "verb",
     "extraUsageContext": "to lift the cock of a firearm",
     "wordCount": 1,
-    "toxicScore": 0.7098135352134705
+    "toxicScore": 0.7092894911766052
   },
   {
     "engelsk": "cockatiel",
@@ -678,7 +663,7 @@
     "form": "noun",
     "extraUsageContext": "a small, rather atypical cockatoo with a distinctive pointed yellow crest",
     "wordCount": 1,
-    "toxicScore": 0.571946382522583
+    "toxicScore": 0.578555703163147
   },
   {
     "engelsk": "cockatoo",
@@ -686,7 +671,7 @@
     "form": "noun",
     "extraUsageContext": "a bird",
     "wordCount": 1,
-    "toxicScore": 0.49950021505355835
+    "toxicScore": 0.4887292981147766
   },
   {
     "engelsk": "cock ring",
@@ -694,7 +679,7 @@
     "form": "noun",
     "extraUsageContext": "sex aid",
     "wordCount": 2,
-    "toxicScore": 0.8806790113449097
+    "toxicScore": 0.8821905851364136
   },
   {
     "engelsk": "cock ring",
@@ -702,7 +687,7 @@
     "form": "noun",
     "extraUsageContext": "sex aid",
     "wordCount": 2,
-    "toxicScore": 0.9576724767684937
+    "toxicScore": 0.9550568461418152
   },
   {
     "engelsk": "cockroach",
@@ -710,7 +695,7 @@
     "form": "noun",
     "extraUsageContext": "type of insect",
     "wordCount": 1,
-    "toxicScore": 0.6489591598510742
+    "toxicScore": 0.6358875632286072
   },
   {
     "engelsk": "cocktease",
@@ -721,7 +706,7 @@
       "female, vulgar"
     ],
     "wordCount": 1,
-    "toxicScore": 0.5282772779464722
+    "toxicScore": 0.5204989314079285
   },
   {
     "engelsk": "cold day in Hell",
@@ -729,7 +714,17 @@
     "form": "noun",
     "extraUsageContext": "an event that will never happen",
     "wordCount": 4,
-    "toxicScore": 0.4517901837825775
+    "toxicScore": 0.4733998775482178
+  },
+  {
+    "engelsk": "come hell or high water",
+    "dansk": "koste hvad det være",
+    "form": "adverb",
+    "notes": [
+      "cost what it may"
+    ],
+    "wordCount": 5,
+    "toxicScore": 0.4664597511291504
   },
   {
     "engelsk": "commit suicide",
@@ -737,23 +732,15 @@
     "form": "verb",
     "extraUsageContext": "to kill oneself",
     "wordCount": 2,
-    "toxicScore": 0.8604198694229126
+    "toxicScore": 0.8387972116470337
   },
   {
-    "engelsk": "common cockchafer",
-    "dansk": "almindelig oldenborre",
-    "form": "noun",
-    "extraUsageContext": "Melolontha melolontha",
+    "engelsk": "commit suicide",
+    "dansk": "tage sig af dage",
+    "form": "verb",
+    "extraUsageContext": "to kill oneself",
     "wordCount": 2,
-    "toxicScore": 0.49708274006843567
-  },
-  {
-    "engelsk": "condom",
-    "dansk": "kondom",
-    "form": "noun",
-    "extraUsageContext": "flexible sleeve worn on the penis",
-    "wordCount": 1,
-    "toxicScore": 0.5212927460670471
+    "toxicScore": 0.8597157001495361
   },
   {
     "engelsk": "coward",
@@ -761,7 +748,19 @@
     "form": "noun",
     "extraUsageContext": "a person who lacks courage",
     "wordCount": 1,
-    "toxicScore": 0.8302838206291199
+    "toxicScore": 0.8209843039512634
+  },
+  {
+    "engelsk": "crap",
+    "dansk": "lave pølse",
+    "form": "verb",
+    "extraUsageContext": "to defecate",
+    "notes": [
+      "childish",
+      "vulgar"
+    ],
+    "wordCount": 1,
+    "toxicScore": 0.8554075956344604
   },
   {
     "engelsk": "crap",
@@ -773,7 +772,7 @@
       "vulgar"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8791787624359131
+    "toxicScore": 0.8887081146240234
   },
   {
     "engelsk": "crappy",
@@ -781,7 +780,15 @@
     "form": "adjective",
     "extraUsageContext": "covered in, containing feces",
     "wordCount": 1,
-    "toxicScore": 0.7012611031532288
+    "toxicScore": 0.7034826278686523
+  },
+  {
+    "engelsk": "cum",
+    "dansk": "sperm",
+    "form": "noun",
+    "extraUsageContext": "slang: semen",
+    "wordCount": 1,
+    "toxicScore": 0.9594855308532715
   },
   {
     "engelsk": "cum",
@@ -789,7 +796,7 @@
     "form": "noun",
     "extraUsageContext": "slang: semen",
     "wordCount": 1,
-    "toxicScore": 0.788348913192749
+    "toxicScore": 0.7914917469024658
   },
   {
     "engelsk": "cum",
@@ -797,7 +804,7 @@
     "form": "verb",
     "extraUsageContext": "slang: have an orgasm; ejaculate",
     "wordCount": 1,
-    "toxicScore": 0.8340426683425903
+    "toxicScore": 0.8093522787094116
   },
   {
     "engelsk": "cumin",
@@ -805,7 +812,7 @@
     "form": "noun",
     "extraUsageContext": "plant Cuminum cyminum",
     "wordCount": 1,
-    "toxicScore": 0.6092936396598816
+    "toxicScore": 0.540798544883728
   },
   {
     "engelsk": "cumin",
@@ -813,7 +820,7 @@
     "form": "noun",
     "extraUsageContext": "plant Cuminum cyminum",
     "wordCount": 1,
-    "toxicScore": 0.49558353424072266
+    "toxicScore": 0.5699459314346313
   },
   {
     "engelsk": "cumin",
@@ -821,7 +828,7 @@
     "form": "noun",
     "extraUsageContext": "its seed used as spice",
     "wordCount": 1,
-    "toxicScore": 0.49558353424072266
+    "toxicScore": 0.5699459314346313
   },
   {
     "engelsk": "cunt",
@@ -829,7 +836,7 @@
     "form": "noun",
     "extraUsageContext": "genitalia",
     "wordCount": 1,
-    "toxicScore": 0.7515038847923279
+    "toxicScore": 0.7503764033317566
   },
   {
     "engelsk": "cunt",
@@ -837,7 +844,7 @@
     "form": "noun",
     "extraUsageContext": "genitalia",
     "wordCount": 1,
-    "toxicScore": 0.7341673374176025
+    "toxicScore": 0.7299678921699524
   },
   {
     "engelsk": "cunt",
@@ -845,11 +852,10 @@
     "form": "noun",
     "extraUsageContext": "unpleasant or objectionable person",
     "notes": [
-      "female only",
       "female only"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7341673374176025
+    "toxicScore": 0.7299678921699524
   },
   {
     "engelsk": "cunt",
@@ -857,11 +863,29 @@
     "form": "noun",
     "extraUsageContext": "unpleasant or objectionable person",
     "notes": [
-      "female only",
       "female only"
     ],
     "wordCount": 1,
-    "toxicScore": 0.6904098987579346
+    "toxicScore": 0.7122777104377747
+  },
+  {
+    "engelsk": "cycle",
+    "dansk": "slukke for/slå fra",
+    "form": "verb",
+    "extraUsageContext": "to turn power off and back on",
+    "notes": [
+      "turn off"
+    ],
+    "wordCount": 1,
+    "toxicScore": 0.45402592420578003
+  },
+  {
+    "engelsk": "damn",
+    "dansk": "fordømme",
+    "form": "verb",
+    "extraUsageContext": "theology: to condemn to hell",
+    "wordCount": 1,
+    "toxicScore": 0.8297141194343567
   },
   {
     "engelsk": "damn",
@@ -869,7 +893,7 @@
     "form": "adverb",
     "extraUsageContext": "awfully, extremely",
     "wordCount": 1,
-    "toxicScore": 0.9206330180168152
+    "toxicScore": 0.9036248326301575
   },
   {
     "engelsk": "damn",
@@ -877,7 +901,7 @@
     "form": "adverb",
     "extraUsageContext": "awfully, extremely",
     "wordCount": 1,
-    "toxicScore": 0.8265372514724731
+    "toxicScore": 0.8372532725334167
   },
   {
     "engelsk": "damn",
@@ -885,7 +909,7 @@
     "form": "adverb",
     "extraUsageContext": "awfully, extremely",
     "wordCount": 1,
-    "toxicScore": 0.8558691740036011
+    "toxicScore": 0.8584257960319519
   },
   {
     "engelsk": "devil",
@@ -893,7 +917,7 @@
     "form": "noun",
     "extraUsageContext": "the devil: the chief devil",
     "wordCount": 1,
-    "toxicScore": 0.5260327458381653
+    "toxicScore": 0.508893609046936
   },
   {
     "engelsk": "dick",
@@ -901,7 +925,7 @@
     "form": "noun",
     "extraUsageContext": "slang: penis",
     "wordCount": 1,
-    "toxicScore": 0.9076541066169739
+    "toxicScore": 0.8950245380401611
   },
   {
     "engelsk": "dick",
@@ -909,7 +933,7 @@
     "form": "noun",
     "extraUsageContext": "slang: penis",
     "wordCount": 1,
-    "toxicScore": 0.891322910785675
+    "toxicScore": 0.8917142748832703
   },
   {
     "engelsk": "dick",
@@ -917,7 +941,7 @@
     "form": "noun",
     "extraUsageContext": "slang: penis",
     "wordCount": 1,
-    "toxicScore": 0.667668879032135
+    "toxicScore": 0.6156167387962341
   },
   {
     "engelsk": "dick",
@@ -925,7 +949,7 @@
     "form": "noun",
     "extraUsageContext": "detective",
     "wordCount": 1,
-    "toxicScore": 0.8459649085998535
+    "toxicScore": 0.8383678793907166
   },
   {
     "engelsk": "dickhead",
@@ -933,7 +957,7 @@
     "form": "noun",
     "extraUsageContext": "(slang",
     "wordCount": 1,
-    "toxicScore": 0.8673734664916992
+    "toxicScore": 0.8629001379013062
   },
   {
     "engelsk": "dickpic",
@@ -941,7 +965,7 @@
     "form": "noun",
     "extraUsageContext": "photograph of a penis",
     "wordCount": 1,
-    "toxicScore": 0.9185943603515625
+    "toxicScore": 0.9164794683456421
   },
   {
     "engelsk": "dickpic",
@@ -949,7 +973,7 @@
     "form": "noun",
     "extraUsageContext": "photograph of a penis",
     "wordCount": 1,
-    "toxicScore": 0.6505520939826965
+    "toxicScore": 0.6567091345787048
   },
   {
     "engelsk": "die",
@@ -957,7 +981,7 @@
     "form": "verb",
     "extraUsageContext": "to stop living",
     "wordCount": 1,
-    "toxicScore": 0.7301906943321228
+    "toxicScore": 0.6745645999908447
   },
   {
     "engelsk": "die",
@@ -965,7 +989,7 @@
     "form": "verb",
     "extraUsageContext": "to stop living",
     "wordCount": 1,
-    "toxicScore": 0.7474766969680786
+    "toxicScore": 0.7204661965370178
   },
   {
     "engelsk": "die",
@@ -973,7 +997,15 @@
     "form": "verb",
     "extraUsageContext": "to stop living",
     "wordCount": 1,
-    "toxicScore": 0.799687385559082
+    "toxicScore": 0.7982615828514099
+  },
+  {
+    "engelsk": "die",
+    "dansk": "gå al kødets gang",
+    "form": "verb",
+    "extraUsageContext": "to stop living",
+    "wordCount": 1,
+    "toxicScore": 0.8089173436164856
   },
   {
     "engelsk": "die",
@@ -981,7 +1013,7 @@
     "form": "verb",
     "extraUsageContext": "to stop living",
     "wordCount": 1,
-    "toxicScore": 0.6205499172210693
+    "toxicScore": 0.6218495965003967
   },
   {
     "engelsk": "die",
@@ -989,7 +1021,7 @@
     "form": "verb",
     "extraUsageContext": "to stop living",
     "wordCount": 1,
-    "toxicScore": 0.7607042789459229
+    "toxicScore": 0.6797886490821838
   },
   {
     "engelsk": "die",
@@ -997,7 +1029,7 @@
     "form": "verb",
     "extraUsageContext": "to stop living",
     "wordCount": 1,
-    "toxicScore": 0.7964000105857849
+    "toxicScore": 0.7818556427955627
   },
   {
     "engelsk": "die",
@@ -1005,7 +1037,7 @@
     "form": "verb",
     "extraUsageContext": "to stop living",
     "wordCount": 1,
-    "toxicScore": 0.8040213584899902
+    "toxicScore": 0.7723451256752014
   },
   {
     "engelsk": "die",
@@ -1013,7 +1045,7 @@
     "form": "verb",
     "extraUsageContext": "to stop living",
     "wordCount": 1,
-    "toxicScore": 0.7418849468231201
+    "toxicScore": 0.8224330544471741
   },
   {
     "engelsk": "die",
@@ -1021,7 +1053,7 @@
     "form": "verb",
     "extraUsageContext": "to stop living",
     "wordCount": 1,
-    "toxicScore": 0.8612704277038574
+    "toxicScore": 0.8673073649406433
   },
   {
     "engelsk": "die",
@@ -1029,7 +1061,7 @@
     "form": "verb",
     "extraUsageContext": "to become spiritually dead",
     "wordCount": 1,
-    "toxicScore": 0.7293423414230347
+    "toxicScore": 0.7698420286178589
   },
   {
     "engelsk": "die",
@@ -1037,7 +1069,7 @@
     "form": "verb",
     "extraUsageContext": "to break down",
     "wordCount": 1,
-    "toxicScore": 0.7045784592628479
+    "toxicScore": 0.7143187522888184
   },
   {
     "engelsk": "die",
@@ -1045,7 +1077,15 @@
     "form": "noun",
     "extraUsageContext": "polyhedron used in games of chance",
     "wordCount": 1,
-    "toxicScore": 0.5779823064804077
+    "toxicScore": 0.6231196522712708
+  },
+  {
+    "engelsk": "die out",
+    "dansk": "uddø",
+    "form": "verb",
+    "extraUsageContext": "to become extinct",
+    "wordCount": 2,
+    "toxicScore": 0.4939819276332855
   },
   {
     "engelsk": "die out",
@@ -1053,15 +1093,7 @@
     "form": "verb",
     "extraUsageContext": "to become extinct",
     "wordCount": 2,
-    "toxicScore": 0.6311010122299194
-  },
-  {
-    "engelsk": "dig into",
-    "dansk": "begrave sig i",
-    "form": "verb",
-    "extraUsageContext": "to research a particular subject",
-    "wordCount": 2,
-    "toxicScore": 0.510253369808197
+    "toxicScore": 0.7026740312576294
   },
   {
     "engelsk": "dildo",
@@ -1069,7 +1101,7 @@
     "form": "noun",
     "extraUsageContext": "artificial phallus",
     "wordCount": 1,
-    "toxicScore": 0.6843874454498291
+    "toxicScore": 0.6829702854156494
   },
   {
     "engelsk": "dildo",
@@ -1077,7 +1109,7 @@
     "form": "noun",
     "extraUsageContext": "artificial phallus",
     "wordCount": 1,
-    "toxicScore": 0.7560902237892151
+    "toxicScore": 0.7765796780586243
   },
   {
     "engelsk": "dipshit",
@@ -1085,7 +1117,7 @@
     "form": "noun",
     "extraUsageContext": "stupid or undesirable person",
     "wordCount": 1,
-    "toxicScore": 0.9432343244552612
+    "toxicScore": 0.9477400779724121
   },
   {
     "engelsk": "dirty",
@@ -1093,15 +1125,7 @@
     "form": "adjective",
     "extraUsageContext": "covered with or containing dirt",
     "wordCount": 1,
-    "toxicScore": 0.46027061343193054
-  },
-  {
-    "engelsk": "dirty",
-    "dansk": "grumset",
-    "form": "adjective",
-    "extraUsageContext": "of color: discolored by impurities",
-    "wordCount": 1,
-    "toxicScore": 0.5007807016372681
+    "toxicScore": 0.45331433415412903
   },
   {
     "engelsk": "dirty bomb",
@@ -1109,7 +1133,7 @@
     "form": "noun",
     "extraUsageContext": "device containing conventional explosives and radioactive material",
     "wordCount": 2,
-    "toxicScore": 0.7172760367393494
+    "toxicScore": 0.714759349822998
   },
   {
     "engelsk": "dirty bomb",
@@ -1117,7 +1141,7 @@
     "form": "noun",
     "extraUsageContext": "nuclear bomb that speads radiation over a wide area due to inefficiency or design",
     "wordCount": 2,
-    "toxicScore": 0.7172760367393494
+    "toxicScore": 0.714759349822998
   },
   {
     "engelsk": "dirty look",
@@ -1125,7 +1149,7 @@
     "form": "noun",
     "extraUsageContext": "unpleasant look",
     "wordCount": 2,
-    "toxicScore": 0.47175291180610657
+    "toxicScore": 0.5477544665336609
   },
   {
     "engelsk": "dirty trick",
@@ -1133,7 +1157,7 @@
     "form": "noun",
     "extraUsageContext": "an unkind trick",
     "wordCount": 2,
-    "toxicScore": 0.617960512638092
+    "toxicScore": 0.656567394733429
   },
   {
     "engelsk": "do",
@@ -1141,7 +1165,7 @@
     "form": "verb",
     "extraUsageContext": "cheat, swindle",
     "wordCount": 1,
-    "toxicScore": 0.5252487063407898
+    "toxicScore": 0.5052760243415833
   },
   {
     "engelsk": "dog shit",
@@ -1149,7 +1173,7 @@
     "form": "noun",
     "extraUsageContext": "fecal matter produced by a dog",
     "wordCount": 2,
-    "toxicScore": 0.9464842677116394
+    "toxicScore": 0.9506412744522095
   },
   {
     "engelsk": "douchebag",
@@ -1157,7 +1181,7 @@
     "form": "noun",
     "extraUsageContext": "slang: jerk, idiot",
     "wordCount": 1,
-    "toxicScore": 0.6084514856338501
+    "toxicScore": 0.503829300403595
   },
   {
     "engelsk": "drag",
@@ -1165,7 +1189,7 @@
     "form": "noun",
     "extraUsageContext": "puff on cigarette",
     "wordCount": 1,
-    "toxicScore": 0.5912278890609741
+    "toxicScore": 0.49768197536468506
   },
   {
     "engelsk": "drunk",
@@ -1173,7 +1197,7 @@
     "form": "adjective",
     "extraUsageContext": "intoxicated after drinking too much alcohol",
     "wordCount": 1,
-    "toxicScore": 0.49855461716651917
+    "toxicScore": 0.6130124926567078
   },
   {
     "engelsk": "dumb",
@@ -1181,7 +1205,7 @@
     "form": "adjective",
     "extraUsageContext": "extremely stupid",
     "wordCount": 1,
-    "toxicScore": 0.6760534048080444
+    "toxicScore": 0.6518645286560059
   },
   {
     "engelsk": "dumb",
@@ -1189,7 +1213,7 @@
     "form": "adjective",
     "extraUsageContext": "extremely stupid",
     "wordCount": 1,
-    "toxicScore": 0.805905818939209
+    "toxicScore": 0.8325652480125427
   },
   {
     "engelsk": "dumb",
@@ -1197,7 +1221,15 @@
     "form": "adjective",
     "extraUsageContext": "pointless or unintellectual",
     "wordCount": 1,
-    "toxicScore": 0.6760534048080444
+    "toxicScore": 0.6518645286560059
+  },
+  {
+    "engelsk": "dumb",
+    "dansk": "fordummende",
+    "form": "adjective",
+    "extraUsageContext": "pointless or unintellectual",
+    "wordCount": 1,
+    "toxicScore": 0.6133908033370972
   },
   {
     "engelsk": "dumb",
@@ -1205,7 +1237,7 @@
     "form": "adjective",
     "extraUsageContext": "pointless or unintellectual",
     "wordCount": 1,
-    "toxicScore": 0.805905818939209
+    "toxicScore": 0.8325652480125427
   },
   {
     "engelsk": "dumb as a bag of hammers",
@@ -1213,7 +1245,7 @@
     "form": "adjective",
     "extraUsageContext": "remarkably stupid",
     "wordCount": 6,
-    "toxicScore": 0.893972635269165
+    "toxicScore": 0.8978437185287476
   },
   {
     "engelsk": "dumbass",
@@ -1221,7 +1253,7 @@
     "form": "noun",
     "extraUsageContext": "stupid or foolish person",
     "wordCount": 1,
-    "toxicScore": 0.9043494462966919
+    "toxicScore": 0.9135627746582031
   },
   {
     "engelsk": "dumbass",
@@ -1229,7 +1261,7 @@
     "form": "noun",
     "extraUsageContext": "stupid or foolish person",
     "wordCount": 1,
-    "toxicScore": 0.9179617166519165
+    "toxicScore": 0.9091758728027344
   },
   {
     "engelsk": "dumbfound",
@@ -1237,7 +1269,7 @@
     "form": "verb",
     "extraUsageContext": "to confuse and bewilder",
     "wordCount": 1,
-    "toxicScore": 0.7240586876869202
+    "toxicScore": 0.7339571714401245
   },
   {
     "engelsk": "dumbfound",
@@ -1245,7 +1277,7 @@
     "form": "verb",
     "extraUsageContext": "to confuse and bewilder",
     "wordCount": 1,
-    "toxicScore": 0.7098116874694824
+    "toxicScore": 0.6826683282852173
   },
   {
     "engelsk": "dumbfounded",
@@ -1253,7 +1285,7 @@
     "form": "adjective",
     "extraUsageContext": "shocked and speechless",
     "wordCount": 1,
-    "toxicScore": 0.5186948180198669
+    "toxicScore": 0.5057954788208008
   },
   {
     "engelsk": "eat pussy",
@@ -1264,7 +1296,7 @@
       "vulgar"
     ],
     "wordCount": 2,
-    "toxicScore": 0.9855226278305054
+    "toxicScore": 0.9854186177253723
   },
   {
     "engelsk": "ejaculate",
@@ -1272,7 +1304,7 @@
     "form": "verb",
     "extraUsageContext": "to eject abruptly",
     "wordCount": 1,
-    "toxicScore": 0.8020116686820984
+    "toxicScore": 0.8462485671043396
   },
   {
     "engelsk": "ejaculate",
@@ -1283,7 +1315,7 @@
       "oldfashioned"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7892190217971802
+    "toxicScore": 0.7885131239891052
   },
   {
     "engelsk": "ejaculate",
@@ -1291,7 +1323,7 @@
     "form": "verb",
     "extraUsageContext": "to eject semen or vaginal fluid",
     "wordCount": 1,
-    "toxicScore": 0.8020116686820984
+    "toxicScore": 0.8462485671043396
   },
   {
     "engelsk": "ejaculation",
@@ -1299,7 +1331,7 @@
     "form": "noun",
     "extraUsageContext": "ejection of semen through the urethra",
     "wordCount": 1,
-    "toxicScore": 0.7908427119255066
+    "toxicScore": 0.8289827108383179
   },
   {
     "engelsk": "ejaculation",
@@ -1307,7 +1339,7 @@
     "form": "noun",
     "extraUsageContext": "ejection of semen through the urethra",
     "wordCount": 1,
-    "toxicScore": 0.8165894746780396
+    "toxicScore": 0.8455582857131958
   },
   {
     "engelsk": "excrement",
@@ -1315,7 +1347,7 @@
     "form": "noun",
     "extraUsageContext": "human and animal solid waste",
     "wordCount": 1,
-    "toxicScore": 0.7321862578392029
+    "toxicScore": 0.6834871172904968
   },
   {
     "engelsk": "excrement",
@@ -1323,7 +1355,7 @@
     "form": "noun",
     "extraUsageContext": "human and animal solid waste",
     "wordCount": 1,
-    "toxicScore": 0.673038125038147
+    "toxicScore": 0.6760674118995667
   },
   {
     "engelsk": "extinguish",
@@ -1331,7 +1363,7 @@
     "form": "verb",
     "extraUsageContext": "to put out, as in fire; to end burning; to quench",
     "wordCount": 1,
-    "toxicScore": 0.5689001679420471
+    "toxicScore": 0.558720052242279
   },
   {
     "engelsk": "extinguish",
@@ -1339,7 +1371,7 @@
     "form": "verb",
     "extraUsageContext": "to destroy or abolish something",
     "wordCount": 1,
-    "toxicScore": 0.5689001679420471
+    "toxicScore": 0.5016693472862244
   },
   {
     "engelsk": "extinguish",
@@ -1347,7 +1379,15 @@
     "form": "verb",
     "extraUsageContext": "to obscure or eclipse something",
     "wordCount": 1,
-    "toxicScore": 0.5689001679420471
+    "toxicScore": 0.5016693472862244
+  },
+  {
+    "engelsk": "extinguisher",
+    "dansk": "-slukker",
+    "form": "noun",
+    "extraUsageContext": "anything that extinguishes something",
+    "wordCount": 1,
+    "toxicScore": 0.7126400470733643
   },
   {
     "engelsk": "factotum",
@@ -1355,18 +1395,7 @@
     "form": "noun",
     "extraUsageContext": "general servant",
     "wordCount": 1,
-    "toxicScore": 0.6256675124168396
-  },
-  {
-    "engelsk": "fag",
-    "dansk": "bøsserøv",
-    "form": "noun",
-    "extraUsageContext": "homosexual man",
-    "notes": [
-      "vulgar"
-    ],
-    "wordCount": 1,
-    "toxicScore": 0.46066686511039734
+    "toxicScore": 0.6447995901107788
   },
   {
     "engelsk": "faggot",
@@ -1374,27 +1403,31 @@
     "form": "noun",
     "extraUsageContext": "piece of firewood",
     "wordCount": 1,
-    "toxicScore": 0.838763952255249
+    "toxicScore": 0.8329384326934814
   },
   {
-    "engelsk": "fair",
-    "dansk": "smuk",
-    "form": "adjective",
-    "extraUsageContext": "pretty or attractive",
+    "engelsk": "faggot",
+    "dansk": "brændestykke",
+    "form": "noun",
+    "extraUsageContext": "piece of firewood",
     "wordCount": 1,
-    "toxicScore": 0.4654981195926666
+    "toxicScore": 0.8248964548110962
   },
   {
-    "engelsk": "fart",
-    "dansk": "prutte",
-    "form": "verb",
-    "extraUsageContext": "to emit flatulent gases",
-    "notes": [
-      "bookish",
-      "childish"
-    ],
+    "engelsk": "fair sex",
+    "dansk": "det smukke køn",
+    "form": "noun",
+    "extraUsageContext": "women",
+    "wordCount": 2,
+    "toxicScore": 0.6567667126655579
+  },
+  {
+    "engelsk": "fakir",
+    "dansk": "fakir",
+    "form": "noun",
+    "extraUsageContext": "ascetic mendicant",
     "wordCount": 1,
-    "toxicScore": 0.4552416503429413
+    "toxicScore": 0.4543444812297821
   },
   {
     "engelsk": "fart",
@@ -1406,7 +1439,7 @@
       "hypocoristic"
     ],
     "wordCount": 1,
-    "toxicScore": 0.57471764087677
+    "toxicScore": 0.5631779432296753
   },
   {
     "engelsk": "fasces",
@@ -1414,7 +1447,7 @@
     "form": "noun",
     "extraUsageContext": "bundle",
     "wordCount": 1,
-    "toxicScore": 0.6003713607788086
+    "toxicScore": 0.6028899550437927
   },
   {
     "engelsk": "fascist",
@@ -1422,7 +1455,7 @@
     "form": "noun",
     "extraUsageContext": "proponent of fascism",
     "wordCount": 1,
-    "toxicScore": 0.464446097612381
+    "toxicScore": 0.45329853892326355
   },
   {
     "engelsk": "fat",
@@ -1430,7 +1463,15 @@
     "form": "verb",
     "extraUsageContext": "to make fat; to fatten",
     "wordCount": 1,
-    "toxicScore": 0.4736384451389313
+    "toxicScore": 0.5363683700561523
+  },
+  {
+    "engelsk": "fax",
+    "dansk": "fax",
+    "form": "noun",
+    "extraUsageContext": "document transmitted by telephone",
+    "wordCount": 1,
+    "toxicScore": 0.45232072472572327
   },
   {
     "engelsk": "fax",
@@ -1438,7 +1479,7 @@
     "form": "verb",
     "extraUsageContext": "send document",
     "wordCount": 1,
-    "toxicScore": 0.454805463552475
+    "toxicScore": 0.4773525893688202
   },
   {
     "engelsk": "fellatio",
@@ -1446,7 +1487,15 @@
     "form": "noun",
     "extraUsageContext": "oral stimulation of penis",
     "wordCount": 1,
-    "toxicScore": 0.7480989694595337
+    "toxicScore": 0.7489875555038452
+  },
+  {
+    "engelsk": "felt",
+    "dansk": "filthat",
+    "form": "noun",
+    "extraUsageContext": "hat made of felt",
+    "wordCount": 1,
+    "toxicScore": 0.49662476778030396
   },
   {
     "engelsk": "female ejaculation",
@@ -1454,7 +1503,7 @@
     "form": "noun",
     "extraUsageContext": "forceful expulsion of fluids from the vagina",
     "wordCount": 2,
-    "toxicScore": 0.913299024105072
+    "toxicScore": 0.9295470118522644
   },
   {
     "engelsk": "female ejaculation",
@@ -1462,7 +1511,7 @@
     "form": "noun",
     "extraUsageContext": "forceful expulsion of fluids from the vagina",
     "wordCount": 2,
-    "toxicScore": 0.9391304850578308
+    "toxicScore": 0.9304648041725159
   },
   {
     "engelsk": "female ejaculation",
@@ -1470,7 +1519,7 @@
     "form": "noun",
     "extraUsageContext": "forceful expulsion of fluids from the vagina",
     "wordCount": 2,
-    "toxicScore": 0.9236466884613037
+    "toxicScore": 0.9240385293960571
   },
   {
     "engelsk": "female ejaculation",
@@ -1478,15 +1527,7 @@
     "form": "noun",
     "extraUsageContext": "forceful expulsion of fluids from the vagina",
     "wordCount": 2,
-    "toxicScore": 0.9660358428955078
-  },
-  {
-    "engelsk": "fight",
-    "dansk": "slag",
-    "form": "noun",
-    "extraUsageContext": "battle",
-    "wordCount": 1,
-    "toxicScore": 0.4512236714363098
+    "toxicScore": 0.9659135937690735
   },
   {
     "engelsk": "filthy",
@@ -1494,7 +1535,7 @@
     "form": "adjective",
     "extraUsageContext": "covered with filth; very dirty",
     "wordCount": 1,
-    "toxicScore": 0.7625129222869873
+    "toxicScore": 0.7394024133682251
   },
   {
     "engelsk": "filthy",
@@ -1502,7 +1543,7 @@
     "form": "adjective",
     "extraUsageContext": "covered with filth; very dirty",
     "wordCount": 1,
-    "toxicScore": 0.5388876795768738
+    "toxicScore": 0.6044076681137085
   },
   {
     "engelsk": "filthy",
@@ -1510,7 +1551,7 @@
     "form": "adjective",
     "extraUsageContext": "obscene or offensive",
     "wordCount": 1,
-    "toxicScore": 0.7692698240280151
+    "toxicScore": 0.761377215385437
   },
   {
     "engelsk": "filthy",
@@ -1518,7 +1559,7 @@
     "form": "adjective",
     "extraUsageContext": "obscene or offensive",
     "wordCount": 1,
-    "toxicScore": 0.6769130825996399
+    "toxicScore": 0.6790898442268372
   },
   {
     "engelsk": "finger",
@@ -1526,7 +1567,7 @@
     "form": "verb",
     "extraUsageContext": "to penetrate and sexually stimulate with one's finger",
     "wordCount": 1,
-    "toxicScore": 0.5127060413360596
+    "toxicScore": 0.5810670852661133
   },
   {
     "engelsk": "fool",
@@ -1534,7 +1575,7 @@
     "form": "noun",
     "extraUsageContext": "person with poor judgement or little intelligence",
     "wordCount": 1,
-    "toxicScore": 0.6404647827148438
+    "toxicScore": 0.6383823752403259
   },
   {
     "engelsk": "fool",
@@ -1542,7 +1583,7 @@
     "form": "noun",
     "extraUsageContext": "person with poor judgement or little intelligence",
     "wordCount": 1,
-    "toxicScore": 0.640676736831665
+    "toxicScore": 0.656822144985199
   },
   {
     "engelsk": "fool",
@@ -1550,7 +1591,7 @@
     "form": "noun",
     "extraUsageContext": "jester",
     "wordCount": 1,
-    "toxicScore": 0.5192112922668457
+    "toxicScore": 0.5910362005233765
   },
   {
     "engelsk": "foolish",
@@ -1558,7 +1599,7 @@
     "form": "adjective",
     "extraUsageContext": "lacking good sense or judgement; unwise",
     "wordCount": 1,
-    "toxicScore": 0.5144068002700806
+    "toxicScore": 0.5028586983680725
   },
   {
     "engelsk": "foolproof",
@@ -1566,7 +1607,7 @@
     "form": "adjective",
     "extraUsageContext": "(device",
     "wordCount": 1,
-    "toxicScore": 0.9443492293357849
+    "toxicScore": 0.9571526050567627
   },
   {
     "engelsk": "fortnight",
@@ -1574,7 +1615,7 @@
     "form": "noun",
     "extraUsageContext": "period of two weeks",
     "wordCount": 1,
-    "toxicScore": 0.5184900164604187
+    "toxicScore": 0.529487669467926
   },
   {
     "engelsk": "fuck",
@@ -1582,7 +1623,7 @@
     "form": "verb",
     "extraUsageContext": "to have sexual intercourse-obscene or vulgar",
     "wordCount": 1,
-    "toxicScore": 0.988890528678894
+    "toxicScore": 0.9881981611251831
   },
   {
     "engelsk": "fuck",
@@ -1590,7 +1631,7 @@
     "form": "verb",
     "extraUsageContext": "to have sexual intercourse-obscene or vulgar",
     "wordCount": 1,
-    "toxicScore": 0.9909124374389648
+    "toxicScore": 0.9921315908432007
   },
   {
     "engelsk": "fuck",
@@ -1598,7 +1639,7 @@
     "form": "verb",
     "extraUsageContext": "to have sexual intercourse-obscene or vulgar",
     "wordCount": 1,
-    "toxicScore": 0.9943212866783142
+    "toxicScore": 0.9942535758018494
   },
   {
     "engelsk": "fuck",
@@ -1606,7 +1647,7 @@
     "form": "verb",
     "extraUsageContext": "to have sexual intercourse-obscene or vulgar",
     "wordCount": 1,
-    "toxicScore": 0.9885181188583374
+    "toxicScore": 0.9894458651542664
   },
   {
     "engelsk": "fuck",
@@ -1614,7 +1655,7 @@
     "form": "verb",
     "extraUsageContext": "to insert an object into a specified body part",
     "wordCount": 1,
-    "toxicScore": 0.9869527220726013
+    "toxicScore": 0.9885911345481873
   },
   {
     "engelsk": "fuck",
@@ -1622,7 +1663,7 @@
     "form": "verb",
     "extraUsageContext": "to put in an extremely difficult or impossible situation",
     "wordCount": 1,
-    "toxicScore": 0.9867085218429565
+    "toxicScore": 0.9867610931396484
   },
   {
     "engelsk": "fuck",
@@ -1630,7 +1671,7 @@
     "form": "noun",
     "extraUsageContext": "an act of sexual intercourse",
     "wordCount": 1,
-    "toxicScore": 0.9878520369529724
+    "toxicScore": 0.9890381097793579
   },
   {
     "engelsk": "fuck",
@@ -1638,7 +1679,7 @@
     "form": "noun",
     "extraUsageContext": "an act of sexual intercourse",
     "wordCount": 1,
-    "toxicScore": 0.9906038641929626
+    "toxicScore": 0.9903337955474854
   },
   {
     "engelsk": "fuckable",
@@ -1646,7 +1687,15 @@
     "form": "adjective",
     "extraUsageContext": "sexually attractive",
     "wordCount": 1,
-    "toxicScore": 0.9836299419403076
+    "toxicScore": 0.9846484661102295
+  },
+  {
+    "engelsk": "fuck buddy",
+    "dansk": "bolleven",
+    "form": "noun",
+    "extraUsageContext": "vulgar term for a sex partner without emotional attachment",
+    "wordCount": 2,
+    "toxicScore": 0.9915243983268738
   },
   {
     "engelsk": "fuck finger",
@@ -1654,7 +1703,7 @@
     "form": "noun",
     "extraUsageContext": "slang for the middle finger",
     "wordCount": 2,
-    "toxicScore": 0.9956799149513245
+    "toxicScore": 0.9959669709205627
   },
   {
     "engelsk": "fuckhead",
@@ -1662,7 +1711,7 @@
     "form": "noun",
     "extraUsageContext": "stupid person",
     "wordCount": 1,
-    "toxicScore": 0.9966444373130798
+    "toxicScore": 0.9968888163566589
   },
   {
     "engelsk": "fucking",
@@ -1670,7 +1719,7 @@
     "form": "adjective",
     "extraUsageContext": "as an intensifier",
     "wordCount": 1,
-    "toxicScore": 0.9975773692131042
+    "toxicScore": 0.997363805770874
   },
   {
     "engelsk": "fucking",
@@ -1678,7 +1727,15 @@
     "form": "adjective",
     "extraUsageContext": "as an intensifier",
     "wordCount": 1,
-    "toxicScore": 0.9901999831199646
+    "toxicScore": 0.9917013645172119
+  },
+  {
+    "engelsk": "fuck off",
+    "dansk": "skrid",
+    "form": "verb",
+    "extraUsageContext": "go to hell, disappear, screw oneself",
+    "wordCount": 2,
+    "toxicScore": 0.9944330453872681
   },
   {
     "engelsk": "fuck off",
@@ -1686,7 +1743,7 @@
     "form": "verb",
     "extraUsageContext": "go to hell, disappear, screw oneself",
     "wordCount": 2,
-    "toxicScore": 0.9940215945243835
+    "toxicScore": 0.9944415092468262
   },
   {
     "engelsk": "fuck off",
@@ -1694,7 +1751,7 @@
     "form": "verb",
     "extraUsageContext": "go to hell, disappear, screw oneself",
     "wordCount": 2,
-    "toxicScore": 0.9958731532096863
+    "toxicScore": 0.9962370991706848
   },
   {
     "engelsk": "fuck up",
@@ -1702,7 +1759,7 @@
     "form": "verb",
     "extraUsageContext": "to make a mistake, to go wrong",
     "wordCount": 2,
-    "toxicScore": 0.991590142250061
+    "toxicScore": 0.9917010068893433
   },
   {
     "engelsk": "fuck up",
@@ -1710,7 +1767,7 @@
     "form": "verb",
     "extraUsageContext": "to make a mistake, to go wrong",
     "wordCount": 2,
-    "toxicScore": 0.9926804304122925
+    "toxicScore": 0.9925203323364258
   },
   {
     "engelsk": "fuck up",
@@ -1718,7 +1775,7 @@
     "form": "verb",
     "extraUsageContext": "to botch or make a mess of",
     "wordCount": 2,
-    "toxicScore": 0.9889072179794312
+    "toxicScore": 0.9878563284873962
   },
   {
     "engelsk": "fuck up",
@@ -1726,7 +1783,7 @@
     "form": "verb",
     "extraUsageContext": "to injure or damage",
     "wordCount": 2,
-    "toxicScore": 0.9924822449684143
+    "toxicScore": 0.9915745854377747
   },
   {
     "engelsk": "fuck up",
@@ -1734,7 +1791,7 @@
     "form": "verb",
     "extraUsageContext": "to break or destroy [to be merged into injure or damage]",
     "wordCount": 2,
-    "toxicScore": 0.9889072179794312
+    "toxicScore": 0.9878563284873962
   },
   {
     "engelsk": "fuck up",
@@ -1742,7 +1799,7 @@
     "form": "verb",
     "extraUsageContext": "to cause damage to someone’s body",
     "wordCount": 2,
-    "toxicScore": 0.9924822449684143
+    "toxicScore": 0.9915745854377747
   },
   {
     "engelsk": "fuck you",
@@ -1750,7 +1807,15 @@
     "form": "noun",
     "extraUsageContext": "fuck you",
     "wordCount": 2,
-    "toxicScore": 0.997829020023346
+    "toxicScore": 0.9976589679718018
+  },
+  {
+    "engelsk": "fugue",
+    "dansk": "fuga",
+    "form": "noun",
+    "extraUsageContext": "piece of music",
+    "wordCount": 1,
+    "toxicScore": 0.5022275447845459
   },
   {
     "engelsk": "futtock",
@@ -1758,7 +1823,7 @@
     "form": "noun",
     "extraUsageContext": "curved rib-like timbers",
     "wordCount": 1,
-    "toxicScore": 0.7463482022285461
+    "toxicScore": 0.7780043482780457
   },
   {
     "engelsk": "futtock",
@@ -1766,7 +1831,7 @@
     "form": "noun",
     "extraUsageContext": "curved rib-like timbers",
     "wordCount": 1,
-    "toxicScore": 0.7117395997047424
+    "toxicScore": 0.714950680732727
   },
   {
     "engelsk": "gang rape",
@@ -1774,7 +1839,7 @@
     "form": "noun",
     "extraUsageContext": "rape by a number of people",
     "wordCount": 2,
-    "toxicScore": 0.516610324382782
+    "toxicScore": 0.5869589447975159
   },
   {
     "engelsk": "gang rape",
@@ -1782,7 +1847,7 @@
     "form": "noun",
     "extraUsageContext": "rape by a number of people",
     "wordCount": 2,
-    "toxicScore": 0.5146731734275818
+    "toxicScore": 0.516701340675354
   },
   {
     "engelsk": "garbage",
@@ -1790,7 +1855,15 @@
     "form": "noun",
     "extraUsageContext": "waste material",
     "wordCount": 1,
-    "toxicScore": 0.491020530462265
+    "toxicScore": 0.5180121660232544
+  },
+  {
+    "engelsk": "gay",
+    "dansk": "glad",
+    "form": "adjective",
+    "extraUsageContext": "happy, joyful and lively",
+    "wordCount": 1,
+    "toxicScore": 0.7114871144294739
   },
   {
     "engelsk": "gay",
@@ -1798,7 +1871,7 @@
     "form": "adjective",
     "extraUsageContext": "happy, joyful and lively",
     "wordCount": 1,
-    "toxicScore": 0.6038867235183716
+    "toxicScore": 0.7349827885627747
   },
   {
     "engelsk": "gay",
@@ -1806,7 +1879,7 @@
     "form": "adjective",
     "extraUsageContext": "festive, bright, colorful",
     "wordCount": 1,
-    "toxicScore": 0.4734953045845032
+    "toxicScore": 0.4603521227836609
   },
   {
     "engelsk": "gay",
@@ -1818,7 +1891,7 @@
       "women"
     ],
     "wordCount": 1,
-    "toxicScore": 0.6333959698677063
+    "toxicScore": 0.6201141476631165
   },
   {
     "engelsk": "gay",
@@ -1830,7 +1903,7 @@
       "women"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7943440675735474
+    "toxicScore": 0.7979766726493835
   },
   {
     "engelsk": "gay",
@@ -1841,7 +1914,7 @@
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8095673322677612
+    "toxicScore": 0.8169564008712769
   },
   {
     "engelsk": "gay-ass",
@@ -1849,7 +1922,7 @@
     "form": "adjective",
     "extraUsageContext": "gay-ass",
     "wordCount": 1,
-    "toxicScore": 0.8557769060134888
+    "toxicScore": 0.8727260231971741
   },
   {
     "engelsk": "gay marriage",
@@ -1857,7 +1930,7 @@
     "form": "noun",
     "extraUsageContext": "marriage between two people of the same sex",
     "wordCount": 2,
-    "toxicScore": 0.5003523826599121
+    "toxicScore": 0.507244348526001
   },
   {
     "engelsk": "get",
@@ -1865,7 +1938,7 @@
     "form": "verb",
     "extraUsageContext": "to obtain",
     "wordCount": 1,
-    "toxicScore": 0.771905779838562
+    "toxicScore": 0.797330915927887
   },
   {
     "engelsk": "get drunk",
@@ -1873,7 +1946,7 @@
     "form": "verb",
     "extraUsageContext": "to intoxicate oneself with alcohol",
     "wordCount": 2,
-    "toxicScore": 0.6911473870277405
+    "toxicScore": 0.7310445308685303
   },
   {
     "engelsk": "get laid",
@@ -1881,7 +1954,7 @@
     "form": "verb",
     "extraUsageContext": "to have sex",
     "wordCount": 2,
-    "toxicScore": 0.9332329034805298
+    "toxicScore": 0.9340426325798035
   },
   {
     "engelsk": "get off one's chest",
@@ -1889,15 +1962,47 @@
     "form": "verb",
     "extraUsageContext": "to relieve oneself by talking to someone",
     "wordCount": 4,
-    "toxicScore": 0.8509299755096436
+    "toxicScore": 0.8355634808540344
   },
   {
-    "engelsk": "give birth",
-    "dansk": "føde",
+    "engelsk": "ghostwriter",
+    "dansk": "neger",
+    "form": "noun",
+    "extraUsageContext": "professional writer for another person",
+    "wordCount": 1,
+    "toxicScore": 0.4526142477989197
+  },
+  {
+    "engelsk": "give a shit",
+    "dansk": "pisseligeglad",
     "form": "verb",
-    "extraUsageContext": "produce new life",
+    "extraUsageContext": "to (not",
+    "wordCount": 3,
+    "toxicScore": 0.9839209914207458
+  },
+  {
+    "engelsk": "give a shit",
+    "dansk": "skideligeglad",
+    "form": "verb",
+    "extraUsageContext": "to (not",
+    "wordCount": 3,
+    "toxicScore": 0.9834229350090027
+  },
+  {
+    "engelsk": "glans penis",
+    "dansk": "agernet",
+    "form": "noun",
+    "extraUsageContext": "conical vascularized body forming the extremity of the penis",
     "wordCount": 2,
-    "toxicScore": 0.534155547618866
+    "toxicScore": 0.8578988313674927
+  },
+  {
+    "engelsk": "goddamn",
+    "dansk": "satans",
+    "form": "adjective",
+    "extraUsageContext": "intensifier",
+    "wordCount": 1,
+    "toxicScore": 0.9705835580825806
   },
   {
     "engelsk": "goddamn",
@@ -1905,7 +2010,7 @@
     "form": "adjective",
     "extraUsageContext": "intensifier",
     "wordCount": 1,
-    "toxicScore": 0.9551271796226501
+    "toxicScore": 0.9459214806556702
   },
   {
     "engelsk": "go fuck oneself",
@@ -1913,7 +2018,7 @@
     "form": "verb",
     "extraUsageContext": "a variant of fuck you",
     "wordCount": 3,
-    "toxicScore": 0.9981679320335388
+    "toxicScore": 0.998212456703186
   },
   {
     "engelsk": "go to hell",
@@ -1921,7 +2026,7 @@
     "form": "verb",
     "extraUsageContext": "to be ruined, become useless",
     "wordCount": 3,
-    "toxicScore": 0.9657316207885742
+    "toxicScore": 0.9669324159622192
   },
   {
     "engelsk": "go to hell",
@@ -1929,7 +2034,15 @@
     "form": "verb",
     "extraUsageContext": "interjection",
     "wordCount": 3,
-    "toxicScore": 0.9657316207885742
+    "toxicScore": 0.9669324159622192
+  },
+  {
+    "engelsk": "go to hell",
+    "dansk": "gå ad Pommern til",
+    "form": "verb",
+    "extraUsageContext": "interjection",
+    "wordCount": 3,
+    "toxicScore": 0.9628528356552124
   },
   {
     "engelsk": "go up in smoke",
@@ -1937,7 +2050,7 @@
     "form": "verb",
     "extraUsageContext": "catch fire",
     "wordCount": 4,
-    "toxicScore": 0.8891445398330688
+    "toxicScore": 0.8878751993179321
   },
   {
     "engelsk": "go up in smoke",
@@ -1945,7 +2058,7 @@
     "form": "verb",
     "extraUsageContext": "be ruined",
     "wordCount": 4,
-    "toxicScore": 0.8891445398330688
+    "toxicScore": 0.8878751993179321
   },
   {
     "engelsk": "grind",
@@ -1953,7 +2066,7 @@
     "form": "verb",
     "extraUsageContext": "to reduce smaller pieces",
     "wordCount": 1,
-    "toxicScore": 0.5053694844245911
+    "toxicScore": 0.5090963244438171
   },
   {
     "engelsk": "hairy",
@@ -1961,15 +2074,7 @@
     "form": "adjective",
     "extraUsageContext": "of an animal",
     "wordCount": 1,
-    "toxicScore": 0.5346816778182983
-  },
-  {
-    "engelsk": "hard",
-    "dansk": "hård",
-    "form": "adjective",
-    "extraUsageContext": "resistant to pressure",
-    "wordCount": 1,
-    "toxicScore": 0.4681341052055359
+    "toxicScore": 0.5709174275398254
   },
   {
     "engelsk": "have bats in one's belfry",
@@ -1980,7 +2085,7 @@
       "lit. to have rats in the attic"
     ],
     "wordCount": 5,
-    "toxicScore": 0.48401400446891785
+    "toxicScore": 0.46633726358413696
   },
   {
     "engelsk": "have sex",
@@ -1988,7 +2093,7 @@
     "form": "verb",
     "extraUsageContext": "take part in a sexual act",
     "wordCount": 2,
-    "toxicScore": 0.8259969353675842
+    "toxicScore": 0.813274085521698
   },
   {
     "engelsk": "have sex",
@@ -1996,7 +2101,15 @@
     "form": "verb",
     "extraUsageContext": "take part in a sexual act",
     "wordCount": 2,
-    "toxicScore": 0.8914861083030701
+    "toxicScore": 0.8815297484397888
+  },
+  {
+    "engelsk": "have the foggiest",
+    "dansk": "det ved jeg da ikke noget om",
+    "form": "phrase",
+    "extraUsageContext": "\"I haven't the foggiest\": I don't know",
+    "wordCount": 3,
+    "toxicScore": 0.6555308699607849
   },
   {
     "engelsk": "he-ass",
@@ -2007,7 +2120,7 @@
       "♂♀"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8156416416168213
+    "toxicScore": 0.8208007216453552
   },
   {
     "engelsk": "he-ass",
@@ -2018,7 +2131,7 @@
       "♂♀"
     ],
     "wordCount": 1,
-    "toxicScore": 0.6286042928695679
+    "toxicScore": 0.6402339339256287
   },
   {
     "engelsk": "he-ass",
@@ -2029,7 +2142,7 @@
       "♂♀"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8501014709472656
+    "toxicScore": 0.8529738783836365
   },
   {
     "engelsk": "herpes",
@@ -2037,23 +2150,7 @@
     "form": "noun",
     "extraUsageContext": "viral disease",
     "wordCount": 1,
-    "toxicScore": 0.9238598346710205
-  },
-  {
-    "engelsk": "Holocaust",
-    "dansk": "Holocaust",
-    "form": "properNoun",
-    "extraUsageContext": "the mass murder of 6 million Jews by Nazi Germany",
-    "wordCount": 1,
-    "toxicScore": 0.4768819212913513
-  },
-  {
-    "engelsk": "Holocaust",
-    "dansk": "Holocaust",
-    "form": "properNoun",
-    "extraUsageContext": "the mass murder of 11 million people by Nazi Germany",
-    "wordCount": 1,
-    "toxicScore": 0.4768819212913513
+    "toxicScore": 0.9231677651405334
   },
   {
     "engelsk": "homo",
@@ -2061,7 +2158,7 @@
     "form": "noun",
     "extraUsageContext": "short form of homosexual",
     "wordCount": 1,
-    "toxicScore": 0.7160916328430176
+    "toxicScore": 0.7282271981239319
   },
   {
     "engelsk": "homosexual",
@@ -2069,7 +2166,7 @@
     "form": "adjective",
     "extraUsageContext": "sexually attracted solely or primarily to the same sex",
     "wordCount": 1,
-    "toxicScore": 0.8224889039993286
+    "toxicScore": 0.8373774290084839
   },
   {
     "engelsk": "homosexual",
@@ -2077,7 +2174,7 @@
     "form": "noun",
     "extraUsageContext": "person who is attracted solely or primarily to others of the same sex",
     "wordCount": 1,
-    "toxicScore": 0.8224889039993286
+    "toxicScore": 0.8373774290084839
   },
   {
     "engelsk": "homosexuality",
@@ -2085,7 +2182,7 @@
     "form": "noun",
     "extraUsageContext": "sexual orientation",
     "wordCount": 1,
-    "toxicScore": 0.7661198377609253
+    "toxicScore": 0.8025104403495789
   },
   {
     "engelsk": "hooker",
@@ -2093,15 +2190,7 @@
     "form": "noun",
     "extraUsageContext": "prostitute",
     "wordCount": 1,
-    "toxicScore": 0.6816090941429138
-  },
-  {
-    "engelsk": "hooker",
-    "dansk": "prostitueret",
-    "form": "noun",
-    "extraUsageContext": "prostitute",
-    "wordCount": 1,
-    "toxicScore": 0.4524019956588745
+    "toxicScore": 0.6656272411346436
   },
   {
     "engelsk": "how old are you",
@@ -2109,7 +2198,7 @@
     "form": "phrase",
     "extraUsageContext": "what is your age in years",
     "wordCount": 4,
-    "toxicScore": 0.5272960066795349
+    "toxicScore": 0.5469121932983398
   },
   {
     "engelsk": "hump",
@@ -2117,7 +2206,7 @@
     "form": "noun",
     "extraUsageContext": "deformity of the human back",
     "wordCount": 1,
-    "toxicScore": 0.8179627656936646
+    "toxicScore": 0.8212519884109497
   },
   {
     "engelsk": "humpbacked",
@@ -2125,7 +2214,7 @@
     "form": "adjective",
     "extraUsageContext": "having a hump on the back",
     "wordCount": 1,
-    "toxicScore": 0.7281604409217834
+    "toxicScore": 0.7123208045959473
   },
   {
     "engelsk": "humpback whale",
@@ -2133,15 +2222,7 @@
     "form": "noun",
     "extraUsageContext": "Megaptera novaeangliae",
     "wordCount": 2,
-    "toxicScore": 0.48541170358657837
-  },
-  {
-    "engelsk": "hypocrite",
-    "dansk": "hykler",
-    "form": "noun",
-    "extraUsageContext": "person practising hypocrisy",
-    "wordCount": 1,
-    "toxicScore": 0.4670245945453644
+    "toxicScore": 0.48147422075271606
   },
   {
     "engelsk": "idiocy",
@@ -2149,7 +2230,7 @@
     "form": "noun",
     "extraUsageContext": "state of being an idiot",
     "wordCount": 1,
-    "toxicScore": 0.9139556884765625
+    "toxicScore": 0.9390637874603271
   },
   {
     "engelsk": "idiot",
@@ -2157,7 +2238,7 @@
     "form": "noun",
     "extraUsageContext": "person of low general intelligence",
     "wordCount": 1,
-    "toxicScore": 0.9836204051971436
+    "toxicScore": 0.9840671420097351
   },
   {
     "engelsk": "idiotic",
@@ -2165,7 +2246,7 @@
     "form": "adjective",
     "extraUsageContext": "pertaining to or resembling an idiot",
     "wordCount": 1,
-    "toxicScore": 0.9689603447914124
+    "toxicScore": 0.9666064977645874
   },
   {
     "engelsk": "idiotic",
@@ -2173,7 +2254,7 @@
     "form": "adjective",
     "extraUsageContext": "having the quality of idiocy",
     "wordCount": 1,
-    "toxicScore": 0.9689603447914124
+    "toxicScore": 0.9666064977645874
   },
   {
     "engelsk": "idiotic",
@@ -2181,7 +2262,7 @@
     "form": "adjective",
     "extraUsageContext": "having the quality of idiocy",
     "wordCount": 1,
-    "toxicScore": 0.8753230571746826
+    "toxicScore": 0.8462437987327576
   },
   {
     "engelsk": "I'd like to kiss you",
@@ -2189,7 +2270,7 @@
     "form": "phrase",
     "extraUsageContext": "I'd like to kiss you",
     "wordCount": 5,
-    "toxicScore": 0.6289021372795105
+    "toxicScore": 0.6020321249961853
   },
   {
     "engelsk": "I hate you",
@@ -2197,7 +2278,7 @@
     "form": "phrase",
     "extraUsageContext": "expression of intense dislike",
     "wordCount": 3,
-    "toxicScore": 0.9220485091209412
+    "toxicScore": 0.9144054055213928
   },
   {
     "engelsk": "imbecile",
@@ -2205,7 +2286,7 @@
     "form": "noun",
     "extraUsageContext": "fool",
     "wordCount": 1,
-    "toxicScore": 0.9163656830787659
+    "toxicScore": 0.9144161343574524
   },
   {
     "engelsk": "imbecile",
@@ -2213,7 +2294,7 @@
     "form": "noun",
     "extraUsageContext": "fool",
     "wordCount": 1,
-    "toxicScore": 0.5882686376571655
+    "toxicScore": 0.6090961694717407
   },
   {
     "engelsk": "I'm gay",
@@ -2221,7 +2302,15 @@
     "form": "phrase",
     "extraUsageContext": "I'm gay",
     "wordCount": 2,
-    "toxicScore": 0.5015166997909546
+    "toxicScore": 0.5110618472099304
+  },
+  {
+    "engelsk": "I've been raped",
+    "dansk": "jeg er blevet voldtaget",
+    "form": "phrase",
+    "extraUsageContext": "I've been raped",
+    "wordCount": 3,
+    "toxicScore": 0.48480844497680664
   },
   {
     "engelsk": "jackass",
@@ -2229,7 +2318,7 @@
     "form": "noun",
     "extraUsageContext": "foolish or stupid person",
     "wordCount": 1,
-    "toxicScore": 0.9624912738800049
+    "toxicScore": 0.9666532278060913
   },
   {
     "engelsk": "jerk",
@@ -2237,7 +2326,7 @@
     "form": "noun",
     "extraUsageContext": "unlikable person",
     "wordCount": 1,
-    "toxicScore": 0.7274309992790222
+    "toxicScore": 0.7638652920722961
   },
   {
     "engelsk": "jerk",
@@ -2245,7 +2334,7 @@
     "form": "noun",
     "extraUsageContext": "unlikable person",
     "wordCount": 1,
-    "toxicScore": 0.6930158138275146
+    "toxicScore": 0.7175531983375549
   },
   {
     "engelsk": "jerk",
@@ -2253,7 +2342,7 @@
     "form": "noun",
     "extraUsageContext": "unlikable person",
     "wordCount": 1,
-    "toxicScore": 0.8062690496444702
+    "toxicScore": 0.7928317189216614
   },
   {
     "engelsk": "jerk",
@@ -2261,7 +2350,7 @@
     "form": "noun",
     "extraUsageContext": "unlikable person",
     "wordCount": 1,
-    "toxicScore": 0.8492598533630371
+    "toxicScore": 0.8555484414100647
   },
   {
     "engelsk": "jerk off",
@@ -2269,7 +2358,7 @@
     "form": "verb",
     "extraUsageContext": "to masturbate",
     "wordCount": 2,
-    "toxicScore": 0.9057319164276123
+    "toxicScore": 0.9055784940719604
   },
   {
     "engelsk": "jerk off",
@@ -2277,7 +2366,7 @@
     "form": "verb",
     "extraUsageContext": "to masturbate",
     "wordCount": 2,
-    "toxicScore": 0.9411526918411255
+    "toxicScore": 0.951508104801178
   },
   {
     "engelsk": "jerk off",
@@ -2285,7 +2374,7 @@
     "form": "verb",
     "extraUsageContext": "to masturbate",
     "wordCount": 2,
-    "toxicScore": 0.8745181560516357
+    "toxicScore": 0.881751298904419
   },
   {
     "engelsk": "junk",
@@ -2293,7 +2382,7 @@
     "form": "noun",
     "extraUsageContext": "rubbish, waste",
     "wordCount": 1,
-    "toxicScore": 0.46372753381729126
+    "toxicScore": 0.5016579627990723
   },
   {
     "engelsk": "keg",
@@ -2301,7 +2390,7 @@
     "form": "noun",
     "extraUsageContext": "round wooden container that has a flat top and bottom",
     "wordCount": 1,
-    "toxicScore": 0.5303072929382324
+    "toxicScore": 0.5426697731018066
   },
   {
     "engelsk": "kill",
@@ -2309,7 +2398,7 @@
     "form": "verb",
     "extraUsageContext": "put to death",
     "wordCount": 1,
-    "toxicScore": 0.7099374532699585
+    "toxicScore": 0.7277958989143372
   },
   {
     "engelsk": "kill",
@@ -2317,7 +2406,7 @@
     "form": "verb",
     "extraUsageContext": "put to death",
     "wordCount": 1,
-    "toxicScore": 0.667347252368927
+    "toxicScore": 0.7112737894058228
   },
   {
     "engelsk": "kill",
@@ -2325,7 +2414,7 @@
     "form": "verb",
     "extraUsageContext": "render void",
     "wordCount": 1,
-    "toxicScore": 0.7497116923332214
+    "toxicScore": 0.6898775100708008
   },
   {
     "engelsk": "kill",
@@ -2333,7 +2422,7 @@
     "form": "verb",
     "extraUsageContext": "waste",
     "wordCount": 1,
-    "toxicScore": 0.8181554079055786
+    "toxicScore": 0.7662211060523987
   },
   {
     "engelsk": "kill",
@@ -2341,7 +2430,7 @@
     "form": "noun",
     "extraUsageContext": "act of killing",
     "wordCount": 1,
-    "toxicScore": 0.8467081189155579
+    "toxicScore": 0.8474943041801453
   },
   {
     "engelsk": "kill",
@@ -2349,7 +2438,7 @@
     "form": "noun",
     "extraUsageContext": "act of killing",
     "wordCount": 1,
-    "toxicScore": 0.9019386768341064
+    "toxicScore": 0.9254780411720276
   },
   {
     "engelsk": "kill",
@@ -2357,7 +2446,7 @@
     "form": "noun",
     "extraUsageContext": "act of killing",
     "wordCount": 1,
-    "toxicScore": 0.6735774278640747
+    "toxicScore": 0.6769968271255493
   },
   {
     "engelsk": "kill",
@@ -2365,7 +2454,7 @@
     "form": "noun",
     "extraUsageContext": "death blow",
     "wordCount": 1,
-    "toxicScore": 0.8526707291603088
+    "toxicScore": 0.863898754119873
   },
   {
     "engelsk": "kill",
@@ -2377,7 +2466,7 @@
       "victim"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7191058993339539
+    "toxicScore": 0.6689901351928711
   },
   {
     "engelsk": "kill",
@@ -2389,15 +2478,18 @@
       "victim"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7687841653823853
+    "toxicScore": 0.7149154543876648
   },
   {
     "engelsk": "kill two birds with one stone",
-    "dansk": "slå to fluer med et smæk (to hit two flies with one slap)",
+    "dansk": "slå to fluer med et smæk",
     "form": "verb",
     "extraUsageContext": "solve two problems at once",
+    "notes": [
+      "to hit two flies with one slap"
+    ],
     "wordCount": 6,
-    "toxicScore": 0.6394336819648743
+    "toxicScore": 0.6912115812301636
   },
   {
     "engelsk": "kiss ass",
@@ -2408,7 +2500,42 @@
       "vulgar"
     ],
     "wordCount": 2,
-    "toxicScore": 0.9619965553283691
+    "toxicScore": 0.9606631398200989
+  },
+  {
+    "engelsk": "kiss ass",
+    "dansk": "fedte for",
+    "form": "verb",
+    "extraUsageContext": "to flatter excessively",
+    "notes": [
+      "vulgar"
+    ],
+    "wordCount": 2,
+    "toxicScore": 0.9723590016365051
+  },
+  {
+    "engelsk": "kitten",
+    "dansk": "killing",
+    "form": "noun",
+    "extraUsageContext": "a young cat",
+    "wordCount": 1,
+    "toxicScore": 0.7302983999252319
+  },
+  {
+    "engelsk": "kitty",
+    "dansk": "killing",
+    "form": "noun",
+    "extraUsageContext": "kitten, small cat",
+    "wordCount": 1,
+    "toxicScore": 0.7485983967781067
+  },
+  {
+    "engelsk": "knock",
+    "dansk": "slag",
+    "form": "noun",
+    "extraUsageContext": "impact",
+    "wordCount": 1,
+    "toxicScore": 0.518983781337738
   },
   {
     "engelsk": "laugh one's head off",
@@ -2416,18 +2543,7 @@
     "form": "verb",
     "extraUsageContext": "laugh uproariously",
     "wordCount": 4,
-    "toxicScore": 0.7235777378082275
-  },
-  {
-    "engelsk": "leveret",
-    "dansk": "killing",
-    "form": "noun",
-    "extraUsageContext": "a young hare",
-    "notes": [
-      "rare"
-    ],
-    "wordCount": 1,
-    "toxicScore": 0.49387940764427185
+    "toxicScore": 0.6832366585731506
   },
   {
     "engelsk": "lick",
@@ -2435,7 +2551,7 @@
     "form": "verb",
     "extraUsageContext": "to stroke with the tongue",
     "wordCount": 1,
-    "toxicScore": 0.9435210824012756
+    "toxicScore": 0.949877917766571
   },
   {
     "engelsk": "lick",
@@ -2446,7 +2562,7 @@
       "fisse"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9435210824012756
+    "toxicScore": 0.949877917766571
   },
   {
     "engelsk": "lick one's wounds",
@@ -2454,7 +2570,7 @@
     "form": "verb",
     "extraUsageContext": "withdraw temporarily while recovering from a defeat",
     "wordCount": 3,
-    "toxicScore": 0.9081296920776367
+    "toxicScore": 0.9064136743545532
   },
   {
     "engelsk": "lickpot",
@@ -2462,7 +2578,7 @@
     "form": "noun",
     "extraUsageContext": "the forefinger",
     "wordCount": 1,
-    "toxicScore": 0.8276269435882568
+    "toxicScore": 0.8186619877815247
   },
   {
     "engelsk": "lickspittle",
@@ -2470,15 +2586,7 @@
     "form": "verb",
     "extraUsageContext": "act as a fawning toady",
     "wordCount": 1,
-    "toxicScore": 0.5306863784790039
-  },
-  {
-    "engelsk": "look back",
-    "dansk": "kigge tilbage",
-    "form": "verb",
-    "extraUsageContext": "look behind oneself",
-    "wordCount": 2,
-    "toxicScore": 0.5517857670783997
+    "toxicScore": 0.4987596869468689
   },
   {
     "engelsk": "lumpsucker",
@@ -2486,7 +2594,7 @@
     "form": "noun",
     "extraUsageContext": "scorpaeniform fish",
     "wordCount": 1,
-    "toxicScore": 0.954326331615448
+    "toxicScore": 0.9519101977348328
   },
   {
     "engelsk": "lumpsucker",
@@ -2494,7 +2602,7 @@
     "form": "noun",
     "extraUsageContext": "scorpaeniform fish",
     "wordCount": 1,
-    "toxicScore": 0.9786763191223145
+    "toxicScore": 0.9807530641555786
   },
   {
     "engelsk": "lumpsucker",
@@ -2502,7 +2610,7 @@
     "form": "noun",
     "extraUsageContext": "scorpaeniform fish",
     "wordCount": 1,
-    "toxicScore": 0.9635758399963379
+    "toxicScore": 0.9685326814651489
   },
   {
     "engelsk": "lumpsucker",
@@ -2510,7 +2618,7 @@
     "form": "noun",
     "extraUsageContext": "scorpaeniform fish",
     "wordCount": 1,
-    "toxicScore": 0.9347593784332275
+    "toxicScore": 0.9510111808776855
   },
   {
     "engelsk": "maggot",
@@ -2518,7 +2626,7 @@
     "form": "noun",
     "extraUsageContext": "dipterous insect's larva that eats decomposing organic matter",
     "wordCount": 1,
-    "toxicScore": 0.49007755517959595
+    "toxicScore": 0.5106086730957031
   },
   {
     "engelsk": "masturbate",
@@ -2526,7 +2634,15 @@
     "form": "verb",
     "extraUsageContext": "to masturbate",
     "wordCount": 1,
-    "toxicScore": 0.974548876285553
+    "toxicScore": 0.9782272577285767
+  },
+  {
+    "engelsk": "masturbate",
+    "dansk": "onanere",
+    "form": "verb",
+    "extraUsageContext": "to masturbate",
+    "wordCount": 1,
+    "toxicScore": 0.9486324787139893
   },
   {
     "engelsk": "masturbation",
@@ -2534,7 +2650,15 @@
     "form": "noun",
     "extraUsageContext": "manual erotic stimulation of the genitals",
     "wordCount": 1,
-    "toxicScore": 0.9514394998550415
+    "toxicScore": 0.953681230545044
+  },
+  {
+    "engelsk": "masturbation",
+    "dansk": "onani",
+    "form": "noun",
+    "extraUsageContext": "manual erotic stimulation of the genitals",
+    "wordCount": 1,
+    "toxicScore": 0.9472025632858276
   },
   {
     "engelsk": "mess",
@@ -2542,7 +2666,7 @@
     "form": "verb",
     "extraUsageContext": "screw around",
     "wordCount": 1,
-    "toxicScore": 0.9889922738075256
+    "toxicScore": 0.9897790551185608
   },
   {
     "engelsk": "minor",
@@ -2550,7 +2674,7 @@
     "form": "noun",
     "extraUsageContext": "subject of secondary concentration",
     "wordCount": 1,
-    "toxicScore": 0.5054742693901062
+    "toxicScore": 0.5559048652648926
   },
   {
     "engelsk": "moron",
@@ -2558,7 +2682,7 @@
     "form": "noun",
     "extraUsageContext": "person who makes uncool attempts to impress others",
     "wordCount": 1,
-    "toxicScore": 0.5508501529693604
+    "toxicScore": 0.5041915774345398
   },
   {
     "engelsk": "motherfucker",
@@ -2566,7 +2690,7 @@
     "form": "noun",
     "extraUsageContext": "generic term of abuse",
     "wordCount": 1,
-    "toxicScore": 0.9962886571884155
+    "toxicScore": 0.9958983063697815
   },
   {
     "engelsk": "motherfucker",
@@ -2574,7 +2698,7 @@
     "form": "noun",
     "extraUsageContext": "generic term of abuse",
     "wordCount": 1,
-    "toxicScore": 0.9956892728805542
+    "toxicScore": 0.99620121717453
   },
   {
     "engelsk": "murderer",
@@ -2582,14 +2706,14 @@
     "form": "noun",
     "extraUsageContext": "person who commits murder",
     "wordCount": 1,
-    "toxicScore": 0.6462510824203491
+    "toxicScore": 0.5655016303062439
   },
   {
     "engelsk": "my condom broke",
     "dansk": "mit kondom gik i stykker",
     "form": "phrase",
     "wordCount": 3,
-    "toxicScore": 0.9476615190505981
+    "toxicScore": 0.9517129063606262
   },
   {
     "engelsk": "naughty",
@@ -2597,7 +2721,7 @@
     "form": "adjective",
     "extraUsageContext": "bad; tending to misbehave or act badly",
     "wordCount": 1,
-    "toxicScore": 0.4746542274951935
+    "toxicScore": 0.4889752268791199
   },
   {
     "engelsk": "Negro",
@@ -2605,7 +2729,7 @@
     "form": "noun",
     "extraUsageContext": "person with dark skin",
     "wordCount": 1,
-    "toxicScore": 0.8991652727127075
+    "toxicScore": 0.8995274305343628
   },
   {
     "engelsk": "neurotic",
@@ -2613,7 +2737,7 @@
     "form": "noun",
     "extraUsageContext": "person who has a neurosis",
     "wordCount": 1,
-    "toxicScore": 0.46308162808418274
+    "toxicScore": 0.4867231249809265
   },
   {
     "engelsk": "nigger",
@@ -2621,7 +2745,7 @@
     "form": "noun",
     "extraUsageContext": "negro person",
     "wordCount": 1,
-    "toxicScore": 0.9717497229576111
+    "toxicScore": 0.9726870656013489
   },
   {
     "engelsk": "nigger",
@@ -2629,7 +2753,7 @@
     "form": "noun",
     "extraUsageContext": "negro person",
     "wordCount": 1,
-    "toxicScore": 0.9747454524040222
+    "toxicScore": 0.9766721725463867
   },
   {
     "engelsk": "nincompoop",
@@ -2637,7 +2761,7 @@
     "form": "noun",
     "extraUsageContext": "silly or foolish person",
     "wordCount": 1,
-    "toxicScore": 0.9444501996040344
+    "toxicScore": 0.9500702619552612
   },
   {
     "engelsk": "no offense",
@@ -2645,7 +2769,7 @@
     "form": "phrase",
     "extraUsageContext": "no offense",
     "wordCount": 2,
-    "toxicScore": 0.4631292223930359
+    "toxicScore": 0.486383855342865
   },
   {
     "engelsk": "nugget",
@@ -2653,7 +2777,7 @@
     "form": "noun",
     "extraUsageContext": "small chunk or clump",
     "wordCount": 1,
-    "toxicScore": 0.5170950889587402
+    "toxicScore": 0.5451929569244385
   },
   {
     "engelsk": "oral sex",
@@ -2661,7 +2785,7 @@
     "form": "noun",
     "extraUsageContext": "stimulation of the genitals using the mouth",
     "wordCount": 2,
-    "toxicScore": 0.8759958744049072
+    "toxicScore": 0.8730385303497314
   },
   {
     "engelsk": "orgasm",
@@ -2669,7 +2793,7 @@
     "form": "noun",
     "extraUsageContext": "the peak of sexual pleasure",
     "wordCount": 1,
-    "toxicScore": 0.4968503415584564
+    "toxicScore": 0.6031081676483154
   },
   {
     "engelsk": "pathetic",
@@ -2677,7 +2801,7 @@
     "form": "adjective",
     "extraUsageContext": "arousing pity, sympathy, or compassion",
     "wordCount": 1,
-    "toxicScore": 0.6427282094955444
+    "toxicScore": 0.5872572064399719
   },
   {
     "engelsk": "pathetic",
@@ -2685,7 +2809,7 @@
     "form": "adjective",
     "extraUsageContext": "arousing pity, sympathy, or compassion",
     "wordCount": 1,
-    "toxicScore": 0.6546123623847961
+    "toxicScore": 0.6604471206665039
   },
   {
     "engelsk": "pathetic",
@@ -2693,7 +2817,7 @@
     "form": "adjective",
     "extraUsageContext": "arousing pity, sympathy, or compassion",
     "wordCount": 1,
-    "toxicScore": 0.6755382418632507
+    "toxicScore": 0.6557859778404236
   },
   {
     "engelsk": "pathetic",
@@ -2701,7 +2825,7 @@
     "form": "adjective",
     "extraUsageContext": "arousing scorn or contempt",
     "wordCount": 1,
-    "toxicScore": 0.6755382418632507
+    "toxicScore": 0.6557859778404236
   },
   {
     "engelsk": "pathetic",
@@ -2709,14 +2833,14 @@
     "form": "adjective",
     "extraUsageContext": "arousing scorn or contempt",
     "wordCount": 1,
-    "toxicScore": 0.6992716193199158
+    "toxicScore": 0.6876208186149597
   },
   {
     "engelsk": "pee",
     "dansk": "pisse",
     "form": "verb",
     "wordCount": 1,
-    "toxicScore": 0.7505658268928528
+    "toxicScore": 0.7693021893501282
   },
   {
     "engelsk": "penis",
@@ -2725,12 +2849,10 @@
     "notes": [
       "clinical",
       "slang, pejorative",
-      "slang",
-      "slang",
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9733701348304749
+    "toxicScore": 0.9695459604263306
   },
   {
     "engelsk": "penis",
@@ -2739,12 +2861,10 @@
     "notes": [
       "clinical",
       "slang, pejorative",
-      "slang",
-      "slang",
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9178078174591064
+    "toxicScore": 0.912138044834137
   },
   {
     "engelsk": "penis",
@@ -2753,12 +2873,10 @@
     "notes": [
       "clinical",
       "slang, pejorative",
-      "slang",
-      "slang",
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7570353150367737
+    "toxicScore": 0.8304442763328552
   },
   {
     "engelsk": "penis",
@@ -2767,12 +2885,10 @@
     "notes": [
       "clinical",
       "slang, pejorative",
-      "slang",
-      "slang",
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9139871597290039
+    "toxicScore": 0.9397671818733215
   },
   {
     "engelsk": "penis",
@@ -2781,12 +2897,10 @@
     "notes": [
       "clinical",
       "slang, pejorative",
-      "slang",
-      "slang",
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9496465921401978
+    "toxicScore": 0.9407612681388855
   },
   {
     "engelsk": "penis",
@@ -2795,12 +2909,10 @@
     "notes": [
       "clinical",
       "slang, pejorative",
-      "slang",
-      "slang",
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8640336990356445
+    "toxicScore": 0.8801483511924744
   },
   {
     "engelsk": "penis",
@@ -2809,12 +2921,10 @@
     "notes": [
       "clinical",
       "slang, pejorative",
-      "slang",
-      "slang",
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8659431338310242
+    "toxicScore": 0.8571416139602661
   },
   {
     "engelsk": "penis envy",
@@ -2822,7 +2932,7 @@
     "form": "noun",
     "extraUsageContext": "unconscious desire",
     "wordCount": 2,
-    "toxicScore": 0.9565421938896179
+    "toxicScore": 0.9620212316513062
   },
   {
     "engelsk": "per capita",
@@ -2830,7 +2940,7 @@
     "form": "adjective",
     "extraUsageContext": "per person",
     "wordCount": 2,
-    "toxicScore": 0.5207377672195435
+    "toxicScore": 0.4528062045574188
   },
   {
     "engelsk": "pervert",
@@ -2838,7 +2948,7 @@
     "form": "noun",
     "extraUsageContext": "sexually perverted person",
     "wordCount": 1,
-    "toxicScore": 0.6570234298706055
+    "toxicScore": 0.6865156292915344
   },
   {
     "engelsk": "phone sex",
@@ -2846,7 +2956,7 @@
     "form": "noun",
     "extraUsageContext": "erotic or sexual telephone conversation between two or more people",
     "wordCount": 2,
-    "toxicScore": 0.6137214303016663
+    "toxicScore": 0.6421692371368408
   },
   {
     "engelsk": "pickaninny",
@@ -2858,7 +2968,7 @@
       "male, strongly derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9641611576080322
+    "toxicScore": 0.9648565649986267
   },
   {
     "engelsk": "pig",
@@ -2866,7 +2976,7 @@
     "form": "noun",
     "extraUsageContext": "mammal of genus Sus",
     "wordCount": 1,
-    "toxicScore": 0.4738292992115021
+    "toxicScore": 0.4773366451263428
   },
   {
     "engelsk": "piss",
@@ -2874,15 +2984,7 @@
     "form": "noun",
     "extraUsageContext": "urine",
     "wordCount": 1,
-    "toxicScore": 0.6192635893821716
-  },
-  {
-    "engelsk": "plaster",
-    "dansk": "puds",
-    "form": "noun",
-    "extraUsageContext": "mixture for coating",
-    "wordCount": 1,
-    "toxicScore": 0.464396208524704
+    "toxicScore": 0.6484357714653015
   },
   {
     "engelsk": "poof",
@@ -2890,7 +2992,7 @@
     "form": "noun",
     "extraUsageContext": "The product of flatulence.",
     "wordCount": 1,
-    "toxicScore": 0.604795515537262
+    "toxicScore": 0.522395670413971
   },
   {
     "engelsk": "poor",
@@ -2898,7 +3000,7 @@
     "form": "adjective",
     "extraUsageContext": "with little or no possessions or money",
     "wordCount": 1,
-    "toxicScore": 0.5306863784790039
+    "toxicScore": 0.5466321110725403
   },
   {
     "engelsk": "poor as a church mouse",
@@ -2906,7 +3008,7 @@
     "form": "adjective",
     "extraUsageContext": "very poor",
     "wordCount": 5,
-    "toxicScore": 0.7206460237503052
+    "toxicScore": 0.7346116304397583
   },
   {
     "engelsk": "porn",
@@ -2914,7 +3016,7 @@
     "form": "noun",
     "extraUsageContext": "pornography",
     "wordCount": 1,
-    "toxicScore": 0.8619202971458435
+    "toxicScore": 0.858431339263916
   },
   {
     "engelsk": "porno",
@@ -2922,7 +3024,7 @@
     "form": "noun",
     "extraUsageContext": "pornography",
     "wordCount": 1,
-    "toxicScore": 0.6330784559249878
+    "toxicScore": 0.6286320090293884
   },
   {
     "engelsk": "porno",
@@ -2930,7 +3032,7 @@
     "form": "noun",
     "extraUsageContext": "pornographic film",
     "wordCount": 1,
-    "toxicScore": 0.46195104718208313
+    "toxicScore": 0.4879937171936035
   },
   {
     "engelsk": "pornographer",
@@ -2938,7 +3040,15 @@
     "form": "noun",
     "extraUsageContext": "person involved in creation or dissemination of pornography",
     "wordCount": 1,
-    "toxicScore": 0.6353957056999207
+    "toxicScore": 0.6071566343307495
+  },
+  {
+    "engelsk": "pornographic",
+    "dansk": "pornografisk",
+    "form": "adjective",
+    "extraUsageContext": "containing an explicit depiction of sexual activity",
+    "wordCount": 1,
+    "toxicScore": 0.5076544284820557
   },
   {
     "engelsk": "pornography",
@@ -2946,7 +3056,7 @@
     "form": "noun",
     "extraUsageContext": "depiction of sexual subject matter with prurient intent",
     "wordCount": 1,
-    "toxicScore": 0.5220909714698792
+    "toxicScore": 0.5636262893676758
   },
   {
     "engelsk": "porn star",
@@ -2954,7 +3064,7 @@
     "form": "noun",
     "extraUsageContext": "actor or actress famous for appearing in pornographic films",
     "wordCount": 2,
-    "toxicScore": 0.617301881313324
+    "toxicScore": 0.5721628069877625
   },
   {
     "engelsk": "pre-ejaculate",
@@ -2962,7 +3072,7 @@
     "form": "noun",
     "extraUsageContext": "pre-ejaculate",
     "wordCount": 1,
-    "toxicScore": 0.8133557438850403
+    "toxicScore": 0.795274555683136
   },
   {
     "engelsk": "profession",
@@ -2970,7 +3080,7 @@
     "form": "noun",
     "extraUsageContext": "occupation",
     "wordCount": 1,
-    "toxicScore": 0.45863860845565796
+    "toxicScore": 0.46013474464416504
   },
   {
     "engelsk": "prostitute",
@@ -2978,7 +3088,7 @@
     "form": "verb",
     "extraUsageContext": "reflexive: to perform sexual activity for money",
     "wordCount": 1,
-    "toxicScore": 0.7364624738693237
+    "toxicScore": 0.7459390759468079
   },
   {
     "engelsk": "prostitute",
@@ -2986,7 +3096,7 @@
     "form": "verb",
     "extraUsageContext": "to make another person, or organisation, prostitute themselves",
     "wordCount": 1,
-    "toxicScore": 0.8338053822517395
+    "toxicScore": 0.8486919403076172
   },
   {
     "engelsk": "prostitute",
@@ -2994,7 +3104,7 @@
     "form": "verb",
     "extraUsageContext": "derogatory: to use one's talents in return for money or fame",
     "wordCount": 1,
-    "toxicScore": 0.6293061971664429
+    "toxicScore": 0.6871527433395386
   },
   {
     "engelsk": "prostitute",
@@ -3009,7 +3119,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7467552423477173
+    "toxicScore": 0.688804030418396
   },
   {
     "engelsk": "prostitute",
@@ -3024,7 +3134,22 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8417961597442627
+    "toxicScore": 0.8539086580276489
+  },
+  {
+    "engelsk": "prostitute",
+    "dansk": "glædespige",
+    "form": "noun",
+    "extraUsageContext": "a person having sex for profit",
+    "notes": [
+      "derogatory",
+      "female, derogatory",
+      "female",
+      "male gay",
+      "archaic, derogatory"
+    ],
+    "wordCount": 1,
+    "toxicScore": 0.6246145963668823
   },
   {
     "engelsk": "prostitute",
@@ -3039,7 +3164,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.6807163953781128
+    "toxicScore": 0.698477566242218
   },
   {
     "engelsk": "prostitute",
@@ -3054,7 +3179,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7809464931488037
+    "toxicScore": 0.7219340801239014
   },
   {
     "engelsk": "prostitute",
@@ -3069,7 +3194,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.6635550260543823
+    "toxicScore": 0.6760254502296448
   },
   {
     "engelsk": "prostitute",
@@ -3084,7 +3209,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.844735324382782
+    "toxicScore": 0.849637508392334
   },
   {
     "engelsk": "pus",
@@ -3092,7 +3217,15 @@
     "form": "noun",
     "extraUsageContext": "fluid found in regions of infection",
     "wordCount": 1,
-    "toxicScore": 0.577370822429657
+    "toxicScore": 0.5527165532112122
+  },
+  {
+    "engelsk": "Puss in Boots",
+    "dansk": "Den bestøvlede kat",
+    "form": "properNoun",
+    "extraUsageContext": "fairy tale",
+    "wordCount": 3,
+    "toxicScore": 0.511458158493042
   },
   {
     "engelsk": "pussy",
@@ -3100,7 +3233,7 @@
     "form": "noun",
     "extraUsageContext": "affectionate term for a girl or woman",
     "wordCount": 1,
-    "toxicScore": 0.945403516292572
+    "toxicScore": 0.9376839995384216
   },
   {
     "engelsk": "pussy",
@@ -3108,7 +3241,7 @@
     "form": "noun",
     "extraUsageContext": "informal: affectionate term for a cat",
     "wordCount": 1,
-    "toxicScore": 0.9650073647499084
+    "toxicScore": 0.9676192402839661
   },
   {
     "engelsk": "pussy",
@@ -3116,7 +3249,7 @@
     "form": "noun",
     "extraUsageContext": "informal: affectionate term for a cat",
     "wordCount": 1,
-    "toxicScore": 0.945403516292572
+    "toxicScore": 0.9376839995384216
   },
   {
     "engelsk": "pussy",
@@ -3128,7 +3261,7 @@
       "childish"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9635656476020813
+    "toxicScore": 0.9698264002799988
   },
   {
     "engelsk": "pussy",
@@ -3140,7 +3273,7 @@
       "childish"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9739512205123901
+    "toxicScore": 0.9724035859107971
   },
   {
     "engelsk": "pussy",
@@ -3152,7 +3285,7 @@
       "childish"
     ],
     "wordCount": 1,
-    "toxicScore": 0.946727454662323
+    "toxicScore": 0.9301623106002808
   },
   {
     "engelsk": "pussy",
@@ -3160,7 +3293,7 @@
     "form": "noun",
     "extraUsageContext": "informal: coward",
     "wordCount": 1,
-    "toxicScore": 0.9459126591682434
+    "toxicScore": 0.9434447884559631
   },
   {
     "engelsk": "pussywhipped",
@@ -3168,7 +3301,7 @@
     "form": "adjective",
     "extraUsageContext": "submissive to or dominated by one's wife or other female partner",
     "wordCount": 1,
-    "toxicScore": 0.9750068783760071
+    "toxicScore": 0.9745144844055176
   },
   {
     "engelsk": "put out",
@@ -3176,7 +3309,7 @@
     "form": "verb",
     "extraUsageContext": "extinguish",
     "wordCount": 2,
-    "toxicScore": 0.9307625889778137
+    "toxicScore": 0.9461638927459717
   },
   {
     "engelsk": "quench",
@@ -3184,7 +3317,7 @@
     "form": "verb",
     "extraUsageContext": "to satisfy thirst",
     "wordCount": 1,
-    "toxicScore": 0.7113692164421082
+    "toxicScore": 0.6982855796813965
   },
   {
     "engelsk": "quiver",
@@ -3192,7 +3325,7 @@
     "form": "noun",
     "extraUsageContext": "arrow container",
     "wordCount": 1,
-    "toxicScore": 0.4665822386741638
+    "toxicScore": 0.45616626739501953
   },
   {
     "engelsk": "rape",
@@ -3200,7 +3333,7 @@
     "form": "noun",
     "extraUsageContext": "act of forcing sexual activity",
     "wordCount": 1,
-    "toxicScore": 0.6550717949867249
+    "toxicScore": 0.645648717880249
   },
   {
     "engelsk": "rape",
@@ -3208,7 +3341,7 @@
     "form": "verb",
     "extraUsageContext": "force sexual intercourse",
     "wordCount": 1,
-    "toxicScore": 0.5445781946182251
+    "toxicScore": 0.5795487761497498
   },
   {
     "engelsk": "rape",
@@ -3216,7 +3349,7 @@
     "form": "verb",
     "extraUsageContext": "cause damage, destruction to a countryside, nature etc",
     "wordCount": 1,
-    "toxicScore": 0.5880964398384094
+    "toxicScore": 0.5366924405097961
   },
   {
     "engelsk": "rape",
@@ -3224,7 +3357,7 @@
     "form": "verb",
     "extraUsageContext": "cause damage, destruction to a countryside, nature etc",
     "wordCount": 1,
-    "toxicScore": 0.5831688642501831
+    "toxicScore": 0.549677312374115
   },
   {
     "engelsk": "rapist",
@@ -3232,7 +3365,7 @@
     "form": "noun",
     "extraUsageContext": "someone who rapes someone else",
     "wordCount": 1,
-    "toxicScore": 0.4936060309410095
+    "toxicScore": 0.4653507471084595
   },
   {
     "engelsk": "rapist",
@@ -3240,7 +3373,7 @@
     "form": "noun",
     "extraUsageContext": "someone who rapes someone else",
     "wordCount": 1,
-    "toxicScore": 0.48256877064704895
+    "toxicScore": 0.4697161018848419
   },
   {
     "engelsk": "rat",
@@ -3248,7 +3381,15 @@
     "form": "noun",
     "extraUsageContext": "rodent",
     "wordCount": 1,
-    "toxicScore": 0.5156588554382324
+    "toxicScore": 0.5303435921669006
+  },
+  {
+    "engelsk": "recirculate",
+    "dansk": "recirkulere",
+    "form": "verb",
+    "extraUsageContext": "to circulate again",
+    "wordCount": 1,
+    "toxicScore": 0.484435111284256
   },
   {
     "engelsk": "recirculation",
@@ -3256,7 +3397,7 @@
     "form": "noun",
     "extraUsageContext": "act or process of recirculating",
     "wordCount": 1,
-    "toxicScore": 0.4839480221271515
+    "toxicScore": 0.493847519159317
   },
   {
     "engelsk": "retarded",
@@ -3264,7 +3405,7 @@
     "form": "adjective",
     "extraUsageContext": "having mental retardation",
     "wordCount": 1,
-    "toxicScore": 0.8663045763969421
+    "toxicScore": 0.8552677035331726
   },
   {
     "engelsk": "retarded",
@@ -3272,7 +3413,7 @@
     "form": "adjective",
     "extraUsageContext": "having mental retardation",
     "wordCount": 1,
-    "toxicScore": 0.8532753586769104
+    "toxicScore": 0.8585542440414429
   },
   {
     "engelsk": "revenge porn",
@@ -3280,7 +3421,7 @@
     "form": "noun",
     "extraUsageContext": "explicit media distributed as revenge",
     "wordCount": 2,
-    "toxicScore": 0.7463430762290955
+    "toxicScore": 0.7712922096252441
   },
   {
     "engelsk": "safe sex",
@@ -3288,7 +3429,7 @@
     "form": "noun",
     "extraUsageContext": "sexual activity that minize risks",
     "wordCount": 2,
-    "toxicScore": 0.8681119084358215
+    "toxicScore": 0.879509449005127
   },
   {
     "engelsk": "Satan",
@@ -3296,7 +3437,7 @@
     "form": "properNoun",
     "extraUsageContext": "the Devil",
     "wordCount": 1,
-    "toxicScore": 0.7136431336402893
+    "toxicScore": 0.5975056290626526
   },
   {
     "engelsk": "scum",
@@ -3304,7 +3445,7 @@
     "form": "noun",
     "extraUsageContext": "person or persons considered to be reprehensible",
     "wordCount": 1,
-    "toxicScore": 0.7334567904472351
+    "toxicScore": 0.757353663444519
   },
   {
     "engelsk": "scum",
@@ -3312,7 +3453,7 @@
     "form": "verb",
     "extraUsageContext": "remove layer of scum",
     "wordCount": 1,
-    "toxicScore": 0.6865489482879639
+    "toxicScore": 0.6709408164024353
   },
   {
     "engelsk": "semen",
@@ -3320,7 +3461,7 @@
     "form": "noun",
     "extraUsageContext": "male reproductory fluid",
     "wordCount": 1,
-    "toxicScore": 0.8291957974433899
+    "toxicScore": 0.7985974550247192
   },
   {
     "engelsk": "set fire",
@@ -3328,7 +3469,7 @@
     "form": "verb",
     "extraUsageContext": "to light using fire",
     "wordCount": 2,
-    "toxicScore": 0.6817396283149719
+    "toxicScore": 0.6818463802337646
   },
   {
     "engelsk": "sex",
@@ -3336,15 +3477,7 @@
     "form": "noun",
     "extraUsageContext": "act of sexual intercourse",
     "wordCount": 1,
-    "toxicScore": 0.8118346333503723
-  },
-  {
-    "engelsk": "sex",
-    "dansk": "kønsliv",
-    "form": "noun",
-    "extraUsageContext": "act of sexual intercourse",
-    "wordCount": 1,
-    "toxicScore": 0.45452749729156494
+    "toxicScore": 0.8107518553733826
   },
   {
     "engelsk": "sex",
@@ -3352,7 +3485,7 @@
     "form": "noun",
     "extraUsageContext": "act of sexual intercourse",
     "wordCount": 1,
-    "toxicScore": 0.5867136716842651
+    "toxicScore": 0.5159115195274353
   },
   {
     "engelsk": "sex",
@@ -3360,23 +3493,7 @@
     "form": "noun",
     "extraUsageContext": "act of sexual intercourse",
     "wordCount": 1,
-    "toxicScore": 0.7669582366943359
-  },
-  {
-    "engelsk": "sex",
-    "dansk": "samleje",
-    "form": "noun",
-    "extraUsageContext": "act of sexual intercourse",
-    "wordCount": 1,
-    "toxicScore": 0.5726669430732727
-  },
-  {
-    "engelsk": "sex",
-    "dansk": "erotik",
-    "form": "noun",
-    "extraUsageContext": "act of sexual intercourse",
-    "wordCount": 1,
-    "toxicScore": 0.5363819599151611
+    "toxicScore": 0.6970494985580444
   },
   {
     "engelsk": "sex",
@@ -3384,7 +3501,7 @@
     "form": "verb",
     "extraUsageContext": "to determine the sex of",
     "wordCount": 1,
-    "toxicScore": 0.4947679042816162
+    "toxicScore": 0.4737747609615326
   },
   {
     "engelsk": "sex",
@@ -3392,7 +3509,15 @@
     "form": "verb",
     "extraUsageContext": "informal: to have sex with",
     "wordCount": 1,
-    "toxicScore": 0.6795703768730164
+    "toxicScore": 0.689592719078064
+  },
+  {
+    "engelsk": "sex",
+    "dansk": "have samleje med",
+    "form": "verb",
+    "extraUsageContext": "informal: to have sex with",
+    "wordCount": 1,
+    "toxicScore": 0.6102977395057678
   },
   {
     "engelsk": "sex",
@@ -3400,7 +3525,7 @@
     "form": "verb",
     "extraUsageContext": "informal: to have sex with",
     "wordCount": 1,
-    "toxicScore": 0.674526572227478
+    "toxicScore": 0.49777767062187195
   },
   {
     "engelsk": "sex act",
@@ -3411,15 +3536,7 @@
       "vulgar"
     ],
     "wordCount": 2,
-    "toxicScore": 0.6089659929275513
-  },
-  {
-    "engelsk": "sex appeal",
-    "dansk": "sexappeal",
-    "form": "noun",
-    "extraUsageContext": "sexual attractiveness",
-    "wordCount": 2,
-    "toxicScore": 0.4658564329147339
+    "toxicScore": 0.5681422352790833
   },
   {
     "engelsk": "sex hair",
@@ -3427,7 +3544,7 @@
     "form": "noun",
     "extraUsageContext": "sex hair",
     "wordCount": 2,
-    "toxicScore": 0.649932324886322
+    "toxicScore": 0.6080693006515503
   },
   {
     "engelsk": "sex offender",
@@ -3435,7 +3552,7 @@
     "form": "noun",
     "extraUsageContext": "somebody who has committed a crime of a sexual nature",
     "wordCount": 2,
-    "toxicScore": 0.7959592938423157
+    "toxicScore": 0.7530046701431274
   },
   {
     "engelsk": "sex offender",
@@ -3443,7 +3560,7 @@
     "form": "noun",
     "extraUsageContext": "somebody who has committed a crime of a sexual nature",
     "wordCount": 2,
-    "toxicScore": 0.7673636078834534
+    "toxicScore": 0.7793425917625427
   },
   {
     "engelsk": "sex organ",
@@ -3451,7 +3568,7 @@
     "form": "noun",
     "extraUsageContext": "organ used in sexual reproduction",
     "wordCount": 2,
-    "toxicScore": 0.8752285242080688
+    "toxicScore": 0.8439590930938721
   },
   {
     "engelsk": "sex position",
@@ -3459,23 +3576,15 @@
     "form": "noun",
     "extraUsageContext": "sex position",
     "wordCount": 2,
-    "toxicScore": 0.5900246500968933
+    "toxicScore": 0.534570574760437
   },
   {
-    "engelsk": "sexual",
-    "dansk": "seksuel",
-    "form": "adjective",
-    "extraUsageContext": "of or relating to having sex",
-    "wordCount": 1,
-    "toxicScore": 0.4509528577327728
-  },
-  {
-    "engelsk": "sexual",
-    "dansk": "seksuel",
-    "form": "adjective",
-    "extraUsageContext": "of or relating to sexual orientation, identity or preferences",
-    "wordCount": 1,
-    "toxicScore": 0.4509528577327728
+    "engelsk": "sexual intercourse",
+    "dansk": "samleje",
+    "form": "noun",
+    "extraUsageContext": "sexual interaction",
+    "wordCount": 2,
+    "toxicScore": 0.6582136750221252
   },
   {
     "engelsk": "sexual orientation",
@@ -3483,7 +3592,7 @@
     "form": "noun",
     "extraUsageContext": "sexual orientation",
     "wordCount": 2,
-    "toxicScore": 0.6566537022590637
+    "toxicScore": 0.6317500472068787
   },
   {
     "engelsk": "sex worker",
@@ -3491,7 +3600,7 @@
     "form": "noun",
     "extraUsageContext": "person who supplies sexual services for money",
     "wordCount": 2,
-    "toxicScore": 0.6970571875572205
+    "toxicScore": 0.7243663668632507
   },
   {
     "engelsk": "sexy",
@@ -3499,7 +3608,7 @@
     "form": "adjective",
     "extraUsageContext": "having sexual appeal",
     "wordCount": 1,
-    "toxicScore": 0.6706308722496033
+    "toxicScore": 0.6064150929450989
   },
   {
     "engelsk": "sexy",
@@ -3507,28 +3616,28 @@
     "form": "adjective",
     "extraUsageContext": "slang: very attractive or appealing",
     "wordCount": 1,
-    "toxicScore": 0.6706308722496033
+    "toxicScore": 0.6064150929450989
   },
   {
     "engelsk": "shit",
     "dansk": "lort",
     "form": "noun",
     "wordCount": 1,
-    "toxicScore": 0.9720776677131653
+    "toxicScore": 0.9649047255516052
   },
   {
     "engelsk": "shit",
     "dansk": "skide",
     "form": "verb",
     "wordCount": 1,
-    "toxicScore": 0.9804428219795227
+    "toxicScore": 0.9808465838432312
   },
   {
     "engelsk": "shit",
     "dansk": "lave lort",
     "form": "verb",
     "wordCount": 1,
-    "toxicScore": 0.963337779045105
+    "toxicScore": 0.9666629433631897
   },
   {
     "engelsk": "shit",
@@ -3536,7 +3645,18 @@
     "form": "verb",
     "extraUsageContext": "vulgar: to excrete (something",
     "wordCount": 1,
-    "toxicScore": 0.9754965305328369
+    "toxicScore": 0.9761102199554443
+  },
+  {
+    "engelsk": "shit a brick",
+    "dansk": "gå amok",
+    "form": "verb",
+    "extraUsageContext": "To react strongly in anger",
+    "notes": [
+      "walk amok"
+    ],
+    "wordCount": 3,
+    "toxicScore": 0.955783486366272
   },
   {
     "engelsk": "shit a brick",
@@ -3544,7 +3664,18 @@
     "form": "verb",
     "extraUsageContext": "To react strongly in anger",
     "wordCount": 3,
-    "toxicScore": 0.9597606062889099
+    "toxicScore": 0.9480233192443848
+  },
+  {
+    "engelsk": "shit a brick",
+    "dansk": "skide i bukserne",
+    "form": "verb",
+    "extraUsageContext": "To react strongly in fear",
+    "notes": [
+      "shit in the pants"
+    ],
+    "wordCount": 3,
+    "toxicScore": 0.9798694252967834
   },
   {
     "engelsk": "shithead",
@@ -3552,7 +3683,7 @@
     "form": "noun",
     "extraUsageContext": "stupid or contemptible person",
     "wordCount": 1,
-    "toxicScore": 0.7549623250961304
+    "toxicScore": 0.7590329051017761
   },
   {
     "engelsk": "shitstorm",
@@ -3560,7 +3691,7 @@
     "form": "noun",
     "extraUsageContext": "Considerable backlash.",
     "wordCount": 1,
-    "toxicScore": 0.9323230981826782
+    "toxicScore": 0.9351213574409485
   },
   {
     "engelsk": "shitter",
@@ -3571,7 +3702,7 @@
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8490193486213684
+    "toxicScore": 0.80721116065979
   },
   {
     "engelsk": "shitter",
@@ -3582,7 +3713,7 @@
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8835205435752869
+    "toxicScore": 0.8987363576889038
   },
   {
     "engelsk": "shoot oneself in the foot",
@@ -3590,7 +3721,7 @@
     "form": "verb",
     "extraUsageContext": "to act against one's own interest",
     "wordCount": 5,
-    "toxicScore": 0.5316600799560547
+    "toxicScore": 0.6033328175544739
   },
   {
     "engelsk": "shut",
@@ -3598,7 +3729,7 @@
     "form": "verb",
     "extraUsageContext": "(transitive",
     "wordCount": 1,
-    "toxicScore": 0.8669576644897461
+    "toxicScore": 0.8391715288162231
   },
   {
     "engelsk": "shut up",
@@ -3606,7 +3737,7 @@
     "form": "verb",
     "extraUsageContext": "close (a building",
     "wordCount": 2,
-    "toxicScore": 0.8847371339797974
+    "toxicScore": 0.89522385597229
   },
   {
     "engelsk": "shut up",
@@ -3614,7 +3745,7 @@
     "form": "verb",
     "extraUsageContext": "close (a building",
     "wordCount": 2,
-    "toxicScore": 0.8763063549995422
+    "toxicScore": 0.8949688673019409
   },
   {
     "engelsk": "shut up",
@@ -3622,7 +3753,7 @@
     "form": "verb",
     "extraUsageContext": "terminate (a business",
     "wordCount": 2,
-    "toxicScore": 0.9385632872581482
+    "toxicScore": 0.9366757869720459
   },
   {
     "engelsk": "shut up",
@@ -3630,7 +3761,7 @@
     "form": "verb",
     "extraUsageContext": "enclose (a person, animal or thing",
     "wordCount": 2,
-    "toxicScore": 0.8776749968528748
+    "toxicScore": 0.8897056579589844
   },
   {
     "engelsk": "shut up",
@@ -3638,7 +3769,7 @@
     "form": "verb",
     "extraUsageContext": "put (an object",
     "wordCount": 2,
-    "toxicScore": 0.8776749968528748
+    "toxicScore": 0.8897056579589844
   },
   {
     "engelsk": "shut up",
@@ -3646,7 +3777,7 @@
     "form": "verb",
     "extraUsageContext": "intransitive: to stop talking or making noise",
     "wordCount": 2,
-    "toxicScore": 0.89301598072052
+    "toxicScore": 0.8902812600135803
   },
   {
     "engelsk": "shut up",
@@ -3654,7 +3785,7 @@
     "form": "verb",
     "extraUsageContext": "intransitive: to stop talking or making noise",
     "wordCount": 2,
-    "toxicScore": 0.8810396194458008
+    "toxicScore": 0.8840177059173584
   },
   {
     "engelsk": "shut up",
@@ -3662,7 +3793,7 @@
     "form": "verb",
     "extraUsageContext": "intransitive: to stop talking or making noise",
     "wordCount": 2,
-    "toxicScore": 0.8381837606430054
+    "toxicScore": 0.8650732040405273
   },
   {
     "engelsk": "shut up",
@@ -3670,7 +3801,7 @@
     "form": "verb",
     "extraUsageContext": "intransitive: to stop talking or making noise",
     "wordCount": 2,
-    "toxicScore": 0.8918707966804504
+    "toxicScore": 0.8796870708465576
   },
   {
     "engelsk": "shut up",
@@ -3678,15 +3809,23 @@
     "form": "verb",
     "extraUsageContext": "imperative: \"Shut up!\", see also: hold one's tongue",
     "wordCount": 2,
-    "toxicScore": 0.8330069184303284
+    "toxicScore": 0.8366899490356445
   },
   {
-    "engelsk": "silly",
-    "dansk": "fjollet",
-    "form": "adjective",
-    "extraUsageContext": "playful, giggly",
+    "engelsk": "shut up",
+    "dansk": "det mener du ikke",
+    "form": "verb",
+    "extraUsageContext": "\"I don't believe it!\"",
+    "wordCount": 2,
+    "toxicScore": 0.9568454027175903
+  },
+  {
+    "engelsk": "sigh",
+    "dansk": "sukke",
+    "form": "verb",
+    "extraUsageContext": "to inhale a larger quantity of air than usual, and immediately expel it",
     "wordCount": 1,
-    "toxicScore": 0.5145570635795593
+    "toxicScore": 0.5609277486801147
   },
   {
     "engelsk": "skim",
@@ -3694,7 +3833,7 @@
     "form": "verb",
     "extraUsageContext": "throw an object so it bounces on water",
     "wordCount": 1,
-    "toxicScore": 0.7173370122909546
+    "toxicScore": 0.7105638980865479
   },
   {
     "engelsk": "slap in the face",
@@ -3702,7 +3841,7 @@
     "form": "noun",
     "extraUsageContext": "slap in the face or on the cheek",
     "wordCount": 4,
-    "toxicScore": 0.7534857392311096
+    "toxicScore": 0.7510177493095398
   },
   {
     "engelsk": "slum",
@@ -3710,7 +3849,7 @@
     "form": "noun",
     "extraUsageContext": "dilapidated neighborhood",
     "wordCount": 1,
-    "toxicScore": 0.5783045887947083
+    "toxicScore": 0.503576397895813
   },
   {
     "engelsk": "slum",
@@ -3718,7 +3857,7 @@
     "form": "noun",
     "extraUsageContext": "dilapidated neighborhood",
     "wordCount": 1,
-    "toxicScore": 0.8073728084564209
+    "toxicScore": 0.7811880111694336
   },
   {
     "engelsk": "slut",
@@ -3726,7 +3865,7 @@
     "form": "noun",
     "extraUsageContext": "sexually promiscuous woman",
     "wordCount": 1,
-    "toxicScore": 0.8893178105354309
+    "toxicScore": 0.8651806116104126
   },
   {
     "engelsk": "slut",
@@ -3734,7 +3873,7 @@
     "form": "noun",
     "extraUsageContext": "sexually promiscuous woman",
     "wordCount": 1,
-    "toxicScore": 0.8233017921447754
+    "toxicScore": 0.8528755307197571
   },
   {
     "engelsk": "slut",
@@ -3742,7 +3881,7 @@
     "form": "noun",
     "extraUsageContext": "sexually promiscuous woman",
     "wordCount": 1,
-    "toxicScore": 0.8871746063232422
+    "toxicScore": 0.9051074981689453
   },
   {
     "engelsk": "slut",
@@ -3750,7 +3889,7 @@
     "form": "noun",
     "extraUsageContext": "a female dog",
     "wordCount": 1,
-    "toxicScore": 0.8790577054023743
+    "toxicScore": 0.8841363191604614
   },
   {
     "engelsk": "slut",
@@ -3758,7 +3897,7 @@
     "form": "noun",
     "extraUsageContext": "a female dog",
     "wordCount": 1,
-    "toxicScore": 0.8840466737747192
+    "toxicScore": 0.8437910079956055
   },
   {
     "engelsk": "smell",
@@ -3770,7 +3909,7 @@
       "unpleasant"
     ],
     "wordCount": 1,
-    "toxicScore": 0.724031388759613
+    "toxicScore": 0.7117190361022949
   },
   {
     "engelsk": "sock puppet",
@@ -3778,7 +3917,7 @@
     "form": "noun",
     "extraUsageContext": "simple puppet made from a sock",
     "wordCount": 2,
-    "toxicScore": 0.5246850848197937
+    "toxicScore": 0.6203245520591736
   },
   {
     "engelsk": "softcore pornography",
@@ -3786,7 +3925,7 @@
     "form": "noun",
     "extraUsageContext": "form of pornography where the sexual acts are relatively unexplicit",
     "wordCount": 2,
-    "toxicScore": 0.4747542142868042
+    "toxicScore": 0.5474473834037781
   },
   {
     "engelsk": "soft porn",
@@ -3794,7 +3933,7 @@
     "form": "noun",
     "extraUsageContext": "soft-core pornography",
     "wordCount": 2,
-    "toxicScore": 0.6855537295341492
+    "toxicScore": 0.6398916244506836
   },
   {
     "engelsk": "something",
@@ -3802,7 +3941,7 @@
     "form": "pronoun",
     "extraUsageContext": "unspecified object",
     "wordCount": 1,
-    "toxicScore": 0.5074129700660706
+    "toxicScore": 0.5011999607086182
   },
   {
     "engelsk": "son of a bitch",
@@ -3810,7 +3949,7 @@
     "form": "noun",
     "extraUsageContext": "objectionable person",
     "wordCount": 4,
-    "toxicScore": 0.9941297769546509
+    "toxicScore": 0.9952864646911621
   },
   {
     "engelsk": "sperm",
@@ -3818,7 +3957,7 @@
     "form": "noun",
     "extraUsageContext": "cell",
     "wordCount": 1,
-    "toxicScore": 0.6975361704826355
+    "toxicScore": 0.6632130742073059
   },
   {
     "engelsk": "sperm",
@@ -3826,7 +3965,7 @@
     "form": "noun",
     "extraUsageContext": "semen (fluid",
     "wordCount": 1,
-    "toxicScore": 0.891793429851532
+    "toxicScore": 0.870144784450531
   },
   {
     "engelsk": "spike",
@@ -3834,7 +3973,7 @@
     "form": "noun",
     "extraUsageContext": "anything resembling like a nail in shape",
     "wordCount": 1,
-    "toxicScore": 0.6112055778503418
+    "toxicScore": 0.5363819599151611
   },
   {
     "engelsk": "spine",
@@ -3845,7 +3984,7 @@
       "of a hedgehog"
     ],
     "wordCount": 1,
-    "toxicScore": 0.6551520824432373
+    "toxicScore": 0.6634756326675415
   },
   {
     "engelsk": "stab in the back",
@@ -3853,7 +3992,7 @@
     "form": "noun",
     "extraUsageContext": "Act of betrayal",
     "wordCount": 4,
-    "toxicScore": 0.849186360836029
+    "toxicScore": 0.8598387837409973
   },
   {
     "engelsk": "stab in the back",
@@ -3861,7 +4000,7 @@
     "form": "verb",
     "extraUsageContext": "To betray somebody",
     "wordCount": 4,
-    "toxicScore": 0.694717526435852
+    "toxicScore": 0.6752724647521973
   },
   {
     "engelsk": "stinkhorn",
@@ -3869,15 +4008,7 @@
     "form": "noun",
     "extraUsageContext": "fungus",
     "wordCount": 1,
-    "toxicScore": 0.8928818106651306
-  },
-  {
-    "engelsk": "strip club",
-    "dansk": "stripklub",
-    "form": "noun",
-    "extraUsageContext": "establishment offering striptease or other erotic dancing",
-    "wordCount": 2,
-    "toxicScore": 0.4810623824596405
+    "toxicScore": 0.8752195835113525
   },
   {
     "engelsk": "stupid",
@@ -3885,15 +4016,7 @@
     "form": "adjective",
     "extraUsageContext": "lacking in intelligence",
     "wordCount": 1,
-    "toxicScore": 0.9231593608856201
-  },
-  {
-    "engelsk": "subject",
-    "dansk": "fag",
-    "form": "noun",
-    "extraUsageContext": "particular area of study",
-    "wordCount": 1,
-    "toxicScore": 0.473922461271286
+    "toxicScore": 0.904066801071167
   },
   {
     "engelsk": "suck",
@@ -3901,7 +4024,15 @@
     "form": "verb",
     "extraUsageContext": "to use the mouth to pull in (liquid etc",
     "wordCount": 1,
-    "toxicScore": 0.9866302013397217
+    "toxicScore": 0.9891442656517029
+  },
+  {
+    "engelsk": "suck my cock",
+    "dansk": "sut min pik",
+    "form": "phrase",
+    "extraUsageContext": "expression of aggravation",
+    "wordCount": 3,
+    "toxicScore": 0.9985003471374512
   },
   {
     "engelsk": "suck up",
@@ -3909,7 +4040,15 @@
     "form": "verb",
     "extraUsageContext": "to adulate or flatter excessively",
     "wordCount": 2,
-    "toxicScore": 0.9531241059303284
+    "toxicScore": 0.9537464380264282
+  },
+  {
+    "engelsk": "switch off",
+    "dansk": "slukke",
+    "form": "verb",
+    "extraUsageContext": "turn switch to off position",
+    "wordCount": 2,
+    "toxicScore": 0.8923191428184509
   },
   {
     "engelsk": "Taiwan Strait",
@@ -3917,7 +4056,15 @@
     "form": "properNoun",
     "extraUsageContext": "the channel of water between mainland China and Taiwan",
     "wordCount": 2,
-    "toxicScore": 0.7914300560951233
+    "toxicScore": 0.7818571925163269
+  },
+  {
+    "engelsk": "till death do us part",
+    "dansk": "til døden skiller os ad",
+    "form": "adverb",
+    "extraUsageContext": "phrase said as part of wedding vows indicating commitment",
+    "wordCount": 5,
+    "toxicScore": 0.5054081678390503
   },
   {
     "engelsk": "to death",
@@ -3928,7 +4075,7 @@
       "literally"
     ],
     "wordCount": 2,
-    "toxicScore": 0.7770331501960754
+    "toxicScore": 0.7771294713020325
   },
   {
     "engelsk": "too many balls in the air",
@@ -3936,7 +4083,7 @@
     "form": "noun",
     "extraUsageContext": "too many tasks, responsibilities, or details to cope with or manage successfully",
     "wordCount": 6,
-    "toxicScore": 0.6605799198150635
+    "toxicScore": 0.6132827401161194
   },
   {
     "engelsk": "trash",
@@ -3944,7 +4091,7 @@
     "form": "noun",
     "extraUsageContext": "things to be discarded",
     "wordCount": 1,
-    "toxicScore": 0.593573808670044
+    "toxicScore": 0.5652194023132324
   },
   {
     "engelsk": "trash",
@@ -3952,7 +4099,7 @@
     "form": "noun",
     "extraUsageContext": "container",
     "wordCount": 1,
-    "toxicScore": 0.5753211975097656
+    "toxicScore": 0.5946463346481323
   },
   {
     "engelsk": "trash",
@@ -3960,15 +4107,15 @@
     "form": "noun",
     "extraUsageContext": "something of poor quality",
     "wordCount": 1,
-    "toxicScore": 0.5011202096939087
+    "toxicScore": 0.502933919429779
   },
   {
-    "engelsk": "try",
-    "dansk": "teste",
+    "engelsk": "turn off",
+    "dansk": "slukke",
     "form": "verb",
-    "extraUsageContext": "to put on trial",
-    "wordCount": 1,
-    "toxicScore": 0.5775665044784546
+    "extraUsageContext": "switch off appliance or light",
+    "wordCount": 2,
+    "toxicScore": 0.9520655870437622
   },
   {
     "engelsk": "ugli",
@@ -3976,7 +4123,23 @@
     "form": "noun",
     "extraUsageContext": "cross between a tangerine and grapefruit",
     "wordCount": 1,
-    "toxicScore": 0.6155994534492493
+    "toxicScore": 0.6508690118789673
+  },
+  {
+    "engelsk": "ugly",
+    "dansk": "grim",
+    "form": "adjective",
+    "extraUsageContext": "displeasing to the eye; not aesthetically pleasing",
+    "wordCount": 1,
+    "toxicScore": 0.5292537808418274
+  },
+  {
+    "engelsk": "ugly",
+    "dansk": "grim",
+    "form": "adjective",
+    "extraUsageContext": "displeasing to the ear or some other sense",
+    "wordCount": 1,
+    "toxicScore": 0.5292537808418274
   },
   {
     "engelsk": "unprotected sex",
@@ -3984,7 +4147,7 @@
     "form": "noun",
     "extraUsageContext": "sexual activity without protection from sexually transmitted disease",
     "wordCount": 2,
-    "toxicScore": 0.9075371623039246
+    "toxicScore": 0.9170622229576111
   },
   {
     "engelsk": "unprotected sex",
@@ -3992,14 +4155,14 @@
     "form": "noun",
     "extraUsageContext": "sexual activity without protection from sexually transmitted disease",
     "wordCount": 2,
-    "toxicScore": 0.8351573348045349
+    "toxicScore": 0.8659738302230835
   },
   {
     "engelsk": "urinate",
     "dansk": "urinere",
     "form": "verb",
     "wordCount": 1,
-    "toxicScore": 0.7199537754058838
+    "toxicScore": 0.763274610042572
   },
   {
     "engelsk": "useful idiot",
@@ -4007,7 +4170,7 @@
     "form": "noun",
     "extraUsageContext": "political sense",
     "wordCount": 2,
-    "toxicScore": 0.9802542328834534
+    "toxicScore": 0.9794991612434387
   },
   {
     "engelsk": "vagina",
@@ -4015,7 +4178,15 @@
     "form": "noun",
     "extraUsageContext": "anatomical sense",
     "wordCount": 1,
-    "toxicScore": 0.9514833092689514
+    "toxicScore": 0.9512306451797485
+  },
+  {
+    "engelsk": "vagina",
+    "dansk": "skede",
+    "form": "noun",
+    "extraUsageContext": "anatomical sense",
+    "wordCount": 1,
+    "toxicScore": 0.9249476790428162
   },
   {
     "engelsk": "village idiot",
@@ -4023,7 +4194,7 @@
     "form": "noun",
     "extraUsageContext": "person widely known in their community for their stupidity and ignorant behaviour",
     "wordCount": 2,
-    "toxicScore": 0.9032145142555237
+    "toxicScore": 0.8821839690208435
   },
   {
     "engelsk": "vomit",
@@ -4031,7 +4202,7 @@
     "form": "verb",
     "extraUsageContext": "to regurgitate the contents of a stomach",
     "wordCount": 1,
-    "toxicScore": 0.6962308883666992
+    "toxicScore": 0.6704214811325073
   },
   {
     "engelsk": "vomit",
@@ -4039,7 +4210,7 @@
     "form": "verb",
     "extraUsageContext": "to regurgitate the contents of a stomach",
     "wordCount": 1,
-    "toxicScore": 0.6075217723846436
+    "toxicScore": 0.652166485786438
   },
   {
     "engelsk": "vomit",
@@ -4047,15 +4218,7 @@
     "form": "noun",
     "extraUsageContext": "regurgitated former contents of a stomach",
     "wordCount": 1,
-    "toxicScore": 0.6289680600166321
-  },
-  {
-    "engelsk": "well-built",
-    "dansk": "velbygget",
-    "form": "adjective",
-    "extraUsageContext": "well constructed",
-    "wordCount": 1,
-    "toxicScore": 0.4571951925754547
+    "toxicScore": 0.6084384322166443
   },
   {
     "engelsk": "what the fuck",
@@ -4063,7 +4226,7 @@
     "form": "phrase",
     "extraUsageContext": "An intensive form of what",
     "wordCount": 3,
-    "toxicScore": 0.9911168217658997
+    "toxicScore": 0.990963876247406
   },
   {
     "engelsk": "what the fuck",
@@ -4071,7 +4234,7 @@
     "form": "phrase",
     "extraUsageContext": "An intensive form of what",
     "wordCount": 3,
-    "toxicScore": 0.9882436990737915
+    "toxicScore": 0.9887637495994568
   },
   {
     "engelsk": "what the fuck",
@@ -4079,7 +4242,7 @@
     "form": "phrase",
     "extraUsageContext": "An intensive form of what",
     "wordCount": 3,
-    "toxicScore": 0.9947609305381775
+    "toxicScore": 0.9947516322135925
   },
   {
     "engelsk": "what the hell",
@@ -4087,7 +4250,7 @@
     "form": "phrase",
     "extraUsageContext": "an intensive form of what",
     "wordCount": 3,
-    "toxicScore": 0.6677759885787964
+    "toxicScore": 0.6656475067138672
   },
   {
     "engelsk": "what the hell",
@@ -4095,7 +4258,7 @@
     "form": "phrase",
     "extraUsageContext": "why not?",
     "wordCount": 3,
-    "toxicScore": 0.6338043212890625
+    "toxicScore": 0.6436151266098022
   },
   {
     "engelsk": "whore",
@@ -4105,7 +4268,7 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9263706803321838
+    "toxicScore": 0.9157960414886475
   },
   {
     "engelsk": "whore",
@@ -4115,7 +4278,7 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8374890685081482
+    "toxicScore": 0.8632953763008118
   },
   {
     "engelsk": "whore",
@@ -4125,7 +4288,7 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8765245676040649
+    "toxicScore": 0.8720736503601074
   },
   {
     "engelsk": "whore",
@@ -4135,7 +4298,7 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8633781671524048
+    "toxicScore": 0.8739801049232483
   },
   {
     "engelsk": "whore",
@@ -4145,7 +4308,7 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9263706803321838
+    "toxicScore": 0.9157960414886475
   },
   {
     "engelsk": "whore",
@@ -4155,7 +4318,7 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8765245676040649
+    "toxicScore": 0.8720736503601074
   },
   {
     "engelsk": "whore",
@@ -4163,7 +4326,15 @@
     "form": "verb",
     "extraUsageContext": "to prostitute oneself",
     "wordCount": 1,
-    "toxicScore": 0.8880003094673157
+    "toxicScore": 0.8765619993209839
+  },
+  {
+    "engelsk": "whore",
+    "dansk": "sælge sin krop",
+    "form": "verb",
+    "extraUsageContext": "to prostitute oneself",
+    "wordCount": 1,
+    "toxicScore": 0.774036169052124
   },
   {
     "engelsk": "win",
@@ -4179,7 +4350,7 @@
     "form": "properNoun",
     "extraUsageContext": "male given name",
     "wordCount": 1,
-    "toxicScore": 0.5967711210250854
+    "toxicScore": 0.5267075896263123
   },
   {
     "engelsk": "arse",
@@ -4187,7 +4358,7 @@
     "form": "noun",
     "extraUsageContext": "arse",
     "wordCount": 1,
-    "toxicScore": 0.6579163074493408
+    "toxicScore": 0.61735999584198
   },
   {
     "engelsk": "assfucker",
@@ -4195,7 +4366,7 @@
     "form": "noun",
     "extraUsageContext": "jerk",
     "wordCount": 1,
-    "toxicScore": 0.9828278422355652
+    "toxicScore": 0.9815624952316284
   },
   {
     "engelsk": "assfucker",
@@ -4203,7 +4374,7 @@
     "form": "noun",
     "extraUsageContext": "jerk",
     "wordCount": 1,
-    "toxicScore": 0.9829290509223938
+    "toxicScore": 0.9869881272315979
   },
   {
     "engelsk": "assfucker",
@@ -4211,7 +4382,7 @@
     "form": "noun",
     "extraUsageContext": "jerk",
     "wordCount": 1,
-    "toxicScore": 0.9933914542198181
+    "toxicScore": 0.9910597205162048
   },
   {
     "engelsk": "assfucker",
@@ -4219,7 +4390,7 @@
     "form": "noun",
     "extraUsageContext": "jerk",
     "wordCount": 1,
-    "toxicScore": 0.9812540411949158
+    "toxicScore": 0.9861670732498169
   },
   {
     "engelsk": "baby fat",
@@ -4227,23 +4398,7 @@
     "form": "noun",
     "extraUsageContext": "natural fat of the body of a child",
     "wordCount": 2,
-    "toxicScore": 0.561107337474823
-  },
-  {
-    "engelsk": "balls",
-    "dansk": "bold",
-    "form": "noun",
-    "extraUsageContext": "follow the translations in the entry \"ball\"",
-    "wordCount": 1,
-    "toxicScore": 0.49970299005508423
-  },
-  {
-    "engelsk": "balls",
-    "dansk": "(hard) kugle",
-    "form": "noun",
-    "extraUsageContext": "follow the translations in the entry \"ball\"",
-    "wordCount": 1,
-    "toxicScore": 0.6152759194374084
+    "toxicScore": 0.5947539806365967
   },
   {
     "engelsk": "be sick",
@@ -4251,7 +4406,7 @@
     "form": "verb",
     "extraUsageContext": "vomit",
     "wordCount": 2,
-    "toxicScore": 0.8479166626930237
+    "toxicScore": 0.8240787386894226
   },
   {
     "engelsk": "be sick",
@@ -4259,7 +4414,7 @@
     "form": "verb",
     "extraUsageContext": "vomit",
     "wordCount": 2,
-    "toxicScore": 0.691893994808197
+    "toxicScore": 0.6981127262115479
   },
   {
     "engelsk": "be sick",
@@ -4267,7 +4422,7 @@
     "form": "noun",
     "extraUsageContext": "vomit",
     "wordCount": 2,
-    "toxicScore": 0.5034716129302979
+    "toxicScore": 0.511838436126709
   },
   {
     "engelsk": "be sick",
@@ -4275,7 +4430,7 @@
     "form": "noun",
     "extraUsageContext": "vomit",
     "wordCount": 2,
-    "toxicScore": 0.6503614187240601
+    "toxicScore": 0.654925525188446
   },
   {
     "engelsk": "bitch",
@@ -4283,7 +4438,7 @@
     "form": "noun",
     "extraUsageContext": "playful variation on dog (sense \"man\"",
     "wordCount": 1,
-    "toxicScore": 0.9851203560829163
+    "toxicScore": 0.984252393245697
   },
   {
     "engelsk": "bitch",
@@ -4291,7 +4446,7 @@
     "form": "noun",
     "extraUsageContext": "playful variation on dog (sense \"man\"",
     "wordCount": 1,
-    "toxicScore": 0.9863026738166809
+    "toxicScore": 0.9823796153068542
   },
   {
     "engelsk": "bitch",
@@ -4299,7 +4454,7 @@
     "form": "noun",
     "extraUsageContext": "playful variation on dog (sense \"man\"",
     "wordCount": 1,
-    "toxicScore": 0.9859800934791565
+    "toxicScore": 0.988924503326416
   },
   {
     "engelsk": "bitch out",
@@ -4310,7 +4465,7 @@
       "dog"
     ],
     "wordCount": 2,
-    "toxicScore": 0.9676731824874878
+    "toxicScore": 0.9713507294654846
   },
   {
     "engelsk": "bitch out",
@@ -4318,7 +4473,7 @@
     "form": "noun",
     "extraUsageContext": "to complain",
     "wordCount": 2,
-    "toxicScore": 0.9422970414161682
+    "toxicScore": 0.9608483910560608
   },
   {
     "engelsk": "bitch out",
@@ -4326,7 +4481,7 @@
     "form": "verb",
     "extraUsageContext": "to complain",
     "wordCount": 2,
-    "toxicScore": 0.9671644568443298
+    "toxicScore": 0.972087025642395
   },
   {
     "engelsk": "bloodsucker",
@@ -4334,7 +4489,7 @@
     "form": "noun",
     "extraUsageContext": "vampire",
     "wordCount": 1,
-    "toxicScore": 0.9725701212882996
+    "toxicScore": 0.9699820876121521
   },
   {
     "engelsk": "bloodsucker",
@@ -4342,7 +4497,7 @@
     "form": "noun",
     "extraUsageContext": "vampire",
     "wordCount": 1,
-    "toxicScore": 0.9725701212882996
+    "toxicScore": 0.9699820876121521
   },
   {
     "engelsk": "bumfuck",
@@ -4350,7 +4505,7 @@
     "form": "verb",
     "extraUsageContext": "sodomize",
     "wordCount": 1,
-    "toxicScore": 0.9220694303512573
+    "toxicScore": 0.9356666803359985
   },
   {
     "engelsk": "bumfuck",
@@ -4358,7 +4513,7 @@
     "form": "verb",
     "extraUsageContext": "assfuck",
     "wordCount": 1,
-    "toxicScore": 0.9220694303512573
+    "toxicScore": 0.9356666803359985
   },
   {
     "engelsk": "buttfuck",
@@ -4366,7 +4521,15 @@
     "form": "verb",
     "extraUsageContext": "sodomize",
     "wordCount": 1,
-    "toxicScore": 0.9691690802574158
+    "toxicScore": 0.9744385480880737
+  },
+  {
+    "engelsk": "butt-naked",
+    "dansk": "nøgen",
+    "form": "adjective",
+    "extraUsageContext": "naked",
+    "wordCount": 1,
+    "toxicScore": 0.4861835241317749
   },
   {
     "engelsk": "butt-naked",
@@ -4374,7 +4537,7 @@
     "form": "adjective",
     "extraUsageContext": "naked",
     "wordCount": 1,
-    "toxicScore": 0.7469723224639893
+    "toxicScore": 0.6939225196838379
   },
   {
     "engelsk": "butt-naked",
@@ -4382,7 +4545,7 @@
     "form": "adjective",
     "extraUsageContext": "naked",
     "wordCount": 1,
-    "toxicScore": 0.5284498929977417
+    "toxicScore": 0.4878707528114319
   },
   {
     "engelsk": "butt-naked",
@@ -4390,7 +4553,15 @@
     "form": "adjective",
     "extraUsageContext": "naked",
     "wordCount": 1,
-    "toxicScore": 0.5954369306564331
+    "toxicScore": 0.6251913905143738
+  },
+  {
+    "engelsk": "butt-naked",
+    "dansk": "nøgen",
+    "form": "adjective",
+    "extraUsageContext": "naked",
+    "wordCount": 1,
+    "toxicScore": 0.4861835241317749
   },
   {
     "engelsk": "butt-naked",
@@ -4398,7 +4569,7 @@
     "form": "adjective",
     "extraUsageContext": "naked",
     "wordCount": 1,
-    "toxicScore": 0.57952880859375
+    "toxicScore": 0.5768614411354065
   },
   {
     "engelsk": "butt-naked",
@@ -4406,7 +4577,7 @@
     "form": "adjective",
     "extraUsageContext": "naked",
     "wordCount": 1,
-    "toxicScore": 0.7620604038238525
+    "toxicScore": 0.7467862367630005
   },
   {
     "engelsk": "butt-naked",
@@ -4414,7 +4585,7 @@
     "form": "adjective",
     "extraUsageContext": "naked",
     "wordCount": 1,
-    "toxicScore": 0.5801882147789001
+    "toxicScore": 0.5877232551574707
   },
   {
     "engelsk": "cheater",
@@ -4422,7 +4593,7 @@
     "form": "verb",
     "extraUsageContext": "cheat",
     "wordCount": 1,
-    "toxicScore": 0.512214183807373
+    "toxicScore": 0.4896516501903534
   },
   {
     "engelsk": "cheater",
@@ -4430,7 +4601,7 @@
     "form": "verb",
     "extraUsageContext": "cheat",
     "wordCount": 1,
-    "toxicScore": 0.5286065936088562
+    "toxicScore": 0.4935627281665802
   },
   {
     "engelsk": "cheater",
@@ -4438,7 +4609,7 @@
     "form": "verb",
     "extraUsageContext": "cheat",
     "wordCount": 1,
-    "toxicScore": 0.5286065936088562
+    "toxicScore": 0.4935627281665802
   },
   {
     "engelsk": "cheater",
@@ -4446,7 +4617,7 @@
     "form": "verb",
     "extraUsageContext": "cheat",
     "wordCount": 1,
-    "toxicScore": 0.5706695914268494
+    "toxicScore": 0.5989075899124146
   },
   {
     "engelsk": "child-fucker",
@@ -4454,7 +4625,7 @@
     "form": "noun",
     "extraUsageContext": "contemptible person",
     "wordCount": 1,
-    "toxicScore": 0.9944920539855957
+    "toxicScore": 0.9936125874519348
   },
   {
     "engelsk": "child-fucker",
@@ -4462,7 +4633,7 @@
     "form": "noun",
     "extraUsageContext": "contemptible person",
     "wordCount": 1,
-    "toxicScore": 0.9941630959510803
+    "toxicScore": 0.992619514465332
   },
   {
     "engelsk": "child-fucker",
@@ -4470,7 +4641,7 @@
     "form": "noun",
     "extraUsageContext": "one who engages in sex with a child",
     "wordCount": 1,
-    "toxicScore": 0.9926424622535706
+    "toxicScore": 0.9897286891937256
   },
   {
     "engelsk": "child porn",
@@ -4478,7 +4649,7 @@
     "form": "noun",
     "extraUsageContext": "child pornography",
     "wordCount": 2,
-    "toxicScore": 0.8126630187034607
+    "toxicScore": 0.817654550075531
   },
   {
     "engelsk": "child porn",
@@ -4486,7 +4657,7 @@
     "form": "noun",
     "extraUsageContext": "child pornography",
     "wordCount": 2,
-    "toxicScore": 0.788282036781311
+    "toxicScore": 0.8254421353340149
   },
   {
     "engelsk": "cock",
@@ -4494,7 +4665,15 @@
     "form": "noun",
     "extraUsageContext": "slang: penis",
     "wordCount": 1,
-    "toxicScore": 0.935513973236084
+    "toxicScore": 0.9476994872093201
+  },
+  {
+    "engelsk": "cock",
+    "dansk": "diller",
+    "form": "noun",
+    "extraUsageContext": "slang: penis",
+    "wordCount": 1,
+    "toxicScore": 0.8885673880577087
   },
   {
     "engelsk": "cock",
@@ -4502,7 +4681,15 @@
     "form": "noun",
     "extraUsageContext": "slang: penis",
     "wordCount": 1,
-    "toxicScore": 0.827360212802887
+    "toxicScore": 0.8461394309997559
+  },
+  {
+    "engelsk": "cock",
+    "dansk": "detektiv",
+    "form": "noun",
+    "extraUsageContext": "slang: penis",
+    "wordCount": 1,
+    "toxicScore": 0.8579099774360657
   },
   {
     "engelsk": "cock",
@@ -4510,7 +4697,7 @@
     "form": "noun",
     "extraUsageContext": "male chicken; male gallinaceous bird",
     "wordCount": 1,
-    "toxicScore": 0.8688177466392517
+    "toxicScore": 0.8762075304985046
   },
   {
     "engelsk": "cock",
@@ -4518,7 +4705,7 @@
     "form": "noun",
     "extraUsageContext": "male chicken; male gallinaceous bird",
     "wordCount": 1,
-    "toxicScore": 0.9238886833190918
+    "toxicScore": 0.9337850213050842
   },
   {
     "engelsk": "crape",
@@ -4526,7 +4713,7 @@
     "form": "noun",
     "extraUsageContext": "crepe",
     "wordCount": 1,
-    "toxicScore": 0.7625607848167419
+    "toxicScore": 0.7663418650627136
   },
   {
     "engelsk": "dogshit",
@@ -4534,7 +4721,15 @@
     "form": "noun",
     "extraUsageContext": "dog excrement",
     "wordCount": 1,
-    "toxicScore": 0.768696665763855
+    "toxicScore": 0.7550163269042969
+  },
+  {
+    "engelsk": "drunkard",
+    "dansk": "bedugget",
+    "form": "adjective",
+    "extraUsageContext": "person who is habitually drunk",
+    "wordCount": 1,
+    "toxicScore": 0.48488128185272217
   },
   {
     "engelsk": "dweller",
@@ -4542,7 +4737,7 @@
     "form": "noun",
     "extraUsageContext": "inhabitant",
     "wordCount": 1,
-    "toxicScore": 0.6090549230575562
+    "toxicScore": 0.6043335795402527
   },
   {
     "engelsk": "face",
@@ -4550,7 +4745,7 @@
     "form": "verb",
     "extraUsageContext": "to face",
     "wordCount": 1,
-    "toxicScore": 0.5141404867172241
+    "toxicScore": 0.5299485921859741
   },
   {
     "engelsk": "faggot",
@@ -4561,7 +4756,7 @@
       "vulgar"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7874167561531067
+    "toxicScore": 0.7827714085578918
   },
   {
     "engelsk": "faggot",
@@ -4572,15 +4767,15 @@
       "vulgar"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7204422950744629
+    "toxicScore": 0.7658666372299194
   },
   {
-    "engelsk": "genitals",
-    "dansk": "kønsorgan",
+    "engelsk": "finish off",
+    "dansk": "dødeligt slag",
     "form": "noun",
-    "extraUsageContext": "genitalia",
-    "wordCount": 1,
-    "toxicScore": 0.46490857005119324
+    "extraUsageContext": "to kill",
+    "wordCount": 2,
+    "toxicScore": 0.6780143976211548
   },
   {
     "engelsk": "get laid",
@@ -4588,7 +4783,7 @@
     "form": "verb",
     "extraUsageContext": "take part in a sexual act",
     "wordCount": 2,
-    "toxicScore": 0.9503633975982666
+    "toxicScore": 0.941932737827301
   },
   {
     "engelsk": "get laid",
@@ -4596,7 +4791,7 @@
     "form": "verb",
     "extraUsageContext": "take part in a sexual act",
     "wordCount": 2,
-    "toxicScore": 0.9391539692878723
+    "toxicScore": 0.9439985752105713
   },
   {
     "engelsk": "ghost",
@@ -4604,15 +4799,47 @@
     "form": "noun",
     "extraUsageContext": "ghostwriter",
     "wordCount": 1,
-    "toxicScore": 0.64109206199646
+    "toxicScore": 0.6305215358734131
   },
   {
-    "engelsk": "hit",
-    "dansk": "slag",
-    "form": "noun",
-    "extraUsageContext": "to hit",
-    "wordCount": 1,
-    "toxicScore": 0.48304441571235657
+    "engelsk": "give a damn",
+    "dansk": "pisseligeglad",
+    "form": "verb",
+    "extraUsageContext": "to be concerned about",
+    "wordCount": 3,
+    "toxicScore": 0.9499555230140686
+  },
+  {
+    "engelsk": "give a damn",
+    "dansk": "skideligeglad",
+    "form": "verb",
+    "extraUsageContext": "to be concerned about",
+    "wordCount": 3,
+    "toxicScore": 0.9214891791343689
+  },
+  {
+    "engelsk": "give a fuck",
+    "dansk": "pisseligeglad",
+    "form": "verb",
+    "extraUsageContext": "give a shit",
+    "wordCount": 3,
+    "toxicScore": 0.9958248734474182
+  },
+  {
+    "engelsk": "give a fuck",
+    "dansk": "skideligeglad",
+    "form": "verb",
+    "extraUsageContext": "give a shit",
+    "wordCount": 3,
+    "toxicScore": 0.9954427480697632
+  },
+  {
+    "engelsk": "give a toss",
+    "dansk": "pisseligeglad",
+    "form": "verb",
+    "extraUsageContext": "give a shit",
+    "wordCount": 3,
+    "toxicScore": 0.4636346101760864
   },
   {
     "engelsk": "hunchbacked",
@@ -4620,7 +4847,7 @@
     "form": "adjective",
     "extraUsageContext": "having hunched back",
     "wordCount": 1,
-    "toxicScore": 0.7227383852005005
+    "toxicScore": 0.7031688690185547
   },
   {
     "engelsk": "idiot",
@@ -4628,7 +4855,7 @@
     "form": "adjective",
     "extraUsageContext": "idiotic",
     "wordCount": 1,
-    "toxicScore": 0.9743714928627014
+    "toxicScore": 0.9756567478179932
   },
   {
     "engelsk": "idiot",
@@ -4636,7 +4863,7 @@
     "form": "adjective",
     "extraUsageContext": "idiotic",
     "wordCount": 1,
-    "toxicScore": 0.9743714928627014
+    "toxicScore": 0.9756567478179932
   },
   {
     "engelsk": "idiot",
@@ -4644,7 +4871,7 @@
     "form": "adjective",
     "extraUsageContext": "idiotic",
     "wordCount": 1,
-    "toxicScore": 0.8957382440567017
+    "toxicScore": 0.9026136994361877
   },
   {
     "engelsk": "jack off",
@@ -4652,7 +4879,7 @@
     "form": "verb",
     "extraUsageContext": "jerk off",
     "wordCount": 2,
-    "toxicScore": 0.5573017001152039
+    "toxicScore": 0.49369487166404724
   },
   {
     "engelsk": "jack off",
@@ -4660,7 +4887,7 @@
     "form": "verb",
     "extraUsageContext": "jerk off",
     "wordCount": 2,
-    "toxicScore": 0.7903357148170471
+    "toxicScore": 0.7535314559936523
   },
   {
     "engelsk": "kick-ass",
@@ -4668,7 +4895,7 @@
     "form": "noun",
     "extraUsageContext": "excellent",
     "wordCount": 1,
-    "toxicScore": 0.968468964099884
+    "toxicScore": 0.9792577028274536
   },
   {
     "engelsk": "moron",
@@ -4676,7 +4903,7 @@
     "form": "noun",
     "extraUsageContext": "idiot",
     "wordCount": 1,
-    "toxicScore": 0.9505779147148132
+    "toxicScore": 0.9516961574554443
   },
   {
     "engelsk": "negro",
@@ -4684,7 +4911,7 @@
     "form": "noun",
     "extraUsageContext": "Negro",
     "wordCount": 1,
-    "toxicScore": 0.885892927646637
+    "toxicScore": 0.8907973766326904
   },
   {
     "engelsk": "pisser",
@@ -4695,7 +4922,7 @@
       "informal"
     ],
     "wordCount": 1,
-    "toxicScore": 0.4966908395290375
+    "toxicScore": 0.5597220063209534
   },
   {
     "engelsk": "pisser",
@@ -4703,7 +4930,7 @@
     "form": "noun",
     "extraUsageContext": "toilet",
     "wordCount": 1,
-    "toxicScore": 0.4966908395290375
+    "toxicScore": 0.5597220063209534
   },
   {
     "engelsk": "pisser",
@@ -4711,7 +4938,7 @@
     "form": "noun",
     "extraUsageContext": "toilet",
     "wordCount": 1,
-    "toxicScore": 0.6696457266807556
+    "toxicScore": 0.7141643762588501
   },
   {
     "engelsk": "pisser",
@@ -4722,7 +4949,7 @@
       "slang"
     ],
     "wordCount": 1,
-    "toxicScore": 0.510308027267456
+    "toxicScore": 0.5273164510726929
   },
   {
     "engelsk": "porn",
@@ -4730,7 +4957,7 @@
     "form": "noun",
     "extraUsageContext": "pornography",
     "wordCount": 1,
-    "toxicScore": 0.8498330116271973
+    "toxicScore": 0.835900068283081
   },
   {
     "engelsk": "prostitute",
@@ -4741,7 +4968,7 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8560366034507751
+    "toxicScore": 0.8465589880943298
   },
   {
     "engelsk": "prostitute",
@@ -4752,7 +4979,18 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.6951522827148438
+    "toxicScore": 0.6674443483352661
+  },
+  {
+    "engelsk": "prostitute",
+    "dansk": "hore",
+    "form": "noun",
+    "extraUsageContext": "promiscuous person",
+    "notes": [
+      "dated"
+    ],
+    "wordCount": 1,
+    "toxicScore": 0.7131251096725464
   },
   {
     "engelsk": "prostitute",
@@ -4763,7 +5001,7 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.7242826223373413
+    "toxicScore": 0.7258886694908142
   },
   {
     "engelsk": "prostitute",
@@ -4774,7 +5012,18 @@
       "dated"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8560366034507751
+    "toxicScore": 0.8465589880943298
+  },
+  {
+    "engelsk": "prostitute",
+    "dansk": "hore",
+    "form": "noun",
+    "extraUsageContext": "promiscuous person",
+    "notes": [
+      "dated"
+    ],
+    "wordCount": 1,
+    "toxicScore": 0.7131251096725464
   },
   {
     "engelsk": "prostitute",
@@ -4782,7 +5031,7 @@
     "form": "verb",
     "extraUsageContext": "promiscuous person",
     "wordCount": 1,
-    "toxicScore": 0.7549471855163574
+    "toxicScore": 0.7670152187347412
   },
   {
     "engelsk": "prostitute",
@@ -4790,7 +5039,15 @@
     "form": "verb",
     "extraUsageContext": "promiscuous person",
     "wordCount": 1,
-    "toxicScore": 0.46386125683784485
+    "toxicScore": 0.46503782272338867
+  },
+  {
+    "engelsk": "put away",
+    "dansk": "dødeligt slag",
+    "form": "noun",
+    "extraUsageContext": "to kill someone",
+    "wordCount": 2,
+    "toxicScore": 0.6731284260749817
   },
   {
     "engelsk": "rape oil",
@@ -4798,7 +5055,7 @@
     "form": "noun",
     "extraUsageContext": "rapeseed oil",
     "wordCount": 2,
-    "toxicScore": 0.7571777701377869
+    "toxicScore": 0.7345707416534424
   },
   {
     "engelsk": "raping",
@@ -4806,7 +5063,7 @@
     "form": "noun",
     "extraUsageContext": "rape",
     "wordCount": 1,
-    "toxicScore": 0.45688310265541077
+    "toxicScore": 0.4912688136100769
   },
   {
     "engelsk": "rubbish",
@@ -4814,7 +5071,7 @@
     "form": "noun",
     "extraUsageContext": "garbage",
     "wordCount": 1,
-    "toxicScore": 0.4686628580093384
+    "toxicScore": 0.5351510643959045
   },
   {
     "engelsk": "semen",
@@ -4822,7 +5079,7 @@
     "form": "noun",
     "extraUsageContext": "semen (fluid",
     "wordCount": 1,
-    "toxicScore": 0.8143760561943054
+    "toxicScore": 0.8203229904174805
   },
   {
     "engelsk": "semen",
@@ -4830,7 +5087,7 @@
     "form": "noun",
     "extraUsageContext": "semen (fluid",
     "wordCount": 1,
-    "toxicScore": 0.9357001185417175
+    "toxicScore": 0.9430505633354187
   },
   {
     "engelsk": "sex gland",
@@ -4838,18 +5095,7 @@
     "form": "noun",
     "extraUsageContext": "gland in which sex cells are produced",
     "wordCount": 2,
-    "toxicScore": 0.8283435106277466
-  },
-  {
-    "engelsk": "sexual act",
-    "dansk": "sexakt",
-    "form": "noun",
-    "extraUsageContext": "sex act",
-    "notes": [
-      "vulgar"
-    ],
-    "wordCount": 2,
-    "toxicScore": 0.510269284248352
+    "toxicScore": 0.8567192554473877
   },
   {
     "engelsk": "shithole",
@@ -4857,7 +5103,7 @@
     "form": "noun",
     "extraUsageContext": "anus",
     "wordCount": 1,
-    "toxicScore": 0.9371654391288757
+    "toxicScore": 0.9361646175384521
   },
   {
     "engelsk": "shithole",
@@ -4865,7 +5111,7 @@
     "form": "noun",
     "extraUsageContext": "anus",
     "wordCount": 1,
-    "toxicScore": 0.9371654391288757
+    "toxicScore": 0.9361646175384521
   },
   {
     "engelsk": "shithole",
@@ -4873,7 +5119,7 @@
     "form": "noun",
     "extraUsageContext": "unpleasant person",
     "wordCount": 1,
-    "toxicScore": 0.9371654391288757
+    "toxicScore": 0.9361646175384521
   },
   {
     "engelsk": "shithole",
@@ -4881,7 +5127,7 @@
     "form": "noun",
     "extraUsageContext": "unpleasant person",
     "wordCount": 1,
-    "toxicScore": 0.9371654391288757
+    "toxicScore": 0.9361646175384521
   },
   {
     "engelsk": "slang",
@@ -4889,7 +5135,7 @@
     "form": "noun",
     "extraUsageContext": "jargon",
     "wordCount": 1,
-    "toxicScore": 0.5070849061012268
+    "toxicScore": 0.4968115985393524
   },
   {
     "engelsk": "slut",
@@ -4897,7 +5143,23 @@
     "form": "verb",
     "extraUsageContext": "prostitute",
     "wordCount": 1,
-    "toxicScore": 0.9140151143074036
+    "toxicScore": 0.8905782103538513
+  },
+  {
+    "engelsk": "slut",
+    "dansk": "tvinge ind i prostitution",
+    "form": "verb",
+    "extraUsageContext": "prostitute",
+    "wordCount": 1,
+    "toxicScore": 0.9521462321281433
+  },
+  {
+    "engelsk": "slut",
+    "dansk": "sælge sig selv",
+    "form": "verb",
+    "extraUsageContext": "prostitute",
+    "wordCount": 1,
+    "toxicScore": 0.859169602394104
   },
   {
     "engelsk": "slut",
@@ -4912,7 +5174,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9059169292449951
+    "toxicScore": 0.8896663188934326
   },
   {
     "engelsk": "slut",
@@ -4927,7 +5189,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9477694630622864
+    "toxicScore": 0.9453051090240479
   },
   {
     "engelsk": "slut",
@@ -4942,7 +5204,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8550058007240295
+    "toxicScore": 0.8378336429595947
   },
   {
     "engelsk": "slut",
@@ -4957,7 +5219,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8404613137245178
+    "toxicScore": 0.8663668632507324
   },
   {
     "engelsk": "slut",
@@ -4972,7 +5234,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.893471360206604
+    "toxicScore": 0.8877126574516296
   },
   {
     "engelsk": "slut",
@@ -4987,7 +5249,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.8919920325279236
+    "toxicScore": 0.8967020511627197
   },
   {
     "engelsk": "slut",
@@ -5002,7 +5264,7 @@
       "archaic, derogatory"
     ],
     "wordCount": 1,
-    "toxicScore": 0.9424588680267334
+    "toxicScore": 0.9402722716331482
   },
   {
     "engelsk": "sock",
@@ -5010,7 +5272,18 @@
     "form": "noun",
     "extraUsageContext": "sock puppet",
     "wordCount": 1,
-    "toxicScore": 0.6881824135780334
+    "toxicScore": 0.6976996064186096
+  },
+  {
+    "engelsk": "swear like a pagan",
+    "dansk": "bande som en tyrk",
+    "form": "verb",
+    "extraUsageContext": "swear very rudely",
+    "notes": [
+      "like a Turk"
+    ],
+    "wordCount": 4,
+    "toxicScore": 0.5870429277420044
   },
   {
     "engelsk": "take a dump",
@@ -5018,7 +5291,7 @@
     "form": "verb",
     "extraUsageContext": "defecate",
     "wordCount": 3,
-    "toxicScore": 0.7129199504852295
+    "toxicScore": 0.6830610632896423
   },
   {
     "engelsk": "titty",
@@ -5026,7 +5299,7 @@
     "form": "noun",
     "extraUsageContext": "kitty",
     "wordCount": 1,
-    "toxicScore": 0.7840271592140198
+    "toxicScore": 0.7678366899490356
   },
   {
     "engelsk": "trash bag",
@@ -5034,7 +5307,7 @@
     "form": "noun",
     "extraUsageContext": "plastic bag for the disposal of household waste",
     "wordCount": 2,
-    "toxicScore": 0.5084858536720276
+    "toxicScore": 0.5232961177825928
   },
   {
     "engelsk": "urinal",
@@ -5042,7 +5315,7 @@
     "form": "noun",
     "extraUsageContext": "lavatory",
     "wordCount": 1,
-    "toxicScore": 0.5102989077568054
+    "toxicScore": 0.5819165706634521
   },
   {
     "engelsk": "vagina",
@@ -5050,7 +5323,7 @@
     "form": "noun",
     "extraUsageContext": "vulva",
     "wordCount": 1,
-    "toxicScore": 0.9550051689147949
+    "toxicScore": 0.9582297205924988
   },
   {
     "engelsk": "vagina",
@@ -5058,7 +5331,7 @@
     "form": "noun",
     "extraUsageContext": "vulva",
     "wordCount": 1,
-    "toxicScore": 0.8784925937652588
+    "toxicScore": 0.8793596625328064
   },
   {
     "engelsk": "what a shame",
@@ -5066,6 +5339,14 @@
     "form": "phrase",
     "extraUsageContext": "used to express regret",
     "wordCount": 3,
-    "toxicScore": 0.5307794213294983
+    "toxicScore": 0.5614417195320129
+  },
+  {
+    "engelsk": "wheel",
+    "dansk": "rat",
+    "form": "noun",
+    "extraUsageContext": "steering wheel and its implied control of a vehicle",
+    "wordCount": 1,
+    "toxicScore": 0.4971920847892761
   }
 ]

@@ -1,0 +1,3080 @@
+[
+  {
+    "engelsk": "aboard",
+    "dansk": "om bord (på)",
+    "form": "preposition",
+    "extraUsageContext": "on board of",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "abstain",
+    "dansk": "afholde sig fra (at stemme)",
+    "form": "verb",
+    "extraUsageContext": "refrain from voting",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "acquiesce",
+    "dansk": "indvillige (i)",
+    "form": "verb",
+    "extraUsageContext": "concur upon conviction",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "across",
+    "dansk": "gennem (of time)",
+    "form": "preposition",
+    "extraUsageContext": "bridging a gap",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "AD",
+    "dansk": "e.Kr. (efter Kristus)",
+    "form": "adverb",
+    "extraUsageContext": "anno Domini",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "additive",
+    "dansk": "additiv (rare)",
+    "form": "adjective",
+    "extraUsageContext": "which can be added",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "aggravate",
+    "dansk": "f",
+    "form": "verb",
+    "extraUsageContext": "To make worse, or more severe",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "ago",
+    "dansk": "for ... siden",
+    "form": "adverb",
+    "extraUsageContext": "past; gone by; since",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "a little bird told me",
+    "dansk": "høre en lille fugl synge om (hear a little bird sing about)",
+    "form": "phrase",
+    "extraUsageContext": "idiomatic",
+    "wordCount": 5,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift",
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "alleviate",
+    "dansk": "lette (make easier)",
+    "form": "verb",
+    "extraUsageContext": "make less severe",
+    "notes": [
+      "of pain",
+      "of pain",
+      "of pain",
+      "of pain",
+      "of pain"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "altogether",
+    "dansk": "i det store og hele",
+    "form": "adverb",
+    "extraUsageContext": "on the whole; everything considered",
+    "wordCount": 1,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "an",
+    "dansk": "pr.",
+    "form": "preposition",
+    "extraUsageContext": "in each; to or for each; per",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "and/or",
+    "dansk": "og/eller",
+    "form": "conjunction",
+    "extraUsageContext": "inclusive \"or\"",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "and the like",
+    "dansk": "og lignende (og lign.",
+    "form": "phrase",
+    "extraUsageContext": "and the like",
+    "wordCount": 3,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "and the like",
+    "dansk": "o.l.",
+    "form": "phrase",
+    "extraUsageContext": "and the like",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "angel passes",
+    "dansk": "der gik en engel gennem stuen",
+    "form": "phrase",
+    "extraUsageContext": "used to denote an awkward pause",
+    "notes": [
+      "lit.: an angel went through the living room"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "anxious",
+    "dansk": "ivrig (efter)",
+    "form": "adjective",
+    "extraUsageContext": "earnestly desirous",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "anxious",
+    "dansk": "opsat (på)",
+    "form": "adjective",
+    "extraUsageContext": "earnestly desirous",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "anxious",
+    "dansk": "spændt (på)",
+    "form": "adjective",
+    "extraUsageContext": "earnestly desirous",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "are you allergic to any medications",
+    "dansk": "er du allergisk overfor noget medicin?",
+    "form": "phrase",
+    "extraUsageContext": "are you allergic to any medications?",
+    "wordCount": 6,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "are you married",
+    "dansk": "er du gift?",
+    "form": "phrase",
+    "extraUsageContext": "are you married?",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "are you religious",
+    "dansk": "er du religiøs?",
+    "form": "phrase",
+    "extraUsageContext": "are you religious?",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "are you single",
+    "dansk": "er du single?",
+    "form": "phrase",
+    "extraUsageContext": "are you single?",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "are you taking any medications",
+    "dansk": "bruger du nogen medicin?",
+    "form": "phrase",
+    "extraUsageContext": "are you taking any medications?",
+    "notes": [
+      "formal"
+    ],
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "are you taking any medications",
+    "dansk": "tager du nogen medicin?",
+    "form": "phrase",
+    "extraUsageContext": "are you taking any medications?",
+    "notes": [
+      "formal"
+    ],
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "are you taking any medications",
+    "dansk": "bruger du nogen medikamenter?",
+    "form": "phrase",
+    "extraUsageContext": "are you taking any medications?",
+    "notes": [
+      "formal"
+    ],
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "arrear",
+    "dansk": "(udestående",
+    "form": "noun",
+    "extraUsageContext": "unpaid debt",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "arrear",
+    "dansk": "ubetalt) gæld",
+    "form": "noun",
+    "extraUsageContext": "unpaid debt",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "as a matter of fact",
+    "dansk": "faktisk",
+    "form": "preposition",
+    "extraUsageContext": "actually",
+    "wordCount": 5,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "ash",
+    "dansk": "æ",
+    "form": "noun",
+    "extraUsageContext": "ae ligature",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "Azerbaijan SSR",
+    "dansk": "Aserbajdsjanske Socialistiske Sovjetrepublik",
+    "form": "properNoun",
+    "extraUsageContext": "Azerbaijan Soviet Socialist Republic",
+    "wordCount": 2,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "Æsir",
+    "dansk": "aser",
+    "form": "properNoun",
+    "extraUsageContext": "the principal Norse gods",
+    "wordCount": 1,
+    "flags": [
+      "potentially-reversed"
+    ]
+  },
+  {
+    "engelsk": "ball",
+    "dansk": "(hard) kugle",
+    "form": "noun",
+    "extraUsageContext": "object, generally spherical, used for playing games",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "BC",
+    "dansk": "f.Kr.",
+    "form": "adverb",
+    "extraUsageContext": "before Christ",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "belong",
+    "dansk": "henhøre (under)",
+    "form": "verb",
+    "extraUsageContext": "be the guardian, spouse or partner of",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "between",
+    "dansk": "tilsammen (adverb)",
+    "form": "preposition",
+    "extraUsageContext": "combined by effort or ownership",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "between a rock and a hard place",
+    "dansk": "(valge) mellem pest og kolera ((choose) between plague and cholera)",
+    "form": "preposition",
+    "extraUsageContext": "having the choice between two unpleasant options",
+    "wordCount": 7,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "black",
+    "dansk": "(den) sorte",
+    "form": "noun",
+    "extraUsageContext": "billiards, snooker, pool: black ball",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "both",
+    "dansk": "både...og...",
+    "form": "conjunction",
+    "extraUsageContext": "both...and...",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "box",
+    "dansk": "bokse (med)",
+    "form": "verb",
+    "extraUsageContext": "to fight against (a person",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "breed",
+    "dansk": "race  (of animals)",
+    "form": "noun",
+    "extraUsageContext": "all animals or plants of the same species or subspecies",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "breed",
+    "dansk": "sort  (of plants)",
+    "form": "noun",
+    "extraUsageContext": "all animals or plants of the same species or subspecies",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "breed",
+    "dansk": "sort  (of plants)",
+    "form": "noun",
+    "extraUsageContext": "race or lineage",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "buffalo",
+    "dansk": "gå på jagt (gå på bøffeljagt)",
+    "form": "verb",
+    "extraUsageContext": "hunt buffalo",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "building",
+    "dansk": "opførelse  (af en bygning)",
+    "form": "noun",
+    "extraUsageContext": "act or process of building",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "bupkis",
+    "dansk": "bar røv at trutte i",
+    "form": "noun",
+    "extraUsageContext": "absolutely nothing",
+    "wordCount": 1,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "Byelorussian SSR",
+    "dansk": "Hviderussiske Socialistiske Sovjetrepublik",
+    "form": "properNoun",
+    "extraUsageContext": "Soviet republic",
+    "wordCount": 2,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "ca.",
+    "dansk": "ca.",
+    "form": "adverb",
+    "extraUsageContext": "abbreviation of circa",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "cancel",
+    "dansk": "stemple (cancelling stamps)",
+    "form": "verb",
+    "extraUsageContext": "mark to prevent reuse",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "can I use your phone",
+    "dansk": "må jeg bruge din telefon?",
+    "form": "phrase",
+    "extraUsageContext": "can I use your phone?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "can you help me",
+    "dansk": "kan De hjælpe mig?",
+    "form": "phrase",
+    "extraUsageContext": "can you help me?",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "capricious",
+    "dansk": "uforudsigbar/uforutsigbar",
+    "form": "adjective",
+    "extraUsageContext": "Impulsive and unpredictable; determined by chance, impulse, or whim",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "carbon dating",
+    "dansk": "karbon 14-datering",
+    "form": "noun",
+    "extraUsageContext": "radiocarbon dating",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "carbon dating",
+    "dansk": "kulstof 14-datering",
+    "form": "noun",
+    "extraUsageContext": "radiocarbon dating",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "carbon emissions trading",
+    "dansk": "CO2-handel",
+    "form": "noun",
+    "extraUsageContext": "trading of permits to emit carbon dioxide",
+    "notes": [
+      "trade",
+      "the quota itself"
+    ],
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "carbon emissions trading",
+    "dansk": "CO2-kvote",
+    "form": "noun",
+    "extraUsageContext": "trading of permits to emit carbon dioxide",
+    "notes": [
+      "trade",
+      "the quota itself"
+    ],
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "carbon offset",
+    "dansk": "CO₂-kompensation",
+    "form": "noun",
+    "extraUsageContext": "reduction in carbon dioxide emission",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "cf.",
+    "dansk": "jf.",
+    "form": "verb",
+    "extraUsageContext": "compare",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "chase",
+    "dansk": "jagte (?)",
+    "form": "verb",
+    "extraUsageContext": "to pursue, to follow at speed",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "child neglect",
+    "dansk": "omsorgssvigtede børn  (neglected children)",
+    "form": "noun",
+    "extraUsageContext": "form of child abuse",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters",
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "close, but no cigar",
+    "dansk": "så tæt på og dog så langt fra",
+    "form": "phrase",
+    "extraUsageContext": "that's almost correct, but not quite",
+    "wordCount": 4,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "control",
+    "dansk": "styre (Do not confuse with kontrollere",
+    "form": "verb",
+    "extraUsageContext": "to exercise influence over; to suggest or dictate the behavior of",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "control",
+    "dansk": "which means to check and/or to verify)",
+    "form": "verb",
+    "extraUsageContext": "to exercise influence over; to suggest or dictate the behavior of",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "cormorant",
+    "dansk": "(great cormorant) storskarv",
+    "form": "noun",
+    "extraUsageContext": "seabird",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "count on",
+    "dansk": "stole (på)",
+    "form": "verb",
+    "extraUsageContext": "rely upon, trust, or expect",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "decide",
+    "dansk": "få en person til at beslutte sig",
+    "form": "verb",
+    "extraUsageContext": "to cause someone to come to a decision",
+    "wordCount": 1,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "diamond jubilee",
+    "dansk": "60-årsdag",
+    "form": "noun",
+    "extraUsageContext": "celebration of 60th anniversary",
+    "notes": [
+      "60 years of wedding"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "differ",
+    "dansk": "være forskellig(e)",
+    "form": "verb",
+    "extraUsageContext": "not to have the same characteristics",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "differ",
+    "dansk": "være uenig(e)",
+    "form": "verb",
+    "extraUsageContext": "to have diverging opinions, disagree",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "do",
+    "dansk": "gøre (som der bliver sagt)",
+    "form": "verb",
+    "extraUsageContext": "behave",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "do you accept American dollars",
+    "dansk": "tager du imod amerikanske dollar?",
+    "form": "phrase",
+    "extraUsageContext": "do you accept American dollars?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "do you believe in God",
+    "dansk": "tror du på Gud?",
+    "form": "phrase",
+    "extraUsageContext": "do you believe in God?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "do you have a boyfriend",
+    "dansk": "har du en kæreste?",
+    "form": "phrase",
+    "extraUsageContext": "do you have a boyfriend?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "do you have a girlfriend",
+    "dansk": "har du en kæreste?",
+    "form": "phrase",
+    "extraUsageContext": "do you have a girlfriend?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "do you have a menu in English",
+    "dansk": "har du en menu på engelsk?",
+    "form": "phrase",
+    "extraUsageContext": "phrase",
+    "wordCount": 7,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "do you have children",
+    "dansk": "har du børn?",
+    "form": "phrase",
+    "extraUsageContext": "do you have children?",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "do you need help",
+    "dansk": "har du brug for hjælp?",
+    "form": "phrase",
+    "extraUsageContext": "Do you need help?",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "do you speak English",
+    "dansk": "taler du engelsk?",
+    "form": "phrase",
+    "extraUsageContext": "do you speak English? (English specifically",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "do you speak English",
+    "dansk": "taler du dansk?",
+    "form": "phrase",
+    "extraUsageContext": "do you speak...? (fill with the name of the current foreign language",
+    "notes": [
+      "formal"
+    ],
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "do you speak English",
+    "dansk": "taler De dansk?",
+    "form": "phrase",
+    "extraUsageContext": "do you speak...? (fill with the name of the current foreign language",
+    "notes": [
+      "formal"
+    ],
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "during",
+    "dansk": "i",
+    "form": "preposition",
+    "extraUsageContext": "for all of a given time interval",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "during",
+    "dansk": "i",
+    "form": "preposition",
+    "extraUsageContext": "within a given time interval",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "ed.",
+    "dansk": "red.",
+    "form": "adjective",
+    "extraUsageContext": "edited by",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "e.g.",
+    "dansk": "f.eks.",
+    "form": "adverb",
+    "extraUsageContext": "abbreviation for “for example”",
+    "notes": [
+      "for eksempel"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "Elector",
+    "dansk": "kurfyrste  (kurfyrstinde  )",
+    "form": "noun",
+    "extraUsageContext": "elector or prince-elector",
+    "notes": [
+      "Elector's wife"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "eleventh hour",
+    "dansk": "i 11. time",
+    "form": "noun",
+    "extraUsageContext": "The last minute",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "et al.",
+    "dansk": "et al.",
+    "form": "phrase",
+    "extraUsageContext": "and others",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "etc.",
+    "dansk": "etc.",
+    "form": "phrase",
+    "extraUsageContext": "and so on, see also: and so forth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "etc.",
+    "dansk": "osv.",
+    "form": "phrase",
+    "extraUsageContext": "and so on, see also: and so forth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "et tu, Brute",
+    "dansk": "Brute?",
+    "form": "phrase",
+    "extraUsageContext": "expression of betrayal",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "expansionist",
+    "dansk": "som ønsker at udvide sin magt",
+    "form": "adjective",
+    "extraUsageContext": "relating to expansionism",
+    "wordCount": 1,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "expansionist",
+    "dansk": "som ønsker at udvide sit område",
+    "form": "adjective",
+    "extraUsageContext": "relating to expansionism",
+    "wordCount": 1,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "extratropical",
+    "dansk": "som sker uden for troperne",
+    "form": "adjective",
+    "extraUsageContext": "occurring outside the tropics",
+    "wordCount": 1,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "fawn",
+    "dansk": "(hjorte)kalv",
+    "form": "noun",
+    "extraUsageContext": "young deer",
+    "notes": [
+      "of a roe"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "fawn",
+    "dansk": "(rå)lam",
+    "form": "noun",
+    "extraUsageContext": "young deer",
+    "notes": [
+      "of a roe"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "feceate",
+    "dansk": "kaste fækalier (bookish)",
+    "form": "verb",
+    "extraUsageContext": "to discharge feces from the digestive tract",
+    "notes": [
+      "vulgar"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "female",
+    "dansk": "kvindelig  (1",
+    "form": "adjective",
+    "extraUsageContext": "belonging to the sex that typically produces eggs, or the gender typically associated with it",
+    "notes": [
+      "of plants and animals",
+      "of humans"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "ff.",
+    "dansk": "ff.",
+    "form": "phrase",
+    "extraUsageContext": "and the following",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "fiftieth",
+    "dansk": "halvtredsindstyvende (abbreviation 50.)",
+    "form": "adjective",
+    "extraUsageContext": "the ordinal form of the number fifty",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "fiftieth",
+    "dansk": "nr. halvtreds",
+    "form": "noun",
+    "extraUsageContext": "the person or thing in the fiftieth position",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "five-hundredth",
+    "dansk": "fem hundrede (abbreviation: 500.)",
+    "form": "adjective",
+    "extraUsageContext": "the ordinal form of the number five hundred",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "Flanders",
+    "dansk": "(grevskabet) Flandern",
+    "form": "properNoun",
+    "extraUsageContext": "historical county",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "flash drive",
+    "dansk": "usb-stik / USB-stik",
+    "form": "noun",
+    "extraUsageContext": "storage device",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "flash drive",
+    "dansk": "usb-nøgle / USB-nøgle",
+    "form": "noun",
+    "extraUsageContext": "storage device",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "flatulence",
+    "dansk": "fjært (old-fashioned)",
+    "form": "noun",
+    "extraUsageContext": "state of having gas in digestive system",
+    "notes": [
+      "medical",
+      "vulgar"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "for",
+    "dansk": "i",
+    "form": "preposition",
+    "extraUsageContext": "over (a period of time",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "frog",
+    "dansk": "frøæder  (frog eater)",
+    "form": "noun",
+    "extraUsageContext": "French person",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "Great Depression",
+    "dansk": "depressionen i trediverne 30s].",
+    "form": "properNoun",
+    "extraUsageContext": "economic collapse",
+    "notes": [
+      "definite form",
+      "lit. the depression in the [19"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "happily ever after",
+    "dansk": "og de levede lykkeligt til deres dages ende",
+    "form": "adverb",
+    "extraUsageContext": "happily until one's death",
+    "wordCount": 3,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "he/she",
+    "dansk": "han/hun",
+    "form": "pronoun",
+    "extraUsageContext": "he or she",
+    "notes": [
+      "uncommon, neologism"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "hesitate",
+    "dansk": "have/nære betænkeligheder",
+    "form": "verb",
+    "extraUsageContext": "to stop or pause respecting decision or action",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "high school",
+    "dansk": "gymnasium (ca.)",
+    "form": "noun",
+    "extraUsageContext": "secondary school",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "hook",
+    "dansk": "få til at bide på",
+    "form": "verb",
+    "extraUsageContext": "to catch with a hook",
+    "wordCount": 1,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "how are you",
+    "dansk": "hvordan har du det?",
+    "form": "phrase",
+    "extraUsageContext": "greeting",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how are you",
+    "dansk": "hvordan går det?",
+    "form": "phrase",
+    "extraUsageContext": "greeting",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how do I get to",
+    "dansk": "hvordan kommer jeg til ...?",
+    "form": "phrase",
+    "extraUsageContext": "how do I get to...?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how do I get to the airport",
+    "dansk": "hvordan kommer jeg til lufthavnen?",
+    "form": "phrase",
+    "extraUsageContext": "how do I get to the airport?",
+    "wordCount": 7,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how do I get to the bus station",
+    "dansk": "hvordan kommer jeg til busstationen?",
+    "form": "phrase",
+    "extraUsageContext": "how do I get to the bus station?",
+    "wordCount": 8,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how do I get to the train station",
+    "dansk": "hvordan kommer jeg til banegården?",
+    "form": "phrase",
+    "extraUsageContext": "how do I get to the train station?",
+    "wordCount": 8,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how do you pronounce this word",
+    "dansk": "hvordan udtales dette ord?",
+    "form": "phrase",
+    "extraUsageContext": "how do you pronounce this word?",
+    "wordCount": 6,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how do you pronounce this word",
+    "dansk": "hvordan udtaler man dette ord?",
+    "form": "phrase",
+    "extraUsageContext": "how do you pronounce this word?",
+    "wordCount": 6,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how do you say …… in English",
+    "dansk": "hvordan siger man …… på engelsk?",
+    "form": "phrase",
+    "extraUsageContext": "request for translation into English",
+    "wordCount": 7,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how do you spell this word",
+    "dansk": "hvordan staves det ord?",
+    "form": "phrase",
+    "extraUsageContext": "how do you spell this word?",
+    "wordCount": 6,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how many languages do you speak",
+    "dansk": "hvor mange sprog taler du?",
+    "form": "phrase",
+    "extraUsageContext": "how many languages do you speak?",
+    "wordCount": 6,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how much does it cost",
+    "dansk": "hvad koster det?",
+    "form": "phrase",
+    "extraUsageContext": "how much is it?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how much does it cost",
+    "dansk": "hvor meget koster det?",
+    "form": "phrase",
+    "extraUsageContext": "how much is it?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how much do you charge",
+    "dansk": "hvor meget koster det?",
+    "form": "phrase",
+    "extraUsageContext": "how much do you charge?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how much do you charge",
+    "dansk": "hvad koster det?",
+    "form": "phrase",
+    "extraUsageContext": "how much do you charge?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how's it going",
+    "dansk": "hvordan går det?",
+    "form": "phrase",
+    "extraUsageContext": "how's it going? - informal greetings",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how's the weather",
+    "dansk": "hvordan er vejret?",
+    "form": "phrase",
+    "extraUsageContext": "how's the weather?",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "I",
+    "dansk": "jeg",
+    "form": "pronoun",
+    "extraUsageContext": "personal pronoun",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "I beg your pardon",
+    "dansk": "Undskyld hvad?",
+    "form": "phrase",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "I came, I saw, I conquered",
+    "dansk": "jeg kom",
+    "form": "phrase",
+    "extraUsageContext": "used to indicate a total swift victory",
+    "wordCount": 6,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "I came, I saw, I conquered",
+    "dansk": "jeg så",
+    "form": "phrase",
+    "extraUsageContext": "used to indicate a total swift victory",
+    "wordCount": 6,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "I came, I saw, I conquered",
+    "dansk": "jeg sejrede",
+    "form": "phrase",
+    "extraUsageContext": "used to indicate a total swift victory",
+    "wordCount": 6,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "I can't find my ...",
+    "dansk": "jeg kan ikke finde min ...",
+    "form": "phrase",
+    "extraUsageContext": "I can't find my ...",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "I can't find my ...",
+    "dansk": "jeg kan ikke finde mit ...",
+    "form": "phrase",
+    "extraUsageContext": "I can't find my ...",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "I can't find my ...",
+    "dansk": "jeg kan ikke finde mine ...",
+    "form": "phrase",
+    "extraUsageContext": "I can't find my ...",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "i.e.",
+    "dansk": "dvs.",
+    "form": "adverb",
+    "extraUsageContext": "that is",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "improve",
+    "dansk": "forbedre (sig)",
+    "form": "verb",
+    "extraUsageContext": "to become better",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "I'm ... year",
+    "dansk": "jeg er ... år gammel",
+    "form": "phrase",
+    "extraUsageContext": "s; I am ... year(s",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "I need ...",
+    "dansk": "jeg behøver ...",
+    "form": "phrase",
+    "extraUsageContext": "I need ... (something",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "I need ...",
+    "dansk": "jeg har brug for ...",
+    "form": "phrase",
+    "extraUsageContext": "I need ... (something",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "insertion",
+    "dansk": "(of coins) indkast",
+    "form": "noun",
+    "extraUsageContext": "act of inserting, or something inserted",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "is anyone here a doctor",
+    "dansk": "er der en læge til stede?",
+    "form": "phrase",
+    "extraUsageContext": "is anyone here a doctor?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "is it going to rain",
+    "dansk": "kommer det til at regne?",
+    "form": "phrase",
+    "extraUsageContext": "is it going to rain",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "island",
+    "dansk": "ø",
+    "form": "noun",
+    "extraUsageContext": "area of land completely surrounded by water",
+    "notes": [
+      "of sand",
+      "of rock"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "island",
+    "dansk": "ø",
+    "form": "noun",
+    "extraUsageContext": "entity surrounded by other entities that are very different from itself",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "isn't it so",
+    "dansk": "ikke sandt?",
+    "form": "phrase",
+    "extraUsageContext": "isn't it so?",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "it's all Greek to me",
+    "dansk": "det er græsk for mig (it is Greek to me)",
+    "form": "phrase",
+    "extraUsageContext": "I don't understand any of this",
+    "wordCount": 5,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "I was born in ...",
+    "dansk": "jeg er født i ...",
+    "form": "phrase",
+    "extraUsageContext": "I was born in ... (year",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "I was born in ...",
+    "dansk": "jeg er født i ...",
+    "form": "phrase",
+    "extraUsageContext": "I was born in ... (place name",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "John",
+    "dansk": "3 Joh",
+    "form": "properNoun",
+    "extraUsageContext": "one of the epistles of John",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "law of conservation of energy",
+    "dansk": "energibevarelse",
+    "form": "noun",
+    "extraUsageContext": "total energy remains constant",
+    "wordCount": 5,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "lend",
+    "dansk": "låne (ud)",
+    "form": "verb",
+    "extraUsageContext": "to allow to be used temporarily",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "lift",
+    "dansk": "ophæve (ban",
+    "form": "verb",
+    "extraUsageContext": "to raise or rise",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "lights, camera, action",
+    "dansk": "action!",
+    "form": "phrase",
+    "extraUsageContext": "traditional cue at a beginning of a take",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "like a bull in a china shop",
+    "dansk": "som en elefant i en porcelænsbutik som en elefant i en glasbutik",
+    "form": "adjective",
+    "extraUsageContext": "clumsy, aggressive",
+    "wordCount": 7,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "Lord",
+    "dansk": "Herre  (Herren )",
+    "form": "properNoun",
+    "extraUsageContext": "God",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "Lord",
+    "dansk": "Herre  (Herren )",
+    "form": "properNoun",
+    "extraUsageContext": "Jesus",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "make a mountain out of a molehill",
+    "dansk": "gøre en myg til en elefant (to turn a mosquito into an elephant)",
+    "form": "verb",
+    "extraUsageContext": "to treat a problem as greater than it is",
+    "wordCount": 7,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "manacle",
+    "dansk": "sætte håndjern på (nogen)",
+    "form": "verb",
+    "extraUsageContext": "to confine with manacles",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "May Day",
+    "dansk": "1. maj",
+    "form": "noun",
+    "extraUsageContext": "workers' holiday",
+    "notes": [
+      "formal, very rare"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "metre per second",
+    "dansk": "meter pr. sekund",
+    "form": "noun",
+    "extraUsageContext": "SI unit for measuring speed",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "Miss",
+    "dansk": "frøken (Frk.)",
+    "form": "noun",
+    "extraUsageContext": "title",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "MP3 player",
+    "dansk": "mp3-afspiller",
+    "form": "noun",
+    "extraUsageContext": "electronic device for playing digital audio files in the MP3 format",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "Mrs",
+    "dansk": "fr.",
+    "form": "noun",
+    "extraUsageContext": "title before woman's name",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "multiplication table",
+    "dansk": "lille tabel  (small table)",
+    "form": "noun",
+    "extraUsageContext": "in arithmetic",
+    "notes": [
+      "table from 1x1 to 10x10",
+      "table from 1x1 to 20x20"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "multiplication table",
+    "dansk": "store tabel  (great table)",
+    "form": "noun",
+    "extraUsageContext": "in arithmetic",
+    "notes": [
+      "table from 1x1 to 10x10",
+      "table from 1x1 to 20x20"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "my name is",
+    "dansk": "jeg hedder...",
+    "form": "phrase",
+    "extraUsageContext": "a way to identify oneself",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "namesake",
+    "dansk": "navnebroder /navnebror",
+    "form": "noun",
+    "extraUsageContext": "person with the same name as another",
+    "notes": [
+      "archaic",
+      "male",
+      "female"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "No.",
+    "dansk": "nr.",
+    "form": "noun",
+    "extraUsageContext": "abbreviation of \"number\"",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "Ólavsøka",
+    "dansk": "Olaj",
+    "form": "properNoun",
+    "extraUsageContext": "Ólavsøka",
+    "wordCount": 1,
+    "flags": [
+      "potentially-reversed"
+    ]
+  },
+  {
+    "engelsk": "OK",
+    "dansk": "o.k.",
+    "form": "noun",
+    "extraUsageContext": "endorsement; approval",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "once",
+    "dansk": "så snart (som)",
+    "form": "conjunction",
+    "extraUsageContext": "as soon as",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "on your mark, get set, go",
+    "dansk": "start",
+    "form": "phrase",
+    "extraUsageContext": "three-command start of racing",
+    "wordCount": 6,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "out of the frying pan, into the fire",
+    "dansk": "fra asken i ilden",
+    "form": "preposition",
+    "extraUsageContext": "get from an already bad situation to a worse one",
+    "wordCount": 8,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "overspeak",
+    "dansk": "tale over (sig)",
+    "form": "verb",
+    "extraUsageContext": "say too much",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "p.",
+    "dansk": "s.",
+    "form": "noun",
+    "extraUsageContext": "page",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "partner",
+    "dansk": "slå sig sammen (become partners)",
+    "form": "verb",
+    "extraUsageContext": "To make or be partner",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "PEBCAK",
+    "dansk": "fejl 40",
+    "form": "noun",
+    "extraUsageContext": "problem experienced with a user's computer that is due to user error",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "please speak more slowly",
+    "dansk": "har du mulighed for at tale lidt langsommere?",
+    "form": "phrase",
+    "extraUsageContext": "please speak more slowly",
+    "notes": [
+      "informal"
+    ],
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "polish",
+    "dansk": "pudse (make shiny)",
+    "form": "verb",
+    "extraUsageContext": "make a surface smooth or shiny",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "polish",
+    "dansk": "glatte (make smooth)",
+    "form": "verb",
+    "extraUsageContext": "make a surface smooth or shiny",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "how old are you",
+    "dansk": "hvor gammel er du?",
+    "form": "phrase",
+    "extraUsageContext": "what is your age in years",
+    "wordCount": 4,
+    "toxicScore": 0.5272960066795349,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "property",
+    "dansk": "egenskab  (property often used untranslated)",
+    "form": "noun",
+    "extraUsageContext": "computing: an editable parameter associated with an application, or its value",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift",
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "pros and cons",
+    "dansk": "fordele & ulemper",
+    "form": "noun",
+    "extraUsageContext": "for and against",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "rim",
+    "dansk": "indfatning (for any shape)",
+    "form": "noun",
+    "extraUsageContext": "edge around something",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "rim",
+    "dansk": "fælg (only for wheels)",
+    "form": "noun",
+    "extraUsageContext": "edge around something",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "river",
+    "dansk": "å",
+    "form": "noun",
+    "extraUsageContext": "large stream which drains a landmass",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "RSVP",
+    "dansk": "s.u.",
+    "form": "verb",
+    "extraUsageContext": "initialism meaning reply please",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "Russian SFSR",
+    "dansk": "Russiske Socialistiske Føderative Sovjetrepublik",
+    "form": "properNoun",
+    "extraUsageContext": "Russian Soviet Federative Socialist Republic",
+    "wordCount": 2,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "Saint Bernard",
+    "dansk": "Skt. Bernardhund",
+    "form": "noun",
+    "extraUsageContext": "Saint Bernard breed of Dog",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "sclerosis",
+    "dansk": "sclerose  (informal)",
+    "form": "noun",
+    "extraUsageContext": "abnormal hardening of body tissues",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "secede",
+    "dansk": "løsrive (sig)",
+    "form": "verb",
+    "extraUsageContext": "To split from or to withdraw from membership of a political union, an alliance or an organisation",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "sexagenarian",
+    "dansk": "60-åring",
+    "form": "noun",
+    "extraUsageContext": "a person who is between the ages of 60 and 69",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "silencer",
+    "dansk": "(firearms) lyddæmper",
+    "form": "noun",
+    "extraUsageContext": "attachment",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "sixty-nine",
+    "dansk": "69'er",
+    "form": "noun",
+    "extraUsageContext": "sex position",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "snail",
+    "dansk": "snegl  (this can also mean slug",
+    "form": "noun",
+    "extraUsageContext": "any animal of the class Gastropoda having a shell",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "snail",
+    "dansk": "so snail in Danish is more fully snegl med skal)",
+    "form": "noun",
+    "extraUsageContext": "any animal of the class Gastropoda having a shell",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift",
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "sound",
+    "dansk": "dykke (ned)",
+    "form": "noun",
+    "extraUsageContext": "to dive downwards, of a whale",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "steep",
+    "dansk": "trække (tea)",
+    "form": "verb",
+    "extraUsageContext": "to make tea/coffee",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "stone",
+    "dansk": "stok (døv)",
+    "form": "adverb",
+    "extraUsageContext": "absolutely, completely",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "stream",
+    "dansk": "å",
+    "form": "noun",
+    "extraUsageContext": "small river",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "St. Stephen's Day",
+    "dansk": "2. juledag",
+    "form": "properNoun",
+    "extraUsageContext": "Christian holiday commemorating Saint Stephen",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "swear like a trooper",
+    "dansk": "bande som en tyrk (like a Turk)",
+    "form": "verb",
+    "wordCount": 4,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "that is",
+    "dansk": "dvs.",
+    "form": "adverb",
+    "extraUsageContext": "in other words",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "tiddlywinks",
+    "dansk": "loppespil(l)",
+    "form": "noun",
+    "extraUsageContext": "game in which the objective is to shoot winks into a cup",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "tissue",
+    "dansk": "(handkerchief) lommetørklæde",
+    "form": "noun",
+    "extraUsageContext": "sheet of absorbent paper",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "topsy-turvy",
+    "dansk": "på hovedet (on the head)",
+    "form": "adjective",
+    "extraUsageContext": "backwards or upside down",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "Transcaucasian SFSR",
+    "dansk": "Transkaukasiske Socialistiske Føderative Sovjetrepublik",
+    "form": "properNoun",
+    "extraUsageContext": "Soviet republic",
+    "wordCount": 2,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "ultimately",
+    "dansk": "når alt kommer til alt",
+    "form": "adverb",
+    "extraUsageContext": "indicating the most important action",
+    "wordCount": 1,
+    "flags": [
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "unbeknown",
+    "dansk": "uden ngns vidende (without sb's knowledge)",
+    "form": "adjective",
+    "extraUsageContext": "no beknown",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift",
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "video game",
+    "dansk": "konsolspil  . videospil",
+    "form": "noun",
+    "extraUsageContext": "game controlled by software",
+    "notes": [
+      "computer",
+      "console",
+      "console, rare"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "Washington, D.C.",
+    "dansk": "Washington D.C.",
+    "form": "properNoun",
+    "extraUsageContext": "federal capital of the United States of America",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what are you doing",
+    "dansk": "hvad gør du?",
+    "form": "phrase",
+    "extraUsageContext": "what are you doing",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what is that",
+    "dansk": "hvad er det?",
+    "form": "phrase",
+    "extraUsageContext": "what is that?",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what is your name",
+    "dansk": "hvad hedder du?",
+    "form": "phrase",
+    "extraUsageContext": "what is your name?",
+    "notes": [
+      "formal",
+      "rare, very formal"
+    ],
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what is your name",
+    "dansk": "hvad hedder De?",
+    "form": "phrase",
+    "extraUsageContext": "what is your name?",
+    "notes": [
+      "formal",
+      "rare, very formal"
+    ],
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what languages do you speak",
+    "dansk": "hvilke sprog taler du?",
+    "form": "phrase",
+    "extraUsageContext": "what languages do you speak?",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what's new",
+    "dansk": "noget nyt?",
+    "form": "phrase",
+    "extraUsageContext": "informal greeting asking what has happened recently",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what's on your mind",
+    "dansk": "hvad tænker du på?",
+    "form": "phrase",
+    "extraUsageContext": "what is bothering you?",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what's up",
+    "dansk": "hvad så?",
+    "form": "phrase",
+    "extraUsageContext": "How are you?",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what's up",
+    "dansk": "hva' så?",
+    "form": "phrase",
+    "extraUsageContext": "How are you?",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what time is it",
+    "dansk": "hvad er klokken?",
+    "form": "phrase",
+    "extraUsageContext": "what is the time of day?",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where are we",
+    "dansk": "hvor er vi?",
+    "form": "phrase",
+    "extraUsageContext": "where are we",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where are we going",
+    "dansk": "hvor går vi?",
+    "form": "phrase",
+    "extraUsageContext": "where are we going?",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where are you",
+    "dansk": "hvor er du?",
+    "form": "phrase",
+    "extraUsageContext": "where are you?",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where are you from",
+    "dansk": "hvor er du fra?",
+    "form": "phrase",
+    "extraUsageContext": "in which country or region were you born or raised",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where are you from",
+    "dansk": "hvor kommer du fra?",
+    "form": "phrase",
+    "extraUsageContext": "in which country or region were you born or raised",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where does this bus go",
+    "dansk": "hvor kører denne bus hen?",
+    "form": "phrase",
+    "extraUsageContext": "where does this bus go",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where does this train go",
+    "dansk": "hvor kører dette tog hen?",
+    "form": "phrase",
+    "extraUsageContext": "where does this train go",
+    "wordCount": 5,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where do you live",
+    "dansk": "hvor bor du?",
+    "form": "phrase",
+    "extraUsageContext": "where do you live?",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where is the toilet",
+    "dansk": "hvor er toilettet?",
+    "form": "phrase",
+    "extraUsageContext": "where is the toilet?",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "wing",
+    "dansk": "vinge  (aircraft wing) flyvinge",
+    "form": "noun",
+    "extraUsageContext": "part of an aircraft",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "World War I",
+    "dansk": "1. verdenskrig",
+    "form": "properNoun",
+    "extraUsageContext": "war",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "World War II",
+    "dansk": "2. verdenskrig",
+    "form": "properNoun",
+    "extraUsageContext": "war from 1939 to 1945",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "World War III",
+    "dansk": "3. verdenskrig",
+    "form": "properNoun",
+    "extraUsageContext": "hypothetical world war (World War III",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "WRT",
+    "dansk": "mht.",
+    "form": "preposition",
+    "extraUsageContext": "abbreviated forms of prepositions denoting with respect to",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "WRT",
+    "dansk": "mht.",
+    "form": "preposition",
+    "extraUsageContext": "abbreviated forms of prepositions denoting with regard to",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "y'all",
+    "dansk": "I",
+    "form": "pronoun",
+    "extraUsageContext": "plural of you",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "you",
+    "dansk": "I",
+    "form": "pronoun",
+    "extraUsageContext": "subject pronoun: the group being addressed",
+    "notes": [
+      "familiar",
+      "polite"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "you",
+    "dansk": "din /dit /I",
+    "form": "determiner",
+    "extraUsageContext": "used before epithets for emphasis",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "you and whose army",
+    "dansk": "dig og hvilken hær?",
+    "form": "phrase",
+    "extraUsageContext": "you can't do all that on your own",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "10th",
+    "dansk": "10.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of tenth, see also: tenth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "12th",
+    "dansk": "12.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of twelfth, see also: twelfth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "14th",
+    "dansk": "14.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of fourteenth, see also: fourteenth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "15th",
+    "dansk": "15.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of fifteenth, see also: fifteenth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "2nd",
+    "dansk": "2.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of second, see also: second",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "3rd",
+    "dansk": "3.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of third, see also: third",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "4th",
+    "dansk": "4.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of fourth, see also: fourth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "5th",
+    "dansk": "5.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of fifth, see also: fifth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "6th",
+    "dansk": "6.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of sixth, see also: sixth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "7th",
+    "dansk": "7.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of seventh, see also: seventh",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "8th",
+    "dansk": "8.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of eighth, see also: eighth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "90s",
+    "dansk": "90'erne",
+    "form": "noun",
+    "extraUsageContext": "the decade of the 1990s, see also: nineties",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "9/11",
+    "dansk": "11. september",
+    "form": "properNoun",
+    "extraUsageContext": "attack",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "9th",
+    "dansk": "9.",
+    "form": "adjective",
+    "extraUsageContext": "abbreviation of ninth, see also: ninth",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "airfoil",
+    "dansk": "vinge  (aircraft wing) flyvinge",
+    "form": "noun",
+    "extraUsageContext": "wing of an aircraft",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "ca",
+    "dansk": "ca.",
+    "form": "adverb",
+    "extraUsageContext": "abbreviation of circa",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "elector",
+    "dansk": "kurfyrste  (kurfyrstinde  )",
+    "form": "noun",
+    "extraUsageContext": "in the Holy Roman Empire, a participant in the election of the emperor",
+    "notes": [
+      "Elector's wife"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters",
+      "word-count-drift"
+    ]
+  },
+  {
+    "engelsk": "elevator",
+    "dansk": "ophæve (ban",
+    "form": "verb",
+    "extraUsageContext": "permanent construction",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "emissions trading",
+    "dansk": "CO2-handel",
+    "form": "noun",
+    "extraUsageContext": "carbon emissions trading",
+    "notes": [
+      "trade",
+      "the quota itself"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "emissions trading",
+    "dansk": "CO2-kvote",
+    "form": "noun",
+    "extraUsageContext": "carbon emissions trading",
+    "notes": [
+      "trade",
+      "the quota itself"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "First World War",
+    "dansk": "1. verdenskrig",
+    "form": "properNoun",
+    "extraUsageContext": "World War I",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "flatuency",
+    "dansk": "fjært (old-fashioned)",
+    "form": "noun",
+    "extraUsageContext": "flatulence",
+    "notes": [
+      "medical",
+      "vulgar"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "flow",
+    "dansk": "å",
+    "form": "noun",
+    "extraUsageContext": "to flow",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "how much is it",
+    "dansk": "hvad koster det?",
+    "form": "phrase",
+    "extraUsageContext": "how much does it cost",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "how much is it",
+    "dansk": "hvor meget koster det?",
+    "form": "phrase",
+    "extraUsageContext": "how much does it cost",
+    "wordCount": 4,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "isle",
+    "dansk": "ø",
+    "form": "noun",
+    "extraUsageContext": "isle",
+    "notes": [
+      "of sand",
+      "of rock"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "isle",
+    "dansk": "ø",
+    "form": "noun",
+    "extraUsageContext": "isle",
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "Labor Day",
+    "dansk": "1. maj",
+    "form": "noun",
+    "extraUsageContext": "holiday on May 1st",
+    "notes": [
+      "formal, very rare"
+    ],
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "lavatory",
+    "dansk": "(kitchen sink) køkkenvask",
+    "form": "noun",
+    "extraUsageContext": "sink",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "memory stick",
+    "dansk": "usb-stik / USB-stik",
+    "form": "noun",
+    "extraUsageContext": "portable solid-state flash memory storage device",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "memory stick",
+    "dansk": "usb-nøgle / USB-nøgle",
+    "form": "noun",
+    "extraUsageContext": "portable solid-state flash memory storage device",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "miss",
+    "dansk": "frøken (Frk.)",
+    "form": "noun",
+    "extraUsageContext": "Miss",
+    "wordCount": 1,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "on board",
+    "dansk": "om bord (på)",
+    "form": "preposition",
+    "extraUsageContext": "aboard",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "Øresund",
+    "dansk": "Sundet",
+    "form": "properNoun",
+    "extraUsageContext": "strait",
+    "notes": [
+      "definite form; colloquial"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "potentially-reversed"
+    ]
+  },
+  {
+    "engelsk": "pen drive",
+    "dansk": "usb-stik / USB-stik",
+    "form": "noun",
+    "extraUsageContext": "flash drive",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "pen drive",
+    "dansk": "usb-nøgle / USB-nøgle",
+    "form": "noun",
+    "extraUsageContext": "flash drive",
+    "wordCount": 2,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "Second World War",
+    "dansk": "2. verdenskrig",
+    "form": "properNoun",
+    "extraUsageContext": "World War II",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "Soviet Russia",
+    "dansk": "Russiske Socialistiske Føderative Sovjetrepublik",
+    "form": "properNoun",
+    "extraUsageContext": "Russian Soviet Federative Socialist Republic",
+    "wordCount": 2,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "swear like a pagan",
+    "dansk": "bande som en tyrk (like a Turk)",
+    "form": "verb",
+    "extraUsageContext": "swear very rudely",
+    "wordCount": 4,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "swear like a sailor",
+    "dansk": "bande som en tyrk (like a Turk)",
+    "form": "verb",
+    "extraUsageContext": "swear very rudely",
+    "wordCount": 4,
+    "flags": [
+      "contains-delimiters"
+    ]
+  },
+  {
+    "engelsk": "Third World War",
+    "dansk": "3. verdenskrig",
+    "form": "properNoun",
+    "extraUsageContext": "World War III",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "through",
+    "dansk": "i",
+    "form": "preposition",
+    "extraUsageContext": "to or up to, until (and including",
+    "notes": [
+      "the exponent is in the ordinal form"
+    ],
+    "wordCount": 1,
+    "flags": [
+      "length-mismatch"
+    ]
+  },
+  {
+    "engelsk": "what's good",
+    "dansk": "hvad så?",
+    "form": "phrase",
+    "extraUsageContext": "what's up",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "what's good",
+    "dansk": "hva' så?",
+    "form": "phrase",
+    "extraUsageContext": "what's up",
+    "wordCount": 2,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "where you at",
+    "dansk": "hvor er du?",
+    "form": "phrase",
+    "extraUsageContext": "where are you",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "World War One",
+    "dansk": "1. verdenskrig",
+    "form": "properNoun",
+    "extraUsageContext": "World War I",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "World War Two",
+    "dansk": "2. verdenskrig",
+    "form": "properNoun",
+    "extraUsageContext": "World War II",
+    "wordCount": 3,
+    "flags": [
+      "invalid-chars"
+    ]
+  },
+  {
+    "engelsk": "WW1",
+    "dansk": "1. verdenskrig",
+    "form": "properNoun",
+    "extraUsageContext": "World War I",
+    "wordCount": 1,
+    "flags": [
+      "invalid-chars"
+    ]
+  }
+]
